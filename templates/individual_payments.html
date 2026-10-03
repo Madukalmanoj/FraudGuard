@@ -1,0 +1,754 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h4 class="fw-bold mb-1"><i class="fas fa-user-check text-success me-2"></i>Individual Payments & Statement Auditor</h4>
+        <small class="text-muted">Simulate single transactions or upload PDF/Text bank statements evaluated against personalized student spending baselines (₹)</small>
+    </div>
+    <a href="#benchmarks" class="btn btn-outline-green btn-sm">
+        <i class="fas fa-chart-pie me-1"></i> Comparative Benchmarks (₹5,000)
+    </a>
+</div>
+
+<!-- Step 1: Select Individual Student Profile -->
+<div class="mb-4">
+    <div class="d-flex align-items-center mb-2">
+        <span class="badge bg-success bg-opacity-10 text-success rounded-circle p-2 me-2">1</span>
+        <span class="fw-bold text-dark" style="font-size: 0.95rem;">Select Student Account to Audit:</span>
+    </div>
+
+    <div class="row g-3">
+        {% for c in customers %}
+        <div class="col-lg-3 col-md-6">
+            <div class="card h-100 shadow-sm cursor-pointer person-card {{ 'border-success bg-success bg-opacity-10' if selected_customer == c.id else 'border-light' }}" 
+                 onclick="selectPerson('{{ c.id }}', '{{ c.name }}', '{{ c.roll_no }}', '{{ c.mean_spending }}', '{{ c.var_95 }}', '{{ c.var_99 }}', '{{ c.account_no }}')"
+                 id="card-{{ c.id }}"
+                 style="cursor: pointer; transition: all 0.2s ease; border-width: 2px;">
+                <div class="card-body p-3">
+                    <div class="d-flex justify-content-between align-items-start mb-2">
+                        <div class="d-flex align-items-center">
+                            <div class="stat-icon me-2 mb-0" style="width: 38px; height: 38px; background: #ffffff; border-radius: 8px;">
+                                <i class="fas fa-{{ c.icon }} text-success"></i>
+                            </div>
+                            <div>
+                                <h6 class="fw-bold mb-0 text-dark" style="font-size: 0.92rem;">{{ c.name }}</h6>
+                                <span class="badge bg-light text-secondary border font-monospace" style="font-size: 0.72rem;">{{ c.roll_no }}</span>
+                            </div>
+                        </div>
+                        <input type="radio" name="person_selector" value="{{ c.id }}" id="radio-{{ c.id }}" 
+                               {% if selected_customer == c.id %}checked{% endif %} class="form-check-input mt-1">
+                    </div>
+                    <div class="d-flex justify-content-between text-muted small mt-2 pt-2 border-top" style="font-size: 0.76rem;">
+                        <span>Avg: <strong class="text-dark">₹{{ "{:,.0f}".format(c.mean_spending) }}</strong></span>
+                        <span>95% VaR: <strong class="text-warning">₹{{ "{:,.0f}".format(c.var_95) }}</strong></span>
+                        <span>99% VaR: <strong class="text-danger">₹{{ "{:,.0f}".format(c.var_99) }}</strong></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- Step 2 & 3: Input Form & Single Transaction Result Row -->
+<div class="row justify-content-center mb-4">
+    <!-- Step 2: Form Column with Single vs Statement Tabs -->
+    <div class="col-lg-7">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header bg-white py-2 px-3 d-flex flex-wrap justify-content-between align-items-center gap-2">
+                <ul class="nav nav-pills" id="modePills" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link {{ 'active' if active_subtab != 'statement' else '' }} btn-sm fw-bold px-3 py-1" 
+                                id="pills-single-tab" data-bs-toggle="pill" data-bs-target="#pills-single" type="button" role="tab">
+                            <i class="fas fa-credit-card me-1"></i> Single Payment
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link {{ 'active' if active_subtab == 'statement' else '' }} btn-sm fw-bold px-3 py-1" 
+                                id="pills-statement-tab" data-bs-toggle="pill" data-bs-target="#pills-statement" type="button" role="tab">
+                            <i class="fas fa-file-invoice-dollar me-1"></i> Upload Statement (PDF / Text)
+                        </button>
+                    </li>
+                </ul>
+                <span class="badge bg-light text-secondary border font-monospace" id="accountBadge">Roll: {{ customers[0].roll_no }}</span>
+            </div>
+            
+            <div class="card-body p-4">
+                <div class="tab-content" id="modePillsContent">
+                    <!-- Pane A: Single Payment Mode -->
+                    <div class="tab-pane fade {{ 'show active' if active_subtab != 'statement' else '' }}" id="pills-single" role="tabpanel">
+                        <div class="mb-3">
+                            <h6 class="fw-bold text-dark mb-1" id="singleTitle">Payment Simulation for {{ customers[0].name }}</h6>
+                            <small class="text-muted" id="amountHelperText">Normal baseline for this account is around ₹{{ "{:,.0f}".format(customers[0].mean_spending) }} per transaction.</small>
+                        </div>
+
+                        <form method="POST" action="{{ url_for('individual_payments') }}">
+                            <input type="hidden" name="payment_mode" value="single">
+                            <input type="hidden" id="customer_id_single" name="customer_id" value="{{ selected_customer or 'cust_pranavi' }}">
+
+                            <!-- Amount in INR -->
+                            <div class="mb-3">
+                                <label for="amount" class="form-label fw-bold">Payment Amount (INR ₹)</label>
+                                <div class="input-group">
+                                    <span class="input-group-text bg-light text-dark fw-bold fs-5">₹</span>
+                                    <input type="number" class="form-control form-control-lg fw-bold" id="amount" name="amount" 
+                                           placeholder="0.00" step="1" min="1" required>
+                                </div>
+                            </div>
+
+                            <div class="row g-3 mb-3">
+                                <div class="col-md-6">
+                                    <label for="merchant" class="form-label">Merchant Name</label>
+                                    <input type="text" class="form-control" id="merchant" name="merchant" 
+                                           placeholder="e.g. Campus Canteen, Amazon" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="location" class="form-label">Location</label>
+                                    <input type="text" class="form-control" id="location" name="location" 
+                                           placeholder="e.g. Hyderabad, IN" required>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <label for="tx_type" class="form-label">Payment Channel</label>
+                                <select class="form-select" id="tx_type" name="tx_type" required>
+                                    <option value="pos_payment" selected>UPI Payment (GooglePay / PhonePe / QR)</option>
+                                    <option value="online_purchase">E-Commerce Web Checkout (Amazon / Flipkart)</option>
+                                    <option value="atm_withdrawal">ATM Cash Withdrawal</option>
+                                    <option value="wire_transfer">NetBanking / IMPS / NEFT Transfer</option>
+                                    <option value="international">Cross-Border / International Card Swipe</option>
+                                </select>
+                            </div>
+
+                            <!-- 1-Click Demo Presets -->
+                            <div class="p-3 bg-light rounded-3 mb-4 border">
+                                <div class="d-flex align-items-center mb-2">
+                                    <i class="fas fa-magic text-success me-2"></i>
+                                    <span class="fw-semibold text-secondary" style="font-size: 0.85rem;">One-Click Quick Scenarios:</span>
+                                </div>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <button type="button" class="btn btn-sm btn-outline-success rounded-pill fw-semibold px-2 py-1" onclick="fillScenario('pranavi_routine')">
+                                        ✅ M. Pranavi ₹8,500 (Safe)
+                                    </button>
+                                    <button type="button" class="btn btn-sm btn-outline-danger rounded-pill fw-semibold px-2 py-1" onclick="fillScenario('pranavi_anomaly')">
+                                        🚨 M. Pranavi ₹85,000 (Spike Alert)
+                                    </button>
+                                    <button type="button" class="btn btn-sm btn-outline-success rounded-pill fw-semibold px-2 py-1" onclick="fillScenario('janakiram_routine')">
+                                        ✅ M. Janaki Ram ₹4,800 (Safe)
+                                    </button>
+                                    <button type="button" class="btn btn-sm btn-outline-danger rounded-pill fw-semibold px-2 py-1" onclick="fillScenario('naresh_fraud')">
+                                        🚨 K. Naresh ₹15,000 (Hostel Wire Alert)
+                                    </button>
+                                </div>
+                            </div>
+
+                            <button type="submit" class="btn btn-green btn-lg w-100 py-3 fw-bold">
+                                <i class="fas fa-shield-alt me-2"></i>Evaluate Single Payment
+                            </button>
+                        </form>
+                    </div>
+
+                    <!-- Pane B: Statement / PDF Upload Mode -->
+                    <div class="tab-pane fade {{ 'show active' if active_subtab == 'statement' else '' }}" id="pills-statement" role="tabpanel">
+                        <div class="mb-3">
+                            <h6 class="fw-bold text-dark mb-1" id="statementTitle">Audit Statement for {{ customers[0].name }}</h6>
+                            <small class="text-muted">Upload a bank statement file (PDF, TXT, CSV, JSON) or paste raw transaction records to evaluate against their personal VaR baseline.</small>
+                        </div>
+
+                        <!-- Statement Sub-Tabs: Upload vs Paste -->
+                        <ul class="nav nav-tabs mb-3" id="statementInputTabs" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active btn-sm text-dark fw-bold" id="file-tab" data-bs-toggle="tab" data-bs-target="#tab-file" type="button" role="tab">
+                                    <i class="fas fa-file-upload text-success me-1"></i> Upload File (.pdf, .txt, .csv, .json)
+                                </button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link btn-sm text-dark fw-bold" id="paste-tab" data-bs-toggle="tab" data-bs-target="#tab-paste" type="button" role="tab">
+                                    <i class="fas fa-paste text-success me-1"></i> Paste Statement Text
+                                </button>
+                            </li>
+                        </ul>
+
+                        <form method="POST" action="{{ url_for('individual_payments') }}" enctype="multipart/form-data" id="statementAuditForm">
+                            <input type="hidden" name="payment_mode" value="statement">
+                            <input type="hidden" id="customer_id_statement" name="customer_id" value="{{ selected_customer or 'cust_pranavi' }}">
+                            
+                            <div class="tab-content" id="statementInputTabContent">
+                                <!-- Sub-tab 1: File Upload -->
+                                <div class="tab-pane fade show active" id="tab-file" role="tabpanel">
+                                    <div class="p-4 border-2 border-dashed rounded-3 text-center mb-3" style="border: 2px dashed #cbd5e1; background-color: #f8fafc;">
+                                        <i class="fas fa-file-pdf fa-2x text-danger mb-2"></i>
+                                        <h6 class="fw-bold text-dark mb-1" style="font-size: 0.95rem;">Select Statement File</h6>
+                                        <p class="text-muted small mb-2">Supports PDF Statements, Text Logs, CSV, or JSON</p>
+                                        <div class="col-md-9 mx-auto">
+                                            <input class="form-control form-control-sm" type="file" id="document_file" name="document_file" 
+                                                   accept=".pdf,.txt,.csv,.json,.log">
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex flex-wrap justify-content-between align-items-center small text-muted mb-3 px-1">
+                                        <span><i class="fas fa-check-circle text-success me-1"></i> Ready test file: <code>test_bank_statement.pdf</code></span>
+                                        <a href="{{ url_for('download_sample', filename='test_bank_statement.pdf') }}" class="text-decoration-none fw-semibold text-success">
+                                            <i class="fas fa-download me-1"></i> Download test_bank_statement.pdf
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <!-- Sub-tab 2: Paste Text -->
+                                <div class="tab-pane fade" id="tab-paste" role="tabpanel">
+                                    <div class="mb-3">
+                                        <label for="raw_text" class="form-label small fw-bold text-dark">Paste SMS Alerts or Transaction Text:</label>
+                                        <textarea class="form-control font-monospace" id="raw_text" name="raw_text" rows="6" 
+                                                  placeholder="2026-10-01 Campus Canteen UPI Rs 120.00
+2026-10-02 Metro Smart Card Rs 250.00
+2026-10-03 Overseas Luxury Watches Dubai Rs 3000.00 International" style="font-size: 0.82rem;"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Student Specific Quick Sample Loader -->
+                            <div class="p-2 bg-light rounded-3 mb-3 border d-flex justify-content-between align-items-center">
+                                <span class="small text-secondary fw-semibold">
+                                    <i class="fas fa-magic text-success me-1"></i> Quick Demo for Selected Student:
+                                </span>
+                                <button type="button" class="btn btn-sm btn-outline-success fw-semibold" id="dynamicSampleBtn" onclick="loadStudentSample()">
+                                    <i class="fas fa-file-alt me-1"></i> Load M. Pranavi Sample Statement
+                                </button>
+                            </div>
+
+                            <div class="form-check form-switch mb-3">
+                                <input class="form-check-input" type="checkbox" id="save_to_db" name="save_to_db" value="1" checked>
+                                <label class="form-check-label small fw-semibold text-secondary" for="save_to_db">
+                                    Log transactions and trigger live security alerts in database
+                                </label>
+                            </div>
+
+                            <button type="submit" class="btn btn-green btn-lg w-100 py-3 fw-bold">
+                                <i class="fas fa-search-dollar me-2"></i>Audit Statement & Detect Fraud
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Step 3: Single Transaction Result / Guide Panel -->
+    <div class="col-lg-5">
+        {% if result %}
+        <div class="card mb-4 border-2 {{ 'border-danger' if result.risk_level == 'HIGH' else 'border-warning' if result.risk_level == 'MEDIUM' else 'border-success' }} shadow-sm">
+            <div class="card-header {{ 'bg-danger text-white' if result.risk_level == 'HIGH' else 'bg-warning text-dark' if result.risk_level == 'MEDIUM' else 'bg-success text-white' }} py-3">
+                <div class="d-flex align-items-center">
+                    {% if result.risk_level == 'HIGH' %}
+                        <i class="fas fa-shield-virus fa-2x me-3"></i>
+                        <div>
+                            <h6 class="mb-0 fw-bold">HIGH RISK ALERT TRIGGERED</h6>
+                            <small>Critical individual exposure or fraud pattern</small>
+                        </div>
+                    {% elif result.risk_level == 'MEDIUM' %}
+                        <i class="fas fa-exclamation-triangle fa-2x me-3"></i>
+                        <div>
+                            <h6 class="mb-0 fw-bold">SUSPICIOUS TRANSACTION</h6>
+                            <small>Exceeds normal individual spending profile</small>
+                        </div>
+                    {% else %}
+                        <i class="fas fa-check-circle fa-2x me-3"></i>
+                        <div>
+                            <h6 class="mb-0 fw-bold">TRANSACTION APPROVED</h6>
+                            <small>Within individual's safe spending boundaries</small>
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+            
+            <div class="card-body p-4">
+                <div class="text-center pb-3 border-bottom mb-3">
+                    <span class="badge bg-light text-dark border mb-1">
+                        <i class="fas fa-user-graduate me-1 text-success"></i>{{ result.customer_name }} ({{ result.customer_id }})
+                    </span>
+                    <h2 class="fw-bold mb-0 text-dark">₹{{ "{:,.2f}".format(result.amount) }}</h2>
+                    <small class="text-muted"><i class="fas fa-store me-1"></i>{{ result.merchant }}</small>
+                </div>
+
+                <div class="mb-3 p-3 bg-light rounded-3 border">
+                    <div class="d-flex justify-content-between align-items-center mb-1">
+                        <span class="small fw-bold text-dark"><i class="fas fa-user-shield text-success me-1"></i>Personal VaR Risk Score</span>
+                        <span class="fw-bold fs-6 {{ 'text-danger' if result.var_score > 70 else 'text-warning' if result.var_score > 40 else 'text-success' }}">
+                            {{ result.var_score }}%
+                        </span>
+                    </div>
+                    <div class="progress mb-2" style="height: 10px; background-color: #e2e8f0;">
+                        <div class="progress-bar {{ 'bg-danger' if result.var_score > 70 else 'bg-warning' if result.var_score > 40 else 'bg-success' }}" 
+                             style="width: {{ result.var_score }}%; border-radius: 6px;"></div>
+                    </div>
+                    <div class="d-flex justify-content-between small text-muted">
+                        <span>Average: ₹{{ "{:,.2f}".format(result.customer_mean) }}</span>
+                        <span>95% Limit: ₹{{ "{:,.2f}".format(result.customer_var95) }}</span>
+                        <span class="fw-semibold text-dark">{{ result.deviation_ratio }}x normal</span>
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <div class="d-flex justify-content-between mb-1">
+                        <span class="small fw-semibold text-secondary"><i class="fas fa-brain text-info me-1"></i>ML Classifier Fraud Score</span>
+                        <span class="small fw-bold {{ 'text-danger' if result.probability > 60 else 'text-warning' if result.probability > 30 else 'text-success' }}">
+                            {{ result.probability }}%
+                        </span>
+                    </div>
+                    <div class="progress" style="height: 8px; background-color: #f1f5f9;">
+                        <div class="progress-bar {{ 'bg-danger' if result.probability > 60 else 'bg-warning' if result.probability > 30 else 'bg-success' }}" 
+                             style="width: {{ result.probability }}%; border-radius: 4px;"></div>
+                    </div>
+                </div>
+
+                <ul class="list-group list-group-flush mb-3" style="font-size: 0.88rem;">
+                    <li class="list-group-item d-flex justify-content-between px-0 py-2">
+                        <span class="text-muted">Transaction ID:</span>
+                        <code>{{ result.transaction_id }}</code>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between px-0 py-2">
+                        <span class="text-muted">Combined Decision:</span>
+                        <span class="badge {{ 'bg-danger' if result.prediction == 'Fraudulent' else 'bg-success' }}">
+                            {{ result.prediction }}
+                        </span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between px-0 py-2">
+                        <span class="text-muted">Risk Assessment:</span>
+                        <span class="fw-bold {{ 'text-danger' if result.risk_level == 'HIGH' else 'text-warning' if result.risk_level == 'MEDIUM' else 'text-success' }}">
+                            {{ result.risk_level }} RISK
+                        </span>
+                    </li>
+                </ul>
+
+                <a href="{{ url_for('individual_payments', customer=result.customer_id) }}" class="btn btn-outline-green w-100">
+                    <i class="fas fa-redo me-1"></i> Reset / Test Another
+                </a>
+            </div>
+        </div>
+        {% else %}
+        <!-- Guide Card -->
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header bg-white py-3">
+                <i class="fas fa-info-circle text-success me-2"></i>How Individual VaR Works
+            </div>
+            <div class="card-body p-4">
+                <div class="d-flex mb-3">
+                    <div class="me-3">
+                        <span class="badge bg-success bg-opacity-10 text-success rounded-circle p-2">
+                            <i class="fas fa-user-check"></i>
+                        </span>
+                    </div>
+                    <div>
+                        <h6 class="fw-bold mb-1" style="font-size: 0.92rem;">1. Individual Student Baseline</h6>
+                        <p class="text-muted small mb-0">Loads the specific student's spending mean and standard deviation from their 1,000-transaction dataset.</p>
+                    </div>
+                </div>
+
+                <div class="d-flex mb-3">
+                    <div class="me-3">
+                        <span class="badge bg-success bg-opacity-10 text-success rounded-circle p-2">
+                            <i class="fas fa-percentage"></i>
+                        </span>
+                    </div>
+                    <div>
+                        <h6 class="fw-bold mb-1" style="font-size: 0.92rem;">2. Empirical VaR Metric</h6>
+                        <p class="text-muted small mb-0">Calculates whether each charge is within their normal 95% threshold or an unprecedented anomaly.</p>
+                    </div>
+                </div>
+
+                <div class="d-flex">
+                    <div class="me-3">
+                        <span class="badge bg-success bg-opacity-10 text-success rounded-circle p-2">
+                            <i class="fas fa-shield-alt"></i>
+                        </span>
+                    </div>
+                    <div>
+                        <h6 class="fw-bold mb-1" style="font-size: 0.92rem;">3. Multi-Format Statement Auditing</h6>
+                        <p class="text-muted small mb-0">Upload PDF statements or paste SMS text to audit multiple transactions at once specifically for this student.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<!-- Statement Audit Report Section (Appears when a statement is uploaded/audited) -->
+{% if statement_results %}
+<div class="card shadow-sm mb-4 border-top border-4 border-success" id="statementReport">
+    <div class="card-header bg-white py-3 d-flex flex-wrap justify-content-between align-items-center gap-2">
+        <div>
+            <span class="fw-bold fs-6"><i class="fas fa-clipboard-check text-success me-2"></i>Statement Audit Report</span>
+            {% if scanned_filename %}
+            <span class="badge bg-light text-secondary border font-monospace ms-2">{{ scanned_filename }}</span>
+            {% endif %}
+        </div>
+        <button type="button" class="btn btn-outline-green btn-sm" onclick="exportAuditToCSV()">
+            <i class="fas fa-file-export me-1"></i> Export Audit (CSV)
+        </button>
+    </div>
+
+    <div class="card-body p-4">
+        <!-- Summary Counters -->
+        <div class="row g-3 mb-4">
+            <div class="col-sm-6 col-lg-2">
+                <div class="p-3 bg-light rounded-3 text-center border">
+                    <span class="text-muted small d-block">Transactions</span>
+                    <span class="fs-4 fw-bold text-dark">{{ statement_results.total_count }}</span>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-2">
+                <div class="p-3 rounded-3 text-center border" style="background-color: #ecfdf5;">
+                    <span class="text-success small d-block fw-semibold">Approved</span>
+                    <span class="fs-4 fw-bold text-success">{{ statement_results.approved_count }}</span>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-2">
+                <div class="p-3 rounded-3 text-center border" style="background-color: #fffbeb;">
+                    <span class="text-warning small d-block fw-semibold">Suspicious</span>
+                    <span class="fs-4 fw-bold text-warning">{{ statement_results.suspicious_count }}</span>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-2">
+                <div class="p-3 rounded-3 text-center border" style="background-color: #fef2f2;">
+                    <span class="text-danger small d-block fw-semibold">Critical Fraud</span>
+                    <span class="fs-4 fw-bold text-danger">{{ statement_results.fraud_count }}</span>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-2">
+                <div class="p-3 bg-light rounded-3 text-center border">
+                    <span class="text-muted small d-block">Total Debited</span>
+                    <span class="fs-6 fw-bold text-dark">₹{{ "{:,.2f}".format(statement_results.total_amount) }}</span>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-2">
+                <div class="p-3 rounded-3 text-center border" style="background-color: #fef2f2;">
+                    <span class="text-danger small d-block fw-semibold">Exposure at Risk</span>
+                    <span class="fs-6 fw-bold text-danger">₹{{ "{:,.2f}".format(statement_results.high_risk_amount) }}</span>
+                </div>
+            </div>
+        </div>
+
+        {% if statement_results.fraud_count > 0 or statement_results.suspicious_count > 0 %}
+        <div class="alert alert-danger d-flex align-items-center mb-4 border-0 shadow-sm" style="background: #fee2e2; color: #991b1b;">
+            <i class="fas fa-exclamation-triangle fa-2x me-3"></i>
+            <div>
+                <strong class="d-block">Security Alert: {{ statement_results.fraud_count + statement_results.suspicious_count }} Anomalous Transaction(s) Detected!</strong>
+                <span class="small">The Individual Value at Risk engine identified significant spending spikes and abnormal channel activities that deviate from normal baseline behavior.</span>
+            </div>
+        </div>
+        {% else %}
+        <div class="alert alert-success d-flex align-items-center mb-4 border-0 shadow-sm" style="background: #ecfdf5; color: #065f46;">
+            <i class="fas fa-check-circle fa-2x me-3"></i>
+            <div>
+                <strong class="d-block">All {{ statement_results.total_count }} Transactions Cleared!</strong>
+                <span class="small">All spending patterns match the student's expected historical baseline and 95% VaR boundaries.</span>
+            </div>
+        </div>
+        {% endif %}
+
+        <!-- Detailed Table -->
+        <div class="table-responsive border rounded-3">
+            <table class="table table-hover align-middle mb-0" id="statementAuditTable">
+                <thead class="table-light">
+                    <tr>
+                        <th style="width: 45px;">#</th>
+                        <th>Date</th>
+                        <th>Merchant / Narration</th>
+                        <th>Amount (INR)</th>
+                        <th>Channel</th>
+                        <th>Cardholder Evaluated</th>
+                        <th>Personal VaR</th>
+                        <th>ML Score</th>
+                        <th>Verdict</th>
+                        <th>Key Risk Indicators</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for t in statement_results.transactions %}
+                    <tr class="{{ 'table-danger table-opacity-10' if t.risk_level == 'HIGH' else 'table-warning table-opacity-10' if t.risk_level == 'MEDIUM' else '' }}">
+                        <td class="text-muted small">{{ t.index }}</td>
+                        <td class="text-nowrap small text-muted">{{ t.date }}</td>
+                        <td>
+                            <div class="fw-bold text-dark" style="font-size: 0.9rem;">{{ t.merchant }}</div>
+                            <small class="text-muted font-monospace" style="font-size: 0.72rem;">{{ t.transaction_id }}</small>
+                        </td>
+                        <td class="text-nowrap fw-bold fs-6 {{ 'text-danger' if t.risk_level == 'HIGH' else 'text-dark' }}">
+                            ₹{{ "{:,.2f}".format(t.amount) }}
+                        </td>
+                        <td>
+                            <span class="badge bg-light text-secondary border text-uppercase" style="font-size: 0.72rem;">
+                                {{ t.tx_type.replace('_', ' ') }}
+                            </span>
+                        </td>
+                        <td>
+                            <div class="fw-semibold text-dark" style="font-size: 0.85rem;">{{ t.customer_name }}</div>
+                            <span class="badge bg-light text-secondary border font-monospace" style="font-size: 0.7rem;">{{ t.customer_roll }}</span>
+                        </td>
+                        <td>
+                            <div class="d-flex align-items-center">
+                                <span class="fw-bold me-2 {{ 'text-danger' if t.var_score > 70 else 'text-warning' if t.var_score > 40 else 'text-success' }}" style="font-size: 0.85rem;">
+                                    {{ t.var_score }}%
+                                </span>
+                                <small class="text-muted">({{ t.deviation_ratio }}x)</small>
+                            </div>
+                            <div class="progress" style="height: 5px; width: 75px;">
+                                <div class="progress-bar {{ 'bg-danger' if t.var_score > 70 else 'bg-warning' if t.var_score > 40 else 'bg-success' }}" 
+                                     style="width: {{ t.var_score }}%;"></div>
+                            </div>
+                        </td>
+                        <td>
+                            <span class="small fw-semibold {{ 'text-danger' if t.fraud_probability > 60 else 'text-muted' }}">
+                                {{ t.fraud_probability }}%
+                            </span>
+                        </td>
+                        <td>
+                            <span class="badge {{ 'bg-danger' if t.risk_level == 'HIGH' else 'bg-warning text-dark' if t.risk_level == 'MEDIUM' else 'bg-success' }} px-2 py-1">
+                                {{ t.decision_status }}
+                            </span>
+                        </td>
+                        <td>
+                            <ul class="list-unstyled mb-0 small" style="font-size: 0.78rem;">
+                                {% for r in t.reasons %}
+                                <li class="{{ 'text-danger fw-semibold' if 'Exceeds' in r or 'Alert' in r or 'Spike' in r else 'text-secondary' }}">
+                                    &bull; {{ r }}
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+<!-- Viva Demonstration: ₹5,000 Comparative Experiment Across All 4 Students -->
+<div class="card mb-4 shadow-sm" id="benchmarks">
+    <div class="card-header d-flex justify-content-between align-items-center bg-white py-3">
+        <div>
+            <i class="fas fa-flask text-success me-2"></i>
+            <span class="fw-bold">Viva Experiment Benchmark: Charging ₹5,000 Across Each Student</span>
+        </div>
+        <span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">Same ₹5,000 Charge</span>
+    </div>
+    <div class="card-body p-4">
+        <p class="text-secondary small mb-3">
+            In standard banking, a fixed ₹5,000 threshold treats everyone identically. Notice how our 
+            <strong>Empirical Value-at-Risk Engine</strong> dynamically adapts to each student's spending history:
+        </p>
+        
+        <div class="table-responsive border rounded-3">
+            <table class="table table-hover align-middle mb-0">
+                <thead class="table-light">
+                    <tr>
+                        <th>Student Profile</th>
+                        <th>Roll Number</th>
+                        <th>Their Normal Avg</th>
+                        <th>95% / 99% VaR Limits</th>
+                        <th>Charged Amount</th>
+                        <th>Deviation</th>
+                        <th>Personal VaR</th>
+                        <th>System Verdict</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="table-success table-opacity-10">
+                        <td>
+                            <div class="fw-bold text-dark"><i class="fas fa-user-graduate text-primary me-2"></i>M. Pranavi</div>
+                            <small class="text-muted">Student Lead • Highest Avg Spender</small>
+                        </td>
+                        <td><span class="badge bg-light text-secondary border font-monospace">23R91A05H6</span></td>
+                        <td><strong class="text-primary">₹12,162.90</strong></td>
+                        <td><small>₹22,075 / ₹26,851</small></td>
+                        <td class="fw-bold text-dark">₹5,000.00</td>
+                        <td><span class="badge bg-success">0.41x avg</span></td>
+                        <td><span class="fw-bold text-success">8.2%</span></td>
+                        <td><span class="badge bg-success">APPROVED (Routine Academic Spend)</span></td>
+                    </tr>
+                    
+                    <tr class="table-success table-opacity-10">
+                        <td>
+                            <div class="fw-bold text-dark"><i class="fas fa-microchip text-success me-2"></i>M. Janaki Ram</div>
+                            <small class="text-muted">Developer & Hardware Lead</small>
+                        </td>
+                        <td><span class="badge bg-light text-secondary border font-monospace">24R95A0519</span></td>
+                        <td>₹5,188.96</td>
+                        <td><small>₹9,587 / ₹12,819</small></td>
+                        <td class="fw-bold text-dark">₹5,000.00</td>
+                        <td><span class="badge bg-success">0.96x avg</span></td>
+                        <td><span class="fw-bold text-success">19.3%</span></td>
+                        <td><span class="badge bg-success">APPROVED (Routine Hardware Spend)</span></td>
+                    </tr>
+
+                    <tr class="table-warning table-opacity-10">
+                        <td>
+                            <div class="fw-bold text-dark"><i class="fas fa-laptop-code text-info me-2"></i>K. Sri Nithya</div>
+                            <small class="text-muted">Tech & Course Lead</small>
+                        </td>
+                        <td><span class="badge bg-light text-secondary border font-monospace">23R91A05G7</span></td>
+                        <td>₹2,669.34</td>
+                        <td><small>₹5,062 / ₹6,615</small></td>
+                        <td class="fw-bold text-dark">₹5,000.00</td>
+                        <td><span class="badge bg-warning text-dark">1.87x avg</span></td>
+                        <td><span class="fw-bold text-warning">48.7%</span></td>
+                        <td><span class="badge bg-warning text-dark">ELEVATED RISK (Step-up 2FA / OTP)</span></td>
+                    </tr>
+
+                    <tr class="table-danger table-opacity-10">
+                        <td>
+                            <div class="fw-bold text-dark"><i class="fas fa-running text-warning me-2"></i>K. Naresh</div>
+                            <small class="text-muted">Hostel & Events Head</small>
+                        </td>
+                        <td><span class="badge bg-light text-secondary border font-monospace">23R91A05F3</span></td>
+                        <td>₹1,347.24</td>
+                        <td><small>₹2,446 / ₹3,180</small></td>
+                        <td class="fw-bold text-dark">₹5,000.00</td>
+                        <td><span class="badge bg-danger">3.71x avg</span></td>
+                        <td><span class="fw-bold text-danger">100.0%</span></td>
+                        <td><span class="badge bg-danger">CRITICAL ALERT (Payment Blocked / Hold)</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+let currentSelectedCustomerId = '{{ selected_customer or "cust_pranavi" }}';
+
+function selectPerson(id, name, roll, mean, var95, var99, ac) {
+    currentSelectedCustomerId = id;
+    document.getElementById('customer_id_single').value = id;
+    document.getElementById('customer_id_statement').value = id;
+    document.getElementById('radio-' + id).checked = true;
+    
+    document.getElementById('singleTitle').textContent = 'Payment Details for ' + name;
+    document.getElementById('statementTitle').textContent = 'Audit Statement for ' + name;
+    document.getElementById('accountBadge').textContent = 'Roll: ' + roll;
+    document.getElementById('amountHelperText').textContent = 'Normal baseline for ' + name + ' (' + roll + ') is around ₹' + Number(mean).toLocaleString() + ' (95% VaR Limit: ₹' + Number(var95).toLocaleString() + ').';
+    
+    // Update dynamic sample button text
+    const sampleBtn = document.getElementById('dynamicSampleBtn');
+    if (id === 'cust_pranavi') {
+        sampleBtn.innerHTML = '<i class="fas fa-file-pdf me-1"></i> Load M. Pranavi Sample Statement (PDF)';
+    } else if (id === 'cust_naresh') {
+        sampleBtn.innerHTML = '<i class="fas fa-file-alt me-1"></i> Load K. Naresh Hostel SMS / Log (TXT)';
+    } else if (id === 'cust_janakiram') {
+        sampleBtn.innerHTML = '<i class="fas fa-file-csv me-1"></i> Load M. Janaki Ram Hardware Ledger (CSV)';
+    } else if (id === 'cust_srinithya') {
+        sampleBtn.innerHTML = '<i class="fas fa-file-code me-1"></i> Load K. Sri Nithya Course Export (JSON)';
+    }
+    
+    // Highlight selected card
+    document.querySelectorAll('.person-card').forEach(c => {
+        c.classList.remove('border-success', 'bg-success', 'bg-opacity-10');
+        c.classList.add('border-light');
+    });
+    const activeCard = document.getElementById('card-' + id);
+    if (activeCard) {
+        activeCard.classList.remove('border-light');
+        activeCard.classList.add('border-success', 'bg-success', 'bg-opacity-10');
+    }
+}
+
+function loadStudentSample() {
+    let sampleType = 'pranavi_pdf';
+    if (currentSelectedCustomerId === 'cust_naresh') sampleType = 'naresh_txt';
+    else if (currentSelectedCustomerId === 'cust_janakiram') sampleType = 'janakiram_csv';
+    else if (currentSelectedCustomerId === 'cust_srinithya') sampleType = 'srinithya_json';
+    
+    fetch('/api/load_sample/' + sampleType)
+        .then(res => res.json())
+        .then(data => {
+            if (data.status === 'success') {
+                // Switch to paste tab and populate
+                const pasteTabBtn = document.getElementById('paste-tab');
+                const bootstrapTab = new bootstrap.Tab(pasteTabBtn);
+                bootstrapTab.show();
+                
+                const textarea = document.getElementById('raw_text');
+                textarea.value = data.content;
+                
+                // Show gentle toast or notice
+                textarea.scrollIntoView({ behavior: 'smooth' });
+            }
+        })
+        .catch(err => console.error('Error loading sample:', err));
+}
+
+function fillScenario(scenario) {
+    if (scenario === 'pranavi_routine') {
+        selectPerson('cust_pranavi', 'M. Pranavi', '23R91A05H6', 12162.90, 22075.06, 26850.82, '23R91A05H6');
+        document.getElementById('amount').value = '8500';
+        document.getElementById('merchant').value = 'Apple Store Campus Tech Care';
+        document.getElementById('location').value = 'Hyderabad, IN';
+        document.getElementById('tx_type').value = 'pos_payment';
+    } else if (scenario === 'pranavi_anomaly') {
+        selectPerson('cust_pranavi', 'M. Pranavi', '23R91A05H6', 12162.90, 22075.06, 26850.82, '23R91A05H6');
+        document.getElementById('amount').value = '85000';
+        document.getElementById('merchant').value = 'Overseas Zurich Luxury Exchange';
+        document.getElementById('location').value = 'Zurich, Switzerland';
+        document.getElementById('tx_type').value = 'international';
+    } else if (scenario === 'janakiram_routine') {
+        selectPerson('cust_janakiram', 'M. Janaki Ram', '24R95A0519', 5188.96, 9586.70, 12819.11, '24R95A0519');
+        document.getElementById('amount').value = '4800';
+        document.getElementById('merchant').value = 'Robu.in IoT Hardware Kits';
+        document.getElementById('location').value = 'Hyderabad, IN';
+        document.getElementById('tx_type').value = 'pos_payment';
+    } else if (scenario === 'naresh_fraud') {
+        selectPerson('cust_naresh', 'K. Naresh', '23R91A05F3', 1347.24, 2446.43, 3179.51, '23R91A05F3');
+        document.getElementById('amount').value = '15000';
+        document.getElementById('merchant').value = 'Overseas Casino Web Checkout';
+        document.getElementById('location').value = 'Macau, SAR';
+        document.getElementById('tx_type').value = 'international';
+    }
+}
+
+function exportAuditToCSV() {
+    const table = document.getElementById('statementAuditTable');
+    if (!table) return;
+    
+    let csv = [];
+    const rows = table.querySelectorAll('tr');
+    
+    for (let i = 0; i < rows.length; i++) {
+        let row = [], cols = rows[i].querySelectorAll('td, th');
+        for (let j = 0; j < cols.length; j++) {
+            let text = cols[j].innerText.replace(/(\r\n|\n|\r)/gm, ' ').replace(/"/g, '""').trim();
+            row.push('"' + text + '"');
+        }
+        csv.push(row.join(','));
+    }
+    
+    const csvFile = new Blob([csv.join('\n')], { type: 'text/csv' });
+    const downloadLink = document.createElement('a');
+    downloadLink.download = 'statement_audit_report.csv';
+    downloadLink.href = window.URL.createObjectURL(csvFile);
+    downloadLink.style.display = 'none';
+    document.body.appendChild(downloadLink);
+    downloadLink.click();
+    document.body.removeChild(downloadLink);
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    const sel = '{{ selected_customer or "cust_pranavi" }}';
+    const radio = document.getElementById('radio-' + sel);
+    if (radio) {
+        radio.click();
+    }
+    
+    {% if statement_results %}
+    const report = document.getElementById('statementReport');
+    if (report) {
+        report.scrollIntoView({ behavior: 'smooth' });
+    }
+    {% endif %}
+});
+</script>
+{% endblock %}

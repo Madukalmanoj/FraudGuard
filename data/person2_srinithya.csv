@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Customer_Name,Roll_No,Timestamp,Category,Merchant,Amount_INR,Channel,Class
+TXN_SRINITHYA_0001,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-05 19:41:00,Transit,Uber Premier Rides Hyderabad,4248.79,Credit_Card,0
+TXN_SRINITHYA_0002,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-05 20:24:00,Entertainment,BookMyShow International Concerts,4935.23,Credit_Card,0
+TXN_SRINITHYA_0003,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-05 21:30:00,Electronics,Amazon Kindle & Academic Devices,1267.35,UPI_GPay,0
+TXN_SRINITHYA_0004,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-06 00:22:00,Education Tech,Coursera / Udemy Deep Learning Courses,3472.33,UPI_GPay,0
+TXN_SRINITHYA_0005,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-06 00:46:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1959.28,UPI_GPay,0
+TXN_SRINITHYA_0006,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-06 09:17:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2733.5,Debit_Card,0
+TXN_SRINITHYA_0007,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-06 09:25:00,Electronics,Amazon Kindle & Academic Devices,2572.57,UPI_GPay,0
+TXN_SRINITHYA_0008,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-06 10:17:00,Dining,Swiggy / Zomato Gourmet Diners,1938.18,Debit_Card,0
+TXN_SRINITHYA_0009,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-06 11:00:00,Electronics,Amazon Kindle & Academic Devices,2195.89,Credit_Card,0
+TXN_SRINITHYA_0010,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-06 12:05:00,Electronics,Reliance Digital Tech Accessories,2237.86,Credit_Card,0
+TXN_SRINITHYA_0011,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-06 14:59:00,Dining,Swiggy / Zomato Gourmet Diners,1884.8,Debit_Card,0
+TXN_SRINITHYA_0012,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-06 17:12:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1962.77,Credit_Card,0
+TXN_SRINITHYA_0013,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-06 20:06:00,Dining,Swiggy / Zomato Gourmet Diners,3530.8,UPI_GPay,0
+TXN_SRINITHYA_0014,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-07 00:02:00,Electronics,Amazon Kindle & Academic Devices,3376.93,UPI_GPay,0
+TXN_SRINITHYA_0015,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-07 01:59:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2637.01,Debit_Card,0
+TXN_SRINITHYA_0016,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-07 05:03:00,Transit,Uber Premier Rides Hyderabad,3823.94,UPI_GPay,0
+TXN_SRINITHYA_0017,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-07 07:08:00,Electronics,Amazon Kindle & Academic Devices,3662.66,UPI_GPay,0
+TXN_SRINITHYA_0018,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-07 07:54:00,Dining,Coffee Day Hitec City Tech Hub,2292.19,UPI_GPay,0
+TXN_SRINITHYA_0019,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-07 13:41:00,Transit,Uber Premier Rides Hyderabad,1926.52,Debit_Card,0
+TXN_SRINITHYA_0020,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-07 16:36:00,Transit,Uber Premier Rides Hyderabad,2215.94,UPI_GPay,0
+TXN_SRINITHYA_0021,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-07 20:55:00,Education Tech,Coursera / Udemy Deep Learning Courses,4282.68,Credit_Card,0
+TXN_SRINITHYA_0022,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-07 21:43:00,Dining,Coffee Day Hitec City Tech Hub,5148.97,UPI_GPay,0
+TXN_SRINITHYA_0023,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-07 23:23:00,Electronics,Amazon Kindle & Academic Devices,1338.97,UPI_GPay,0
+TXN_SRINITHYA_0024,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-08 01:29:00,Electronics,Amazon Kindle & Academic Devices,2153.89,Credit_Card,0
+TXN_SRINITHYA_0025,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-08 04:03:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3057.91,UPI_GPay,0
+TXN_SRINITHYA_0026,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-08 05:19:00,Education Tech,Coursera / Udemy Deep Learning Courses,1470.78,Credit_Card,0
+TXN_SRINITHYA_0027,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-08 10:57:00,Entertainment,BookMyShow International Concerts,2513.49,Credit_Card,0
+TXN_SRINITHYA_0028,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-08 13:02:00,Entertainment,BookMyShow International Concerts,4562.46,Debit_Card,0
+TXN_SRINITHYA_0029,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-08 13:40:00,Transit,Uber Premier Rides Hyderabad,2007.82,UPI_GPay,0
+TXN_SRINITHYA_0030,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-08 19:05:00,Entertainment,BookMyShow International Concerts,1522.47,Debit_Card,0
+TXN_SRINITHYA_0031,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-08 19:42:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,6470.8,Credit_Card,0
+TXN_SRINITHYA_0032,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-09 01:04:00,Transit,Uber Premier Rides Hyderabad,2057.96,Debit_Card,0
+TXN_SRINITHYA_0033,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-09 05:18:00,Entertainment,BookMyShow International Concerts,5141.06,UPI_GPay,0
+TXN_SRINITHYA_0034,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-09 10:59:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1408.76,UPI_GPay,0
+TXN_SRINITHYA_0035,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-09 11:10:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2963.51,Debit_Card,0
+TXN_SRINITHYA_0036,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-09 12:47:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1301.31,Debit_Card,0
+TXN_SRINITHYA_0037,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-09 19:08:00,Transit,Uber Premier Rides Hyderabad,1985.23,UPI_GPay,0
+TXN_SRINITHYA_0038,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-10 01:25:00,Electronics,Reliance Digital Tech Accessories,1355.99,UPI_GPay,0
+TXN_SRINITHYA_0039,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-10 05:20:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2428.76,UPI_GPay,0
+TXN_SRINITHYA_0040,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-10 11:36:00,Electronics,Reliance Digital Tech Accessories,1067.12,UPI_GPay,0
+TXN_SRINITHYA_0041,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-10 11:59:00,Electronics,Reliance Digital Tech Accessories,757.8,UPI_GPay,0
+TXN_SRINITHYA_0042,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-10 16:48:00,Transit,Uber Premier Rides Hyderabad,5189.55,UPI_GPay,0
+TXN_SRINITHYA_0043,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-11 05:03:00,Dining,Swiggy / Zomato Gourmet Diners,2113.06,Debit_Card,0
+TXN_SRINITHYA_0044,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-11 05:14:00,Electronics,Reliance Digital Tech Accessories,1262.67,UPI_GPay,0
+TXN_SRINITHYA_0045,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-11 07:42:00,Electronics,Reliance Digital Tech Accessories,2261.22,Credit_Card,0
+TXN_SRINITHYA_0046,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-11 08:11:00,Electronics,Reliance Digital Tech Accessories,6314.03,UPI_GPay,0
+TXN_SRINITHYA_0047,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-11 12:44:00,Entertainment,BookMyShow International Concerts,3145.82,UPI_GPay,0
+TXN_SRINITHYA_0048,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-11 15:10:00,Education Tech,Coursera / Udemy Deep Learning Courses,2761.02,UPI_GPay,0
+TXN_SRINITHYA_0049,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-11 20:51:00,Dining,Coffee Day Hitec City Tech Hub,1777.64,UPI_GPay,0
+TXN_SRINITHYA_0050,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-11 21:07:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2173.6,Credit_Card,0
+TXN_SRINITHYA_0051,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-11 21:32:00,Electronics,Amazon Kindle & Academic Devices,1530.68,Debit_Card,0
+TXN_SRINITHYA_0052,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 00:36:00,Entertainment,BookMyShow International Concerts,1737.86,UPI_GPay,0
+TXN_SRINITHYA_0053,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 02:42:00,Dining,Coffee Day Hitec City Tech Hub,2527.38,UPI_GPay,0
+TXN_SRINITHYA_0054,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 03:13:00,Dining,Coffee Day Hitec City Tech Hub,1689.33,UPI_GPay,0
+TXN_SRINITHYA_0055,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 05:23:00,Dining,Swiggy / Zomato Gourmet Diners,2711.44,Debit_Card,0
+TXN_SRINITHYA_0056,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 06:09:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3517.72,Credit_Card,0
+TXN_SRINITHYA_0057,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 10:08:00,Dining,Swiggy / Zomato Gourmet Diners,1661.85,UPI_GPay,0
+TXN_SRINITHYA_0058,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 10:33:00,Entertainment,BookMyShow International Concerts,1520.64,Credit_Card,0
+TXN_SRINITHYA_0059,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 10:46:00,Electronics,Reliance Digital Tech Accessories,1787.83,Debit_Card,0
+TXN_SRINITHYA_0060,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 12:00:00,Transit,Uber Premier Rides Hyderabad,1610.71,UPI_GPay,0
+TXN_SRINITHYA_0061,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 15:46:00,Dining,Coffee Day Hitec City Tech Hub,3292.67,UPI_GPay,0
+TXN_SRINITHYA_0062,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-12 22:37:00,Dining,Coffee Day Hitec City Tech Hub,1459.73,Debit_Card,0
+TXN_SRINITHYA_0063,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-13 00:52:00,Dining,Coffee Day Hitec City Tech Hub,1474.59,Credit_Card,0
+TXN_SRINITHYA_0064,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-13 01:44:00,Electronics,Reliance Digital Tech Accessories,2298.09,UPI_GPay,0
+TXN_SRINITHYA_0065,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-13 03:27:00,Entertainment,BookMyShow International Concerts,2291.03,UPI_GPay,0
+TXN_SRINITHYA_0066,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-13 05:41:00,Education Tech,Coursera / Udemy Deep Learning Courses,1328.32,UPI_GPay,0
+TXN_SRINITHYA_0067,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-13 05:45:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3725.53,UPI_GPay,0
+TXN_SRINITHYA_0068,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-13 06:43:00,Electronics,Reliance Digital Tech Accessories,3173.19,Credit_Card,0
+TXN_SRINITHYA_0069,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-13 20:13:00,Dining,Swiggy / Zomato Gourmet Diners,2358.93,UPI_GPay,0
+TXN_SRINITHYA_0070,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-13 22:30:00,Entertainment,BookMyShow International Concerts,3058.97,Credit_Card,0
+TXN_SRINITHYA_0071,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-14 01:35:00,Dining,Coffee Day Hitec City Tech Hub,3133.84,Debit_Card,0
+TXN_SRINITHYA_0072,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-14 02:18:00,Transit,Uber Premier Rides Hyderabad,2576.37,UPI_GPay,0
+TXN_SRINITHYA_0073,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-14 05:52:00,Electronics,Amazon Kindle & Academic Devices,2450.59,UPI_GPay,0
+TXN_SRINITHYA_0074,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-14 11:48:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,5468.19,UPI_GPay,0
+TXN_SRINITHYA_0075,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-14 13:36:00,Dining,Swiggy / Zomato Gourmet Diners,3754.8,Credit_Card,0
+TXN_SRINITHYA_0076,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-14 14:35:00,Dining,Coffee Day Hitec City Tech Hub,3373.1,UPI_GPay,0
+TXN_SRINITHYA_0077,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-14 20:39:00,Electronics,Amazon Kindle & Academic Devices,2609.61,Credit_Card,0
+TXN_SRINITHYA_0078,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-14 20:52:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,57100.76,Debit_Card,1
+TXN_SRINITHYA_0079,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-14 23:13:00,Electronics,Amazon Kindle & Academic Devices,1786.92,UPI_GPay,0
+TXN_SRINITHYA_0080,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-15 01:51:00,Education Tech,Coursera / Udemy Deep Learning Courses,2487.91,Debit_Card,0
+TXN_SRINITHYA_0081,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-15 02:58:00,Education Tech,Coursera / Udemy Deep Learning Courses,1511.16,NetBanking,0
+TXN_SRINITHYA_0082,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-15 06:51:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2438.29,UPI_GPay,0
+TXN_SRINITHYA_0083,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-15 16:23:00,Transit,Uber Premier Rides Hyderabad,1579.23,UPI_GPay,0
+TXN_SRINITHYA_0084,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-15 19:17:00,Electronics,Reliance Digital Tech Accessories,2893.56,NetBanking,0
+TXN_SRINITHYA_0085,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-15 23:39:00,Dining,Coffee Day Hitec City Tech Hub,1403.45,NetBanking,0
+TXN_SRINITHYA_0086,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-16 00:28:00,Dining,Swiggy / Zomato Gourmet Diners,3343.01,UPI_GPay,0
+TXN_SRINITHYA_0087,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-16 00:35:00,Electronics,Reliance Digital Tech Accessories,677.32,UPI_GPay,0
+TXN_SRINITHYA_0088,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-16 07:40:00,Entertainment,BookMyShow International Concerts,2628.15,UPI_GPay,0
+TXN_SRINITHYA_0089,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-16 10:31:00,Dining,Swiggy / Zomato Gourmet Diners,1729.06,NetBanking,0
+TXN_SRINITHYA_0090,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-16 13:12:00,Electronics,Amazon Kindle & Academic Devices,2594.32,UPI_GPay,0
+TXN_SRINITHYA_0091,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-16 14:02:00,Education Tech,Coursera / Udemy Deep Learning Courses,3182.96,UPI_GPay,0
+TXN_SRINITHYA_0092,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-16 16:44:00,Dining,Coffee Day Hitec City Tech Hub,2131.34,Debit_Card,0
+TXN_SRINITHYA_0093,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 00:55:00,Electronics,Amazon Kindle & Academic Devices,1327.63,UPI_GPay,0
+TXN_SRINITHYA_0094,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 01:09:00,Education Tech,Coursera / Udemy Deep Learning Courses,4264.13,Credit_Card,0
+TXN_SRINITHYA_0095,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 05:00:00,Entertainment,BookMyShow International Concerts,3456.78,UPI_GPay,0
+TXN_SRINITHYA_0096,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 05:07:00,Electronics,Amazon Kindle & Academic Devices,1659.25,Debit_Card,0
+TXN_SRINITHYA_0097,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 08:57:00,Entertainment,BookMyShow International Concerts,1639.82,UPI_GPay,0
+TXN_SRINITHYA_0098,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 11:29:00,Electronics,Amazon Kindle & Academic Devices,2765.04,Credit_Card,0
+TXN_SRINITHYA_0099,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 15:20:00,Education Tech,Coursera / Udemy Deep Learning Courses,2101.1,Credit_Card,0
+TXN_SRINITHYA_0100,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 17:41:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2783.58,UPI_GPay,0
+TXN_SRINITHYA_0101,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 20:32:00,Electronics,Reliance Digital Tech Accessories,3265.43,UPI_GPay,0
+TXN_SRINITHYA_0102,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 21:00:00,Electronics,Reliance Digital Tech Accessories,2510.26,UPI_GPay,0
+TXN_SRINITHYA_0103,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 21:41:00,Dining,Coffee Day Hitec City Tech Hub,629.23,UPI_GPay,0
+TXN_SRINITHYA_0104,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-17 22:58:00,Education Tech,Coursera / Udemy Deep Learning Courses,1766.0,Debit_Card,0
+TXN_SRINITHYA_0105,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-18 00:32:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1224.05,Debit_Card,0
+TXN_SRINITHYA_0106,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-18 02:25:00,Transit,Uber Premier Rides Hyderabad,1650.82,UPI_GPay,0
+TXN_SRINITHYA_0107,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-18 07:21:00,Dining,Swiggy / Zomato Gourmet Diners,2420.93,Credit_Card,0
+TXN_SRINITHYA_0108,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-18 08:10:00,Electronics,Amazon Kindle & Academic Devices,4586.88,Credit_Card,0
+TXN_SRINITHYA_0109,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-18 10:31:00,Electronics,Amazon Kindle & Academic Devices,2372.86,Debit_Card,0
+TXN_SRINITHYA_0110,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-18 13:12:00,Electronics,Reliance Digital Tech Accessories,2782.19,UPI_GPay,0
+TXN_SRINITHYA_0111,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-18 17:03:00,Electronics,Amazon Kindle & Academic Devices,2436.25,UPI_GPay,0
+TXN_SRINITHYA_0112,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-18 21:49:00,Electronics,Reliance Digital Tech Accessories,2351.34,UPI_GPay,0
+TXN_SRINITHYA_0113,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-18 22:48:00,Dining,Swiggy / Zomato Gourmet Diners,3080.81,UPI_GPay,0
+TXN_SRINITHYA_0114,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 00:05:00,Entertainment,BookMyShow International Concerts,2430.6,UPI_GPay,0
+TXN_SRINITHYA_0115,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 02:42:00,Electronics,Amazon Kindle & Academic Devices,4840.01,UPI_GPay,0
+TXN_SRINITHYA_0116,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 04:01:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2234.62,UPI_GPay,0
+TXN_SRINITHYA_0117,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 06:43:00,Education Tech,Coursera / Udemy Deep Learning Courses,4534.49,Credit_Card,0
+TXN_SRINITHYA_0118,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 08:38:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2087.74,UPI_GPay,0
+TXN_SRINITHYA_0119,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 09:57:00,Electronics,Reliance Digital Tech Accessories,2144.9,UPI_GPay,0
+TXN_SRINITHYA_0120,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 10:31:00,Dining,Coffee Day Hitec City Tech Hub,2963.8,UPI_GPay,0
+TXN_SRINITHYA_0121,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 11:17:00,Electronics,Amazon Kindle & Academic Devices,3240.86,UPI_GPay,0
+TXN_SRINITHYA_0122,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 18:11:00,Electronics,Reliance Digital Tech Accessories,2214.11,Credit_Card,0
+TXN_SRINITHYA_0123,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 18:14:00,Electronics,Amazon Kindle & Academic Devices,3313.27,UPI_GPay,0
+TXN_SRINITHYA_0124,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 19:27:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2290.4,UPI_GPay,0
+TXN_SRINITHYA_0125,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 20:29:00,Transit,Uber Premier Rides Hyderabad,3586.33,UPI_GPay,0
+TXN_SRINITHYA_0126,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 20:44:00,Dining,Swiggy / Zomato Gourmet Diners,1512.83,UPI_GPay,0
+TXN_SRINITHYA_0127,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-19 21:57:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,79973.03,UPI_GPay,1
+TXN_SRINITHYA_0128,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-20 01:28:00,Dining,Coffee Day Hitec City Tech Hub,2543.32,Debit_Card,0
+TXN_SRINITHYA_0129,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-20 03:23:00,Dining,Coffee Day Hitec City Tech Hub,4655.09,UPI_GPay,0
+TXN_SRINITHYA_0130,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-20 11:08:00,Electronics,Amazon Kindle & Academic Devices,4391.2,UPI_GPay,0
+TXN_SRINITHYA_0131,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-20 12:03:00,Dining,Swiggy / Zomato Gourmet Diners,1892.12,UPI_GPay,0
+TXN_SRINITHYA_0132,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-20 12:36:00,Electronics,Amazon Kindle & Academic Devices,2290.75,UPI_GPay,0
+TXN_SRINITHYA_0133,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-20 12:36:00,Transit,Uber Premier Rides Hyderabad,1719.18,Credit_Card,0
+TXN_SRINITHYA_0134,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-20 12:42:00,Transit,Uber Premier Rides Hyderabad,997.4,Credit_Card,0
+TXN_SRINITHYA_0135,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-20 13:20:00,Transit,Uber Premier Rides Hyderabad,1993.45,Credit_Card,0
+TXN_SRINITHYA_0136,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-21 01:29:00,Electronics,Reliance Digital Tech Accessories,2539.79,UPI_GPay,0
+TXN_SRINITHYA_0137,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-21 01:52:00,Education Tech,Coursera / Udemy Deep Learning Courses,1455.44,UPI_GPay,0
+TXN_SRINITHYA_0138,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-21 07:09:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4089.83,Debit_Card,0
+TXN_SRINITHYA_0139,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-21 08:11:00,Entertainment,BookMyShow International Concerts,6663.06,Debit_Card,0
+TXN_SRINITHYA_0140,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-21 09:19:00,Electronics,Reliance Digital Tech Accessories,1873.53,UPI_GPay,0
+TXN_SRINITHYA_0141,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-21 13:41:00,Dining,Swiggy / Zomato Gourmet Diners,2964.7,UPI_GPay,0
+TXN_SRINITHYA_0142,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-21 13:44:00,Dining,Swiggy / Zomato Gourmet Diners,1865.82,UPI_GPay,0
+TXN_SRINITHYA_0143,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-21 14:17:00,Entertainment,BookMyShow International Concerts,1412.01,UPI_GPay,0
+TXN_SRINITHYA_0144,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-21 22:27:00,Transit,Uber Premier Rides Hyderabad,1989.46,UPI_GPay,0
+TXN_SRINITHYA_0145,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-21 23:49:00,Electronics,Reliance Digital Tech Accessories,2652.83,UPI_GPay,0
+TXN_SRINITHYA_0146,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 00:20:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1476.3,Credit_Card,0
+TXN_SRINITHYA_0147,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 00:25:00,Dining,Coffee Day Hitec City Tech Hub,2745.74,UPI_GPay,0
+TXN_SRINITHYA_0148,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 00:55:00,Dining,Swiggy / Zomato Gourmet Diners,2181.17,UPI_GPay,0
+TXN_SRINITHYA_0149,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 04:13:00,Electronics,Reliance Digital Tech Accessories,2252.9,UPI_GPay,0
+TXN_SRINITHYA_0150,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 05:56:00,Electronics,Reliance Digital Tech Accessories,1870.24,Debit_Card,0
+TXN_SRINITHYA_0151,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 06:02:00,Entertainment,BookMyShow International Concerts,3738.68,UPI_GPay,0
+TXN_SRINITHYA_0152,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 06:57:00,Dining,Coffee Day Hitec City Tech Hub,4132.22,Credit_Card,0
+TXN_SRINITHYA_0153,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 08:01:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,61933.63,UPI_GPay,1
+TXN_SRINITHYA_0154,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 10:29:00,Electronics,Amazon Kindle & Academic Devices,3215.87,Credit_Card,0
+TXN_SRINITHYA_0155,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 10:37:00,Electronics,Amazon Kindle & Academic Devices,1800.56,UPI_GPay,0
+TXN_SRINITHYA_0156,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-22 19:07:00,Electronics,Amazon Kindle & Academic Devices,4895.14,UPI_GPay,0
+TXN_SRINITHYA_0157,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-24 03:42:00,Entertainment,BookMyShow International Concerts,1627.06,UPI_GPay,0
+TXN_SRINITHYA_0158,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-24 14:02:00,Electronics,Reliance Digital Tech Accessories,1225.82,UPI_GPay,0
+TXN_SRINITHYA_0159,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-24 20:13:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1225.16,UPI_GPay,0
+TXN_SRINITHYA_0160,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-24 20:20:00,Electronics,Amazon Kindle & Academic Devices,1555.54,Credit_Card,0
+TXN_SRINITHYA_0161,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-25 01:53:00,Education Tech,Coursera / Udemy Deep Learning Courses,1396.64,UPI_GPay,0
+TXN_SRINITHYA_0162,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-25 04:45:00,Dining,Coffee Day Hitec City Tech Hub,1353.93,UPI_GPay,0
+TXN_SRINITHYA_0163,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-25 07:45:00,Dining,Swiggy / Zomato Gourmet Diners,2021.22,UPI_GPay,0
+TXN_SRINITHYA_0164,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-25 08:43:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1533.85,Credit_Card,0
+TXN_SRINITHYA_0165,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-25 10:07:00,Dining,Swiggy / Zomato Gourmet Diners,4356.71,NetBanking,0
+TXN_SRINITHYA_0166,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-25 22:37:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,55058.14,Credit_Card,1
+TXN_SRINITHYA_0167,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-26 01:02:00,Electronics,Amazon Kindle & Academic Devices,1139.52,UPI_GPay,0
+TXN_SRINITHYA_0168,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-26 04:43:00,Transit,Uber Premier Rides Hyderabad,4391.68,Credit_Card,0
+TXN_SRINITHYA_0169,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-26 04:49:00,Dining,Coffee Day Hitec City Tech Hub,4285.33,Debit_Card,0
+TXN_SRINITHYA_0170,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-26 05:38:00,Electronics,Amazon Kindle & Academic Devices,2594.43,Debit_Card,0
+TXN_SRINITHYA_0171,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-26 08:01:00,Transit,Uber Premier Rides Hyderabad,1706.87,UPI_GPay,0
+TXN_SRINITHYA_0172,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-26 11:17:00,Dining,Swiggy / Zomato Gourmet Diners,3004.62,UPI_GPay,0
+TXN_SRINITHYA_0173,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-26 12:32:00,Education Tech,Coursera / Udemy Deep Learning Courses,2017.23,UPI_GPay,0
+TXN_SRINITHYA_0174,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-26 15:39:00,Entertainment,BookMyShow International Concerts,2016.49,UPI_GPay,0
+TXN_SRINITHYA_0175,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-26 16:40:00,Dining,Swiggy / Zomato Gourmet Diners,1631.01,Credit_Card,0
+TXN_SRINITHYA_0176,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-26 23:33:00,Dining,Coffee Day Hitec City Tech Hub,4743.27,UPI_GPay,0
+TXN_SRINITHYA_0177,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-27 02:57:00,Entertainment,BookMyShow International Concerts,3989.4,UPI_GPay,0
+TXN_SRINITHYA_0178,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-27 10:03:00,Education Tech,Coursera / Udemy Deep Learning Courses,2304.86,Credit_Card,0
+TXN_SRINITHYA_0179,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-27 12:21:00,Entertainment,BookMyShow International Concerts,2694.74,Debit_Card,0
+TXN_SRINITHYA_0180,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-27 13:58:00,Electronics,Reliance Digital Tech Accessories,3762.08,UPI_GPay,0
+TXN_SRINITHYA_0181,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-27 15:00:00,Dining,Coffee Day Hitec City Tech Hub,1382.94,Credit_Card,0
+TXN_SRINITHYA_0182,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-27 18:17:00,Dining,Coffee Day Hitec City Tech Hub,6287.52,UPI_GPay,0
+TXN_SRINITHYA_0183,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-27 19:41:00,Electronics,Reliance Digital Tech Accessories,4120.47,Debit_Card,0
+TXN_SRINITHYA_0184,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-27 21:17:00,Entertainment,BookMyShow International Concerts,2117.56,Debit_Card,0
+TXN_SRINITHYA_0185,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 00:04:00,Entertainment,BookMyShow International Concerts,2988.39,UPI_GPay,0
+TXN_SRINITHYA_0186,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 01:43:00,Entertainment,BookMyShow International Concerts,1693.91,Credit_Card,0
+TXN_SRINITHYA_0187,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 05:26:00,Education Tech,Coursera / Udemy Deep Learning Courses,3298.82,Debit_Card,0
+TXN_SRINITHYA_0188,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 07:18:00,Entertainment,BookMyShow International Concerts,2436.6,UPI_GPay,0
+TXN_SRINITHYA_0189,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 09:34:00,Electronics,Amazon Kindle & Academic Devices,3075.73,UPI_GPay,0
+TXN_SRINITHYA_0190,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 09:53:00,Education Tech,Coursera / Udemy Deep Learning Courses,3485.34,Credit_Card,0
+TXN_SRINITHYA_0191,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 13:55:00,Electronics,Reliance Digital Tech Accessories,2111.77,UPI_GPay,0
+TXN_SRINITHYA_0192,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 14:32:00,Transit,Uber Premier Rides Hyderabad,1678.11,UPI_GPay,0
+TXN_SRINITHYA_0193,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 17:11:00,Dining,Coffee Day Hitec City Tech Hub,3984.16,Debit_Card,0
+TXN_SRINITHYA_0194,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 18:01:00,Electronics,Reliance Digital Tech Accessories,1973.04,Credit_Card,0
+TXN_SRINITHYA_0195,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-28 21:13:00,Dining,Swiggy / Zomato Gourmet Diners,4314.17,UPI_GPay,0
+TXN_SRINITHYA_0196,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-29 04:07:00,Education Tech,Coursera / Udemy Deep Learning Courses,4442.43,UPI_GPay,0
+TXN_SRINITHYA_0197,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-29 11:49:00,Electronics,Reliance Digital Tech Accessories,2614.02,UPI_GPay,0
+TXN_SRINITHYA_0198,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-29 17:21:00,Dining,Swiggy / Zomato Gourmet Diners,1687.3,UPI_GPay,0
+TXN_SRINITHYA_0199,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-29 17:46:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1663.61,UPI_GPay,0
+TXN_SRINITHYA_0200,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-29 17:55:00,Entertainment,BookMyShow International Concerts,2269.15,Credit_Card,0
+TXN_SRINITHYA_0201,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-29 19:54:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2563.52,UPI_GPay,0
+TXN_SRINITHYA_0202,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-29 21:56:00,Electronics,Amazon Kindle & Academic Devices,1880.18,UPI_GPay,0
+TXN_SRINITHYA_0203,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-29 23:45:00,Education Tech,Coursera / Udemy Deep Learning Courses,2265.74,UPI_GPay,0
+TXN_SRINITHYA_0204,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-30 05:54:00,Education Tech,Coursera / Udemy Deep Learning Courses,1889.19,NetBanking,0
+TXN_SRINITHYA_0205,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-30 07:00:00,Electronics,Reliance Digital Tech Accessories,2439.22,UPI_GPay,0
+TXN_SRINITHYA_0206,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-30 09:51:00,Dining,Coffee Day Hitec City Tech Hub,1255.35,UPI_GPay,0
+TXN_SRINITHYA_0207,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-30 10:02:00,Education Tech,Coursera / Udemy Deep Learning Courses,2548.37,UPI_GPay,0
+TXN_SRINITHYA_0208,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-30 13:03:00,Entertainment,BookMyShow International Concerts,1171.25,Credit_Card,0
+TXN_SRINITHYA_0209,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-30 15:44:00,Dining,Swiggy / Zomato Gourmet Diners,2167.57,Credit_Card,0
+TXN_SRINITHYA_0210,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-30 18:13:00,Entertainment,BookMyShow International Concerts,2184.7,UPI_GPay,0
+TXN_SRINITHYA_0211,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-06-30 18:16:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4170.03,UPI_GPay,0
+TXN_SRINITHYA_0212,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 01:05:00,Transit,Uber Premier Rides Hyderabad,4872.17,UPI_GPay,0
+TXN_SRINITHYA_0213,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 02:11:00,Dining,Coffee Day Hitec City Tech Hub,3388.32,UPI_GPay,0
+TXN_SRINITHYA_0214,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 03:33:00,Entertainment,BookMyShow International Concerts,3465.72,UPI_GPay,0
+TXN_SRINITHYA_0215,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 09:21:00,Education Tech,Coursera / Udemy Deep Learning Courses,2629.13,UPI_GPay,0
+TXN_SRINITHYA_0216,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 13:27:00,Dining,Swiggy / Zomato Gourmet Diners,2657.75,UPI_GPay,0
+TXN_SRINITHYA_0217,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 16:46:00,Dining,Swiggy / Zomato Gourmet Diners,2943.11,UPI_GPay,0
+TXN_SRINITHYA_0218,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 16:49:00,Dining,Swiggy / Zomato Gourmet Diners,881.78,UPI_GPay,0
+TXN_SRINITHYA_0219,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 18:25:00,Dining,Coffee Day Hitec City Tech Hub,1231.72,Credit_Card,0
+TXN_SRINITHYA_0220,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 20:47:00,Dining,Swiggy / Zomato Gourmet Diners,4276.93,UPI_GPay,0
+TXN_SRINITHYA_0221,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 22:55:00,Dining,Coffee Day Hitec City Tech Hub,2505.12,UPI_GPay,0
+TXN_SRINITHYA_0222,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-01 23:34:00,Dining,Swiggy / Zomato Gourmet Diners,2745.3,UPI_GPay,0
+TXN_SRINITHYA_0223,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 00:14:00,Transit,Uber Premier Rides Hyderabad,3635.96,NetBanking,0
+TXN_SRINITHYA_0224,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 00:15:00,Transit,Uber Premier Rides Hyderabad,6233.79,Debit_Card,0
+TXN_SRINITHYA_0225,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 00:46:00,Dining,Coffee Day Hitec City Tech Hub,1866.05,UPI_GPay,0
+TXN_SRINITHYA_0226,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 01:22:00,Education Tech,Coursera / Udemy Deep Learning Courses,1748.24,UPI_GPay,0
+TXN_SRINITHYA_0227,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 05:53:00,Education Tech,Coursera / Udemy Deep Learning Courses,2632.71,UPI_GPay,0
+TXN_SRINITHYA_0228,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 07:59:00,Dining,Coffee Day Hitec City Tech Hub,1041.81,UPI_GPay,0
+TXN_SRINITHYA_0229,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 08:12:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2466.97,UPI_GPay,0
+TXN_SRINITHYA_0230,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 09:43:00,Dining,Swiggy / Zomato Gourmet Diners,2268.59,Credit_Card,0
+TXN_SRINITHYA_0231,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 10:37:00,Entertainment,BookMyShow International Concerts,2807.56,UPI_GPay,0
+TXN_SRINITHYA_0232,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 16:08:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1493.74,Debit_Card,0
+TXN_SRINITHYA_0233,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-02 17:23:00,Dining,Swiggy / Zomato Gourmet Diners,1554.57,UPI_GPay,0
+TXN_SRINITHYA_0234,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-03 02:22:00,Education Tech,Coursera / Udemy Deep Learning Courses,3695.21,Debit_Card,0
+TXN_SRINITHYA_0235,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-03 05:02:00,Dining,Coffee Day Hitec City Tech Hub,2114.12,Credit_Card,0
+TXN_SRINITHYA_0236,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-03 05:13:00,Electronics,Amazon Kindle & Academic Devices,3402.73,UPI_GPay,0
+TXN_SRINITHYA_0237,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-03 08:01:00,Electronics,Reliance Digital Tech Accessories,2284.61,UPI_GPay,0
+TXN_SRINITHYA_0238,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-03 08:43:00,Electronics,Reliance Digital Tech Accessories,1861.24,UPI_GPay,0
+TXN_SRINITHYA_0239,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-03 11:02:00,Education Tech,Coursera / Udemy Deep Learning Courses,2433.6,UPI_GPay,0
+TXN_SRINITHYA_0240,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-03 20:12:00,Electronics,Reliance Digital Tech Accessories,3216.35,UPI_GPay,0
+TXN_SRINITHYA_0241,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-03 21:23:00,Electronics,Amazon Kindle & Academic Devices,1295.62,Credit_Card,0
+TXN_SRINITHYA_0242,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-03 23:27:00,Transit,Uber Premier Rides Hyderabad,4761.67,UPI_GPay,0
+TXN_SRINITHYA_0243,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-03 23:50:00,Dining,Coffee Day Hitec City Tech Hub,2580.82,Debit_Card,0
+TXN_SRINITHYA_0244,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-04 06:04:00,Electronics,Reliance Digital Tech Accessories,2579.82,UPI_GPay,0
+TXN_SRINITHYA_0245,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-04 06:59:00,Entertainment,BookMyShow International Concerts,1589.08,NetBanking,0
+TXN_SRINITHYA_0246,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-04 07:53:00,Electronics,Amazon Kindle & Academic Devices,2581.95,UPI_GPay,0
+TXN_SRINITHYA_0247,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-04 09:32:00,Electronics,Reliance Digital Tech Accessories,2083.65,Credit_Card,0
+TXN_SRINITHYA_0248,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-04 14:12:00,Electronics,Amazon Kindle & Academic Devices,2579.88,UPI_GPay,0
+TXN_SRINITHYA_0249,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-04 15:25:00,Electronics,Amazon Kindle & Academic Devices,1845.11,UPI_GPay,0
+TXN_SRINITHYA_0250,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-04 16:14:00,Dining,Coffee Day Hitec City Tech Hub,3239.98,Debit_Card,0
+TXN_SRINITHYA_0251,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-04 20:51:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2216.4,UPI_GPay,0
+TXN_SRINITHYA_0252,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-05 00:54:00,Dining,Swiggy / Zomato Gourmet Diners,2372.39,Credit_Card,0
+TXN_SRINITHYA_0253,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-05 10:18:00,Electronics,Reliance Digital Tech Accessories,2153.21,Credit_Card,0
+TXN_SRINITHYA_0254,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-05 16:13:00,Electronics,Amazon Kindle & Academic Devices,3493.55,UPI_GPay,0
+TXN_SRINITHYA_0255,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-05 16:16:00,Transit,Uber Premier Rides Hyderabad,1934.85,UPI_GPay,0
+TXN_SRINITHYA_0256,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-05 18:55:00,Electronics,Reliance Digital Tech Accessories,3835.61,Credit_Card,0
+TXN_SRINITHYA_0257,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-05 21:00:00,Education Tech,Coursera / Udemy Deep Learning Courses,3073.92,UPI_GPay,0
+TXN_SRINITHYA_0258,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-05 23:26:00,Entertainment,BookMyShow International Concerts,2524.13,Credit_Card,0
+TXN_SRINITHYA_0259,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 01:11:00,Dining,Swiggy / Zomato Gourmet Diners,3492.42,Debit_Card,0
+TXN_SRINITHYA_0260,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 01:58:00,Transit,Uber Premier Rides Hyderabad,2034.75,UPI_GPay,0
+TXN_SRINITHYA_0261,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 03:23:00,Dining,Coffee Day Hitec City Tech Hub,7233.95,UPI_GPay,0
+TXN_SRINITHYA_0262,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 04:23:00,Entertainment,BookMyShow International Concerts,3264.68,Credit_Card,0
+TXN_SRINITHYA_0263,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 05:08:00,Entertainment,BookMyShow International Concerts,2476.96,UPI_GPay,0
+TXN_SRINITHYA_0264,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 08:11:00,Electronics,Reliance Digital Tech Accessories,1280.98,UPI_GPay,0
+TXN_SRINITHYA_0265,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 11:15:00,Education Tech,Coursera / Udemy Deep Learning Courses,3508.95,UPI_GPay,0
+TXN_SRINITHYA_0266,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 14:48:00,Education Tech,Coursera / Udemy Deep Learning Courses,2172.06,UPI_GPay,0
+TXN_SRINITHYA_0267,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 15:31:00,Electronics,Amazon Kindle & Academic Devices,1679.77,UPI_GPay,0
+TXN_SRINITHYA_0268,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 19:40:00,Dining,Swiggy / Zomato Gourmet Diners,2219.49,UPI_GPay,0
+TXN_SRINITHYA_0269,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 20:33:00,Dining,Swiggy / Zomato Gourmet Diners,2475.03,Credit_Card,0
+TXN_SRINITHYA_0270,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 21:09:00,Entertainment,BookMyShow International Concerts,2161.24,UPI_GPay,0
+TXN_SRINITHYA_0271,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-06 23:33:00,Electronics,Amazon Kindle & Academic Devices,2638.39,UPI_GPay,0
+TXN_SRINITHYA_0272,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-07 01:40:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1281.09,NetBanking,0
+TXN_SRINITHYA_0273,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-07 02:21:00,Dining,Coffee Day Hitec City Tech Hub,2542.99,Credit_Card,0
+TXN_SRINITHYA_0274,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-07 09:09:00,Transit,Uber Premier Rides Hyderabad,2065.73,Debit_Card,0
+TXN_SRINITHYA_0275,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-07 09:14:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1969.64,UPI_GPay,0
+TXN_SRINITHYA_0276,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-07 09:31:00,Electronics,Amazon Kindle & Academic Devices,3843.85,Credit_Card,0
+TXN_SRINITHYA_0277,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-07 10:31:00,Transit,Uber Premier Rides Hyderabad,2098.27,UPI_GPay,0
+TXN_SRINITHYA_0278,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-07 14:01:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3481.38,UPI_GPay,0
+TXN_SRINITHYA_0279,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-07 15:05:00,Electronics,Amazon Kindle & Academic Devices,1518.99,UPI_GPay,0
+TXN_SRINITHYA_0280,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-07 16:57:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3095.18,UPI_GPay,0
+TXN_SRINITHYA_0281,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-08 02:36:00,Electronics,Reliance Digital Tech Accessories,1993.68,Debit_Card,0
+TXN_SRINITHYA_0282,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-08 03:26:00,Transit,Uber Premier Rides Hyderabad,2618.24,UPI_GPay,0
+TXN_SRINITHYA_0283,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-08 03:46:00,Electronics,Amazon Kindle & Academic Devices,1751.56,Credit_Card,0
+TXN_SRINITHYA_0284,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-08 04:06:00,Dining,Swiggy / Zomato Gourmet Diners,2792.42,Credit_Card,0
+TXN_SRINITHYA_0285,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-08 10:48:00,Transit,Uber Premier Rides Hyderabad,1041.74,Credit_Card,0
+TXN_SRINITHYA_0286,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-08 11:10:00,Dining,Coffee Day Hitec City Tech Hub,1719.52,UPI_GPay,0
+TXN_SRINITHYA_0287,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-08 13:47:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,44160.95,Credit_Card,1
+TXN_SRINITHYA_0288,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-08 14:12:00,Education Tech,Coursera / Udemy Deep Learning Courses,4490.64,UPI_GPay,0
+TXN_SRINITHYA_0289,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-08 23:07:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2836.02,UPI_GPay,0
+TXN_SRINITHYA_0290,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-09 03:04:00,Electronics,Reliance Digital Tech Accessories,1458.4,NetBanking,0
+TXN_SRINITHYA_0291,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-09 08:00:00,Education Tech,Coursera / Udemy Deep Learning Courses,1047.97,UPI_GPay,0
+TXN_SRINITHYA_0292,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-09 10:46:00,Dining,Coffee Day Hitec City Tech Hub,3937.12,UPI_GPay,0
+TXN_SRINITHYA_0293,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-09 10:56:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,33925.49,Debit_Card,1
+TXN_SRINITHYA_0294,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-09 14:30:00,Entertainment,BookMyShow International Concerts,2729.4,UPI_GPay,0
+TXN_SRINITHYA_0295,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-09 15:03:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2064.3,Credit_Card,0
+TXN_SRINITHYA_0296,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-09 15:48:00,Education Tech,Coursera / Udemy Deep Learning Courses,3776.43,UPI_GPay,0
+TXN_SRINITHYA_0297,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-09 17:21:00,Electronics,Reliance Digital Tech Accessories,2684.39,UPI_GPay,0
+TXN_SRINITHYA_0298,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-09 22:45:00,Transit,Uber Premier Rides Hyderabad,1693.33,UPI_GPay,0
+TXN_SRINITHYA_0299,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-10 02:48:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,5151.75,UPI_GPay,0
+TXN_SRINITHYA_0300,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-10 06:44:00,Entertainment,BookMyShow International Concerts,2262.51,UPI_GPay,0
+TXN_SRINITHYA_0301,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-10 09:02:00,Transit,Uber Premier Rides Hyderabad,4556.49,Credit_Card,0
+TXN_SRINITHYA_0302,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-10 09:39:00,Electronics,Reliance Digital Tech Accessories,1744.98,UPI_GPay,0
+TXN_SRINITHYA_0303,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-10 13:47:00,Dining,Swiggy / Zomato Gourmet Diners,3673.07,Debit_Card,0
+TXN_SRINITHYA_0304,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-10 23:09:00,Education Tech,Coursera / Udemy Deep Learning Courses,3789.75,UPI_GPay,0
+TXN_SRINITHYA_0305,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 00:31:00,Entertainment,BookMyShow International Concerts,6930.19,UPI_GPay,0
+TXN_SRINITHYA_0306,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 03:28:00,Transit,Uber Premier Rides Hyderabad,1618.31,Credit_Card,0
+TXN_SRINITHYA_0307,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 03:44:00,Dining,Swiggy / Zomato Gourmet Diners,2555.95,Debit_Card,0
+TXN_SRINITHYA_0308,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 07:49:00,Electronics,Amazon Kindle & Academic Devices,3426.21,UPI_GPay,0
+TXN_SRINITHYA_0309,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 07:58:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2110.02,Credit_Card,0
+TXN_SRINITHYA_0310,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 11:30:00,Entertainment,BookMyShow International Concerts,2813.56,Debit_Card,0
+TXN_SRINITHYA_0311,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 12:26:00,Dining,Coffee Day Hitec City Tech Hub,2012.35,UPI_GPay,0
+TXN_SRINITHYA_0312,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 12:45:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1956.2,Debit_Card,0
+TXN_SRINITHYA_0313,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 13:32:00,Transit,Uber Premier Rides Hyderabad,2865.88,UPI_GPay,0
+TXN_SRINITHYA_0314,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 17:55:00,Dining,Swiggy / Zomato Gourmet Diners,2079.5,Credit_Card,0
+TXN_SRINITHYA_0315,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 18:54:00,Dining,Swiggy / Zomato Gourmet Diners,2965.06,Debit_Card,0
+TXN_SRINITHYA_0316,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 18:55:00,Dining,Swiggy / Zomato Gourmet Diners,1828.53,Credit_Card,0
+TXN_SRINITHYA_0317,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-11 23:10:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,5014.78,UPI_GPay,0
+TXN_SRINITHYA_0318,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-12 01:35:00,Entertainment,BookMyShow International Concerts,1384.26,UPI_GPay,0
+TXN_SRINITHYA_0319,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-12 06:27:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4126.08,Debit_Card,0
+TXN_SRINITHYA_0320,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-12 07:46:00,Transit,Uber Premier Rides Hyderabad,4837.8,UPI_GPay,0
+TXN_SRINITHYA_0321,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-12 09:40:00,Electronics,Reliance Digital Tech Accessories,2186.25,UPI_GPay,0
+TXN_SRINITHYA_0322,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-12 16:49:00,Dining,Swiggy / Zomato Gourmet Diners,1935.41,Credit_Card,0
+TXN_SRINITHYA_0323,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-12 17:33:00,Electronics,Reliance Digital Tech Accessories,1293.76,UPI_GPay,0
+TXN_SRINITHYA_0324,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-12 19:24:00,Entertainment,BookMyShow International Concerts,2104.04,UPI_GPay,0
+TXN_SRINITHYA_0325,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-12 20:34:00,Dining,Swiggy / Zomato Gourmet Diners,3507.37,UPI_GPay,0
+TXN_SRINITHYA_0326,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-12 22:29:00,Electronics,Amazon Kindle & Academic Devices,1766.18,UPI_GPay,0
+TXN_SRINITHYA_0327,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-13 00:49:00,Education Tech,Coursera / Udemy Deep Learning Courses,1546.56,Credit_Card,0
+TXN_SRINITHYA_0328,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-13 06:09:00,Dining,Swiggy / Zomato Gourmet Diners,1086.41,Credit_Card,0
+TXN_SRINITHYA_0329,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-13 07:50:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1817.81,UPI_GPay,0
+TXN_SRINITHYA_0330,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-13 10:59:00,Electronics,Amazon Kindle & Academic Devices,4106.21,Debit_Card,0
+TXN_SRINITHYA_0331,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-13 11:03:00,Electronics,Reliance Digital Tech Accessories,1765.49,Debit_Card,0
+TXN_SRINITHYA_0332,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-13 11:47:00,Entertainment,BookMyShow International Concerts,1931.15,Credit_Card,0
+TXN_SRINITHYA_0333,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-13 12:24:00,Dining,Coffee Day Hitec City Tech Hub,3388.97,UPI_GPay,0
+TXN_SRINITHYA_0334,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-13 15:47:00,Electronics,Amazon Kindle & Academic Devices,1420.75,Credit_Card,0
+TXN_SRINITHYA_0335,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-13 17:16:00,Electronics,Reliance Digital Tech Accessories,3374.96,UPI_GPay,0
+TXN_SRINITHYA_0336,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-14 06:00:00,Transit,Uber Premier Rides Hyderabad,3090.73,Credit_Card,0
+TXN_SRINITHYA_0337,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-14 07:55:00,Education Tech,Coursera / Udemy Deep Learning Courses,2125.43,Credit_Card,0
+TXN_SRINITHYA_0338,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-14 11:47:00,Transit,Uber Premier Rides Hyderabad,1342.64,UPI_GPay,0
+TXN_SRINITHYA_0339,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-14 12:35:00,Electronics,Amazon Kindle & Academic Devices,1465.04,Debit_Card,0
+TXN_SRINITHYA_0340,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-14 16:05:00,Electronics,Reliance Digital Tech Accessories,3309.09,UPI_GPay,0
+TXN_SRINITHYA_0341,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-14 17:24:00,Electronics,Amazon Kindle & Academic Devices,1582.23,Credit_Card,0
+TXN_SRINITHYA_0342,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-14 23:28:00,Electronics,Amazon Kindle & Academic Devices,1493.54,UPI_GPay,0
+TXN_SRINITHYA_0343,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-15 00:00:00,Education Tech,Coursera / Udemy Deep Learning Courses,4414.36,Debit_Card,0
+TXN_SRINITHYA_0344,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-15 01:54:00,Education Tech,Coursera / Udemy Deep Learning Courses,1865.88,UPI_GPay,0
+TXN_SRINITHYA_0345,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-15 14:39:00,Electronics,Reliance Digital Tech Accessories,4468.98,UPI_GPay,0
+TXN_SRINITHYA_0346,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-15 15:21:00,Dining,Swiggy / Zomato Gourmet Diners,2574.53,UPI_GPay,0
+TXN_SRINITHYA_0347,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-15 20:28:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3424.48,UPI_GPay,0
+TXN_SRINITHYA_0348,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-15 20:56:00,Dining,Swiggy / Zomato Gourmet Diners,3432.63,UPI_GPay,0
+TXN_SRINITHYA_0349,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 01:02:00,Dining,Coffee Day Hitec City Tech Hub,1649.46,Credit_Card,0
+TXN_SRINITHYA_0350,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 03:06:00,Dining,Coffee Day Hitec City Tech Hub,2358.56,UPI_GPay,0
+TXN_SRINITHYA_0351,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 03:49:00,Entertainment,BookMyShow International Concerts,1741.15,UPI_GPay,0
+TXN_SRINITHYA_0352,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 05:29:00,Electronics,Amazon Kindle & Academic Devices,5547.29,UPI_GPay,0
+TXN_SRINITHYA_0353,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 05:52:00,Entertainment,BookMyShow International Concerts,1362.18,Debit_Card,0
+TXN_SRINITHYA_0354,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 06:40:00,Education Tech,Coursera / Udemy Deep Learning Courses,1320.52,Credit_Card,0
+TXN_SRINITHYA_0355,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 06:57:00,Entertainment,BookMyShow International Concerts,2269.63,Credit_Card,0
+TXN_SRINITHYA_0356,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 13:57:00,Electronics,Amazon Kindle & Academic Devices,3277.68,Credit_Card,0
+TXN_SRINITHYA_0357,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 14:17:00,Entertainment,BookMyShow International Concerts,2589.26,UPI_GPay,0
+TXN_SRINITHYA_0358,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 17:05:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3925.95,UPI_GPay,0
+TXN_SRINITHYA_0359,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 17:42:00,Electronics,Amazon Kindle & Academic Devices,2719.84,UPI_GPay,0
+TXN_SRINITHYA_0360,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-16 18:25:00,Electronics,Reliance Digital Tech Accessories,1266.49,Debit_Card,0
+TXN_SRINITHYA_0361,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-17 01:47:00,Dining,Coffee Day Hitec City Tech Hub,1857.77,NetBanking,0
+TXN_SRINITHYA_0362,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-17 02:45:00,Dining,Coffee Day Hitec City Tech Hub,2772.74,UPI_GPay,0
+TXN_SRINITHYA_0363,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-17 05:37:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4110.05,UPI_GPay,0
+TXN_SRINITHYA_0364,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-17 07:19:00,Dining,Coffee Day Hitec City Tech Hub,2197.85,UPI_GPay,0
+TXN_SRINITHYA_0365,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-17 12:20:00,Electronics,Reliance Digital Tech Accessories,2194.33,UPI_GPay,0
+TXN_SRINITHYA_0366,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-17 14:17:00,Entertainment,BookMyShow International Concerts,2152.06,Credit_Card,0
+TXN_SRINITHYA_0367,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-17 15:57:00,Dining,Swiggy / Zomato Gourmet Diners,3441.76,UPI_GPay,0
+TXN_SRINITHYA_0368,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-17 19:08:00,Entertainment,BookMyShow International Concerts,2239.87,Debit_Card,0
+TXN_SRINITHYA_0369,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-17 19:16:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1501.69,UPI_GPay,0
+TXN_SRINITHYA_0370,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-18 07:15:00,Education Tech,Coursera / Udemy Deep Learning Courses,2218.49,Debit_Card,0
+TXN_SRINITHYA_0371,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-18 12:03:00,Dining,Swiggy / Zomato Gourmet Diners,987.8,Credit_Card,0
+TXN_SRINITHYA_0372,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-18 12:38:00,Electronics,Amazon Kindle & Academic Devices,2955.26,Credit_Card,0
+TXN_SRINITHYA_0373,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-18 14:39:00,Electronics,Amazon Kindle & Academic Devices,2890.29,Credit_Card,0
+TXN_SRINITHYA_0374,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-18 17:42:00,Entertainment,BookMyShow International Concerts,1254.58,Credit_Card,0
+TXN_SRINITHYA_0375,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-18 19:39:00,Dining,Swiggy / Zomato Gourmet Diners,1702.62,Credit_Card,0
+TXN_SRINITHYA_0376,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-19 03:56:00,Education Tech,Coursera / Udemy Deep Learning Courses,1912.25,Credit_Card,0
+TXN_SRINITHYA_0377,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-19 11:30:00,Electronics,Reliance Digital Tech Accessories,2201.94,Credit_Card,0
+TXN_SRINITHYA_0378,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-19 21:27:00,Transit,Uber Premier Rides Hyderabad,2298.7,NetBanking,0
+TXN_SRINITHYA_0379,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-20 07:57:00,Education Tech,Coursera / Udemy Deep Learning Courses,1327.53,Credit_Card,0
+TXN_SRINITHYA_0380,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-20 16:10:00,Transit,Uber Premier Rides Hyderabad,1150.23,Credit_Card,0
+TXN_SRINITHYA_0381,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-20 22:20:00,Electronics,Reliance Digital Tech Accessories,1768.38,Debit_Card,0
+TXN_SRINITHYA_0382,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-20 23:00:00,Dining,Swiggy / Zomato Gourmet Diners,1571.19,UPI_GPay,0
+TXN_SRINITHYA_0383,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-21 05:30:00,Electronics,Amazon Kindle & Academic Devices,2419.93,UPI_GPay,0
+TXN_SRINITHYA_0384,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-21 06:40:00,Electronics,Amazon Kindle & Academic Devices,2330.98,UPI_GPay,0
+TXN_SRINITHYA_0385,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-21 10:15:00,Electronics,Amazon Kindle & Academic Devices,5423.15,UPI_GPay,0
+TXN_SRINITHYA_0386,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-21 12:25:00,Electronics,Amazon Kindle & Academic Devices,3215.28,Debit_Card,0
+TXN_SRINITHYA_0387,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-21 20:06:00,Entertainment,BookMyShow International Concerts,1970.43,UPI_GPay,0
+TXN_SRINITHYA_0388,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-21 23:24:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3322.2,Credit_Card,0
+TXN_SRINITHYA_0389,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-22 01:37:00,Dining,Swiggy / Zomato Gourmet Diners,2336.75,UPI_GPay,0
+TXN_SRINITHYA_0390,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-22 02:16:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4391.5,UPI_GPay,0
+TXN_SRINITHYA_0391,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-22 02:40:00,Dining,Swiggy / Zomato Gourmet Diners,1319.14,Credit_Card,0
+TXN_SRINITHYA_0392,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-22 05:22:00,Dining,Swiggy / Zomato Gourmet Diners,2144.91,Debit_Card,0
+TXN_SRINITHYA_0393,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-22 15:26:00,Electronics,Reliance Digital Tech Accessories,1442.53,UPI_GPay,0
+TXN_SRINITHYA_0394,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-22 17:17:00,Education Tech,Coursera / Udemy Deep Learning Courses,2599.83,Credit_Card,0
+TXN_SRINITHYA_0395,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-22 18:18:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2651.08,Credit_Card,0
+TXN_SRINITHYA_0396,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-22 20:41:00,Entertainment,BookMyShow International Concerts,3016.13,UPI_GPay,0
+TXN_SRINITHYA_0397,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 00:31:00,Entertainment,BookMyShow International Concerts,2241.2,UPI_GPay,0
+TXN_SRINITHYA_0398,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 01:33:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1124.44,NetBanking,0
+TXN_SRINITHYA_0399,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 03:53:00,Electronics,Amazon Kindle & Academic Devices,2837.92,UPI_GPay,0
+TXN_SRINITHYA_0400,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 04:28:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2494.07,UPI_GPay,0
+TXN_SRINITHYA_0401,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 05:51:00,Entertainment,BookMyShow International Concerts,3193.4,UPI_GPay,0
+TXN_SRINITHYA_0402,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 07:50:00,Electronics,Amazon Kindle & Academic Devices,2284.22,Credit_Card,0
+TXN_SRINITHYA_0403,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 11:11:00,Electronics,Reliance Digital Tech Accessories,3983.0,Credit_Card,0
+TXN_SRINITHYA_0404,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 17:01:00,Education Tech,Coursera / Udemy Deep Learning Courses,3600.53,Credit_Card,0
+TXN_SRINITHYA_0405,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 18:01:00,Dining,Swiggy / Zomato Gourmet Diners,1801.66,UPI_GPay,0
+TXN_SRINITHYA_0406,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 18:36:00,Entertainment,BookMyShow International Concerts,1959.55,Debit_Card,0
+TXN_SRINITHYA_0407,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 20:21:00,Transit,Uber Premier Rides Hyderabad,1517.43,UPI_GPay,0
+TXN_SRINITHYA_0408,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 20:33:00,Electronics,Reliance Digital Tech Accessories,2317.6,UPI_GPay,0
+TXN_SRINITHYA_0409,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-23 22:26:00,Entertainment,BookMyShow International Concerts,906.31,UPI_GPay,0
+TXN_SRINITHYA_0410,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-24 01:55:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,46002.98,UPI_GPay,1
+TXN_SRINITHYA_0411,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-24 04:25:00,Dining,Swiggy / Zomato Gourmet Diners,1866.57,Debit_Card,0
+TXN_SRINITHYA_0412,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-24 04:32:00,Transit,Uber Premier Rides Hyderabad,1921.33,Debit_Card,0
+TXN_SRINITHYA_0413,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-24 12:26:00,Electronics,Reliance Digital Tech Accessories,2968.47,UPI_GPay,0
+TXN_SRINITHYA_0414,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-24 12:27:00,Dining,Swiggy / Zomato Gourmet Diners,2895.77,Debit_Card,0
+TXN_SRINITHYA_0415,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-24 21:59:00,Dining,Coffee Day Hitec City Tech Hub,1933.69,Credit_Card,0
+TXN_SRINITHYA_0416,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-25 01:19:00,Dining,Swiggy / Zomato Gourmet Diners,1908.44,Debit_Card,0
+TXN_SRINITHYA_0417,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-25 03:27:00,Dining,Coffee Day Hitec City Tech Hub,2725.46,UPI_GPay,0
+TXN_SRINITHYA_0418,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-25 07:12:00,Entertainment,BookMyShow International Concerts,3435.62,Credit_Card,0
+TXN_SRINITHYA_0419,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-25 15:48:00,Dining,Swiggy / Zomato Gourmet Diners,2848.04,UPI_GPay,0
+TXN_SRINITHYA_0420,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-25 18:23:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1378.96,Debit_Card,0
+TXN_SRINITHYA_0421,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-25 18:33:00,Entertainment,BookMyShow International Concerts,4367.61,UPI_GPay,0
+TXN_SRINITHYA_0422,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-25 20:49:00,Electronics,Amazon Kindle & Academic Devices,3801.63,Credit_Card,0
+TXN_SRINITHYA_0423,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-26 09:20:00,Transit,Uber Premier Rides Hyderabad,1611.23,UPI_GPay,0
+TXN_SRINITHYA_0424,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-26 13:05:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2285.97,UPI_GPay,0
+TXN_SRINITHYA_0425,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-26 13:34:00,Electronics,Reliance Digital Tech Accessories,2477.15,Credit_Card,0
+TXN_SRINITHYA_0426,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-26 16:35:00,Education Tech,Coursera / Udemy Deep Learning Courses,4849.73,Debit_Card,0
+TXN_SRINITHYA_0427,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-26 19:04:00,Entertainment,BookMyShow International Concerts,2170.68,Credit_Card,0
+TXN_SRINITHYA_0428,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-26 22:48:00,Entertainment,BookMyShow International Concerts,2623.84,Debit_Card,0
+TXN_SRINITHYA_0429,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-27 00:12:00,Entertainment,BookMyShow International Concerts,2961.5,UPI_GPay,0
+TXN_SRINITHYA_0430,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-27 00:33:00,Education Tech,Coursera / Udemy Deep Learning Courses,2201.64,UPI_GPay,0
+TXN_SRINITHYA_0431,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-27 06:35:00,Dining,Swiggy / Zomato Gourmet Diners,2305.41,UPI_GPay,0
+TXN_SRINITHYA_0432,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-27 06:56:00,Electronics,Reliance Digital Tech Accessories,2469.29,UPI_GPay,0
+TXN_SRINITHYA_0433,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-27 07:36:00,Transit,Uber Premier Rides Hyderabad,4094.32,Credit_Card,0
+TXN_SRINITHYA_0434,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-27 09:50:00,Electronics,Reliance Digital Tech Accessories,3847.53,Credit_Card,0
+TXN_SRINITHYA_0435,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-27 09:54:00,Dining,Coffee Day Hitec City Tech Hub,2634.24,Credit_Card,0
+TXN_SRINITHYA_0436,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-27 10:32:00,Dining,Coffee Day Hitec City Tech Hub,2980.67,Credit_Card,0
+TXN_SRINITHYA_0437,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-27 20:27:00,Dining,Coffee Day Hitec City Tech Hub,4496.42,Credit_Card,0
+TXN_SRINITHYA_0438,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-27 23:34:00,Electronics,Amazon Kindle & Academic Devices,1498.76,UPI_GPay,0
+TXN_SRINITHYA_0439,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 05:01:00,Electronics,Reliance Digital Tech Accessories,2359.04,UPI_GPay,0
+TXN_SRINITHYA_0440,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 05:01:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1893.72,Credit_Card,0
+TXN_SRINITHYA_0441,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 09:07:00,Education Tech,Coursera / Udemy Deep Learning Courses,3086.98,UPI_GPay,0
+TXN_SRINITHYA_0442,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 11:02:00,Electronics,Reliance Digital Tech Accessories,3228.8,UPI_GPay,0
+TXN_SRINITHYA_0443,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 17:03:00,Dining,Coffee Day Hitec City Tech Hub,2032.21,UPI_GPay,0
+TXN_SRINITHYA_0444,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 19:10:00,Entertainment,BookMyShow International Concerts,3545.9,Credit_Card,0
+TXN_SRINITHYA_0445,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 19:46:00,Electronics,Reliance Digital Tech Accessories,1789.23,UPI_GPay,0
+TXN_SRINITHYA_0446,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 20:57:00,Dining,Swiggy / Zomato Gourmet Diners,1790.97,Credit_Card,0
+TXN_SRINITHYA_0447,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 21:34:00,Education Tech,Coursera / Udemy Deep Learning Courses,3254.5,Credit_Card,0
+TXN_SRINITHYA_0448,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 22:14:00,Education Tech,Coursera / Udemy Deep Learning Courses,2775.77,UPI_GPay,0
+TXN_SRINITHYA_0449,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-28 22:51:00,Dining,Coffee Day Hitec City Tech Hub,2997.35,Credit_Card,0
+TXN_SRINITHYA_0450,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 00:06:00,Entertainment,BookMyShow International Concerts,2089.34,Credit_Card,0
+TXN_SRINITHYA_0451,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 00:37:00,Transit,Uber Premier Rides Hyderabad,1820.2,Credit_Card,0
+TXN_SRINITHYA_0452,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 02:04:00,Education Tech,Coursera / Udemy Deep Learning Courses,1885.89,Credit_Card,0
+TXN_SRINITHYA_0453,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 02:37:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2510.07,UPI_GPay,0
+TXN_SRINITHYA_0454,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 02:41:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1389.02,Credit_Card,0
+TXN_SRINITHYA_0455,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 05:39:00,Electronics,Reliance Digital Tech Accessories,4284.1,UPI_GPay,0
+TXN_SRINITHYA_0456,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 06:39:00,Electronics,Amazon Kindle & Academic Devices,1817.74,Debit_Card,0
+TXN_SRINITHYA_0457,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 08:57:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3022.38,Debit_Card,0
+TXN_SRINITHYA_0458,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 11:36:00,Dining,Swiggy / Zomato Gourmet Diners,4300.11,Credit_Card,0
+TXN_SRINITHYA_0459,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 11:37:00,Entertainment,BookMyShow International Concerts,1598.2,UPI_GPay,0
+TXN_SRINITHYA_0460,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 14:01:00,Dining,Swiggy / Zomato Gourmet Diners,2146.2,UPI_GPay,0
+TXN_SRINITHYA_0461,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 14:23:00,Dining,Swiggy / Zomato Gourmet Diners,1420.81,UPI_GPay,0
+TXN_SRINITHYA_0462,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 14:30:00,Electronics,Reliance Digital Tech Accessories,6105.61,UPI_GPay,0
+TXN_SRINITHYA_0463,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 14:31:00,Dining,Swiggy / Zomato Gourmet Diners,5855.09,UPI_GPay,0
+TXN_SRINITHYA_0464,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-29 20:31:00,Transit,Uber Premier Rides Hyderabad,3031.98,UPI_GPay,0
+TXN_SRINITHYA_0465,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-30 01:01:00,Education Tech,Coursera / Udemy Deep Learning Courses,4580.33,UPI_GPay,0
+TXN_SRINITHYA_0466,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-30 04:20:00,Education Tech,Coursera / Udemy Deep Learning Courses,1825.2,NetBanking,0
+TXN_SRINITHYA_0467,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-30 09:06:00,Transit,Uber Premier Rides Hyderabad,2570.21,UPI_GPay,0
+TXN_SRINITHYA_0468,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-30 09:21:00,Education Tech,Coursera / Udemy Deep Learning Courses,3868.12,Debit_Card,0
+TXN_SRINITHYA_0469,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-30 10:02:00,Electronics,Reliance Digital Tech Accessories,2719.39,Debit_Card,0
+TXN_SRINITHYA_0470,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-30 11:32:00,Electronics,Amazon Kindle & Academic Devices,2228.83,UPI_GPay,0
+TXN_SRINITHYA_0471,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-30 12:01:00,Dining,Swiggy / Zomato Gourmet Diners,2523.06,Credit_Card,0
+TXN_SRINITHYA_0472,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-30 12:11:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3327.02,UPI_GPay,0
+TXN_SRINITHYA_0473,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-30 12:39:00,Electronics,Amazon Kindle & Academic Devices,2079.65,Credit_Card,0
+TXN_SRINITHYA_0474,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-31 04:56:00,Electronics,Amazon Kindle & Academic Devices,2589.01,UPI_GPay,0
+TXN_SRINITHYA_0475,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-31 06:02:00,Dining,Swiggy / Zomato Gourmet Diners,1649.84,UPI_GPay,0
+TXN_SRINITHYA_0476,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-31 06:37:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1094.35,Credit_Card,0
+TXN_SRINITHYA_0477,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-31 12:31:00,Entertainment,BookMyShow International Concerts,2820.75,UPI_GPay,0
+TXN_SRINITHYA_0478,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-31 14:19:00,Electronics,Amazon Kindle & Academic Devices,1457.91,Credit_Card,0
+TXN_SRINITHYA_0479,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-31 14:43:00,Dining,Coffee Day Hitec City Tech Hub,4065.75,UPI_GPay,0
+TXN_SRINITHYA_0480,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-07-31 20:36:00,Electronics,Amazon Kindle & Academic Devices,1837.08,UPI_GPay,0
+TXN_SRINITHYA_0481,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 03:05:00,Education Tech,Coursera / Udemy Deep Learning Courses,1314.86,UPI_GPay,0
+TXN_SRINITHYA_0482,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 05:43:00,Education Tech,Coursera / Udemy Deep Learning Courses,3707.81,UPI_GPay,0
+TXN_SRINITHYA_0483,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 05:47:00,Dining,Swiggy / Zomato Gourmet Diners,1814.16,UPI_GPay,0
+TXN_SRINITHYA_0484,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 06:33:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2924.02,UPI_GPay,0
+TXN_SRINITHYA_0485,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 11:03:00,Dining,Coffee Day Hitec City Tech Hub,1357.92,UPI_GPay,0
+TXN_SRINITHYA_0486,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 14:49:00,Education Tech,Coursera / Udemy Deep Learning Courses,3322.55,Debit_Card,0
+TXN_SRINITHYA_0487,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 15:03:00,Electronics,Reliance Digital Tech Accessories,2275.99,UPI_GPay,0
+TXN_SRINITHYA_0488,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 17:31:00,Transit,Uber Premier Rides Hyderabad,3742.59,Credit_Card,0
+TXN_SRINITHYA_0489,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 18:06:00,Entertainment,BookMyShow International Concerts,2571.49,UPI_GPay,0
+TXN_SRINITHYA_0490,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 21:36:00,Dining,Coffee Day Hitec City Tech Hub,1392.06,Debit_Card,0
+TXN_SRINITHYA_0491,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-01 22:48:00,Dining,Coffee Day Hitec City Tech Hub,3284.61,UPI_GPay,0
+TXN_SRINITHYA_0492,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-02 04:57:00,Entertainment,BookMyShow International Concerts,5228.79,UPI_GPay,0
+TXN_SRINITHYA_0493,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-02 10:39:00,Electronics,Reliance Digital Tech Accessories,2260.61,UPI_GPay,0
+TXN_SRINITHYA_0494,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-02 12:19:00,Electronics,Reliance Digital Tech Accessories,3742.25,UPI_GPay,0
+TXN_SRINITHYA_0495,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-02 14:20:00,Dining,Coffee Day Hitec City Tech Hub,2933.51,Credit_Card,0
+TXN_SRINITHYA_0496,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-02 14:24:00,Entertainment,BookMyShow International Concerts,2334.05,UPI_GPay,0
+TXN_SRINITHYA_0497,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-02 17:37:00,Electronics,Amazon Kindle & Academic Devices,2437.99,NetBanking,0
+TXN_SRINITHYA_0498,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 00:53:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1472.87,UPI_GPay,0
+TXN_SRINITHYA_0499,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 01:23:00,Transit,Uber Premier Rides Hyderabad,1771.22,UPI_GPay,0
+TXN_SRINITHYA_0500,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 01:26:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2904.63,Credit_Card,0
+TXN_SRINITHYA_0501,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 03:29:00,Transit,Uber Premier Rides Hyderabad,2713.41,UPI_GPay,0
+TXN_SRINITHYA_0502,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 04:43:00,Entertainment,BookMyShow International Concerts,2376.48,Debit_Card,0
+TXN_SRINITHYA_0503,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 06:41:00,Dining,Swiggy / Zomato Gourmet Diners,5976.43,UPI_GPay,0
+TXN_SRINITHYA_0504,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 06:43:00,Dining,Swiggy / Zomato Gourmet Diners,1630.56,Credit_Card,0
+TXN_SRINITHYA_0505,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 14:56:00,Electronics,Reliance Digital Tech Accessories,2177.24,UPI_GPay,0
+TXN_SRINITHYA_0506,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 15:43:00,Electronics,Reliance Digital Tech Accessories,3127.55,Debit_Card,0
+TXN_SRINITHYA_0507,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 18:43:00,Electronics,Amazon Kindle & Academic Devices,3426.9,Credit_Card,0
+TXN_SRINITHYA_0508,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-03 20:22:00,Electronics,Amazon Kindle & Academic Devices,1197.46,UPI_GPay,0
+TXN_SRINITHYA_0509,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-04 02:19:00,Transit,Uber Premier Rides Hyderabad,3906.21,UPI_GPay,0
+TXN_SRINITHYA_0510,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-04 05:44:00,Transit,Uber Premier Rides Hyderabad,3809.05,UPI_GPay,0
+TXN_SRINITHYA_0511,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-04 05:48:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1723.56,NetBanking,0
+TXN_SRINITHYA_0512,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-04 11:22:00,Transit,Uber Premier Rides Hyderabad,1775.01,UPI_GPay,0
+TXN_SRINITHYA_0513,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-04 11:24:00,Electronics,Amazon Kindle & Academic Devices,2112.89,UPI_GPay,0
+TXN_SRINITHYA_0514,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-04 12:24:00,Electronics,Reliance Digital Tech Accessories,2756.44,UPI_GPay,0
+TXN_SRINITHYA_0515,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-04 16:42:00,Education Tech,Coursera / Udemy Deep Learning Courses,2497.62,UPI_GPay,0
+TXN_SRINITHYA_0516,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-04 19:30:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1338.11,Credit_Card,0
+TXN_SRINITHYA_0517,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-04 20:49:00,Dining,Coffee Day Hitec City Tech Hub,1834.5,NetBanking,0
+TXN_SRINITHYA_0518,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-04 21:38:00,Electronics,Amazon Kindle & Academic Devices,3376.91,UPI_GPay,0
+TXN_SRINITHYA_0519,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 00:20:00,Transit,Uber Premier Rides Hyderabad,7107.56,Debit_Card,0
+TXN_SRINITHYA_0520,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 00:23:00,Electronics,Amazon Kindle & Academic Devices,2538.48,UPI_GPay,0
+TXN_SRINITHYA_0521,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 05:10:00,Dining,Coffee Day Hitec City Tech Hub,3009.28,UPI_GPay,0
+TXN_SRINITHYA_0522,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 08:58:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2046.66,UPI_GPay,0
+TXN_SRINITHYA_0523,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 09:52:00,Electronics,Amazon Kindle & Academic Devices,1669.87,Credit_Card,0
+TXN_SRINITHYA_0524,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 12:36:00,Education Tech,Coursera / Udemy Deep Learning Courses,2156.92,NetBanking,0
+TXN_SRINITHYA_0525,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 13:09:00,Dining,Coffee Day Hitec City Tech Hub,1954.38,Debit_Card,0
+TXN_SRINITHYA_0526,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 16:01:00,Dining,Swiggy / Zomato Gourmet Diners,1826.32,UPI_GPay,0
+TXN_SRINITHYA_0527,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 17:31:00,Entertainment,BookMyShow International Concerts,1461.74,UPI_GPay,0
+TXN_SRINITHYA_0528,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 20:00:00,Electronics,Reliance Digital Tech Accessories,2320.02,UPI_GPay,0
+TXN_SRINITHYA_0529,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-05 21:18:00,Education Tech,Coursera / Udemy Deep Learning Courses,4085.87,Debit_Card,0
+TXN_SRINITHYA_0530,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 02:40:00,Dining,Coffee Day Hitec City Tech Hub,5774.04,Debit_Card,0
+TXN_SRINITHYA_0531,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 02:45:00,Electronics,Reliance Digital Tech Accessories,2104.94,Credit_Card,0
+TXN_SRINITHYA_0532,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 03:42:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1820.8,UPI_GPay,0
+TXN_SRINITHYA_0533,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 03:54:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2325.85,UPI_GPay,0
+TXN_SRINITHYA_0534,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 05:39:00,Electronics,Amazon Kindle & Academic Devices,2463.54,UPI_GPay,0
+TXN_SRINITHYA_0535,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 05:54:00,Transit,Uber Premier Rides Hyderabad,2155.66,UPI_GPay,0
+TXN_SRINITHYA_0536,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 06:06:00,Electronics,Reliance Digital Tech Accessories,1036.88,UPI_GPay,0
+TXN_SRINITHYA_0537,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 06:16:00,Entertainment,BookMyShow International Concerts,4262.84,UPI_GPay,0
+TXN_SRINITHYA_0538,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 06:41:00,Dining,Swiggy / Zomato Gourmet Diners,2228.28,UPI_GPay,0
+TXN_SRINITHYA_0539,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 07:26:00,Electronics,Amazon Kindle & Academic Devices,3568.25,Debit_Card,0
+TXN_SRINITHYA_0540,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 08:17:00,Dining,Swiggy / Zomato Gourmet Diners,2942.99,Credit_Card,0
+TXN_SRINITHYA_0541,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 09:47:00,Electronics,Reliance Digital Tech Accessories,2272.36,UPI_GPay,0
+TXN_SRINITHYA_0542,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 10:51:00,Transit,Uber Premier Rides Hyderabad,2926.02,UPI_GPay,0
+TXN_SRINITHYA_0543,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 13:36:00,Transit,Uber Premier Rides Hyderabad,2075.12,UPI_GPay,0
+TXN_SRINITHYA_0544,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 15:16:00,Education Tech,Coursera / Udemy Deep Learning Courses,5132.28,Credit_Card,0
+TXN_SRINITHYA_0545,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 15:31:00,Dining,Coffee Day Hitec City Tech Hub,2176.68,Credit_Card,0
+TXN_SRINITHYA_0546,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 17:46:00,Electronics,Amazon Kindle & Academic Devices,906.75,Credit_Card,0
+TXN_SRINITHYA_0547,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-06 18:21:00,Entertainment,BookMyShow International Concerts,2342.91,Credit_Card,0
+TXN_SRINITHYA_0548,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-07 01:52:00,Education Tech,Coursera / Udemy Deep Learning Courses,2535.33,UPI_GPay,0
+TXN_SRINITHYA_0549,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-07 03:47:00,Dining,Coffee Day Hitec City Tech Hub,2722.71,UPI_GPay,0
+TXN_SRINITHYA_0550,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-07 06:30:00,Education Tech,Coursera / Udemy Deep Learning Courses,2164.06,UPI_GPay,0
+TXN_SRINITHYA_0551,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-07 11:24:00,Dining,Coffee Day Hitec City Tech Hub,2870.12,UPI_GPay,0
+TXN_SRINITHYA_0552,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-07 14:59:00,Education Tech,Coursera / Udemy Deep Learning Courses,1641.09,Credit_Card,0
+TXN_SRINITHYA_0553,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-07 16:50:00,Education Tech,Coursera / Udemy Deep Learning Courses,2613.61,UPI_GPay,0
+TXN_SRINITHYA_0554,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-07 19:37:00,Entertainment,BookMyShow International Concerts,2432.3,UPI_GPay,0
+TXN_SRINITHYA_0555,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-08 07:18:00,Entertainment,BookMyShow International Concerts,2471.26,UPI_GPay,0
+TXN_SRINITHYA_0556,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-08 08:01:00,Transit,Uber Premier Rides Hyderabad,1652.28,NetBanking,0
+TXN_SRINITHYA_0557,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-08 08:22:00,Electronics,Amazon Kindle & Academic Devices,959.88,UPI_GPay,0
+TXN_SRINITHYA_0558,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-08 10:31:00,Education Tech,Coursera / Udemy Deep Learning Courses,2280.36,Credit_Card,0
+TXN_SRINITHYA_0559,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-08 12:15:00,Dining,Swiggy / Zomato Gourmet Diners,3163.95,UPI_GPay,0
+TXN_SRINITHYA_0560,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-08 16:02:00,Electronics,Amazon Kindle & Academic Devices,2166.35,UPI_GPay,0
+TXN_SRINITHYA_0561,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-08 20:20:00,Electronics,Amazon Kindle & Academic Devices,3736.66,UPI_GPay,0
+TXN_SRINITHYA_0562,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-08 21:50:00,Electronics,Amazon Kindle & Academic Devices,1874.21,Credit_Card,0
+TXN_SRINITHYA_0563,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-09 00:23:00,Electronics,Reliance Digital Tech Accessories,1648.87,UPI_GPay,0
+TXN_SRINITHYA_0564,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-09 01:15:00,Entertainment,BookMyShow International Concerts,1380.19,Debit_Card,0
+TXN_SRINITHYA_0565,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-09 01:57:00,Entertainment,BookMyShow International Concerts,1832.53,UPI_GPay,0
+TXN_SRINITHYA_0566,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-09 06:35:00,Dining,Swiggy / Zomato Gourmet Diners,5705.85,UPI_GPay,0
+TXN_SRINITHYA_0567,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-09 12:50:00,Electronics,Reliance Digital Tech Accessories,5503.52,Debit_Card,0
+TXN_SRINITHYA_0568,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-09 16:19:00,Electronics,Reliance Digital Tech Accessories,2323.94,UPI_GPay,0
+TXN_SRINITHYA_0569,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-09 20:21:00,Electronics,Reliance Digital Tech Accessories,1790.72,Credit_Card,0
+TXN_SRINITHYA_0570,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-09 22:09:00,Entertainment,BookMyShow International Concerts,3205.2,Credit_Card,0
+TXN_SRINITHYA_0571,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-09 23:15:00,Electronics,Reliance Digital Tech Accessories,2520.62,UPI_GPay,0
+TXN_SRINITHYA_0572,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-10 00:43:00,Entertainment,BookMyShow International Concerts,3338.07,Credit_Card,0
+TXN_SRINITHYA_0573,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-10 01:14:00,Dining,Coffee Day Hitec City Tech Hub,3556.88,UPI_GPay,0
+TXN_SRINITHYA_0574,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-10 04:44:00,Dining,Swiggy / Zomato Gourmet Diners,1457.83,UPI_GPay,0
+TXN_SRINITHYA_0575,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-10 05:57:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2380.51,UPI_GPay,0
+TXN_SRINITHYA_0576,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-10 06:00:00,Transit,Uber Premier Rides Hyderabad,5629.32,Debit_Card,0
+TXN_SRINITHYA_0577,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-10 06:34:00,Transit,Uber Premier Rides Hyderabad,5417.79,UPI_GPay,0
+TXN_SRINITHYA_0578,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-10 14:43:00,Electronics,Reliance Digital Tech Accessories,2230.73,Credit_Card,0
+TXN_SRINITHYA_0579,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-10 19:17:00,Electronics,Amazon Kindle & Academic Devices,9000.0,Debit_Card,0
+TXN_SRINITHYA_0580,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-10 23:57:00,Transit,Uber Premier Rides Hyderabad,2234.04,UPI_GPay,0
+TXN_SRINITHYA_0581,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-11 01:10:00,Education Tech,Coursera / Udemy Deep Learning Courses,2919.33,UPI_GPay,0
+TXN_SRINITHYA_0582,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-11 05:32:00,Transit,Uber Premier Rides Hyderabad,3334.43,UPI_GPay,0
+TXN_SRINITHYA_0583,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-11 23:53:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,945.99,UPI_GPay,0
+TXN_SRINITHYA_0584,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-12 00:05:00,Transit,Uber Premier Rides Hyderabad,2139.6,UPI_GPay,0
+TXN_SRINITHYA_0585,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-12 07:10:00,Dining,Swiggy / Zomato Gourmet Diners,2815.01,Credit_Card,0
+TXN_SRINITHYA_0586,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-12 07:52:00,Electronics,Reliance Digital Tech Accessories,3302.58,NetBanking,0
+TXN_SRINITHYA_0587,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-12 18:48:00,Transit,Uber Premier Rides Hyderabad,895.31,Debit_Card,0
+TXN_SRINITHYA_0588,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-12 20:23:00,Transit,Uber Premier Rides Hyderabad,3318.77,Debit_Card,0
+TXN_SRINITHYA_0589,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-12 21:17:00,Transit,Uber Premier Rides Hyderabad,5379.58,Debit_Card,0
+TXN_SRINITHYA_0590,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-12 23:50:00,Electronics,Reliance Digital Tech Accessories,3201.35,UPI_GPay,0
+TXN_SRINITHYA_0591,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-13 00:29:00,Entertainment,BookMyShow International Concerts,1937.79,Credit_Card,0
+TXN_SRINITHYA_0592,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-13 05:34:00,Entertainment,BookMyShow International Concerts,1232.41,Debit_Card,0
+TXN_SRINITHYA_0593,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-13 07:16:00,Transit,Uber Premier Rides Hyderabad,1186.7,UPI_GPay,0
+TXN_SRINITHYA_0594,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-13 09:12:00,Education Tech,Coursera / Udemy Deep Learning Courses,2813.61,NetBanking,0
+TXN_SRINITHYA_0595,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-13 10:37:00,Electronics,Amazon Kindle & Academic Devices,1566.6,UPI_GPay,0
+TXN_SRINITHYA_0596,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-13 12:30:00,Dining,Swiggy / Zomato Gourmet Diners,3514.43,Credit_Card,0
+TXN_SRINITHYA_0597,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-13 15:58:00,Dining,Swiggy / Zomato Gourmet Diners,1210.01,Credit_Card,0
+TXN_SRINITHYA_0598,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-13 20:05:00,Transit,Uber Premier Rides Hyderabad,1502.41,NetBanking,0
+TXN_SRINITHYA_0599,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 01:08:00,Electronics,Amazon Kindle & Academic Devices,2894.32,UPI_GPay,0
+TXN_SRINITHYA_0600,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 07:37:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1506.35,Credit_Card,0
+TXN_SRINITHYA_0601,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 08:37:00,Electronics,Amazon Kindle & Academic Devices,2428.59,UPI_GPay,0
+TXN_SRINITHYA_0602,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 11:24:00,Transit,Uber Premier Rides Hyderabad,4314.93,UPI_GPay,0
+TXN_SRINITHYA_0603,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 11:51:00,Entertainment,BookMyShow International Concerts,2757.6,Credit_Card,0
+TXN_SRINITHYA_0604,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 13:07:00,Dining,Swiggy / Zomato Gourmet Diners,2043.69,Credit_Card,0
+TXN_SRINITHYA_0605,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 13:58:00,Dining,Swiggy / Zomato Gourmet Diners,1705.46,Credit_Card,0
+TXN_SRINITHYA_0606,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 15:24:00,Dining,Swiggy / Zomato Gourmet Diners,885.34,UPI_GPay,0
+TXN_SRINITHYA_0607,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 18:37:00,Electronics,Amazon Kindle & Academic Devices,4197.44,UPI_GPay,0
+TXN_SRINITHYA_0608,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 19:22:00,Entertainment,BookMyShow International Concerts,4170.42,Credit_Card,0
+TXN_SRINITHYA_0609,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-14 22:52:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2329.4,UPI_GPay,0
+TXN_SRINITHYA_0610,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-15 02:04:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,31758.73,UPI_GPay,1
+TXN_SRINITHYA_0611,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-15 04:12:00,Electronics,Amazon Kindle & Academic Devices,2728.16,NetBanking,0
+TXN_SRINITHYA_0612,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-15 15:18:00,Electronics,Reliance Digital Tech Accessories,2896.78,UPI_GPay,0
+TXN_SRINITHYA_0613,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-15 16:40:00,Dining,Coffee Day Hitec City Tech Hub,1698.55,Credit_Card,0
+TXN_SRINITHYA_0614,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-15 17:43:00,Transit,Uber Premier Rides Hyderabad,3460.84,UPI_GPay,0
+TXN_SRINITHYA_0615,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-16 03:26:00,Electronics,Amazon Kindle & Academic Devices,1461.74,UPI_GPay,0
+TXN_SRINITHYA_0616,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-16 11:54:00,Education Tech,Coursera / Udemy Deep Learning Courses,3302.26,UPI_GPay,0
+TXN_SRINITHYA_0617,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-16 12:33:00,Dining,Coffee Day Hitec City Tech Hub,1325.84,UPI_GPay,0
+TXN_SRINITHYA_0618,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-16 17:42:00,Transit,Uber Premier Rides Hyderabad,1388.29,UPI_GPay,0
+TXN_SRINITHYA_0619,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-16 20:12:00,Electronics,Reliance Digital Tech Accessories,2033.3,UPI_GPay,0
+TXN_SRINITHYA_0620,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-16 22:02:00,Entertainment,BookMyShow International Concerts,2262.8,UPI_GPay,0
+TXN_SRINITHYA_0621,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-17 06:17:00,Electronics,Reliance Digital Tech Accessories,3362.73,UPI_GPay,0
+TXN_SRINITHYA_0622,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-17 06:47:00,Education Tech,Coursera / Udemy Deep Learning Courses,4104.95,UPI_GPay,0
+TXN_SRINITHYA_0623,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-17 17:05:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4818.92,UPI_GPay,0
+TXN_SRINITHYA_0624,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-17 19:04:00,Electronics,Reliance Digital Tech Accessories,2529.48,UPI_GPay,0
+TXN_SRINITHYA_0625,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-18 03:35:00,Dining,Swiggy / Zomato Gourmet Diners,3938.51,Debit_Card,0
+TXN_SRINITHYA_0626,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-18 05:07:00,Electronics,Amazon Kindle & Academic Devices,1079.53,Credit_Card,0
+TXN_SRINITHYA_0627,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-18 06:25:00,Transit,Uber Premier Rides Hyderabad,1875.35,Credit_Card,0
+TXN_SRINITHYA_0628,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-18 09:06:00,Education Tech,Coursera / Udemy Deep Learning Courses,5023.92,UPI_GPay,0
+TXN_SRINITHYA_0629,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-18 13:50:00,Entertainment,BookMyShow International Concerts,1705.17,Debit_Card,0
+TXN_SRINITHYA_0630,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-18 15:18:00,Electronics,Reliance Digital Tech Accessories,2368.43,Credit_Card,0
+TXN_SRINITHYA_0631,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-18 18:23:00,Dining,Coffee Day Hitec City Tech Hub,2589.88,Credit_Card,0
+TXN_SRINITHYA_0632,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-18 20:55:00,Dining,Swiggy / Zomato Gourmet Diners,3265.85,UPI_GPay,0
+TXN_SRINITHYA_0633,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-18 21:01:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1569.33,NetBanking,0
+TXN_SRINITHYA_0634,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-18 22:35:00,Electronics,Amazon Kindle & Academic Devices,2666.41,Debit_Card,0
+TXN_SRINITHYA_0635,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 00:00:00,Dining,Coffee Day Hitec City Tech Hub,1593.59,Debit_Card,0
+TXN_SRINITHYA_0636,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 02:30:00,Dining,Swiggy / Zomato Gourmet Diners,3302.4,UPI_GPay,0
+TXN_SRINITHYA_0637,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 02:43:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2670.43,UPI_GPay,0
+TXN_SRINITHYA_0638,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 02:50:00,Electronics,Reliance Digital Tech Accessories,2769.87,UPI_GPay,0
+TXN_SRINITHYA_0639,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 03:41:00,Electronics,Amazon Kindle & Academic Devices,1708.13,UPI_GPay,0
+TXN_SRINITHYA_0640,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 09:27:00,Transit,Uber Premier Rides Hyderabad,2599.89,Debit_Card,0
+TXN_SRINITHYA_0641,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 11:09:00,Electronics,Amazon Kindle & Academic Devices,942.09,UPI_GPay,0
+TXN_SRINITHYA_0642,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 11:31:00,Entertainment,BookMyShow International Concerts,4403.41,UPI_GPay,0
+TXN_SRINITHYA_0643,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 14:20:00,Electronics,Amazon Kindle & Academic Devices,5284.33,UPI_GPay,0
+TXN_SRINITHYA_0644,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 15:05:00,Entertainment,BookMyShow International Concerts,2491.07,UPI_GPay,0
+TXN_SRINITHYA_0645,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 20:49:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1301.58,UPI_GPay,0
+TXN_SRINITHYA_0646,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 23:31:00,Education Tech,Coursera / Udemy Deep Learning Courses,1569.58,Credit_Card,0
+TXN_SRINITHYA_0647,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 23:48:00,Education Tech,Coursera / Udemy Deep Learning Courses,1210.5,Credit_Card,0
+TXN_SRINITHYA_0648,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-19 23:59:00,Electronics,Amazon Kindle & Academic Devices,2636.93,UPI_GPay,0
+TXN_SRINITHYA_0649,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-20 00:52:00,Education Tech,Coursera / Udemy Deep Learning Courses,2516.59,UPI_GPay,0
+TXN_SRINITHYA_0650,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-20 07:08:00,Transit,Uber Premier Rides Hyderabad,3345.22,UPI_GPay,0
+TXN_SRINITHYA_0651,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-20 09:31:00,Electronics,Amazon Kindle & Academic Devices,1994.95,UPI_GPay,0
+TXN_SRINITHYA_0652,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-20 13:30:00,Dining,Coffee Day Hitec City Tech Hub,2064.88,Credit_Card,0
+TXN_SRINITHYA_0653,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-20 17:14:00,Education Tech,Coursera / Udemy Deep Learning Courses,5899.39,Credit_Card,0
+TXN_SRINITHYA_0654,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-20 20:20:00,Electronics,Amazon Kindle & Academic Devices,9000.0,Credit_Card,0
+TXN_SRINITHYA_0655,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-20 21:08:00,Electronics,Reliance Digital Tech Accessories,3626.37,Credit_Card,0
+TXN_SRINITHYA_0656,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-21 10:00:00,Dining,Coffee Day Hitec City Tech Hub,2869.64,UPI_GPay,0
+TXN_SRINITHYA_0657,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-21 11:52:00,Transit,Uber Premier Rides Hyderabad,1941.58,NetBanking,0
+TXN_SRINITHYA_0658,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-21 17:51:00,Dining,Swiggy / Zomato Gourmet Diners,2378.8,Debit_Card,0
+TXN_SRINITHYA_0659,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-21 21:50:00,Education Tech,Coursera / Udemy Deep Learning Courses,2124.14,Debit_Card,0
+TXN_SRINITHYA_0660,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-22 16:06:00,Entertainment,BookMyShow International Concerts,4986.0,UPI_GPay,0
+TXN_SRINITHYA_0661,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-22 20:50:00,Education Tech,Coursera / Udemy Deep Learning Courses,3234.72,Debit_Card,0
+TXN_SRINITHYA_0662,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-23 00:02:00,Education Tech,Coursera / Udemy Deep Learning Courses,2590.48,Debit_Card,0
+TXN_SRINITHYA_0663,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-23 00:37:00,Entertainment,BookMyShow International Concerts,1611.19,Debit_Card,0
+TXN_SRINITHYA_0664,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-23 01:52:00,Electronics,Reliance Digital Tech Accessories,1781.5,UPI_GPay,0
+TXN_SRINITHYA_0665,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-23 02:14:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2533.07,Credit_Card,0
+TXN_SRINITHYA_0666,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-23 03:19:00,Electronics,Amazon Kindle & Academic Devices,3693.26,NetBanking,0
+TXN_SRINITHYA_0667,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-23 12:04:00,Dining,Coffee Day Hitec City Tech Hub,1489.63,Credit_Card,0
+TXN_SRINITHYA_0668,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-23 18:29:00,Entertainment,BookMyShow International Concerts,4040.45,Credit_Card,0
+TXN_SRINITHYA_0669,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-23 19:38:00,Dining,Coffee Day Hitec City Tech Hub,1493.22,Debit_Card,0
+TXN_SRINITHYA_0670,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-23 23:25:00,Dining,Coffee Day Hitec City Tech Hub,1883.59,UPI_GPay,0
+TXN_SRINITHYA_0671,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-23 23:43:00,Entertainment,BookMyShow International Concerts,1617.46,Credit_Card,0
+TXN_SRINITHYA_0672,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-24 04:12:00,Entertainment,BookMyShow International Concerts,2175.72,UPI_GPay,0
+TXN_SRINITHYA_0673,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-24 05:17:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1279.26,Debit_Card,0
+TXN_SRINITHYA_0674,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-24 13:54:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3951.24,UPI_GPay,0
+TXN_SRINITHYA_0675,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-24 14:29:00,Transit,Uber Premier Rides Hyderabad,2300.18,UPI_GPay,0
+TXN_SRINITHYA_0676,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-24 14:29:00,Dining,Swiggy / Zomato Gourmet Diners,6216.71,Credit_Card,0
+TXN_SRINITHYA_0677,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-24 17:33:00,Electronics,Amazon Kindle & Academic Devices,2701.66,Credit_Card,0
+TXN_SRINITHYA_0678,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-24 22:36:00,Education Tech,Coursera / Udemy Deep Learning Courses,2412.28,Credit_Card,0
+TXN_SRINITHYA_0679,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-25 03:21:00,Electronics,Reliance Digital Tech Accessories,4997.81,Debit_Card,0
+TXN_SRINITHYA_0680,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-25 04:05:00,Electronics,Reliance Digital Tech Accessories,2178.82,Debit_Card,0
+TXN_SRINITHYA_0681,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-25 07:15:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2614.85,UPI_GPay,0
+TXN_SRINITHYA_0682,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-25 07:28:00,Entertainment,BookMyShow International Concerts,2444.8,UPI_GPay,0
+TXN_SRINITHYA_0683,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-25 10:53:00,Dining,Coffee Day Hitec City Tech Hub,2091.89,UPI_GPay,0
+TXN_SRINITHYA_0684,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-25 10:56:00,Dining,Coffee Day Hitec City Tech Hub,3074.97,UPI_GPay,0
+TXN_SRINITHYA_0685,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-25 19:53:00,Education Tech,Coursera / Udemy Deep Learning Courses,1712.8,UPI_GPay,0
+TXN_SRINITHYA_0686,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-26 03:15:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1844.4,Debit_Card,0
+TXN_SRINITHYA_0687,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-26 05:13:00,Transit,Uber Premier Rides Hyderabad,2655.54,Debit_Card,0
+TXN_SRINITHYA_0688,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-26 05:43:00,Dining,Swiggy / Zomato Gourmet Diners,3513.96,UPI_GPay,0
+TXN_SRINITHYA_0689,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-26 06:03:00,Dining,Coffee Day Hitec City Tech Hub,3509.64,UPI_GPay,0
+TXN_SRINITHYA_0690,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-26 06:51:00,Entertainment,BookMyShow International Concerts,2145.22,Credit_Card,0
+TXN_SRINITHYA_0691,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-26 15:01:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2606.92,UPI_GPay,0
+TXN_SRINITHYA_0692,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-26 15:33:00,Entertainment,BookMyShow International Concerts,1415.3,UPI_GPay,0
+TXN_SRINITHYA_0693,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-26 19:01:00,Electronics,Amazon Kindle & Academic Devices,1734.3,Debit_Card,0
+TXN_SRINITHYA_0694,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-26 20:23:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4093.87,Debit_Card,0
+TXN_SRINITHYA_0695,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-27 00:06:00,Entertainment,BookMyShow International Concerts,1861.97,UPI_GPay,0
+TXN_SRINITHYA_0696,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-27 00:49:00,Dining,Coffee Day Hitec City Tech Hub,7552.58,Debit_Card,0
+TXN_SRINITHYA_0697,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-27 04:07:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3200.95,UPI_GPay,0
+TXN_SRINITHYA_0698,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-27 05:29:00,Entertainment,BookMyShow International Concerts,6599.98,Credit_Card,0
+TXN_SRINITHYA_0699,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-27 06:23:00,Electronics,Reliance Digital Tech Accessories,3208.19,UPI_GPay,0
+TXN_SRINITHYA_0700,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-27 07:14:00,Electronics,Reliance Digital Tech Accessories,1752.87,UPI_GPay,0
+TXN_SRINITHYA_0701,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-27 09:16:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3947.48,Debit_Card,0
+TXN_SRINITHYA_0702,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-27 12:59:00,Dining,Swiggy / Zomato Gourmet Diners,2157.38,UPI_GPay,0
+TXN_SRINITHYA_0703,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-27 20:02:00,Education Tech,Coursera / Udemy Deep Learning Courses,3116.63,Credit_Card,0
+TXN_SRINITHYA_0704,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-27 23:04:00,Dining,Swiggy / Zomato Gourmet Diners,5100.42,UPI_GPay,0
+TXN_SRINITHYA_0705,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-28 01:36:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1801.29,UPI_GPay,0
+TXN_SRINITHYA_0706,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-28 02:45:00,Electronics,Reliance Digital Tech Accessories,3395.84,UPI_GPay,0
+TXN_SRINITHYA_0707,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-28 03:48:00,Dining,Coffee Day Hitec City Tech Hub,4263.05,UPI_GPay,0
+TXN_SRINITHYA_0708,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-28 12:22:00,Transit,Uber Premier Rides Hyderabad,4771.56,Credit_Card,0
+TXN_SRINITHYA_0709,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-28 12:33:00,Education Tech,Coursera / Udemy Deep Learning Courses,2848.34,UPI_GPay,0
+TXN_SRINITHYA_0710,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-28 16:12:00,Electronics,Reliance Digital Tech Accessories,1444.23,Credit_Card,0
+TXN_SRINITHYA_0711,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-28 16:24:00,Dining,Coffee Day Hitec City Tech Hub,1889.32,Credit_Card,0
+TXN_SRINITHYA_0712,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-29 02:12:00,Electronics,Amazon Kindle & Academic Devices,2782.17,Credit_Card,0
+TXN_SRINITHYA_0713,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-29 05:31:00,Education Tech,Coursera / Udemy Deep Learning Courses,2448.08,UPI_GPay,0
+TXN_SRINITHYA_0714,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-29 05:53:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,67411.94,Debit_Card,1
+TXN_SRINITHYA_0715,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-29 06:52:00,Transit,Uber Premier Rides Hyderabad,3345.57,UPI_GPay,0
+TXN_SRINITHYA_0716,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-29 09:45:00,Electronics,Reliance Digital Tech Accessories,2365.21,UPI_GPay,0
+TXN_SRINITHYA_0717,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-29 11:06:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2745.94,UPI_GPay,0
+TXN_SRINITHYA_0718,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-29 15:20:00,Transit,Uber Premier Rides Hyderabad,1841.64,UPI_GPay,0
+TXN_SRINITHYA_0719,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-29 15:38:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2685.56,UPI_GPay,0
+TXN_SRINITHYA_0720,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-29 21:51:00,Dining,Coffee Day Hitec City Tech Hub,1831.41,Credit_Card,0
+TXN_SRINITHYA_0721,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-29 23:38:00,Education Tech,Coursera / Udemy Deep Learning Courses,6646.78,UPI_GPay,0
+TXN_SRINITHYA_0722,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 02:11:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1734.51,UPI_GPay,0
+TXN_SRINITHYA_0723,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 02:49:00,Education Tech,Coursera / Udemy Deep Learning Courses,1667.98,Credit_Card,0
+TXN_SRINITHYA_0724,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 07:21:00,Dining,Coffee Day Hitec City Tech Hub,3012.02,UPI_GPay,0
+TXN_SRINITHYA_0725,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 08:02:00,Electronics,Reliance Digital Tech Accessories,3517.08,UPI_GPay,0
+TXN_SRINITHYA_0726,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 09:57:00,Electronics,Amazon Kindle & Academic Devices,1751.92,UPI_GPay,0
+TXN_SRINITHYA_0727,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 10:00:00,Entertainment,BookMyShow International Concerts,3023.44,Credit_Card,0
+TXN_SRINITHYA_0728,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 10:42:00,Transit,Uber Premier Rides Hyderabad,1483.74,UPI_GPay,0
+TXN_SRINITHYA_0729,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 11:02:00,Entertainment,BookMyShow International Concerts,4073.1,UPI_GPay,0
+TXN_SRINITHYA_0730,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 13:32:00,Transit,Uber Premier Rides Hyderabad,4671.34,UPI_GPay,0
+TXN_SRINITHYA_0731,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 15:43:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2523.87,Credit_Card,0
+TXN_SRINITHYA_0732,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 17:21:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,5339.97,Credit_Card,0
+TXN_SRINITHYA_0733,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 18:02:00,Transit,Uber Premier Rides Hyderabad,3935.37,Debit_Card,0
+TXN_SRINITHYA_0734,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 20:39:00,Electronics,Amazon Kindle & Academic Devices,1958.83,UPI_GPay,0
+TXN_SRINITHYA_0735,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-30 21:06:00,Electronics,Reliance Digital Tech Accessories,1013.91,UPI_GPay,0
+TXN_SRINITHYA_0736,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-31 01:24:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2341.87,UPI_GPay,0
+TXN_SRINITHYA_0737,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-31 02:34:00,Dining,Swiggy / Zomato Gourmet Diners,1338.63,UPI_GPay,0
+TXN_SRINITHYA_0738,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-31 05:41:00,Transit,Uber Premier Rides Hyderabad,2774.41,UPI_GPay,0
+TXN_SRINITHYA_0739,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-31 06:15:00,Electronics,Reliance Digital Tech Accessories,2027.63,UPI_GPay,0
+TXN_SRINITHYA_0740,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-31 12:50:00,Dining,Coffee Day Hitec City Tech Hub,1922.52,UPI_GPay,0
+TXN_SRINITHYA_0741,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-31 14:02:00,Dining,Swiggy / Zomato Gourmet Diners,3375.6,Credit_Card,0
+TXN_SRINITHYA_0742,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-31 14:32:00,Electronics,Amazon Kindle & Academic Devices,3005.99,UPI_GPay,0
+TXN_SRINITHYA_0743,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-31 19:07:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1335.93,Credit_Card,0
+TXN_SRINITHYA_0744,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-31 20:46:00,Electronics,Amazon Kindle & Academic Devices,2126.23,UPI_GPay,0
+TXN_SRINITHYA_0745,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-08-31 22:23:00,Entertainment,BookMyShow International Concerts,2644.5,UPI_GPay,0
+TXN_SRINITHYA_0746,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-01 00:51:00,Electronics,Amazon Kindle & Academic Devices,3590.48,UPI_GPay,0
+TXN_SRINITHYA_0747,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-01 04:07:00,Electronics,Reliance Digital Tech Accessories,2137.27,UPI_GPay,0
+TXN_SRINITHYA_0748,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-01 14:36:00,Transit,Uber Premier Rides Hyderabad,5108.52,UPI_GPay,0
+TXN_SRINITHYA_0749,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-01 17:40:00,Entertainment,BookMyShow International Concerts,1717.66,UPI_GPay,0
+TXN_SRINITHYA_0750,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-01 23:46:00,Dining,Coffee Day Hitec City Tech Hub,2632.39,Debit_Card,0
+TXN_SRINITHYA_0751,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-02 01:27:00,Electronics,Reliance Digital Tech Accessories,6374.8,Credit_Card,0
+TXN_SRINITHYA_0752,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-02 02:48:00,Electronics,Reliance Digital Tech Accessories,1678.47,UPI_GPay,0
+TXN_SRINITHYA_0753,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-02 03:38:00,Transit,Uber Premier Rides Hyderabad,1204.41,Debit_Card,0
+TXN_SRINITHYA_0754,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-02 05:17:00,Entertainment,BookMyShow International Concerts,5654.6,Credit_Card,0
+TXN_SRINITHYA_0755,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-02 08:32:00,Entertainment,BookMyShow International Concerts,3990.54,Credit_Card,0
+TXN_SRINITHYA_0756,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-02 11:25:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2929.69,Debit_Card,0
+TXN_SRINITHYA_0757,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-02 15:32:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,45160.98,UPI_GPay,1
+TXN_SRINITHYA_0758,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-02 18:48:00,Transit,Uber Premier Rides Hyderabad,1876.21,UPI_GPay,0
+TXN_SRINITHYA_0759,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-02 22:48:00,Electronics,Amazon Kindle & Academic Devices,3722.56,UPI_GPay,0
+TXN_SRINITHYA_0760,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 01:23:00,Transit,Uber Premier Rides Hyderabad,2009.45,UPI_GPay,0
+TXN_SRINITHYA_0761,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 02:42:00,Dining,Coffee Day Hitec City Tech Hub,2125.18,UPI_GPay,0
+TXN_SRINITHYA_0762,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 03:56:00,Dining,Coffee Day Hitec City Tech Hub,1974.46,Credit_Card,0
+TXN_SRINITHYA_0763,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 05:56:00,Electronics,Amazon Kindle & Academic Devices,1570.58,Debit_Card,0
+TXN_SRINITHYA_0764,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 08:00:00,Electronics,Reliance Digital Tech Accessories,2583.91,Debit_Card,0
+TXN_SRINITHYA_0765,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 09:58:00,Entertainment,BookMyShow International Concerts,3748.23,Debit_Card,0
+TXN_SRINITHYA_0766,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 12:24:00,Electronics,Reliance Digital Tech Accessories,2105.32,Debit_Card,0
+TXN_SRINITHYA_0767,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 13:34:00,Electronics,Amazon Kindle & Academic Devices,2628.74,Debit_Card,0
+TXN_SRINITHYA_0768,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 14:09:00,Transit,Uber Premier Rides Hyderabad,2015.03,UPI_GPay,0
+TXN_SRINITHYA_0769,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 14:40:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3151.0,UPI_GPay,0
+TXN_SRINITHYA_0770,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 15:26:00,Dining,Coffee Day Hitec City Tech Hub,2502.72,UPI_GPay,0
+TXN_SRINITHYA_0771,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 18:48:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1506.28,Debit_Card,0
+TXN_SRINITHYA_0772,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 18:53:00,Education Tech,Coursera / Udemy Deep Learning Courses,3029.15,UPI_GPay,0
+TXN_SRINITHYA_0773,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-03 22:41:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3469.64,Credit_Card,0
+TXN_SRINITHYA_0774,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-04 00:25:00,Dining,Coffee Day Hitec City Tech Hub,1367.96,UPI_GPay,0
+TXN_SRINITHYA_0775,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-04 02:46:00,Dining,Coffee Day Hitec City Tech Hub,2937.83,UPI_GPay,0
+TXN_SRINITHYA_0776,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-04 09:40:00,Dining,Coffee Day Hitec City Tech Hub,2055.49,Credit_Card,0
+TXN_SRINITHYA_0777,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-04 16:19:00,Entertainment,BookMyShow International Concerts,4270.4,UPI_GPay,0
+TXN_SRINITHYA_0778,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-04 16:31:00,Education Tech,Coursera / Udemy Deep Learning Courses,1909.91,UPI_GPay,0
+TXN_SRINITHYA_0779,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-04 19:27:00,Education Tech,Coursera / Udemy Deep Learning Courses,2545.45,UPI_GPay,0
+TXN_SRINITHYA_0780,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-04 21:04:00,Dining,Swiggy / Zomato Gourmet Diners,5229.91,UPI_GPay,0
+TXN_SRINITHYA_0781,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-05 05:37:00,Electronics,Reliance Digital Tech Accessories,1592.43,Credit_Card,0
+TXN_SRINITHYA_0782,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-05 08:16:00,Electronics,Reliance Digital Tech Accessories,1931.28,UPI_GPay,0
+TXN_SRINITHYA_0783,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-05 11:25:00,Dining,Coffee Day Hitec City Tech Hub,3068.89,Credit_Card,0
+TXN_SRINITHYA_0784,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-05 17:12:00,Dining,Coffee Day Hitec City Tech Hub,1488.16,UPI_GPay,0
+TXN_SRINITHYA_0785,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-05 17:28:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1749.66,Debit_Card,0
+TXN_SRINITHYA_0786,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-06 12:02:00,Dining,Coffee Day Hitec City Tech Hub,2116.98,UPI_GPay,0
+TXN_SRINITHYA_0787,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-06 12:29:00,Electronics,Reliance Digital Tech Accessories,986.12,Credit_Card,0
+TXN_SRINITHYA_0788,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-06 19:10:00,Dining,Swiggy / Zomato Gourmet Diners,2116.15,Credit_Card,0
+TXN_SRINITHYA_0789,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-06 21:32:00,Dining,Swiggy / Zomato Gourmet Diners,1570.38,UPI_GPay,0
+TXN_SRINITHYA_0790,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-07 02:17:00,Dining,Swiggy / Zomato Gourmet Diners,2330.2,Debit_Card,0
+TXN_SRINITHYA_0791,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-07 12:45:00,Electronics,Amazon Kindle & Academic Devices,2834.11,Credit_Card,0
+TXN_SRINITHYA_0792,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-07 16:25:00,Dining,Swiggy / Zomato Gourmet Diners,5852.97,UPI_GPay,0
+TXN_SRINITHYA_0793,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-07 19:03:00,Transit,Uber Premier Rides Hyderabad,2894.15,UPI_GPay,0
+TXN_SRINITHYA_0794,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-07 22:21:00,Dining,Swiggy / Zomato Gourmet Diners,2138.4,Debit_Card,0
+TXN_SRINITHYA_0795,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 03:44:00,Entertainment,BookMyShow International Concerts,3400.12,Credit_Card,0
+TXN_SRINITHYA_0796,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 05:49:00,Electronics,Amazon Kindle & Academic Devices,2409.89,UPI_GPay,0
+TXN_SRINITHYA_0797,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 06:06:00,Electronics,Reliance Digital Tech Accessories,2055.83,UPI_GPay,0
+TXN_SRINITHYA_0798,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 06:18:00,Education Tech,Coursera / Udemy Deep Learning Courses,1498.38,Debit_Card,0
+TXN_SRINITHYA_0799,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 12:36:00,Education Tech,Coursera / Udemy Deep Learning Courses,2549.96,Credit_Card,0
+TXN_SRINITHYA_0800,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 12:50:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1693.16,Credit_Card,0
+TXN_SRINITHYA_0801,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 14:21:00,Transit,Uber Premier Rides Hyderabad,3259.09,UPI_GPay,0
+TXN_SRINITHYA_0802,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 14:29:00,Dining,Coffee Day Hitec City Tech Hub,4575.65,Credit_Card,0
+TXN_SRINITHYA_0803,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 14:39:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2181.28,UPI_GPay,0
+TXN_SRINITHYA_0804,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 17:55:00,Electronics,Reliance Digital Tech Accessories,3009.76,UPI_GPay,0
+TXN_SRINITHYA_0805,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-08 20:57:00,Transit,Uber Premier Rides Hyderabad,3770.07,Credit_Card,0
+TXN_SRINITHYA_0806,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-09 01:13:00,Entertainment,BookMyShow International Concerts,2152.44,NetBanking,0
+TXN_SRINITHYA_0807,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-09 03:03:00,Dining,Coffee Day Hitec City Tech Hub,1946.85,UPI_GPay,0
+TXN_SRINITHYA_0808,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-09 04:03:00,Electronics,Amazon Kindle & Academic Devices,2832.21,UPI_GPay,0
+TXN_SRINITHYA_0809,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-09 06:12:00,Education Tech,Coursera / Udemy Deep Learning Courses,1975.74,Credit_Card,0
+TXN_SRINITHYA_0810,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-09 19:35:00,Entertainment,BookMyShow International Concerts,1098.96,UPI_GPay,0
+TXN_SRINITHYA_0811,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-09 22:18:00,Electronics,Amazon Kindle & Academic Devices,3755.41,Debit_Card,0
+TXN_SRINITHYA_0812,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-10 04:27:00,Transit,Uber Premier Rides Hyderabad,5949.05,Credit_Card,0
+TXN_SRINITHYA_0813,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-10 05:51:00,Entertainment,BookMyShow International Concerts,1789.61,UPI_GPay,0
+TXN_SRINITHYA_0814,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-10 09:13:00,Electronics,Amazon Kindle & Academic Devices,6610.23,NetBanking,0
+TXN_SRINITHYA_0815,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-10 12:22:00,Electronics,Amazon Kindle & Academic Devices,1993.89,Credit_Card,0
+TXN_SRINITHYA_0816,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-10 14:23:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2949.05,Debit_Card,0
+TXN_SRINITHYA_0817,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-10 16:11:00,Transit,Uber Premier Rides Hyderabad,3016.81,Credit_Card,0
+TXN_SRINITHYA_0818,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-10 23:02:00,Entertainment,BookMyShow International Concerts,2004.05,Debit_Card,0
+TXN_SRINITHYA_0819,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-11 01:12:00,Transit,Uber Premier Rides Hyderabad,3229.21,UPI_GPay,0
+TXN_SRINITHYA_0820,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-11 03:20:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1452.87,UPI_GPay,0
+TXN_SRINITHYA_0821,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-11 03:34:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3364.97,Debit_Card,0
+TXN_SRINITHYA_0822,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-11 08:19:00,Electronics,Amazon Kindle & Academic Devices,3328.19,UPI_GPay,0
+TXN_SRINITHYA_0823,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-11 12:03:00,Dining,Coffee Day Hitec City Tech Hub,2065.61,UPI_GPay,0
+TXN_SRINITHYA_0824,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-11 14:21:00,Electronics,Reliance Digital Tech Accessories,2076.71,Credit_Card,0
+TXN_SRINITHYA_0825,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-11 14:59:00,Dining,Coffee Day Hitec City Tech Hub,5319.78,Debit_Card,0
+TXN_SRINITHYA_0826,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-11 15:13:00,Entertainment,BookMyShow International Concerts,2344.11,UPI_GPay,0
+TXN_SRINITHYA_0827,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-11 18:26:00,Dining,Coffee Day Hitec City Tech Hub,2323.12,Debit_Card,0
+TXN_SRINITHYA_0828,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 00:15:00,Dining,Swiggy / Zomato Gourmet Diners,1242.95,Credit_Card,0
+TXN_SRINITHYA_0829,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 00:53:00,Electronics,Reliance Digital Tech Accessories,1612.47,UPI_GPay,0
+TXN_SRINITHYA_0830,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 01:01:00,Electronics,Reliance Digital Tech Accessories,1410.11,Debit_Card,0
+TXN_SRINITHYA_0831,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 02:36:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3389.64,UPI_GPay,0
+TXN_SRINITHYA_0832,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 04:02:00,Education Tech,Coursera / Udemy Deep Learning Courses,2476.0,UPI_GPay,0
+TXN_SRINITHYA_0833,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 04:21:00,Dining,Swiggy / Zomato Gourmet Diners,2156.11,UPI_GPay,0
+TXN_SRINITHYA_0834,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 07:06:00,Electronics,Amazon Kindle & Academic Devices,1083.09,UPI_GPay,0
+TXN_SRINITHYA_0835,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 09:48:00,Dining,Coffee Day Hitec City Tech Hub,1326.56,UPI_GPay,0
+TXN_SRINITHYA_0836,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 10:06:00,Dining,Coffee Day Hitec City Tech Hub,3236.35,Debit_Card,0
+TXN_SRINITHYA_0837,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 13:09:00,Electronics,Amazon Kindle & Academic Devices,1368.44,Credit_Card,0
+TXN_SRINITHYA_0838,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 13:49:00,Education Tech,Coursera / Udemy Deep Learning Courses,1763.81,Credit_Card,0
+TXN_SRINITHYA_0839,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 16:25:00,Education Tech,Coursera / Udemy Deep Learning Courses,2081.29,Credit_Card,0
+TXN_SRINITHYA_0840,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 21:25:00,Dining,Coffee Day Hitec City Tech Hub,2940.13,UPI_GPay,0
+TXN_SRINITHYA_0841,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-12 22:17:00,Entertainment,BookMyShow International Concerts,2641.98,UPI_GPay,0
+TXN_SRINITHYA_0842,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-13 01:40:00,Electronics,Reliance Digital Tech Accessories,2316.7,Debit_Card,0
+TXN_SRINITHYA_0843,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-13 02:20:00,Electronics,Amazon Kindle & Academic Devices,3949.58,UPI_GPay,0
+TXN_SRINITHYA_0844,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-13 03:36:00,Education Tech,Coursera / Udemy Deep Learning Courses,2235.7,UPI_GPay,0
+TXN_SRINITHYA_0845,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-13 11:52:00,Electronics,Amazon Kindle & Academic Devices,1420.02,Credit_Card,0
+TXN_SRINITHYA_0846,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-13 12:34:00,Dining,Swiggy / Zomato Gourmet Diners,2005.46,UPI_GPay,0
+TXN_SRINITHYA_0847,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-13 12:51:00,Electronics,Amazon Kindle & Academic Devices,2361.05,Debit_Card,0
+TXN_SRINITHYA_0848,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-13 22:35:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,5088.09,UPI_GPay,0
+TXN_SRINITHYA_0849,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-13 22:36:00,Electronics,Amazon Kindle & Academic Devices,2452.22,UPI_GPay,0
+TXN_SRINITHYA_0850,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-13 22:55:00,Dining,Coffee Day Hitec City Tech Hub,1276.84,UPI_GPay,0
+TXN_SRINITHYA_0851,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 01:34:00,Transit,Uber Premier Rides Hyderabad,1883.42,Credit_Card,0
+TXN_SRINITHYA_0852,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 04:18:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1152.75,UPI_GPay,0
+TXN_SRINITHYA_0853,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 04:54:00,Dining,Coffee Day Hitec City Tech Hub,2777.75,UPI_GPay,0
+TXN_SRINITHYA_0854,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 07:20:00,Education Tech,Coursera / Udemy Deep Learning Courses,2135.41,Debit_Card,0
+TXN_SRINITHYA_0855,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 08:54:00,Electronics,Reliance Digital Tech Accessories,3077.26,Debit_Card,0
+TXN_SRINITHYA_0856,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 08:58:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4640.45,UPI_GPay,0
+TXN_SRINITHYA_0857,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 14:59:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1613.82,UPI_GPay,0
+TXN_SRINITHYA_0858,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 21:20:00,Electronics,Amazon Kindle & Academic Devices,1167.27,UPI_GPay,0
+TXN_SRINITHYA_0859,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 22:44:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2861.83,Debit_Card,0
+TXN_SRINITHYA_0860,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 23:13:00,Electronics,Amazon Kindle & Academic Devices,3063.39,NetBanking,0
+TXN_SRINITHYA_0861,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-14 23:21:00,Transit,Uber Premier Rides Hyderabad,2349.73,UPI_GPay,0
+TXN_SRINITHYA_0862,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 01:14:00,Transit,Uber Premier Rides Hyderabad,1544.49,Credit_Card,0
+TXN_SRINITHYA_0863,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 05:51:00,Dining,Swiggy / Zomato Gourmet Diners,1763.12,UPI_GPay,0
+TXN_SRINITHYA_0864,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 08:28:00,Dining,Swiggy / Zomato Gourmet Diners,3166.56,UPI_GPay,0
+TXN_SRINITHYA_0865,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 10:37:00,Electronics,Reliance Digital Tech Accessories,1734.65,UPI_GPay,0
+TXN_SRINITHYA_0866,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 13:33:00,Dining,Coffee Day Hitec City Tech Hub,1912.1,UPI_GPay,0
+TXN_SRINITHYA_0867,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 15:10:00,Electronics,Reliance Digital Tech Accessories,829.14,UPI_GPay,0
+TXN_SRINITHYA_0868,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 16:27:00,Transit,Uber Premier Rides Hyderabad,1911.92,UPI_GPay,0
+TXN_SRINITHYA_0869,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 17:45:00,Dining,Swiggy / Zomato Gourmet Diners,5368.58,Credit_Card,0
+TXN_SRINITHYA_0870,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 18:52:00,Dining,Swiggy / Zomato Gourmet Diners,1121.18,UPI_GPay,0
+TXN_SRINITHYA_0871,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 19:01:00,Education Tech,Coursera / Udemy Deep Learning Courses,2359.32,Credit_Card,0
+TXN_SRINITHYA_0872,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 20:05:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2070.05,UPI_GPay,0
+TXN_SRINITHYA_0873,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-15 22:08:00,Dining,Swiggy / Zomato Gourmet Diners,1938.99,UPI_GPay,0
+TXN_SRINITHYA_0874,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-16 00:14:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2220.32,UPI_GPay,0
+TXN_SRINITHYA_0875,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-16 05:42:00,Electronics,Amazon Kindle & Academic Devices,3742.37,UPI_GPay,0
+TXN_SRINITHYA_0876,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-16 06:59:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4020.5,UPI_GPay,0
+TXN_SRINITHYA_0877,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-16 09:24:00,Entertainment,BookMyShow International Concerts,1517.16,UPI_GPay,0
+TXN_SRINITHYA_0878,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-16 09:46:00,Electronics,Amazon Kindle & Academic Devices,2121.93,UPI_GPay,0
+TXN_SRINITHYA_0879,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-16 10:09:00,Electronics,Amazon Kindle & Academic Devices,1460.92,UPI_GPay,0
+TXN_SRINITHYA_0880,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-16 13:21:00,Dining,Coffee Day Hitec City Tech Hub,1964.65,Credit_Card,0
+TXN_SRINITHYA_0881,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-16 13:42:00,Dining,Coffee Day Hitec City Tech Hub,2131.15,Credit_Card,0
+TXN_SRINITHYA_0882,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-16 20:26:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3111.58,UPI_GPay,0
+TXN_SRINITHYA_0883,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-16 20:49:00,Dining,Swiggy / Zomato Gourmet Diners,1884.39,UPI_GPay,0
+TXN_SRINITHYA_0884,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 00:53:00,Electronics,Amazon Kindle & Academic Devices,8280.66,UPI_GPay,0
+TXN_SRINITHYA_0885,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 01:41:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2822.21,Credit_Card,0
+TXN_SRINITHYA_0886,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 05:00:00,Dining,Coffee Day Hitec City Tech Hub,2247.35,UPI_GPay,0
+TXN_SRINITHYA_0887,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 07:54:00,Dining,Coffee Day Hitec City Tech Hub,2818.0,UPI_GPay,0
+TXN_SRINITHYA_0888,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 10:33:00,Transit,Uber Premier Rides Hyderabad,1046.46,UPI_GPay,0
+TXN_SRINITHYA_0889,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 12:19:00,Transit,Uber Premier Rides Hyderabad,3417.64,Debit_Card,0
+TXN_SRINITHYA_0890,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 12:27:00,Education Tech,Coursera / Udemy Deep Learning Courses,2262.53,UPI_GPay,0
+TXN_SRINITHYA_0891,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 12:28:00,Entertainment,BookMyShow International Concerts,1378.94,Credit_Card,0
+TXN_SRINITHYA_0892,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 15:11:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,5349.54,UPI_GPay,0
+TXN_SRINITHYA_0893,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 19:09:00,Electronics,Reliance Digital Tech Accessories,2984.38,Debit_Card,0
+TXN_SRINITHYA_0894,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 21:27:00,Entertainment,BookMyShow International Concerts,3785.19,Credit_Card,0
+TXN_SRINITHYA_0895,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 22:12:00,Electronics,Reliance Digital Tech Accessories,4090.38,UPI_GPay,0
+TXN_SRINITHYA_0896,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-17 22:23:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1565.59,Debit_Card,0
+TXN_SRINITHYA_0897,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-18 03:53:00,Transit,Uber Premier Rides Hyderabad,3284.3,UPI_GPay,0
+TXN_SRINITHYA_0898,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-18 06:34:00,Entertainment,BookMyShow International Concerts,3895.04,Debit_Card,0
+TXN_SRINITHYA_0899,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-18 06:52:00,Dining,Coffee Day Hitec City Tech Hub,2234.16,Debit_Card,0
+TXN_SRINITHYA_0900,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-18 10:52:00,Entertainment,BookMyShow International Concerts,3160.98,UPI_GPay,0
+TXN_SRINITHYA_0901,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-18 15:41:00,Transit,Uber Premier Rides Hyderabad,1858.77,Credit_Card,0
+TXN_SRINITHYA_0902,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-18 18:21:00,Suspicious Web,OVERSEAS_GAMING_SERVER_HK,62855.94,UPI_GPay,1
+TXN_SRINITHYA_0903,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-18 21:28:00,Electronics,Reliance Digital Tech Accessories,4776.79,UPI_GPay,0
+TXN_SRINITHYA_0904,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-18 23:33:00,Transit,Uber Premier Rides Hyderabad,3606.74,UPI_GPay,0
+TXN_SRINITHYA_0905,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-19 00:30:00,Entertainment,BookMyShow International Concerts,3190.08,Credit_Card,0
+TXN_SRINITHYA_0906,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-19 02:10:00,Entertainment,BookMyShow International Concerts,7237.02,UPI_GPay,0
+TXN_SRINITHYA_0907,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-19 11:38:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2151.18,UPI_GPay,0
+TXN_SRINITHYA_0908,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-19 17:57:00,Dining,Coffee Day Hitec City Tech Hub,2412.77,Credit_Card,0
+TXN_SRINITHYA_0909,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-20 00:23:00,Transit,Uber Premier Rides Hyderabad,3626.85,UPI_GPay,0
+TXN_SRINITHYA_0910,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-20 06:04:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1198.76,UPI_GPay,0
+TXN_SRINITHYA_0911,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-20 09:35:00,Electronics,Amazon Kindle & Academic Devices,2510.49,UPI_GPay,0
+TXN_SRINITHYA_0912,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-20 10:11:00,Dining,Swiggy / Zomato Gourmet Diners,1777.53,UPI_GPay,0
+TXN_SRINITHYA_0913,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-20 17:53:00,Dining,Swiggy / Zomato Gourmet Diners,3173.04,UPI_GPay,0
+TXN_SRINITHYA_0914,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-20 18:43:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1886.4,UPI_GPay,0
+TXN_SRINITHYA_0915,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-20 23:32:00,Entertainment,BookMyShow International Concerts,1866.87,NetBanking,0
+TXN_SRINITHYA_0916,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-21 01:24:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3514.05,Credit_Card,0
+TXN_SRINITHYA_0917,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-21 08:58:00,Transit,Uber Premier Rides Hyderabad,1993.91,UPI_GPay,0
+TXN_SRINITHYA_0918,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-21 12:01:00,Transit,Uber Premier Rides Hyderabad,2025.17,UPI_GPay,0
+TXN_SRINITHYA_0919,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-21 12:58:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1193.43,UPI_GPay,0
+TXN_SRINITHYA_0920,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-22 07:23:00,Transit,Uber Premier Rides Hyderabad,2311.04,Credit_Card,0
+TXN_SRINITHYA_0921,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-22 07:40:00,Transit,Uber Premier Rides Hyderabad,3396.67,UPI_GPay,0
+TXN_SRINITHYA_0922,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-22 15:14:00,Dining,Coffee Day Hitec City Tech Hub,2099.83,UPI_GPay,0
+TXN_SRINITHYA_0923,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-22 17:46:00,Entertainment,BookMyShow International Concerts,2942.18,Debit_Card,0
+TXN_SRINITHYA_0924,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-22 20:25:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1819.05,UPI_GPay,0
+TXN_SRINITHYA_0925,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-22 23:13:00,Dining,Swiggy / Zomato Gourmet Diners,2347.92,UPI_GPay,0
+TXN_SRINITHYA_0926,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-23 05:40:00,Entertainment,BookMyShow International Concerts,2620.35,Debit_Card,0
+TXN_SRINITHYA_0927,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-23 11:14:00,Electronics,Reliance Digital Tech Accessories,3320.34,Credit_Card,0
+TXN_SRINITHYA_0928,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-23 15:18:00,Electronics,Amazon Kindle & Academic Devices,4486.57,UPI_GPay,0
+TXN_SRINITHYA_0929,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-23 19:03:00,Transit,Uber Premier Rides Hyderabad,3335.5,Credit_Card,0
+TXN_SRINITHYA_0930,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-24 02:36:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2428.69,UPI_GPay,0
+TXN_SRINITHYA_0931,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-24 09:52:00,Transit,Uber Premier Rides Hyderabad,2729.09,Credit_Card,0
+TXN_SRINITHYA_0932,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-24 11:02:00,Electronics,Amazon Kindle & Academic Devices,4278.35,UPI_GPay,0
+TXN_SRINITHYA_0933,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-24 11:43:00,Dining,Swiggy / Zomato Gourmet Diners,3381.6,Debit_Card,0
+TXN_SRINITHYA_0934,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-24 16:05:00,Electronics,Amazon Kindle & Academic Devices,3193.5,NetBanking,0
+TXN_SRINITHYA_0935,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-24 17:29:00,Dining,Swiggy / Zomato Gourmet Diners,2661.59,Debit_Card,0
+TXN_SRINITHYA_0936,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-24 22:23:00,Transit,Uber Premier Rides Hyderabad,4046.16,Debit_Card,0
+TXN_SRINITHYA_0937,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-25 00:04:00,Education Tech,Coursera / Udemy Deep Learning Courses,1893.53,UPI_GPay,0
+TXN_SRINITHYA_0938,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-25 03:06:00,Entertainment,BookMyShow International Concerts,2537.28,UPI_GPay,0
+TXN_SRINITHYA_0939,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-25 06:59:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2223.02,UPI_GPay,0
+TXN_SRINITHYA_0940,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-25 08:22:00,Dining,Swiggy / Zomato Gourmet Diners,1302.12,Credit_Card,0
+TXN_SRINITHYA_0941,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-25 10:52:00,Electronics,Reliance Digital Tech Accessories,3094.05,Debit_Card,0
+TXN_SRINITHYA_0942,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-25 12:37:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4238.97,UPI_GPay,0
+TXN_SRINITHYA_0943,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-25 15:34:00,Transit,Uber Premier Rides Hyderabad,4616.12,Debit_Card,0
+TXN_SRINITHYA_0944,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-25 20:53:00,Electronics,Amazon Kindle & Academic Devices,1917.25,Debit_Card,0
+TXN_SRINITHYA_0945,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-25 23:29:00,Entertainment,BookMyShow International Concerts,2947.21,NetBanking,0
+TXN_SRINITHYA_0946,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-26 02:07:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1352.83,Debit_Card,0
+TXN_SRINITHYA_0947,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-26 02:10:00,Electronics,Reliance Digital Tech Accessories,3652.99,UPI_GPay,0
+TXN_SRINITHYA_0948,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-26 02:39:00,Electronics,Reliance Digital Tech Accessories,2972.39,UPI_GPay,0
+TXN_SRINITHYA_0949,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-26 05:12:00,Transit,Uber Premier Rides Hyderabad,3740.58,UPI_GPay,0
+TXN_SRINITHYA_0950,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-26 05:40:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1219.17,UPI_GPay,0
+TXN_SRINITHYA_0951,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-26 10:20:00,Electronics,Reliance Digital Tech Accessories,3315.4,Credit_Card,0
+TXN_SRINITHYA_0952,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-26 15:44:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3730.33,Debit_Card,0
+TXN_SRINITHYA_0953,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-26 19:47:00,Electronics,Amazon Kindle & Academic Devices,2488.58,Debit_Card,0
+TXN_SRINITHYA_0954,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-26 21:02:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,3204.77,Credit_Card,0
+TXN_SRINITHYA_0955,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 00:23:00,Dining,Coffee Day Hitec City Tech Hub,1360.68,UPI_GPay,0
+TXN_SRINITHYA_0956,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 04:43:00,Electronics,Amazon Kindle & Academic Devices,2265.14,UPI_GPay,0
+TXN_SRINITHYA_0957,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 05:56:00,Transit,Uber Premier Rides Hyderabad,1696.3,UPI_GPay,0
+TXN_SRINITHYA_0958,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 07:22:00,Transit,Uber Premier Rides Hyderabad,1018.09,UPI_GPay,0
+TXN_SRINITHYA_0959,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 09:27:00,Entertainment,BookMyShow International Concerts,2912.84,UPI_GPay,0
+TXN_SRINITHYA_0960,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 14:36:00,Entertainment,BookMyShow International Concerts,4588.38,UPI_GPay,0
+TXN_SRINITHYA_0961,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 16:04:00,Dining,Coffee Day Hitec City Tech Hub,1761.14,UPI_GPay,0
+TXN_SRINITHYA_0962,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 19:45:00,Electronics,Amazon Kindle & Academic Devices,1819.45,UPI_GPay,0
+TXN_SRINITHYA_0963,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 19:53:00,Dining,Coffee Day Hitec City Tech Hub,1809.21,Credit_Card,0
+TXN_SRINITHYA_0964,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 20:57:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2110.51,UPI_GPay,0
+TXN_SRINITHYA_0965,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-27 21:52:00,Entertainment,BookMyShow International Concerts,2181.89,UPI_GPay,0
+TXN_SRINITHYA_0966,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-28 01:03:00,Dining,Swiggy / Zomato Gourmet Diners,1273.93,UPI_GPay,0
+TXN_SRINITHYA_0967,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-28 01:04:00,Education Tech,Coursera / Udemy Deep Learning Courses,1739.81,NetBanking,0
+TXN_SRINITHYA_0968,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-28 02:49:00,Electronics,Amazon Kindle & Academic Devices,1879.64,UPI_GPay,0
+TXN_SRINITHYA_0969,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-28 06:32:00,Entertainment,BookMyShow International Concerts,3234.51,UPI_GPay,0
+TXN_SRINITHYA_0970,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-28 22:35:00,Education Tech,Coursera / Udemy Deep Learning Courses,5325.9,Credit_Card,0
+TXN_SRINITHYA_0971,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-29 00:34:00,Dining,Coffee Day Hitec City Tech Hub,1817.55,Credit_Card,0
+TXN_SRINITHYA_0972,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-29 13:24:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2869.41,Debit_Card,0
+TXN_SRINITHYA_0973,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-29 16:48:00,Transit,Uber Premier Rides Hyderabad,2917.13,UPI_GPay,0
+TXN_SRINITHYA_0974,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-29 21:51:00,Entertainment,BookMyShow International Concerts,1673.49,UPI_GPay,0
+TXN_SRINITHYA_0975,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-29 22:12:00,Transit,Uber Premier Rides Hyderabad,3533.08,UPI_GPay,0
+TXN_SRINITHYA_0976,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-30 07:21:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,1910.83,Credit_Card,0
+TXN_SRINITHYA_0977,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-30 08:42:00,Electronics,Reliance Digital Tech Accessories,1133.35,UPI_GPay,0
+TXN_SRINITHYA_0978,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-30 16:50:00,Dining,Swiggy / Zomato Gourmet Diners,2690.43,UPI_GPay,0
+TXN_SRINITHYA_0979,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-30 19:22:00,Entertainment,BookMyShow International Concerts,1470.75,UPI_GPay,0
+TXN_SRINITHYA_0980,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-09-30 20:54:00,Electronics,Reliance Digital Tech Accessories,2274.96,UPI_GPay,0
+TXN_SRINITHYA_0981,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-01 06:24:00,Dining,Coffee Day Hitec City Tech Hub,4325.74,UPI_GPay,0
+TXN_SRINITHYA_0982,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-01 07:07:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4270.68,Credit_Card,0
+TXN_SRINITHYA_0983,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-01 07:31:00,Dining,Coffee Day Hitec City Tech Hub,3689.12,Credit_Card,0
+TXN_SRINITHYA_0984,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-01 12:56:00,Education Tech,Coursera / Udemy Deep Learning Courses,3450.63,UPI_GPay,0
+TXN_SRINITHYA_0985,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-01 15:22:00,Entertainment,BookMyShow International Concerts,3041.97,UPI_GPay,0
+TXN_SRINITHYA_0986,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-01 15:26:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2026.91,Credit_Card,0
+TXN_SRINITHYA_0987,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-01 20:43:00,Dining,Coffee Day Hitec City Tech Hub,2506.83,UPI_GPay,0
+TXN_SRINITHYA_0988,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-01 20:49:00,Transit,Uber Premier Rides Hyderabad,2644.37,UPI_GPay,0
+TXN_SRINITHYA_0989,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-01 22:48:00,Electronics,Amazon Kindle & Academic Devices,1560.96,UPI_GPay,0
+TXN_SRINITHYA_0990,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-01 23:22:00,Transit,Uber Premier Rides Hyderabad,1659.25,Credit_Card,0
+TXN_SRINITHYA_0991,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-02 17:23:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,2253.23,Debit_Card,0
+TXN_SRINITHYA_0992,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-02 18:19:00,Transit,Uber Premier Rides Hyderabad,3028.74,Credit_Card,0
+TXN_SRINITHYA_0993,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-02 19:48:00,Entertainment,BookMyShow International Concerts,1556.84,UPI_GPay,0
+TXN_SRINITHYA_0994,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-02 22:40:00,Entertainment & Software,Spotify & Adobe Creative Cloud Subscriptions,4058.96,UPI_GPay,0
+TXN_SRINITHYA_0995,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-03 00:47:00,Transit,Uber Premier Rides Hyderabad,4106.22,Debit_Card,0
+TXN_SRINITHYA_0996,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-03 04:31:00,Dining,Coffee Day Hitec City Tech Hub,2340.97,UPI_GPay,0
+TXN_SRINITHYA_0997,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-03 06:34:00,Entertainment,BookMyShow International Concerts,4150.21,NetBanking,0
+TXN_SRINITHYA_0998,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-03 08:31:00,Transit,Uber Premier Rides Hyderabad,911.51,Debit_Card,0
+TXN_SRINITHYA_0999,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-03 08:52:00,Dining,Coffee Day Hitec City Tech Hub,3906.78,UPI_GPay,0
+TXN_SRINITHYA_1000,cust_srinithya,K. Sri Nithya,23R91A05G7,2026-10-03 10:58:00,Transit,Uber Premier Rides Hyderabad,4537.26,Debit_Card,0

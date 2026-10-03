@@ -1,0 +1,70 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2370 >>
+stream
+BT
+/F1 10 Tf
+45 745 Td
+15 TL
+(STATE BANK OF INDIA - ELECTRONIC ACCOUNT STATEMENT) '
+(TKREC CAMPUS BRANCH, HYDERABAD - 501510) '
+(================================================================================) '
+(ACCOUNT DETAILS) '
+(Cardholder Name : M. Pranavi                   Account No    : 23R91A05H6) '
+(Student ID      : 23R91A05H6                   Account Type  : Student Savings Plus) '
+(Branch          : TKREC Hyderabad Campus       Currency      : Indian Rupees \(INR\)) '
+(Statement Range : 01-Oct-2026 to 08-Oct-2026   Status        : Active) '
+(================================================================================) '
+() '
+(TRANSACTION DETAILS) '
+(--------------------------------------------------------------------------------) '
+(Date        Narration / Merchant Details                 Channel     Debit \(INR\)) '
+(--------------------------------------------------------------------------------) '
+(01-10-2026  TKREC Campus Canteen Tea & Snacks            UPI         Rs 85.00) '
+(01-10-2026  Hyderabad Metro Rail Smart Card Topup        UPI         Rs 150.00) '
+(02-10-2026  Campus Xerox & Spiral Binding Centre         UPI         Rs 65.00) '
+(02-10-2026  Nescafe Coffee Booth Academic Block          UPI         Rs 40.00) '
+(03-10-2026  Hyderabad Metro Commute Return Ticket        UPI         Rs 60.00) '
+(04-10-2026  Stationery & Record Notebook Supplies        UPI         Rs 120.00) '
+(05-10-2026  Swiggy Campus Food Delivery Hyderabad        POS         Rs 240.00) '
+(06-10-2026  College Library Fine & Textbook Renewal      UPI         Rs 50.00) '
+(07-10-2026  Pragathi Technical Bookstore Pragathi Nagar  UPI         Rs 380.00) '
+(08-10-2026  Overseas Luxury Watches Boutique Dubai       Intl        Rs 3000.00) '
+(--------------------------------------------------------------------------------) '
+() '
+(SUMMARY & FRAUD MONITORING NOTICE) '
+(Total Debited Amount: Rs 4,190.00  | Total Transactions: 10) '
+(Routine Spending Baseline: ~Rs 145.00 per transaction \(95% VaR Limit: Rs 322.00\)) '
+(Note: Automated FraudGuard Engine monitors anomalous spending spikes and) '
+(cross-border transactions using Personalized Value at Risk \(VaR\) & Machine Learning.) '
+(================================================================================) '
+(Generated via FraudGuard Banking Security System - TKREC CSE Department) '
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002663 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2731
+%%EOF

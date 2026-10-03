@@ -1,0 +1,220 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h4 class="fw-bold mb-1"><i class="fas fa-users text-success me-2"></i>Individual Value at Risk (VaR) Profiles</h4>
+        <small class="text-muted">Personalized statistical spending thresholds in Indian Rupees (₹) across 4 TKREC project students</small>
+    </div>
+    <a href="{{ url_for('individual_payments') }}" class="btn btn-green btn-sm">
+        <i class="fas fa-user-check me-1"></i> Individual Payments
+    </a>
+</div>
+
+<!-- Educational Banner -->
+<div class="card mb-4 border-0 shadow-sm" style="background: linear-gradient(135deg, #ecfdf5 0%, #ffffff 100%); border-left: 4px solid #10b981 !important;">
+    <div class="card-body p-4">
+        <div class="row align-items-center">
+            <div class="col-md-9">
+                <h5 class="fw-bold text-dark mb-1"><i class="fas fa-chart-pie text-success me-2"></i>Why Individual VaR is Superior to Generic Limits</h5>
+                <p class="text-secondary mb-0" style="font-size: 0.92rem;">
+                    A static ₹5,000 threshold fails modern banking: it floods active spenders with false alarms while letting student accounts be completely drained without detection. 
+                    Our system computes <strong>Personalized Value at Risk ($\mu_{\text{student}} + Z \cdot \sigma_{\text{student}}$)</strong> dynamically from 
+                    each individual's empirical transaction dataset.
+                </p>
+            </div>
+            <div class="col-md-3 text-md-end mt-3 mt-md-0">
+                <span class="badge bg-success bg-opacity-15 text-success border border-success border-opacity-25 px-3 py-2 fw-semibold">
+                    <i class="fas fa-database me-1"></i> 4 Separate Datasets
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 4 Student Profile Cards -->
+<div class="row g-4 mb-4">
+    {% for c in customers %}
+    <div class="col-xl-3 col-md-6">
+        <div class="card h-100 shadow-sm border-top border-4 {{ 'border-primary' if c.id == 'cust_pranavi' else 'border-info' if c.id == 'cust_srinithya' else 'border-warning' if c.id == 'cust_naresh' else 'border-success' }}">
+            <div class="card-body p-4 d-flex flex-column">
+                <div class="d-flex justify-content-between align-items-start mb-3">
+                    <div class="d-flex align-items-center">
+                        <div class="stat-icon me-3 mb-0" style="width: 44px; height: 44px; background: #f1f5f9;">
+                            <i class="fas fa-{{ c.icon }} text-dark"></i>
+                        </div>
+                        <div>
+                            <h6 class="fw-bold mb-0 text-dark">{{ c.name }}</h6>
+                            <small class="text-muted d-block">{{ c.role }}</small>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <span class="badge bg-light text-secondary border font-monospace px-2 py-1">Roll: {{ c.roll_no }}</span>
+                </div>
+
+                <p class="text-secondary small mb-3 flex-grow-1">{{ c.description }}</p>
+
+                <!-- Spending Metrics -->
+                <div class="p-3 bg-light rounded-3 mb-3 border">
+                    <div class="row g-2 text-center">
+                        <div class="col-6 border-end">
+                            <span class="text-muted small d-block">Average Spend</span>
+                            <span class="fw-bold text-dark fs-6">₹{{ "{:,.2f}".format(c.mean_spending) }}</span>
+                        </div>
+                        <div class="col-6">
+                            <span class="text-muted small d-block">Std Deviation</span>
+                            <span class="fw-bold text-secondary fs-6">±₹{{ "{:,.2f}".format(c.std_spending) }}</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- VaR Thresholds -->
+                <div class="mb-3">
+                    <div class="d-flex justify-content-between align-items-center mb-1">
+                        <span class="small fw-semibold text-secondary"><i class="fas fa-shield-alt text-warning me-1"></i>95% VaR Threshold</span>
+                        <span class="badge bg-warning bg-opacity-10 text-dark fw-bold">₹{{ "{:,.2f}".format(c.var_95) }}</span>
+                    </div>
+                    <div class="progress mb-2" style="height: 6px;">
+                        <div class="progress-bar bg-warning" style="width: 75%;"></div>
+                    </div>
+                    <small class="text-muted d-block" style="font-size: 0.74rem;">95% of normal transactions are below this amount.</small>
+                </div>
+
+                <div class="mb-4">
+                    <div class="d-flex justify-content-between align-items-center mb-1">
+                        <span class="small fw-semibold text-secondary"><i class="fas fa-exclamation-triangle text-danger me-1"></i>99% VaR Threshold</span>
+                        <span class="badge bg-danger bg-opacity-10 text-danger fw-bold">₹{{ "{:,.2f}".format(c.var_99) }}</span>
+                    </div>
+                    <div class="progress mb-2" style="height: 6px;">
+                        <div class="progress-bar bg-danger" style="width: 95%;"></div>
+                    </div>
+                    <small class="text-muted d-block" style="font-size: 0.74rem;">Amounts beyond this trigger immediate High Exposure alarms.</small>
+                </div>
+
+                <!-- Action Button -->
+                <a href="{{ url_for('individual_payments', customer=c.id) }}" class="btn btn-outline-green w-100 btn-sm py-2 mt-auto">
+                    <i class="fas fa-credit-card me-1"></i> Make Payment as {{ c.name.split()[0] }}
+                </a>
+            </div>
+            <div class="card-footer bg-white border-top py-2 px-3 d-flex justify-content-between text-muted small" style="font-size: 0.75rem;">
+                <span>Dataset: <code>{{ c.total_txs }} txs</code></span>
+                <span>Injected: <code>{{ c.fraud_txs }} frauds</code></span>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<!-- Viva Demonstration: ₹3,000 Comparative Experiment -->
+<div class="card mb-4 shadow-sm">
+    <div class="card-header d-flex justify-content-between align-items-center bg-white py-3">
+        <div>
+            <i class="fas fa-flask text-success me-2"></i>
+            <span class="fw-bold">Viva / Presentation Experiment: What Happens When ₹3,000 is Charged?</span>
+        </div>
+        <span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">Same ₹3,000 Charge Across All 4 Students</span>
+    </div>
+    <div class="card-body p-4">
+        <p class="text-secondary small mb-3">
+            In standard systems, a flat ₹3,000 limit fails to distinguish context. Notice how our 
+            <strong>Empirical Value-at-Risk Engine</strong> responds dynamically to each student's empirical spending history:
+        </p>
+        
+        <div class="table-responsive border rounded-3">
+            <table class="table table-hover align-middle mb-0">
+                <thead>
+                    <tr>
+                        <th>Student Profile</th>
+                        <th>Roll Number</th>
+                        <th>Their Normal Avg</th>
+                        <th>Charged Amount</th>
+                        <th>Deviation Ratio</th>
+                        <th>Personal VaR Score</th>
+                        <th>Risk Assessment</th>
+                        <th>Engine Response</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="table-success table-opacity-10">
+                        <td>
+                            <div class="fw-bold text-dark"><i class="fas fa-user-graduate text-primary me-2"></i>M. Pranavi</div>
+                            <small class="text-muted">Student Lead • Highest Avg Spender</small>
+                        </td>
+                        <td><span class="badge bg-light text-secondary border font-monospace">23R91A05H6</span></td>
+                        <td><strong class="text-primary">₹12,162.90</strong></td>
+                        <td class="fw-bold text-dark">₹5,000.00</td>
+                        <td><span class="badge bg-success">0.41x of average</span></td>
+                        <td>
+                            <div class="fw-bold text-success">8.2%</div>
+                            <div class="progress" style="height: 6px; width: 70px;">
+                                <div class="progress-bar bg-success" style="width: 8%;"></div>
+                            </div>
+                        </td>
+                        <td><span class="badge-soft-success">NORMAL RISK</span></td>
+                        <td><small class="text-success fw-semibold"><i class="fas fa-check-circle me-1"></i>Approved (Within 95% VaR: ₹22,075)</small></td>
+                    </tr>
+                    
+                    <tr class="table-success table-opacity-10">
+                        <td>
+                            <div class="fw-bold text-dark"><i class="fas fa-microchip text-success me-2"></i>M. Janaki Ram</div>
+                            <small class="text-muted">Developer & Hardware Lead</small>
+                        </td>
+                        <td><span class="badge bg-light text-secondary border font-monospace">24R95A0519</span></td>
+                        <td>₹5,188.96</td>
+                        <td class="fw-bold text-dark">₹5,000.00</td>
+                        <td><span class="badge bg-success">0.96x of average</span></td>
+                        <td>
+                            <div class="fw-bold text-success">19.3%</div>
+                            <div class="progress" style="height: 6px; width: 70px;">
+                                <div class="progress-bar bg-success" style="width: 19%;"></div>
+                            </div>
+                        </td>
+                        <td><span class="badge-soft-success">NORMAL RISK</span></td>
+                        <td><small class="text-success fw-semibold"><i class="fas fa-check-circle me-1"></i>Approved (Within 95% VaR: ₹9,587)</small></td>
+                    </tr>
+
+                    <tr class="table-warning table-opacity-10">
+                        <td>
+                            <div class="fw-bold text-dark"><i class="fas fa-laptop-code text-info me-2"></i>K. Sri Nithya</div>
+                            <small class="text-muted">Tech & Course Lead</small>
+                        </td>
+                        <td><span class="badge bg-light text-secondary border font-monospace">23R91A05G7</span></td>
+                        <td>₹2,669.34</td>
+                        <td class="fw-bold text-dark">₹5,000.00</td>
+                        <td><span class="badge bg-warning text-dark">1.87x of average</span></td>
+                        <td>
+                            <div class="fw-bold text-warning">48.7%</div>
+                            <div class="progress" style="height: 6px; width: 70px;">
+                                <div class="progress-bar bg-warning" style="width: 49%;"></div>
+                            </div>
+                        </td>
+                        <td><span class="badge-soft-warning">ELEVATED RISK</span></td>
+                        <td><small class="text-warning fw-semibold"><i class="fas fa-shield-virus me-1"></i>Near 95% VaR (₹5,062) / Step-up Auth</small></td>
+                    </tr>
+
+                    <tr class="table-danger table-opacity-10">
+                        <td>
+                            <div class="fw-bold text-dark"><i class="fas fa-running text-warning me-2"></i>K. Naresh</div>
+                            <small class="text-muted">Hostel & Events Head</small>
+                        </td>
+                        <td><span class="badge bg-light text-secondary border font-monospace">23R91A05F3</span></td>
+                        <td>₹1,347.24</td>
+                        <td class="fw-bold text-dark">₹5,000.00</td>
+                        <td><span class="badge bg-danger">3.71x of average</span></td>
+                        <td>
+                            <div class="fw-bold text-danger">100.0%</div>
+                            <div class="progress" style="height: 6px; width: 70px;">
+                                <div class="progress-bar bg-danger" style="width: 100%;"></div>
+                            </div>
+                        </td>
+                        <td><span class="badge-soft-danger">CRITICAL EXPOSURE</span></td>
+                        <td><small class="text-danger fw-semibold"><i class="fas fa-exclamation-circle me-1"></i>Exceeds 99% VaR (₹3,180) / Hold Transaction</small></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

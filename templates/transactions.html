@@ -1,0 +1,160 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card shadow-sm mb-4">
+    <div class="card-header bg-white py-3 d-flex flex-wrap justify-content-between align-items-center gap-2">
+        <div class="d-flex align-items-center">
+            <i class="fas fa-receipt text-success me-2 fs-5"></i>
+            <div>
+                <h6 class="fw-bold mb-0 text-dark">Transactions & Security Alerts Ledger</h6>
+                <small class="text-muted">Real-time audit log of evaluated individual transactions and risk flags</small>
+            </div>
+        </div>
+        <div class="d-flex flex-wrap gap-1">
+            <a href="{{ url_for('transactions') }}" 
+               class="btn btn-sm {{ 'btn-green' if not request.args.get('risk_level') else 'btn-outline-secondary' }}">
+                All Records
+            </a>
+            <a href="{{ url_for('transactions', risk_level='ALERTS') }}" 
+               class="btn btn-sm {{ 'btn-danger' if request.args.get('risk_level') == 'ALERTS' else 'btn-outline-danger' }}">
+                🚨 Flagged Alerts
+            </a>
+            <a href="{{ url_for('transactions', risk_level='HIGH') }}" 
+               class="btn btn-sm {{ 'btn-danger' if request.args.get('risk_level') == 'HIGH' else 'btn-outline-danger' }}">
+                High Risk
+            </a>
+            <a href="{{ url_for('transactions', risk_level='MEDIUM') }}" 
+               class="btn btn-sm {{ 'btn-warning text-dark' if request.args.get('risk_level') == 'MEDIUM' else 'btn-outline-warning' }}">
+                Medium Risk
+            </a>
+            <a href="{{ url_for('transactions', risk_level='LOW') }}" 
+               class="btn btn-sm {{ 'btn-green' if request.args.get('risk_level') == 'LOW' else 'btn-outline-green' }}">
+                Safe (Low)
+            </a>
+        </div>
+    </div>
+    
+    <div class="card-body p-4">
+        <div class="row g-3 mb-3">
+            <div class="col-md-6">
+                <div class="input-group">
+                    <span class="input-group-text bg-white text-muted border-end-0"><i class="fas fa-search"></i></span>
+                    <input type="text" class="form-control border-start-0" id="searchTx" placeholder="Type to filter by Transaction ID or amount...">
+                </div>
+            </div>
+            <div class="col-md-6 text-md-end d-flex gap-2 justify-content-md-end">
+                <a href="{{ url_for('individual_payments') }}" class="btn btn-outline-green btn-sm">
+                    <i class="fas fa-user-check me-1"></i> New Payment
+                </a>
+                <a href="{{ url_for('scan_document') }}" class="btn btn-green btn-sm">
+                    <i class="fas fa-file-invoice-dollar me-1"></i> Scan Statement
+                </a>
+            </div>
+        </div>
+        
+        <div class="table-responsive border rounded-3">
+            <table class="table table-hover align-middle mb-0" id="mainTxTable">
+                <thead class="table-light">
+                    <tr>
+                        <th>Transaction ID</th>
+                        <th>Amount (INR)</th>
+                        <th>Personal VaR</th>
+                        <th>ML Classifier</th>
+                        <th>Fraud Score</th>
+                        <th>Risk Assessment</th>
+                        <th>Logged At</th>
+                    </tr>
+                </thead>
+                <tbody id="txTableBody">
+                    {% for tx in transactions %}
+                    <tr class="{{ 'table-danger table-opacity-10' if tx.risk_level == 'HIGH' else 'table-warning table-opacity-10' if tx.risk_level == 'MEDIUM' else '' }}">
+                        <td>
+                            <code class="text-dark fw-bold">{{ tx.transaction_id }}</code>
+                        </td>
+                        <td class="fw-bold fs-6 {{ 'text-danger' if tx.risk_level == 'HIGH' else 'text-dark' }}">
+                            ₹{{ "{:,.2f}".format(tx.amount or 0) }}
+                        </td>
+                        <td>
+                            <div class="d-flex align-items-center gap-2">
+                                <span class="small fw-semibold {{ 'text-danger' if (tx.var_risk_score or 0) > 0.7 else 'text-warning' if (tx.var_risk_score or 0) > 0.4 else 'text-success' }}">
+                                    {{ "%.2f"|format((tx.var_risk_score or 0) * 100) }}%
+                                </span>
+                                <div class="progress flex-grow-1" style="height: 6px; width: 60px; background-color: #f1f5f9;">
+                                    <div class="progress-bar {{ 'bg-danger' if (tx.var_risk_score or 0) > 0.7 else 'bg-warning' if (tx.var_risk_score or 0) > 0.4 else 'bg-success' }}" 
+                                         style="width: {{ (tx.var_risk_score or 0) * 100 }}%;"></div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            {% if tx.ml_prediction == 1 %}
+                                <span class="badge bg-danger"><i class="fas fa-times-circle me-1"></i>Fraudulent</span>
+                            {% else %}
+                                <span class="badge bg-success"><i class="fas fa-check-circle me-1"></i>Legitimate</span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <span class="fw-semibold {{ 'text-danger' if (tx.fraud_probability or 0) > 0.5 else 'text-secondary' }}">
+                                {{ "%.2f"|format((tx.fraud_probability or 0) * 100) }}%
+                            </span>
+                        </td>
+                        <td>
+                            {% if tx.risk_level == 'HIGH' %}
+                                <span class="badge bg-danger">HIGH RISK</span>
+                            {% elif tx.risk_level == 'MEDIUM' %}
+                                <span class="badge bg-warning text-dark">MEDIUM RISK</span>
+                            {% else %}
+                                <span class="badge bg-success">LOW RISK</span>
+                            {% endif %}
+                        </td>
+                        <td class="text-muted small text-nowrap">{{ tx.created_at }}</td>
+                    </tr>
+                    {% else %}
+                    <tr>
+                        <td colspan="7" class="text-center text-muted py-5">
+                            <i class="fas fa-search fa-2x mb-2 text-muted opacity-50 d-block"></i>
+                            No transactions found matching this filter criteria.
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        
+        <!-- Pagination -->
+        <div class="d-flex justify-content-between align-items-center mt-3">
+            <span class="text-muted small">Showing page {{ page }}</span>
+            <nav aria-label="Transaction pagination">
+                <ul class="pagination pagination-sm mb-0">
+                    <li class="page-item {% if page <= 1 %}disabled{% endif %}">
+                        <a class="page-link" href="{{ url_for('transactions', page=page-1, risk_level=request.args.get('risk_level')) }}">Previous</a>
+                    </li>
+                    <li class="page-item active">
+                        <a class="page-link bg-success border-success text-white" href="#">{{ page }}</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="{{ url_for('transactions', page=page+1, risk_level=request.args.get('risk_level')) }}">Next</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+document.getElementById('searchTx').addEventListener('keyup', function() {
+    const filter = this.value.toLowerCase();
+    const rows = document.querySelectorAll('#txTableBody tr');
+    
+    rows.forEach(row => {
+        const text = row.innerText.toLowerCase();
+        if (text.includes(filter)) {
+            row.style.display = '';
+        } else {
+            row.style.display = 'none';
+        }
+    });
+});
+</script>
+{% endblock %}

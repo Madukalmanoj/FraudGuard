@@ -1,0 +1,224 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- Hero / Welcome Banner -->
+<div class="hero-card p-4 mb-4">
+    <div class="row align-items-center">
+        <div class="col-lg-7">
+            <h3 class="mb-1"><i class="fas fa-shield-alt me-2"></i>Financial Fraud Detection System</h3>
+            <p class="mb-0">Combining <strong>Personalized Value at Risk (VaR)</strong> with <strong>Machine Learning (Random Forest)</strong> for high-precision fraud prevention.</p>
+        </div>
+        <div class="col-lg-5 text-lg-end mt-3 mt-lg-0 d-flex flex-wrap gap-2 justify-content-lg-end">
+            <a href="{{ url_for('individual_payments') }}" class="btn btn-light text-success fw-bold shadow-sm">
+                <i class="fas fa-user-check me-1"></i> Individual Payment
+            </a>
+            <a href="{{ url_for('scan_document') }}" class="btn btn-outline-light text-white fw-bold shadow-sm" style="border: 2px solid rgba(255,255,255,0.85);">
+                <i class="fas fa-file-invoice-dollar me-1"></i> Scan Statement / PDF
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- Stats Counters -->
+<div class="row g-3 mb-4">
+    <div class="col-sm-6 col-xl-3">
+        <div class="stat-card">
+            <div class="stat-icon" style="background-color: #ecfdf5; color: #10b981;">
+                <i class="fas fa-exchange-alt"></i>
+            </div>
+            <div class="stat-value">{{ stats.get('total_transactions', 0) }}</div>
+            <div class="stat-label">Total Transactions Audited</div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-xl-3">
+        <div class="stat-card">
+            <div class="stat-icon" style="background-color: #fee2e2; color: #ef4444;">
+                <i class="fas fa-shield-virus"></i>
+            </div>
+            <div class="stat-value text-danger">{{ stats.get('fraud_count', 0) }}</div>
+            <div class="stat-label">Fraudulent Detected</div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-xl-3">
+        <div class="stat-card">
+            <div class="stat-icon" style="background-color: #ecfdf5; color: #059669;">
+                <i class="fas fa-check-circle"></i>
+            </div>
+            <div class="stat-value text-success">{{ stats.get('legitimate_count', 0) }}</div>
+            <div class="stat-label">Legitimate Transactions</div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-xl-3">
+        <div class="stat-card">
+            <div class="stat-icon" style="background-color: #fef3c7; color: #d97706;">
+                <i class="fas fa-exclamation-triangle"></i>
+            </div>
+            <div class="stat-value text-warning">{{ stats.get('high_risk_count', 0) }}</div>
+            <div class="stat-label">High Risk VaR Alerts</div>
+        </div>
+    </div>
+</div>
+
+<!-- Main Insights Row -->
+<div class="row g-4 mb-4">
+    <!-- Risk Distribution Donut Chart -->
+    <div class="col-lg-6">
+        <div class="card h-100 shadow-sm">
+            <div class="card-header bg-white d-flex justify-content-between align-items-center py-3">
+                <span class="fw-bold"><i class="fas fa-chart-pie me-2 text-success"></i>Transaction Risk Distribution</span>
+                <span class="badge bg-light text-muted border">VaR + ML</span>
+            </div>
+            <div class="card-body p-4" style="height: 280px; position: relative;">
+                {% if stats.get('total_transactions', 0) > 0 %}
+                <canvas id="riskDoughnut"></canvas>
+                {% else %}
+                <div class="d-flex align-items-center justify-content-center h-100 text-muted">
+                    <p><i class="fas fa-info-circle me-1"></i> No transactions logged yet.</p>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <!-- System Highlights Card -->
+    <div class="col-lg-6">
+        <div class="card h-100 shadow-sm">
+            <div class="card-header bg-white d-flex justify-content-between align-items-center py-3">
+                <span class="fw-bold"><i class="fas fa-check-double text-success me-2"></i>Detection Engine Status</span>
+                <span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">All Systems Operational</span>
+            </div>
+            <div class="card-body p-4 d-flex flex-column justify-content-between">
+                <div class="row g-3">
+                    <div class="col-6">
+                        <div class="p-3 bg-light rounded-3 border">
+                            <span class="text-muted small d-block mb-1">Primary ML Model</span>
+                            <span class="fw-bold text-dark fs-6 d-block">Random Forest</span>
+                            <small class="text-success fw-semibold"><i class="fas fa-check-circle me-1"></i>99.81% Accuracy</small>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="p-3 bg-light rounded-3 border">
+                            <span class="text-muted small d-block mb-1">Risk Methodology</span>
+                            <span class="fw-bold text-dark fs-6 d-block">Personalized VaR</span>
+                            <small class="text-secondary fw-semibold">95% & 99% Limits</small>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="p-3 bg-light rounded-3 border">
+                            <span class="text-muted small d-block mb-1">Active Cardholders</span>
+                            <span class="fw-bold text-dark fs-6 d-block">4 Students</span>
+                            <small class="text-secondary">Empirical Datasets</small>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="p-3 bg-light rounded-3 border">
+                            <span class="text-muted small d-block mb-1">Supported Documents</span>
+                            <span class="fw-bold text-dark fs-6 d-block">PDF, TXT, CSV</span>
+                            <small class="text-success fw-semibold"><i class="fas fa-file-invoice me-1"></i>Batch Scanner</small>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="d-flex gap-2 mt-3 pt-3 border-top">
+                    <a href="{{ url_for('individual_payments') }}" class="btn btn-outline-green btn-sm flex-grow-1">
+                        <i class="fas fa-user-check me-1"></i> Simulate Payment
+                    </a>
+                    <a href="{{ url_for('scan_document') }}" class="btn btn-green btn-sm flex-grow-1">
+                        <i class="fas fa-file-invoice-dollar me-1"></i> Audit Statement
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Unified Activity & Recent Incidents Table -->
+<div class="card shadow-sm mb-4">
+    <div class="card-header bg-white d-flex justify-content-between align-items-center py-3">
+        <span class="fw-bold"><i class="fas fa-receipt text-success me-2"></i>Recent Activity & Security Incidents</span>
+        <a href="{{ url_for('transactions') }}" class="btn btn-sm btn-outline-green">
+            View Full Ledger & Alerts <i class="fas fa-arrow-right ms-1"></i>
+        </a>
+    </div>
+    <div class="card-body p-0">
+        {% if recent_transactions %}
+        <div class="table-responsive">
+            <table class="table table-hover align-middle mb-0">
+                <thead class="table-light">
+                    <tr>
+                        <th>Transaction ID</th>
+                        <th>Amount (INR)</th>
+                        <th>Personal VaR</th>
+                        <th>ML Score</th>
+                        <th>Risk Assessment</th>
+                        <th>Decision</th>
+                        <th>Timestamp</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for tx in recent_transactions[:8] %}
+                    <tr class="{{ 'table-danger table-opacity-10' if tx.risk_level == 'HIGH' else 'table-warning table-opacity-10' if tx.risk_level == 'MEDIUM' else '' }}">
+                        <td><code class="text-secondary fw-semibold">{{ tx.transaction_id }}</code></td>
+                        <td class="fw-bold text-dark">₹{{ "{:,.2f}".format(tx.amount or 0) }}</td>
+                        <td>
+                            <div class="d-flex align-items-center gap-2">
+                                <span class="small fw-bold {{ 'text-danger' if (tx.var_risk_score or 0) > 0.7 else 'text-warning' if (tx.var_risk_score or 0) > 0.4 else 'text-success' }}">
+                                    {{ "%.1f"|format((tx.var_risk_score or 0) * 100) }}%
+                                </span>
+                                <div class="progress" style="height: 5px; width: 50px;">
+                                    <div class="progress-bar {{ 'bg-danger' if (tx.var_risk_score or 0) > 0.7 else 'bg-warning' if (tx.var_risk_score or 0) > 0.4 else 'bg-success' }}" 
+                                         style="width: {{ (tx.var_risk_score or 0) * 100 }}%;"></div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <span class="small fw-semibold {{ 'text-danger' if (tx.fraud_probability or 0) > 0.5 else 'text-muted' }}">
+                                {{ "%.1f"|format((tx.fraud_probability or 0) * 100) }}%
+                            </span>
+                        </td>
+                        <td>
+                            {% if tx.risk_level == 'HIGH' %}
+                                <span class="badge bg-danger">HIGH RISK</span>
+                            {% elif tx.risk_level == 'MEDIUM' %}
+                                <span class="badge bg-warning text-dark">MEDIUM</span>
+                            {% else %}
+                                <span class="badge bg-success">LOW</span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            {% if tx.ml_prediction == 1 or tx.risk_level == 'HIGH' %}
+                                <span class="text-danger fw-semibold small"><i class="fas fa-shield-virus me-1"></i>Flagged</span>
+                            {% else %}
+                                <span class="text-success fw-semibold small"><i class="fas fa-check-circle me-1"></i>Cleared</span>
+                            {% endif %}
+                        </td>
+                        <td class="text-muted small">{{ tx.created_at or tx.time_stamp }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <div class="p-5 text-center text-muted">
+            <i class="fas fa-shield-alt fa-3x mb-3 text-muted opacity-50"></i>
+            <p class="mb-0">No transactions recorded yet. Click 'Individual Payment' to simulate a transaction.</p>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+{% if stats.get('total_transactions', 0) > 0 %}
+// Risk Level Doughnut Chart
+renderDoughnutChart('riskDoughnut',
+    ['High Risk', 'Medium Risk', 'Low Risk'],
+    [{{ stats.get('high_risk_count', 0) }}, 
+     {{ stats.get('medium_risk_count', 0) or 0 }},
+     {{ stats.get('legitimate_count', 0) }}],
+    ['#ef4444', '#f59e0b', '#10b981']
+);
+{% endif %}
+</script>
+{% endblock %}

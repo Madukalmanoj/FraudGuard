@@ -1,0 +1,70 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2402 >>
+stream
+BT
+/F1 10 Tf
+45 745 Td
+15 TL
+(STATE BANK OF INDIA - ELECTRONIC ACCOUNT STATEMENT) '
+(TKREC CAMPUS BRANCH, HYDERABAD - 501510) '
+(================================================================================) '
+(ACCOUNT DETAILS) '
+(Cardholder Name : M. Pranavi                   Account No    : 23R91A05H6) '
+(Student ID      : 23R91A05H6                   Account Type  : Student Lead Academic Plus) '
+(Branch          : TKREC Hyderabad Campus       Currency      : Indian Rupees \(INR\)) '
+(Statement Range : 01-Oct-2026 to 08-Oct-2026   Status        : Active) '
+(================================================================================) '
+() '
+(TRANSACTION DETAILS) '
+(--------------------------------------------------------------------------------) '
+(Date        Narration / Merchant Details                 Channel     Debit \(INR\)) '
+(--------------------------------------------------------------------------------) '
+(01-10-2026  Apple Store Hyderabad Campus Care            POS         Rs 8500.00) '
+(01-10-2026  Reliance Digital Workstation Display         POS         Rs 14200.00) '
+(02-10-2026  IEEE Research Conference Delegate Fee        NetBanking  Rs 6500.00) '
+(02-10-2026  Croma Electronics Ergonomic Keyboard         POS         Rs 3400.00) '
+(03-10-2026  TKREC Cloud & Lab Cluster Access             UPI         Rs 5800.00) '
+(04-10-2026  Amazon AI Robotics Sensor Supplies           UPI         Rs 11250.00) '
+(05-10-2026  Coursera edX MasterTrack Machine Learning    UPI         Rs 15900.00) '
+(06-10-2026  Samsung SmartCafe Galaxy Tab Stylus          POS         Rs 9800.00) '
+(07-10-2026  Oxford Springer Academic Journal Books       UPI         Rs 4650.00) '
+(08-10-2026  Overseas Zurich Wire Transfer Anomaly        Intl        Rs 95000.00) '
+(--------------------------------------------------------------------------------) '
+() '
+(SUMMARY & FRAUD MONITORING NOTICE) '
+(Total Debited Amount: Rs 175,000.00  | Total Transactions: 10) '
+(Routine Spending Baseline: ~Rs 12,163.00 per transaction \(95% VaR Limit: Rs 22,075.00\)) '
+(Note: Automated FraudGuard Engine monitors anomalous spending spikes and) '
+(cross-border transactions using Personalized Value at Risk \(VaR\) & Machine Learning.) '
+(================================================================================) '
+(Generated via FraudGuard Banking Security System - TKREC CSE Department) '
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002695 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2763
+%%EOF

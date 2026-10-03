@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card mb-4">
+    <div class="card-header d-flex flex-wrap justify-content-between align-items-center gap-2">
+        <div class="d-flex align-items-center">
+            <i class="fas fa-bell text-danger me-2"></i>
+            <span class="fw-bold">Security Alerts & Incident Monitoring</span>
+        </div>
+        <div class="d-flex gap-1">
+            <a href="{{ url_for('alerts_page') }}" class="btn btn-sm {{ 'btn-green' if not request.args.get('filter') else 'btn-outline-secondary' }}">All Alerts</a>
+            <a href="{{ url_for('alerts_page', filter='unread') }}" class="btn btn-sm {{ 'btn-warning text-dark' if request.args.get('filter') == 'unread' else 'btn-outline-warning' }}">Unread Only</a>
+        </div>
+    </div>
+    
+    <div class="card-body p-4">
+        <div class="table-responsive border rounded-3">
+            <table class="table table-hover align-middle mb-0">
+                <thead>
+                    <tr>
+                        <th>Status</th>
+                        <th>Alert Type</th>
+                        <th>Transaction ID</th>
+                        <th>Description</th>
+                        <th>Timestamp</th>
+                        <th class="text-end">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for alert in alerts %}
+                    <tr class="{% if alert.is_read == 0 %}bg-light bg-opacity-50{% endif %}">
+                        <td>
+                            {% if alert.is_read == 0 %}
+                                <span class="badge-soft-danger"><i class="fas fa-dot-circle me-1"></i>New</span>
+                            {% else %}
+                                <span class="badge bg-light text-muted border">Resolved</span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            {% if 'HIGH' in (alert.alert_type or '') %}
+                                <span class="badge-soft-danger">{{ alert.alert_type }}</span>
+                            {% else %}
+                                <span class="badge-soft-warning">{{ alert.alert_type }}</span>
+                            {% endif %}
+                        </td>
+                        <td><code class="text-secondary fw-semibold">{{ alert.transaction_id }}</code></td>
+                        <td style="max-width: 380px;">
+                            <span class="text-dark fw-medium" style="font-size: 0.88rem;">{{ alert.message }}</span>
+                        </td>
+                        <td class="text-muted small">{{ alert.created_at }}</td>
+                        <td class="text-end">
+                            {% if alert.is_read == 0 %}
+                            <form action="{{ url_for('mark_alert_read', alert_id=alert.id) }}" method="POST" class="d-inline">
+                                <button type="submit" class="btn btn-sm btn-outline-success rounded-pill px-3" title="Mark as Resolved">
+                                    <i class="fas fa-check me-1"></i>Resolve
+                                </button>
+                            </form>
+                            {% else %}
+                            <span class="text-muted small"><i class="fas fa-check-double text-success me-1"></i>Done</span>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% else %}
+                    <tr><td colspan="6" class="text-center text-muted py-5">No security alerts at this time. All systems normal.</td></tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Customer_Name,Customer_Role,Timestamp,Category,Merchant,Amount_INR,Channel,Class
+TXN_AARAV_0001,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-04 04:31:23,Groceries,Blinkit Quick Groceries,230.15,UPI_GPay,0
+TXN_AARAV_0002,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-04 05:45:23,Food & Dining,Campus Canteen,130.55,UPI_PhonePe,0
+TXN_AARAV_0003,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-04 07:05:23,Food & Dining,Campus Canteen,200.41,UPI_GPay,0
+TXN_AARAV_0004,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-04 11:12:23,Education,College Xerox & Stationary,160.05,Campus_Card,0
+TXN_AARAV_0005,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-04 17:40:23,Entertainment,PVR Cinemas Inorbit,198.56,UPI_PhonePe,0
+TXN_AARAV_0006,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-04 22:23:23,Education,Amazon Book Store,131.67,UPI_PhonePe,0
+TXN_AARAV_0007,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-04 22:51:23,Entertainment,PVR Cinemas Inorbit,118.66,UPI_GPay,0
+TXN_AARAV_0008,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-04 23:52:23,Transit,Hyderabad Metro Rail,182.89,UPI_PhonePe,0
+TXN_AARAV_0009,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 02:11:23,Education,College Xerox & Stationary,52.3,UPI_PhonePe,0
+TXN_AARAV_0010,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 04:37:23,Transit,Hyderabad Metro Rail,164.12,UPI_PhonePe,0
+TXN_AARAV_0011,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 04:53:23,Education,College Xerox & Stationary,258.13,UPI_PhonePe,0
+TXN_AARAV_0012,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 08:38:23,Groceries,Blinkit Quick Groceries,71.04,UPI_GPay,0
+TXN_AARAV_0013,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 09:04:23,Food & Dining,Irani Chai & Bakery,82.24,UPI_PhonePe,0
+TXN_AARAV_0014,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 11:41:23,Utilities,Jio / Airtel Prepaid Recharge,227.27,Campus_Card,0
+TXN_AARAV_0015,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 14:57:23,Groceries,Blinkit Quick Groceries,127.66,UPI_GPay,0
+TXN_AARAV_0016,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 19:20:23,Transit,Hyderabad Metro Rail,230.28,UPI_GPay,0
+TXN_AARAV_0017,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 19:39:23,Utilities,Jio / Airtel Prepaid Recharge,253.13,UPI_GPay,0
+TXN_AARAV_0018,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 20:08:23,Education,College Xerox & Stationary,80.64,Campus_Card,0
+TXN_AARAV_0019,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-05 23:56:23,Education,Amazon Book Store,93.01,UPI_PhonePe,0
+TXN_AARAV_0020,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 00:59:23,Food & Dining,Campus Canteen,290.62,Campus_Card,0
+TXN_AARAV_0021,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 02:28:23,Entertainment,PVR Cinemas Inorbit,101.47,UPI_GPay,0
+TXN_AARAV_0022,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 07:53:23,Food & Dining,Irani Chai & Bakery,74.97,UPI_GPay,0
+TXN_AARAV_0023,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 10:12:23,Food & Dining,Campus Canteen,119.01,UPI_GPay,0
+TXN_AARAV_0024,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 13:12:23,Education,College Xerox & Stationary,139.84,UPI_PhonePe,0
+TXN_AARAV_0025,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 16:11:23,Groceries,Blinkit Quick Groceries,110.01,UPI_PhonePe,0
+TXN_AARAV_0026,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 16:17:23,Groceries,Blinkit Quick Groceries,74.04,UPI_GPay,0
+TXN_AARAV_0027,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 16:23:23,Education,College Xerox & Stationary,61.95,UPI_PhonePe,0
+TXN_AARAV_0028,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 19:07:23,Groceries,Blinkit Quick Groceries,152.85,UPI_GPay,0
+TXN_AARAV_0029,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 19:32:23,Utilities,Jio / Airtel Prepaid Recharge,244.76,UPI_PhonePe,0
+TXN_AARAV_0030,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 19:35:23,Transit,Hyderabad Metro Rail,321.39,UPI_PhonePe,0
+TXN_AARAV_0031,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-06 21:13:23,Transit,Hyderabad Metro Rail,83.61,UPI_PhonePe,0
+TXN_AARAV_0032,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-07 02:04:23,Utilities,Jio / Airtel Prepaid Recharge,87.07,UPI_PhonePe,0
+TXN_AARAV_0033,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-07 07:01:23,Food & Dining,Irani Chai & Bakery,97.12,UPI_GPay,0
+TXN_AARAV_0034,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-07 08:59:23,Food & Dining,Campus Canteen,60.09,UPI_PhonePe,0
+TXN_AARAV_0035,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-07 09:41:23,Groceries,Blinkit Quick Groceries,87.24,Debit_Card,0
+TXN_AARAV_0036,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-07 15:45:23,Food & Dining,Campus Canteen,177.64,UPI_GPay,0
+TXN_AARAV_0037,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-07 18:13:23,Food & Dining,Campus Canteen,73.4,UPI_PhonePe,0
+TXN_AARAV_0038,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-07 22:41:23,Transit,Hyderabad Metro Rail,134.13,UPI_GPay,0
+TXN_AARAV_0039,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-08 00:26:23,Groceries,Blinkit Quick Groceries,144.25,Campus_Card,0
+TXN_AARAV_0040,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-08 00:49:23,Transit,Hyderabad Metro Rail,148.51,UPI_GPay,0
+TXN_AARAV_0041,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-08 01:25:23,Groceries,Blinkit Quick Groceries,42.56,UPI_PhonePe,0
+TXN_AARAV_0042,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-08 02:44:23,Groceries,Blinkit Quick Groceries,57.15,Campus_Card,0
+TXN_AARAV_0043,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-08 08:24:23,Food & Dining,Campus Canteen,89.07,UPI_GPay,0
+TXN_AARAV_0044,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-08 12:28:23,Utilities,Jio / Airtel Prepaid Recharge,138.97,UPI_PhonePe,0
+TXN_AARAV_0045,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-08 12:36:23,Groceries,Blinkit Quick Groceries,250.48,UPI_PhonePe,0
+TXN_AARAV_0046,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-08 12:53:23,Groceries,Blinkit Quick Groceries,149.29,UPI_GPay,0
+TXN_AARAV_0047,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-08 19:29:23,Transit,Hyderabad Metro Rail,172.49,UPI_PhonePe,0
+TXN_AARAV_0048,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 01:24:23,Education,College Xerox & Stationary,97.95,UPI_GPay,0
+TXN_AARAV_0049,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 01:26:23,Transit,Hyderabad Metro Rail,154.99,UPI_PhonePe,0
+TXN_AARAV_0050,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 01:39:23,Utilities,Jio / Airtel Prepaid Recharge,186.61,Campus_Card,0
+TXN_AARAV_0051,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 02:04:23,Education,Amazon Book Store,278.47,UPI_GPay,0
+TXN_AARAV_0052,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 03:40:23,Utilities,Jio / Airtel Prepaid Recharge,179.33,UPI_PhonePe,0
+TXN_AARAV_0053,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 04:57:23,Entertainment,PVR Cinemas Inorbit,97.3,UPI_PhonePe,0
+TXN_AARAV_0054,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 06:26:23,Food & Dining,Irani Chai & Bakery,73.69,UPI_GPay,0
+TXN_AARAV_0055,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 19:17:23,Education,Amazon Book Store,123.62,UPI_GPay,0
+TXN_AARAV_0056,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 19:26:23,Utilities,Jio / Airtel Prepaid Recharge,261.67,UPI_GPay,0
+TXN_AARAV_0057,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 20:01:23,Education,Amazon Book Store,123.32,UPI_PhonePe,0
+TXN_AARAV_0058,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-09 20:26:23,Groceries,Blinkit Quick Groceries,128.25,UPI_PhonePe,0
+TXN_AARAV_0059,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-10 04:53:23,Entertainment,PVR Cinemas Inorbit,101.02,UPI_PhonePe,0
+TXN_AARAV_0060,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-10 09:20:23,Food & Dining,Campus Canteen,138.59,UPI_GPay,0
+TXN_AARAV_0061,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-10 09:32:23,Entertainment,PVR Cinemas Inorbit,250.98,UPI_PhonePe,0
+TXN_AARAV_0062,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-10 12:57:23,Entertainment,PVR Cinemas Inorbit,51.17,UPI_PhonePe,0
+TXN_AARAV_0063,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-10 14:27:23,Transit,Hyderabad Metro Rail,92.96,UPI_GPay,0
+TXN_AARAV_0064,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-10 23:05:23,Education,College Xerox & Stationary,136.52,Campus_Card,0
+TXN_AARAV_0065,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-11 05:42:23,Food & Dining,Irani Chai & Bakery,41.02,UPI_PhonePe,0
+TXN_AARAV_0066,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-11 06:13:23,Food & Dining,Irani Chai & Bakery,216.81,UPI_PhonePe,0
+TXN_AARAV_0067,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-11 10:31:23,Utilities,Jio / Airtel Prepaid Recharge,86.89,UPI_GPay,0
+TXN_AARAV_0068,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-11 12:25:23,Utilities,Jio / Airtel Prepaid Recharge,152.37,UPI_GPay,0
+TXN_AARAV_0069,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-11 14:41:23,Transit,Hyderabad Metro Rail,112.32,UPI_PhonePe,0
+TXN_AARAV_0070,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-11 16:21:23,Education,Amazon Book Store,35.83,Campus_Card,0
+TXN_AARAV_0071,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-11 22:56:23,Education,Amazon Book Store,50.97,UPI_GPay,0
+TXN_AARAV_0072,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-12 02:25:23,Utilities,Jio / Airtel Prepaid Recharge,32.48,UPI_PhonePe,0
+TXN_AARAV_0073,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-12 04:12:23,Transit,Hyderabad Metro Rail,238.2,UPI_PhonePe,0
+TXN_AARAV_0074,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-12 08:44:23,Entertainment,PVR Cinemas Inorbit,266.75,UPI_GPay,0
+TXN_AARAV_0075,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-12 11:43:23,Groceries,Blinkit Quick Groceries,179.49,UPI_GPay,0
+TXN_AARAV_0076,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-12 12:25:23,Education,College Xerox & Stationary,114.49,UPI_PhonePe,0
+TXN_AARAV_0077,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-12 13:53:23,Education,Amazon Book Store,208.25,UPI_GPay,0
+TXN_AARAV_0078,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-12 15:34:23,Transit,Hyderabad Metro Rail,107.35,UPI_GPay,0
+TXN_AARAV_0079,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-12 17:40:23,Education,Amazon Book Store,57.34,UPI_PhonePe,0
+TXN_AARAV_0080,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-12 20:53:23,Transit,Hyderabad Metro Rail,288.95,UPI_GPay,0
+TXN_AARAV_0081,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-12 23:03:23,Utilities,Jio / Airtel Prepaid Recharge,142.85,Campus_Card,0
+TXN_AARAV_0082,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 01:08:23,Transit,Hyderabad Metro Rail,105.84,UPI_PhonePe,0
+TXN_AARAV_0083,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 06:15:23,Groceries,Blinkit Quick Groceries,178.69,UPI_PhonePe,0
+TXN_AARAV_0084,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 09:28:23,Groceries,Blinkit Quick Groceries,269.75,UPI_PhonePe,0
+TXN_AARAV_0085,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 10:38:23,Food & Dining,Campus Canteen,257.11,Campus_Card,0
+TXN_AARAV_0086,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 13:38:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,6688.29,Debit_Card,1
+TXN_AARAV_0087,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 15:39:23,Education,College Xerox & Stationary,163.18,UPI_PhonePe,0
+TXN_AARAV_0088,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 17:24:23,Education,Amazon Book Store,118.62,UPI_GPay,0
+TXN_AARAV_0089,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 17:30:23,Utilities,Jio / Airtel Prepaid Recharge,51.5,UPI_GPay,0
+TXN_AARAV_0090,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 19:30:23,Utilities,Jio / Airtel Prepaid Recharge,83.03,UPI_GPay,0
+TXN_AARAV_0091,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 20:59:23,Utilities,Jio / Airtel Prepaid Recharge,220.84,UPI_PhonePe,0
+TXN_AARAV_0092,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 20:59:23,Education,Amazon Book Store,92.63,UPI_PhonePe,0
+TXN_AARAV_0093,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-13 21:26:23,Transit,Hyderabad Metro Rail,28.38,UPI_PhonePe,0
+TXN_AARAV_0094,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 01:30:23,Groceries,Blinkit Quick Groceries,151.91,UPI_GPay,0
+TXN_AARAV_0095,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 06:02:23,Transit,Hyderabad Metro Rail,161.96,UPI_PhonePe,0
+TXN_AARAV_0096,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 06:38:23,Entertainment,PVR Cinemas Inorbit,121.25,Campus_Card,0
+TXN_AARAV_0097,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 11:13:23,Food & Dining,Campus Canteen,60.64,UPI_PhonePe,0
+TXN_AARAV_0098,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 13:51:23,Utilities,Jio / Airtel Prepaid Recharge,71.82,UPI_PhonePe,0
+TXN_AARAV_0099,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 14:05:23,Utilities,Jio / Airtel Prepaid Recharge,124.29,UPI_GPay,0
+TXN_AARAV_0100,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 14:56:23,Education,Amazon Book Store,66.62,UPI_GPay,0
+TXN_AARAV_0101,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 19:19:23,Food & Dining,Irani Chai & Bakery,102.65,UPI_PhonePe,0
+TXN_AARAV_0102,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 20:57:23,Food & Dining,Campus Canteen,90.37,UPI_PhonePe,0
+TXN_AARAV_0103,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 21:51:23,Utilities,Jio / Airtel Prepaid Recharge,93.04,Debit_Card,0
+TXN_AARAV_0104,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-14 23:10:23,Food & Dining,Irani Chai & Bakery,125.94,UPI_PhonePe,0
+TXN_AARAV_0105,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-15 07:03:23,Groceries,Blinkit Quick Groceries,82.42,UPI_PhonePe,0
+TXN_AARAV_0106,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-15 08:28:23,Transit,Hyderabad Metro Rail,85.83,UPI_GPay,0
+TXN_AARAV_0107,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-15 08:56:23,Transit,Hyderabad Metro Rail,233.55,UPI_PhonePe,0
+TXN_AARAV_0108,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-15 13:34:23,Food & Dining,Irani Chai & Bakery,267.85,UPI_GPay,0
+TXN_AARAV_0109,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-15 17:25:23,Education,Amazon Book Store,136.81,UPI_PhonePe,0
+TXN_AARAV_0110,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-15 18:24:23,Entertainment,PVR Cinemas Inorbit,97.35,UPI_PhonePe,0
+TXN_AARAV_0111,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-15 19:25:23,Education,College Xerox & Stationary,137.38,UPI_PhonePe,0
+TXN_AARAV_0112,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-15 20:19:23,Education,Amazon Book Store,100.26,UPI_PhonePe,0
+TXN_AARAV_0113,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-16 00:10:23,Utilities,Jio / Airtel Prepaid Recharge,156.73,UPI_PhonePe,0
+TXN_AARAV_0114,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-16 03:00:23,Transit,Hyderabad Metro Rail,176.13,UPI_PhonePe,0
+TXN_AARAV_0115,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-16 10:11:23,Entertainment,PVR Cinemas Inorbit,239.27,UPI_GPay,0
+TXN_AARAV_0116,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-16 11:50:23,Food & Dining,Irani Chai & Bakery,124.31,UPI_PhonePe,0
+TXN_AARAV_0117,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-16 13:54:23,Utilities,Jio / Airtel Prepaid Recharge,130.58,UPI_PhonePe,0
+TXN_AARAV_0118,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-16 20:07:23,Education,Amazon Book Store,233.84,Campus_Card,0
+TXN_AARAV_0119,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-16 21:48:23,Groceries,Blinkit Quick Groceries,113.7,UPI_GPay,0
+TXN_AARAV_0120,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-16 23:25:23,Education,College Xerox & Stationary,58.24,UPI_PhonePe,0
+TXN_AARAV_0121,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 01:51:23,Food & Dining,Irani Chai & Bakery,50.47,Campus_Card,0
+TXN_AARAV_0122,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 05:18:23,Utilities,Jio / Airtel Prepaid Recharge,47.6,UPI_PhonePe,0
+TXN_AARAV_0123,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 05:59:23,Education,College Xerox & Stationary,403.85,UPI_PhonePe,0
+TXN_AARAV_0124,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 06:13:23,Food & Dining,Irani Chai & Bakery,109.55,UPI_GPay,0
+TXN_AARAV_0125,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 09:54:23,Food & Dining,Irani Chai & Bakery,206.48,UPI_GPay,0
+TXN_AARAV_0126,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 12:53:23,Groceries,Blinkit Quick Groceries,167.29,UPI_PhonePe,0
+TXN_AARAV_0127,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 13:28:23,Food & Dining,Campus Canteen,57.27,UPI_PhonePe,0
+TXN_AARAV_0128,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 15:50:23,Education,Amazon Book Store,163.44,UPI_GPay,0
+TXN_AARAV_0129,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 16:20:23,Entertainment,PVR Cinemas Inorbit,142.08,UPI_PhonePe,0
+TXN_AARAV_0130,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 17:39:23,Utilities,Jio / Airtel Prepaid Recharge,147.57,Campus_Card,0
+TXN_AARAV_0131,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 18:18:23,Entertainment,PVR Cinemas Inorbit,102.01,UPI_PhonePe,0
+TXN_AARAV_0132,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 19:29:23,Food & Dining,Campus Canteen,193.06,Campus_Card,0
+TXN_AARAV_0133,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 21:22:23,Education,Amazon Book Store,22.0,UPI_GPay,0
+TXN_AARAV_0134,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-17 23:36:23,Food & Dining,Irani Chai & Bakery,152.1,UPI_GPay,0
+TXN_AARAV_0135,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-18 00:05:23,Utilities,Jio / Airtel Prepaid Recharge,115.34,UPI_GPay,0
+TXN_AARAV_0136,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-18 00:23:23,Utilities,Jio / Airtel Prepaid Recharge,91.78,UPI_GPay,0
+TXN_AARAV_0137,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-18 02:36:23,Education,Amazon Book Store,149.59,UPI_PhonePe,0
+TXN_AARAV_0138,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-18 06:39:23,Entertainment,PVR Cinemas Inorbit,34.57,UPI_PhonePe,0
+TXN_AARAV_0139,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-18 13:09:23,Utilities,Jio / Airtel Prepaid Recharge,141.53,UPI_PhonePe,0
+TXN_AARAV_0140,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-18 14:12:23,Groceries,Blinkit Quick Groceries,299.0,Campus_Card,0
+TXN_AARAV_0141,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-18 21:07:23,Education,College Xerox & Stationary,202.38,UPI_GPay,0
+TXN_AARAV_0142,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-18 22:21:23,Utilities,Jio / Airtel Prepaid Recharge,202.0,UPI_PhonePe,0
+TXN_AARAV_0143,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-18 22:36:23,Groceries,Blinkit Quick Groceries,253.03,UPI_PhonePe,0
+TXN_AARAV_0144,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-18 23:57:23,Education,College Xerox & Stationary,225.47,UPI_PhonePe,0
+TXN_AARAV_0145,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-19 02:21:23,Education,College Xerox & Stationary,140.23,UPI_GPay,0
+TXN_AARAV_0146,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-19 03:09:23,Education,College Xerox & Stationary,125.09,UPI_GPay,0
+TXN_AARAV_0147,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-19 17:08:23,Food & Dining,Campus Canteen,80.44,UPI_GPay,0
+TXN_AARAV_0148,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-19 18:17:23,Utilities,Jio / Airtel Prepaid Recharge,188.59,Debit_Card,0
+TXN_AARAV_0149,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-19 23:55:23,Transit,Hyderabad Metro Rail,115.77,UPI_PhonePe,0
+TXN_AARAV_0150,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 01:13:23,Food & Dining,Campus Canteen,132.11,UPI_GPay,0
+TXN_AARAV_0151,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 01:24:23,Groceries,Blinkit Quick Groceries,159.42,UPI_PhonePe,0
+TXN_AARAV_0152,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 03:14:23,Education,College Xerox & Stationary,425.4,UPI_PhonePe,0
+TXN_AARAV_0153,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 07:00:23,Entertainment,PVR Cinemas Inorbit,111.75,UPI_PhonePe,0
+TXN_AARAV_0154,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 08:17:23,Education,Amazon Book Store,69.19,UPI_PhonePe,0
+TXN_AARAV_0155,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 08:31:23,Utilities,Jio / Airtel Prepaid Recharge,178.85,Campus_Card,0
+TXN_AARAV_0156,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 08:55:23,Utilities,Jio / Airtel Prepaid Recharge,83.57,UPI_PhonePe,0
+TXN_AARAV_0157,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 09:43:23,Education,Amazon Book Store,383.15,UPI_GPay,0
+TXN_AARAV_0158,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 10:37:23,Food & Dining,Campus Canteen,119.28,Campus_Card,0
+TXN_AARAV_0159,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 10:42:23,Education,Amazon Book Store,404.25,UPI_GPay,0
+TXN_AARAV_0160,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 12:51:23,Transit,Hyderabad Metro Rail,235.88,UPI_PhonePe,0
+TXN_AARAV_0161,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 13:02:23,Entertainment,PVR Cinemas Inorbit,247.7,UPI_GPay,0
+TXN_AARAV_0162,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-20 18:59:23,Education,College Xerox & Stationary,76.48,UPI_PhonePe,0
+TXN_AARAV_0163,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-21 00:28:23,Groceries,Blinkit Quick Groceries,145.18,UPI_GPay,0
+TXN_AARAV_0164,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-21 06:45:23,Groceries,Blinkit Quick Groceries,116.92,UPI_GPay,0
+TXN_AARAV_0165,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-21 11:19:23,Utilities,Jio / Airtel Prepaid Recharge,148.01,UPI_GPay,0
+TXN_AARAV_0166,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-21 14:56:23,Utilities,Jio / Airtel Prepaid Recharge,170.48,UPI_PhonePe,0
+TXN_AARAV_0167,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-21 16:23:23,Education,College Xerox & Stationary,150.4,UPI_GPay,0
+TXN_AARAV_0168,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-21 20:00:23,Food & Dining,Campus Canteen,173.89,UPI_PhonePe,0
+TXN_AARAV_0169,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-21 20:39:23,Utilities,Jio / Airtel Prepaid Recharge,185.06,UPI_PhonePe,0
+TXN_AARAV_0170,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-21 22:29:23,Food & Dining,Campus Canteen,130.62,UPI_PhonePe,0
+TXN_AARAV_0171,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-21 23:25:23,Food & Dining,Campus Canteen,65.55,UPI_PhonePe,0
+TXN_AARAV_0172,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-22 00:50:23,Education,College Xerox & Stationary,316.3,UPI_PhonePe,0
+TXN_AARAV_0173,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-22 03:44:23,Food & Dining,Campus Canteen,73.1,UPI_GPay,0
+TXN_AARAV_0174,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-22 06:16:23,Food & Dining,Irani Chai & Bakery,55.93,Campus_Card,0
+TXN_AARAV_0175,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-22 08:26:23,Groceries,Blinkit Quick Groceries,84.73,UPI_PhonePe,0
+TXN_AARAV_0176,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-22 08:31:23,Transit,Hyderabad Metro Rail,80.41,UPI_PhonePe,0
+TXN_AARAV_0177,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-22 08:54:23,Groceries,Blinkit Quick Groceries,469.4,UPI_PhonePe,0
+TXN_AARAV_0178,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-22 09:43:23,Food & Dining,Irani Chai & Bakery,92.52,UPI_PhonePe,0
+TXN_AARAV_0179,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-22 21:56:23,Utilities,Jio / Airtel Prepaid Recharge,120.07,UPI_PhonePe,0
+TXN_AARAV_0180,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-22 22:18:23,Education,Amazon Book Store,224.43,Campus_Card,0
+TXN_AARAV_0181,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-22 23:30:23,Education,Amazon Book Store,525.24,UPI_PhonePe,0
+TXN_AARAV_0182,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-23 00:40:23,Transit,Hyderabad Metro Rail,104.42,UPI_PhonePe,0
+TXN_AARAV_0183,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-23 03:31:23,Education,College Xerox & Stationary,153.74,UPI_PhonePe,0
+TXN_AARAV_0184,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-23 04:26:23,Utilities,Jio / Airtel Prepaid Recharge,77.29,Campus_Card,0
+TXN_AARAV_0185,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-23 06:30:23,Utilities,Jio / Airtel Prepaid Recharge,102.68,UPI_GPay,0
+TXN_AARAV_0186,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-23 08:16:23,Transit,Hyderabad Metro Rail,217.57,Campus_Card,0
+TXN_AARAV_0187,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-23 14:04:23,Food & Dining,Irani Chai & Bakery,83.89,UPI_GPay,0
+TXN_AARAV_0188,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-23 21:42:23,Education,College Xerox & Stationary,67.1,UPI_PhonePe,0
+TXN_AARAV_0189,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-23 23:19:23,Entertainment,PVR Cinemas Inorbit,213.68,UPI_PhonePe,0
+TXN_AARAV_0190,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 02:17:23,Utilities,Jio / Airtel Prepaid Recharge,67.93,UPI_GPay,0
+TXN_AARAV_0191,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 03:20:23,Education,Amazon Book Store,169.12,UPI_PhonePe,0
+TXN_AARAV_0192,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 05:37:23,Education,College Xerox & Stationary,46.72,UPI_GPay,0
+TXN_AARAV_0193,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 07:27:23,Entertainment,PVR Cinemas Inorbit,158.27,UPI_PhonePe,0
+TXN_AARAV_0194,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 10:00:23,Food & Dining,Irani Chai & Bakery,85.85,UPI_PhonePe,0
+TXN_AARAV_0195,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 10:16:23,Utilities,Jio / Airtel Prepaid Recharge,126.24,UPI_GPay,0
+TXN_AARAV_0196,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 10:29:23,Food & Dining,Campus Canteen,125.13,UPI_GPay,0
+TXN_AARAV_0197,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 13:21:23,Education,Amazon Book Store,124.51,UPI_GPay,0
+TXN_AARAV_0198,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 16:15:23,Groceries,Blinkit Quick Groceries,242.17,UPI_PhonePe,0
+TXN_AARAV_0199,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 19:10:23,Food & Dining,Campus Canteen,101.44,UPI_GPay,0
+TXN_AARAV_0200,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 20:58:23,Transit,Hyderabad Metro Rail,78.96,UPI_PhonePe,0
+TXN_AARAV_0201,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 21:15:23,Education,Amazon Book Store,207.88,UPI_PhonePe,0
+TXN_AARAV_0202,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 22:12:23,Food & Dining,Campus Canteen,140.29,UPI_PhonePe,0
+TXN_AARAV_0203,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-24 23:55:23,Utilities,Jio / Airtel Prepaid Recharge,76.0,UPI_PhonePe,0
+TXN_AARAV_0204,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-25 01:23:23,Education,Amazon Book Store,177.73,UPI_PhonePe,0
+TXN_AARAV_0205,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-25 09:08:23,Entertainment,PVR Cinemas Inorbit,155.75,UPI_PhonePe,0
+TXN_AARAV_0206,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-25 09:43:23,Groceries,Blinkit Quick Groceries,253.34,UPI_PhonePe,0
+TXN_AARAV_0207,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-25 10:11:23,Food & Dining,Campus Canteen,321.83,UPI_PhonePe,0
+TXN_AARAV_0208,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-25 10:50:23,Food & Dining,Irani Chai & Bakery,115.24,UPI_PhonePe,0
+TXN_AARAV_0209,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-25 10:59:23,Education,Amazon Book Store,571.25,UPI_PhonePe,0
+TXN_AARAV_0210,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-25 11:08:23,Education,Amazon Book Store,51.35,UPI_PhonePe,0
+TXN_AARAV_0211,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-25 15:23:23,Transit,Hyderabad Metro Rail,38.56,UPI_GPay,0
+TXN_AARAV_0212,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-25 18:36:23,Education,Amazon Book Store,170.95,UPI_PhonePe,0
+TXN_AARAV_0213,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-25 19:33:23,Education,College Xerox & Stationary,322.8,UPI_PhonePe,0
+TXN_AARAV_0214,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-26 00:21:23,Food & Dining,Campus Canteen,62.77,UPI_PhonePe,0
+TXN_AARAV_0215,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-26 00:29:23,Utilities,Jio / Airtel Prepaid Recharge,79.3,UPI_GPay,0
+TXN_AARAV_0216,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-26 00:30:23,Entertainment,PVR Cinemas Inorbit,139.81,Campus_Card,0
+TXN_AARAV_0217,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-26 01:52:23,Transit,Hyderabad Metro Rail,47.77,UPI_GPay,0
+TXN_AARAV_0218,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-26 04:58:23,Entertainment,PVR Cinemas Inorbit,60.13,UPI_GPay,0
+TXN_AARAV_0219,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-26 12:21:23,Education,College Xerox & Stationary,57.97,UPI_GPay,0
+TXN_AARAV_0220,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-26 16:58:23,Entertainment,PVR Cinemas Inorbit,331.47,UPI_GPay,0
+TXN_AARAV_0221,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-27 01:28:23,Entertainment,PVR Cinemas Inorbit,156.24,UPI_GPay,0
+TXN_AARAV_0222,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-27 03:03:23,Groceries,Blinkit Quick Groceries,67.06,UPI_PhonePe,0
+TXN_AARAV_0223,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-27 03:36:23,Entertainment,PVR Cinemas Inorbit,177.27,UPI_PhonePe,0
+TXN_AARAV_0224,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-27 11:29:23,Education,College Xerox & Stationary,78.15,UPI_PhonePe,0
+TXN_AARAV_0225,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-27 14:14:23,Transit,Hyderabad Metro Rail,255.1,Campus_Card,0
+TXN_AARAV_0226,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-27 19:52:23,Groceries,Blinkit Quick Groceries,88.2,UPI_GPay,0
+TXN_AARAV_0227,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-28 05:32:23,Education,College Xerox & Stationary,52.23,UPI_GPay,0
+TXN_AARAV_0228,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-28 05:59:23,Utilities,Jio / Airtel Prepaid Recharge,251.6,UPI_PhonePe,0
+TXN_AARAV_0229,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-28 09:25:23,Entertainment,PVR Cinemas Inorbit,132.29,UPI_PhonePe,0
+TXN_AARAV_0230,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-28 09:40:23,Groceries,Blinkit Quick Groceries,88.55,UPI_PhonePe,0
+TXN_AARAV_0231,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-28 13:53:23,Education,College Xerox & Stationary,150.96,UPI_PhonePe,0
+TXN_AARAV_0232,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-28 18:06:23,Utilities,Jio / Airtel Prepaid Recharge,75.82,UPI_GPay,0
+TXN_AARAV_0233,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-28 19:42:23,Food & Dining,Campus Canteen,54.67,UPI_GPay,0
+TXN_AARAV_0234,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-29 00:09:23,Education,Amazon Book Store,73.05,UPI_PhonePe,0
+TXN_AARAV_0235,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-29 02:43:23,Food & Dining,Irani Chai & Bakery,46.5,UPI_GPay,0
+TXN_AARAV_0236,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-29 04:31:23,Entertainment,PVR Cinemas Inorbit,121.07,UPI_PhonePe,0
+TXN_AARAV_0237,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-29 10:12:23,Education,College Xerox & Stationary,200.96,Debit_Card,0
+TXN_AARAV_0238,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-29 12:44:23,Groceries,Blinkit Quick Groceries,93.4,UPI_PhonePe,0
+TXN_AARAV_0239,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-30 06:27:23,Entertainment,PVR Cinemas Inorbit,244.64,UPI_PhonePe,0
+TXN_AARAV_0240,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-30 06:51:23,Food & Dining,Campus Canteen,81.38,UPI_PhonePe,0
+TXN_AARAV_0241,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-30 11:08:23,Transit,Hyderabad Metro Rail,220.35,UPI_PhonePe,0
+TXN_AARAV_0242,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-30 13:04:23,Education,College Xerox & Stationary,65.24,UPI_PhonePe,0
+TXN_AARAV_0243,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-30 14:02:23,Food & Dining,Irani Chai & Bakery,267.16,UPI_GPay,0
+TXN_AARAV_0244,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-30 19:29:23,Entertainment,PVR Cinemas Inorbit,119.7,Campus_Card,0
+TXN_AARAV_0245,cust_aarav,Aarav Sharma,College Student (TKREC),2026-06-30 23:38:23,Entertainment,PVR Cinemas Inorbit,198.47,UPI_GPay,0
+TXN_AARAV_0246,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-01 01:40:23,Food & Dining,Campus Canteen,26.7,UPI_PhonePe,0
+TXN_AARAV_0247,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-01 02:07:23,Food & Dining,Irani Chai & Bakery,126.26,UPI_GPay,0
+TXN_AARAV_0248,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-01 03:25:23,Groceries,Blinkit Quick Groceries,125.71,UPI_PhonePe,0
+TXN_AARAV_0249,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-01 08:40:23,Education,College Xerox & Stationary,166.97,UPI_PhonePe,0
+TXN_AARAV_0250,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-01 11:57:23,Education,College Xerox & Stationary,21.48,UPI_GPay,0
+TXN_AARAV_0251,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 02:23:23,Groceries,Blinkit Quick Groceries,144.89,UPI_GPay,0
+TXN_AARAV_0252,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 02:27:23,Transit,Hyderabad Metro Rail,304.43,UPI_PhonePe,0
+TXN_AARAV_0253,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 03:34:23,Utilities,Jio / Airtel Prepaid Recharge,252.46,UPI_PhonePe,0
+TXN_AARAV_0254,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 05:08:23,Transit,Hyderabad Metro Rail,80.38,Debit_Card,0
+TXN_AARAV_0255,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 09:07:23,Education,Amazon Book Store,117.03,UPI_PhonePe,0
+TXN_AARAV_0256,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 10:48:23,Groceries,Blinkit Quick Groceries,84.1,UPI_PhonePe,0
+TXN_AARAV_0257,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 15:43:23,Food & Dining,Campus Canteen,101.34,UPI_GPay,0
+TXN_AARAV_0258,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 16:18:23,Education,College Xerox & Stationary,48.4,UPI_PhonePe,0
+TXN_AARAV_0259,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 17:19:23,Entertainment,PVR Cinemas Inorbit,210.07,UPI_PhonePe,0
+TXN_AARAV_0260,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 17:29:23,Education,Amazon Book Store,53.51,UPI_PhonePe,0
+TXN_AARAV_0261,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 19:31:23,Entertainment,PVR Cinemas Inorbit,106.18,UPI_GPay,0
+TXN_AARAV_0262,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-02 21:52:23,Entertainment,PVR Cinemas Inorbit,205.86,UPI_GPay,0
+TXN_AARAV_0263,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 01:47:23,Entertainment,PVR Cinemas Inorbit,191.97,UPI_GPay,0
+TXN_AARAV_0264,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 03:32:23,Education,Amazon Book Store,87.55,Debit_Card,0
+TXN_AARAV_0265,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 04:49:23,Utilities,Jio / Airtel Prepaid Recharge,153.71,UPI_GPay,0
+TXN_AARAV_0266,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 07:32:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,4188.41,UPI_PhonePe,1
+TXN_AARAV_0267,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 08:38:23,Education,College Xerox & Stationary,66.92,UPI_PhonePe,0
+TXN_AARAV_0268,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 10:49:23,Utilities,Jio / Airtel Prepaid Recharge,119.28,UPI_GPay,0
+TXN_AARAV_0269,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 13:08:23,Education,College Xerox & Stationary,119.54,UPI_GPay,0
+TXN_AARAV_0270,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 15:52:23,Groceries,Blinkit Quick Groceries,69.41,UPI_GPay,0
+TXN_AARAV_0271,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 20:18:23,Education,College Xerox & Stationary,30.52,UPI_GPay,0
+TXN_AARAV_0272,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 20:21:23,Food & Dining,Irani Chai & Bakery,93.04,UPI_PhonePe,0
+TXN_AARAV_0273,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-03 22:12:23,Food & Dining,Campus Canteen,81.33,UPI_PhonePe,0
+TXN_AARAV_0274,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-04 04:32:23,Groceries,Blinkit Quick Groceries,226.77,UPI_PhonePe,0
+TXN_AARAV_0275,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-04 13:53:23,Transit,Hyderabad Metro Rail,115.24,UPI_PhonePe,0
+TXN_AARAV_0276,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-04 13:56:23,Groceries,Blinkit Quick Groceries,211.2,UPI_PhonePe,0
+TXN_AARAV_0277,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-04 14:03:23,Education,College Xerox & Stationary,265.35,UPI_GPay,0
+TXN_AARAV_0278,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-04 14:55:23,Utilities,Jio / Airtel Prepaid Recharge,310.1,UPI_GPay,0
+TXN_AARAV_0279,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-04 16:28:23,Utilities,Jio / Airtel Prepaid Recharge,128.15,UPI_PhonePe,0
+TXN_AARAV_0280,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-04 18:19:23,Groceries,Blinkit Quick Groceries,341.48,UPI_GPay,0
+TXN_AARAV_0281,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-05 02:30:23,Groceries,Blinkit Quick Groceries,97.59,UPI_GPay,0
+TXN_AARAV_0282,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-05 10:57:23,Food & Dining,Campus Canteen,135.75,UPI_PhonePe,0
+TXN_AARAV_0283,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-05 19:12:23,Entertainment,PVR Cinemas Inorbit,75.08,UPI_GPay,0
+TXN_AARAV_0284,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-05 20:58:23,Education,College Xerox & Stationary,264.88,UPI_GPay,0
+TXN_AARAV_0285,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-05 22:36:23,Transit,Hyderabad Metro Rail,64.84,UPI_GPay,0
+TXN_AARAV_0286,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-06 02:55:23,Utilities,Jio / Airtel Prepaid Recharge,167.67,UPI_GPay,0
+TXN_AARAV_0287,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-06 03:10:23,Entertainment,PVR Cinemas Inorbit,76.02,UPI_GPay,0
+TXN_AARAV_0288,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-06 04:40:23,Groceries,Blinkit Quick Groceries,205.98,UPI_PhonePe,0
+TXN_AARAV_0289,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-06 06:57:23,Food & Dining,Campus Canteen,220.88,UPI_PhonePe,0
+TXN_AARAV_0290,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-06 07:25:23,Education,Amazon Book Store,77.16,UPI_PhonePe,0
+TXN_AARAV_0291,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-06 10:35:23,Entertainment,PVR Cinemas Inorbit,143.84,Debit_Card,0
+TXN_AARAV_0292,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-06 12:27:23,Food & Dining,Campus Canteen,69.73,UPI_PhonePe,0
+TXN_AARAV_0293,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-06 20:35:23,Groceries,Blinkit Quick Groceries,82.59,UPI_PhonePe,0
+TXN_AARAV_0294,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-06 22:02:23,Utilities,Jio / Airtel Prepaid Recharge,212.02,Campus_Card,0
+TXN_AARAV_0295,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 01:31:23,Education,College Xerox & Stationary,190.09,Campus_Card,0
+TXN_AARAV_0296,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 01:41:23,Food & Dining,Irani Chai & Bakery,173.48,UPI_GPay,0
+TXN_AARAV_0297,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 05:23:23,Education,College Xerox & Stationary,64.92,UPI_PhonePe,0
+TXN_AARAV_0298,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 05:31:23,Food & Dining,Irani Chai & Bakery,37.34,UPI_PhonePe,0
+TXN_AARAV_0299,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 07:48:23,Groceries,Blinkit Quick Groceries,90.9,UPI_PhonePe,0
+TXN_AARAV_0300,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 08:16:23,Food & Dining,Campus Canteen,99.6,UPI_PhonePe,0
+TXN_AARAV_0301,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 08:21:23,Education,Amazon Book Store,203.63,UPI_PhonePe,0
+TXN_AARAV_0302,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 10:55:23,Education,College Xerox & Stationary,85.64,UPI_GPay,0
+TXN_AARAV_0303,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 11:26:23,Utilities,Jio / Airtel Prepaid Recharge,200.85,Campus_Card,0
+TXN_AARAV_0304,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 16:27:23,Entertainment,PVR Cinemas Inorbit,74.58,UPI_PhonePe,0
+TXN_AARAV_0305,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 19:31:23,Transit,Hyderabad Metro Rail,180.86,UPI_GPay,0
+TXN_AARAV_0306,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 20:15:23,Entertainment,PVR Cinemas Inorbit,245.69,UPI_GPay,0
+TXN_AARAV_0307,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-07 22:02:23,Education,Amazon Book Store,114.82,UPI_PhonePe,0
+TXN_AARAV_0308,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 00:25:23,Food & Dining,Irani Chai & Bakery,115.41,UPI_GPay,0
+TXN_AARAV_0309,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 06:26:23,Utilities,Jio / Airtel Prepaid Recharge,255.44,UPI_PhonePe,0
+TXN_AARAV_0310,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 06:37:23,Utilities,Jio / Airtel Prepaid Recharge,123.07,UPI_PhonePe,0
+TXN_AARAV_0311,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 09:40:23,Transit,Hyderabad Metro Rail,38.88,UPI_GPay,0
+TXN_AARAV_0312,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 13:55:23,Entertainment,PVR Cinemas Inorbit,127.37,UPI_PhonePe,0
+TXN_AARAV_0313,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 16:33:23,Education,Amazon Book Store,263.45,Debit_Card,0
+TXN_AARAV_0314,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 19:26:23,Food & Dining,Irani Chai & Bakery,181.98,UPI_PhonePe,0
+TXN_AARAV_0315,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 19:37:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,4226.75,UPI_GPay,1
+TXN_AARAV_0316,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 20:43:23,Transit,Hyderabad Metro Rail,263.17,UPI_PhonePe,0
+TXN_AARAV_0317,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 23:11:23,Utilities,Jio / Airtel Prepaid Recharge,94.28,UPI_PhonePe,0
+TXN_AARAV_0318,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-08 23:14:23,Food & Dining,Campus Canteen,59.29,UPI_PhonePe,0
+TXN_AARAV_0319,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-09 06:53:23,Food & Dining,Campus Canteen,158.66,UPI_GPay,0
+TXN_AARAV_0320,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-09 17:42:23,Transit,Hyderabad Metro Rail,50.91,UPI_GPay,0
+TXN_AARAV_0321,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-09 19:09:23,Entertainment,PVR Cinemas Inorbit,62.57,UPI_GPay,0
+TXN_AARAV_0322,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-10 03:24:23,Groceries,Blinkit Quick Groceries,342.47,UPI_GPay,0
+TXN_AARAV_0323,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-10 04:28:23,Food & Dining,Irani Chai & Bakery,95.6,UPI_GPay,0
+TXN_AARAV_0324,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-10 18:37:23,Utilities,Jio / Airtel Prepaid Recharge,333.17,UPI_GPay,0
+TXN_AARAV_0325,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-10 22:48:23,Entertainment,PVR Cinemas Inorbit,77.44,UPI_GPay,0
+TXN_AARAV_0326,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-11 00:54:23,Entertainment,PVR Cinemas Inorbit,87.26,UPI_GPay,0
+TXN_AARAV_0327,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-11 00:56:23,Utilities,Jio / Airtel Prepaid Recharge,563.92,UPI_GPay,0
+TXN_AARAV_0328,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-11 08:31:23,Entertainment,PVR Cinemas Inorbit,371.22,UPI_GPay,0
+TXN_AARAV_0329,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-11 15:55:23,Entertainment,PVR Cinemas Inorbit,376.9,UPI_PhonePe,0
+TXN_AARAV_0330,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-11 19:02:23,Food & Dining,Campus Canteen,193.84,UPI_GPay,0
+TXN_AARAV_0331,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-11 21:49:23,Transit,Hyderabad Metro Rail,87.29,UPI_GPay,0
+TXN_AARAV_0332,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-11 22:48:23,Entertainment,PVR Cinemas Inorbit,237.35,UPI_PhonePe,0
+TXN_AARAV_0333,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 00:55:23,Education,College Xerox & Stationary,82.31,UPI_PhonePe,0
+TXN_AARAV_0334,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 03:01:23,Education,Amazon Book Store,61.25,UPI_PhonePe,0
+TXN_AARAV_0335,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 06:46:23,Food & Dining,Campus Canteen,108.18,UPI_GPay,0
+TXN_AARAV_0336,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 07:33:23,Transit,Hyderabad Metro Rail,162.07,UPI_GPay,0
+TXN_AARAV_0337,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 09:17:23,Food & Dining,Campus Canteen,53.56,UPI_PhonePe,0
+TXN_AARAV_0338,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 10:00:23,Education,College Xerox & Stationary,65.73,UPI_GPay,0
+TXN_AARAV_0339,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 11:22:23,Education,Amazon Book Store,369.61,Campus_Card,0
+TXN_AARAV_0340,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 15:42:23,Transit,Hyderabad Metro Rail,241.88,UPI_PhonePe,0
+TXN_AARAV_0341,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 16:08:23,Food & Dining,Irani Chai & Bakery,101.24,Campus_Card,0
+TXN_AARAV_0342,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 16:20:23,Food & Dining,Irani Chai & Bakery,90.62,Debit_Card,0
+TXN_AARAV_0343,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-12 22:22:23,Transit,Hyderabad Metro Rail,62.07,UPI_GPay,0
+TXN_AARAV_0344,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-13 01:44:23,Food & Dining,Campus Canteen,88.53,UPI_GPay,0
+TXN_AARAV_0345,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-13 01:59:23,Transit,Hyderabad Metro Rail,193.03,Debit_Card,0
+TXN_AARAV_0346,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-13 08:10:23,Transit,Hyderabad Metro Rail,91.87,UPI_GPay,0
+TXN_AARAV_0347,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-13 15:39:23,Groceries,Blinkit Quick Groceries,46.67,UPI_PhonePe,0
+TXN_AARAV_0348,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-13 17:48:23,Utilities,Jio / Airtel Prepaid Recharge,108.28,UPI_GPay,0
+TXN_AARAV_0349,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-13 19:42:23,Food & Dining,Irani Chai & Bakery,279.86,UPI_GPay,0
+TXN_AARAV_0350,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-13 20:33:23,Food & Dining,Campus Canteen,119.52,UPI_GPay,0
+TXN_AARAV_0351,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-14 00:36:23,Education,College Xerox & Stationary,351.9,UPI_PhonePe,0
+TXN_AARAV_0352,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-14 03:30:23,Education,College Xerox & Stationary,150.34,UPI_GPay,0
+TXN_AARAV_0353,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-14 04:36:23,Education,College Xerox & Stationary,62.88,UPI_PhonePe,0
+TXN_AARAV_0354,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-14 07:35:23,Education,College Xerox & Stationary,114.42,Campus_Card,0
+TXN_AARAV_0355,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-14 12:41:23,Education,Amazon Book Store,107.53,UPI_PhonePe,0
+TXN_AARAV_0356,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-14 13:27:23,Entertainment,PVR Cinemas Inorbit,73.39,UPI_PhonePe,0
+TXN_AARAV_0357,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-14 15:37:23,Food & Dining,Campus Canteen,69.85,UPI_PhonePe,0
+TXN_AARAV_0358,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-14 16:22:23,Groceries,Blinkit Quick Groceries,119.96,UPI_PhonePe,0
+TXN_AARAV_0359,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-15 02:42:23,Food & Dining,Irani Chai & Bakery,77.61,UPI_GPay,0
+TXN_AARAV_0360,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-15 02:47:23,Food & Dining,Campus Canteen,129.15,Campus_Card,0
+TXN_AARAV_0361,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-15 04:39:23,Entertainment,PVR Cinemas Inorbit,61.64,UPI_GPay,0
+TXN_AARAV_0362,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-15 06:24:23,Education,Amazon Book Store,126.49,UPI_PhonePe,0
+TXN_AARAV_0363,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-15 10:09:23,Food & Dining,Irani Chai & Bakery,165.6,UPI_PhonePe,0
+TXN_AARAV_0364,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-15 11:55:23,Food & Dining,Irani Chai & Bakery,206.6,UPI_GPay,0
+TXN_AARAV_0365,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-15 12:54:23,Utilities,Jio / Airtel Prepaid Recharge,70.0,Campus_Card,0
+TXN_AARAV_0366,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-15 16:52:23,Transit,Hyderabad Metro Rail,144.91,UPI_GPay,0
+TXN_AARAV_0367,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-15 17:49:23,Utilities,Jio / Airtel Prepaid Recharge,53.84,UPI_GPay,0
+TXN_AARAV_0368,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 00:50:23,Food & Dining,Irani Chai & Bakery,74.81,UPI_PhonePe,0
+TXN_AARAV_0369,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 07:31:23,Education,Amazon Book Store,100.57,Campus_Card,0
+TXN_AARAV_0370,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 08:23:23,Food & Dining,Campus Canteen,137.05,UPI_GPay,0
+TXN_AARAV_0371,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 08:44:23,Utilities,Jio / Airtel Prepaid Recharge,242.06,UPI_PhonePe,0
+TXN_AARAV_0372,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 10:37:23,Entertainment,PVR Cinemas Inorbit,101.77,UPI_PhonePe,0
+TXN_AARAV_0373,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 14:41:23,Food & Dining,Irani Chai & Bakery,133.14,Campus_Card,0
+TXN_AARAV_0374,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 15:33:23,Utilities,Jio / Airtel Prepaid Recharge,63.86,UPI_PhonePe,0
+TXN_AARAV_0375,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 16:36:23,Entertainment,PVR Cinemas Inorbit,21.06,UPI_PhonePe,0
+TXN_AARAV_0376,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 18:31:23,Groceries,Blinkit Quick Groceries,92.85,UPI_GPay,0
+TXN_AARAV_0377,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 20:31:23,Education,Amazon Book Store,405.86,UPI_PhonePe,0
+TXN_AARAV_0378,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-16 22:47:23,Education,College Xerox & Stationary,123.04,UPI_PhonePe,0
+TXN_AARAV_0379,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-17 02:52:23,Transit,Hyderabad Metro Rail,78.51,UPI_GPay,0
+TXN_AARAV_0380,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-17 04:51:23,Education,Amazon Book Store,83.34,Campus_Card,0
+TXN_AARAV_0381,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-17 06:26:23,Food & Dining,Irani Chai & Bakery,174.42,UPI_GPay,0
+TXN_AARAV_0382,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-17 08:16:23,Groceries,Blinkit Quick Groceries,130.79,Campus_Card,0
+TXN_AARAV_0383,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-17 14:18:23,Education,Amazon Book Store,322.08,UPI_GPay,0
+TXN_AARAV_0384,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-17 18:12:23,Food & Dining,Campus Canteen,97.88,UPI_GPay,0
+TXN_AARAV_0385,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-17 18:23:23,Education,College Xerox & Stationary,165.15,UPI_PhonePe,0
+TXN_AARAV_0386,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-17 21:39:23,Food & Dining,Campus Canteen,206.41,UPI_GPay,0
+TXN_AARAV_0387,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 01:14:23,Transit,Hyderabad Metro Rail,115.97,Debit_Card,0
+TXN_AARAV_0388,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 02:08:23,Food & Dining,Irani Chai & Bakery,226.57,UPI_PhonePe,0
+TXN_AARAV_0389,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 02:37:23,Utilities,Jio / Airtel Prepaid Recharge,164.56,UPI_PhonePe,0
+TXN_AARAV_0390,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 06:35:23,Groceries,Blinkit Quick Groceries,130.06,UPI_GPay,0
+TXN_AARAV_0391,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 10:18:23,Food & Dining,Campus Canteen,51.27,UPI_PhonePe,0
+TXN_AARAV_0392,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 13:04:23,Education,Amazon Book Store,247.87,UPI_PhonePe,0
+TXN_AARAV_0393,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 13:51:23,Entertainment,PVR Cinemas Inorbit,167.68,UPI_GPay,0
+TXN_AARAV_0394,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 14:04:23,Education,College Xerox & Stationary,162.53,Debit_Card,0
+TXN_AARAV_0395,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 14:48:23,Groceries,Blinkit Quick Groceries,73.13,UPI_PhonePe,0
+TXN_AARAV_0396,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 16:51:23,Groceries,Blinkit Quick Groceries,103.61,UPI_PhonePe,0
+TXN_AARAV_0397,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 18:48:23,Education,College Xerox & Stationary,162.4,UPI_PhonePe,0
+TXN_AARAV_0398,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 19:23:23,Education,College Xerox & Stationary,68.51,Campus_Card,0
+TXN_AARAV_0399,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 20:46:23,Entertainment,PVR Cinemas Inorbit,156.67,UPI_GPay,0
+TXN_AARAV_0400,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-18 21:45:23,Entertainment,PVR Cinemas Inorbit,136.31,UPI_PhonePe,0
+TXN_AARAV_0401,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-19 04:41:23,Food & Dining,Campus Canteen,140.43,UPI_GPay,0
+TXN_AARAV_0402,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-19 08:08:23,Entertainment,PVR Cinemas Inorbit,64.24,UPI_PhonePe,0
+TXN_AARAV_0403,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-19 14:37:23,Transit,Hyderabad Metro Rail,157.12,UPI_GPay,0
+TXN_AARAV_0404,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-19 16:47:23,Food & Dining,Campus Canteen,123.92,Campus_Card,0
+TXN_AARAV_0405,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-19 20:15:23,Education,College Xerox & Stationary,103.53,UPI_GPay,0
+TXN_AARAV_0406,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-19 23:09:23,Utilities,Jio / Airtel Prepaid Recharge,136.54,UPI_GPay,0
+TXN_AARAV_0407,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-20 00:58:23,Food & Dining,Campus Canteen,98.31,UPI_PhonePe,0
+TXN_AARAV_0408,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-20 05:06:23,Education,College Xerox & Stationary,359.5,UPI_GPay,0
+TXN_AARAV_0409,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-20 06:34:23,Food & Dining,Irani Chai & Bakery,149.98,UPI_GPay,0
+TXN_AARAV_0410,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-20 08:05:23,Food & Dining,Irani Chai & Bakery,34.02,UPI_PhonePe,0
+TXN_AARAV_0411,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-20 08:21:23,Education,College Xerox & Stationary,84.38,UPI_GPay,0
+TXN_AARAV_0412,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-20 16:50:23,Groceries,Blinkit Quick Groceries,168.59,UPI_PhonePe,0
+TXN_AARAV_0413,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-20 17:25:23,Food & Dining,Campus Canteen,73.41,UPI_GPay,0
+TXN_AARAV_0414,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-20 19:18:23,Education,Amazon Book Store,96.06,UPI_PhonePe,0
+TXN_AARAV_0415,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-21 05:13:23,Transit,Hyderabad Metro Rail,69.86,Debit_Card,0
+TXN_AARAV_0416,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-21 07:04:23,Utilities,Jio / Airtel Prepaid Recharge,48.86,UPI_PhonePe,0
+TXN_AARAV_0417,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-21 07:22:23,Entertainment,PVR Cinemas Inorbit,256.29,UPI_GPay,0
+TXN_AARAV_0418,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-21 09:00:23,Groceries,Blinkit Quick Groceries,70.65,UPI_GPay,0
+TXN_AARAV_0419,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-21 09:54:23,Transit,Hyderabad Metro Rail,147.62,UPI_GPay,0
+TXN_AARAV_0420,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-21 10:52:23,Groceries,Blinkit Quick Groceries,95.47,UPI_PhonePe,0
+TXN_AARAV_0421,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-21 12:18:23,Groceries,Blinkit Quick Groceries,166.43,UPI_GPay,0
+TXN_AARAV_0422,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-21 17:22:23,Entertainment,PVR Cinemas Inorbit,131.08,UPI_GPay,0
+TXN_AARAV_0423,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-21 17:38:23,Utilities,Jio / Airtel Prepaid Recharge,388.91,UPI_PhonePe,0
+TXN_AARAV_0424,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-22 01:12:23,Entertainment,PVR Cinemas Inorbit,225.25,UPI_PhonePe,0
+TXN_AARAV_0425,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-22 16:20:23,Food & Dining,Campus Canteen,55.14,UPI_GPay,0
+TXN_AARAV_0426,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-22 16:58:23,Food & Dining,Irani Chai & Bakery,177.83,UPI_GPay,0
+TXN_AARAV_0427,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-22 18:17:23,Entertainment,PVR Cinemas Inorbit,236.47,UPI_PhonePe,0
+TXN_AARAV_0428,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-22 21:05:23,Groceries,Blinkit Quick Groceries,68.05,UPI_PhonePe,0
+TXN_AARAV_0429,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-22 21:07:23,Entertainment,PVR Cinemas Inorbit,132.96,UPI_PhonePe,0
+TXN_AARAV_0430,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-23 01:17:23,Entertainment,PVR Cinemas Inorbit,33.0,UPI_GPay,0
+TXN_AARAV_0431,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-23 03:31:23,Transit,Hyderabad Metro Rail,202.04,UPI_GPay,0
+TXN_AARAV_0432,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-23 09:18:23,Groceries,Blinkit Quick Groceries,106.37,UPI_GPay,0
+TXN_AARAV_0433,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-23 09:51:23,Entertainment,PVR Cinemas Inorbit,156.49,Debit_Card,0
+TXN_AARAV_0434,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-23 17:19:23,Education,College Xerox & Stationary,189.29,UPI_GPay,0
+TXN_AARAV_0435,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-23 19:43:23,Entertainment,PVR Cinemas Inorbit,175.78,UPI_PhonePe,0
+TXN_AARAV_0436,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-23 21:14:23,Education,College Xerox & Stationary,207.1,UPI_PhonePe,0
+TXN_AARAV_0437,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-23 21:41:23,Education,College Xerox & Stationary,88.58,UPI_PhonePe,0
+TXN_AARAV_0438,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-23 23:37:23,Groceries,Blinkit Quick Groceries,151.47,Campus_Card,0
+TXN_AARAV_0439,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-24 04:53:23,Food & Dining,Campus Canteen,366.1,UPI_GPay,0
+TXN_AARAV_0440,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-24 12:40:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,5781.38,UPI_PhonePe,1
+TXN_AARAV_0441,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-24 12:56:23,Transit,Hyderabad Metro Rail,46.35,UPI_PhonePe,0
+TXN_AARAV_0442,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-24 15:47:23,Food & Dining,Campus Canteen,193.94,UPI_GPay,0
+TXN_AARAV_0443,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-24 16:26:23,Food & Dining,Campus Canteen,214.9,UPI_GPay,0
+TXN_AARAV_0444,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-24 21:15:23,Education,Amazon Book Store,339.12,UPI_PhonePe,0
+TXN_AARAV_0445,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-24 22:30:23,Entertainment,PVR Cinemas Inorbit,188.78,Debit_Card,0
+TXN_AARAV_0446,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-25 00:21:23,Transit,Hyderabad Metro Rail,82.3,UPI_GPay,0
+TXN_AARAV_0447,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-25 02:41:23,Utilities,Jio / Airtel Prepaid Recharge,126.73,UPI_PhonePe,0
+TXN_AARAV_0448,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-25 10:21:23,Utilities,Jio / Airtel Prepaid Recharge,243.99,Campus_Card,0
+TXN_AARAV_0449,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-25 11:11:23,Food & Dining,Campus Canteen,142.46,UPI_PhonePe,0
+TXN_AARAV_0450,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-25 16:40:23,Groceries,Blinkit Quick Groceries,178.6,Campus_Card,0
+TXN_AARAV_0451,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-25 19:29:23,Education,College Xerox & Stationary,24.0,Debit_Card,0
+TXN_AARAV_0452,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-25 23:13:23,Entertainment,PVR Cinemas Inorbit,182.5,UPI_GPay,0
+TXN_AARAV_0453,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-26 03:06:23,Utilities,Jio / Airtel Prepaid Recharge,206.74,UPI_GPay,0
+TXN_AARAV_0454,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-26 07:25:23,Utilities,Jio / Airtel Prepaid Recharge,139.49,UPI_PhonePe,0
+TXN_AARAV_0455,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-26 07:53:23,Education,College Xerox & Stationary,325.05,Campus_Card,0
+TXN_AARAV_0456,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-26 10:49:23,Education,College Xerox & Stationary,189.67,UPI_GPay,0
+TXN_AARAV_0457,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-26 12:34:23,Entertainment,PVR Cinemas Inorbit,104.17,UPI_GPay,0
+TXN_AARAV_0458,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-26 14:47:23,Groceries,Blinkit Quick Groceries,28.74,Campus_Card,0
+TXN_AARAV_0459,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-27 03:40:23,Education,Amazon Book Store,124.73,Debit_Card,0
+TXN_AARAV_0460,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-27 07:43:23,Entertainment,PVR Cinemas Inorbit,335.97,UPI_GPay,0
+TXN_AARAV_0461,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-27 10:42:23,Food & Dining,Irani Chai & Bakery,93.34,UPI_PhonePe,0
+TXN_AARAV_0462,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-27 16:45:23,Transit,Hyderabad Metro Rail,32.31,Debit_Card,0
+TXN_AARAV_0463,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-27 17:36:23,Transit,Hyderabad Metro Rail,52.26,UPI_GPay,0
+TXN_AARAV_0464,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-27 21:34:23,Education,College Xerox & Stationary,115.6,Campus_Card,0
+TXN_AARAV_0465,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-27 22:12:23,Entertainment,PVR Cinemas Inorbit,107.45,UPI_GPay,0
+TXN_AARAV_0466,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-28 00:39:23,Groceries,Blinkit Quick Groceries,122.01,UPI_PhonePe,0
+TXN_AARAV_0467,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-28 04:15:23,Utilities,Jio / Airtel Prepaid Recharge,100.93,UPI_PhonePe,0
+TXN_AARAV_0468,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-28 07:28:23,Groceries,Blinkit Quick Groceries,77.38,UPI_GPay,0
+TXN_AARAV_0469,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-28 08:39:23,Food & Dining,Campus Canteen,152.39,UPI_GPay,0
+TXN_AARAV_0470,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-28 14:57:23,Food & Dining,Campus Canteen,109.04,UPI_PhonePe,0
+TXN_AARAV_0471,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-28 17:29:23,Education,Amazon Book Store,100.34,UPI_GPay,0
+TXN_AARAV_0472,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-28 22:13:23,Education,Amazon Book Store,75.37,UPI_PhonePe,0
+TXN_AARAV_0473,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-29 01:45:23,Food & Dining,Campus Canteen,95.63,UPI_GPay,0
+TXN_AARAV_0474,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-29 03:16:23,Transit,Hyderabad Metro Rail,82.13,UPI_GPay,0
+TXN_AARAV_0475,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-29 03:42:23,Education,College Xerox & Stationary,142.63,UPI_PhonePe,0
+TXN_AARAV_0476,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-29 06:38:23,Food & Dining,Campus Canteen,164.88,UPI_PhonePe,0
+TXN_AARAV_0477,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-29 12:06:23,Food & Dining,Irani Chai & Bakery,132.54,UPI_PhonePe,0
+TXN_AARAV_0478,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-29 20:55:23,Education,College Xerox & Stationary,84.03,UPI_GPay,0
+TXN_AARAV_0479,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-29 21:01:23,Transit,Hyderabad Metro Rail,33.41,UPI_PhonePe,0
+TXN_AARAV_0480,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-30 05:19:23,Groceries,Blinkit Quick Groceries,78.93,UPI_PhonePe,0
+TXN_AARAV_0481,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-30 06:44:23,Education,Amazon Book Store,165.2,Campus_Card,0
+TXN_AARAV_0482,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-30 07:09:23,Food & Dining,Irani Chai & Bakery,109.84,Campus_Card,0
+TXN_AARAV_0483,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-30 10:46:23,Food & Dining,Irani Chai & Bakery,114.53,UPI_GPay,0
+TXN_AARAV_0484,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-30 12:11:23,Food & Dining,Campus Canteen,122.89,Debit_Card,0
+TXN_AARAV_0485,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-30 12:48:23,Transit,Hyderabad Metro Rail,152.77,UPI_PhonePe,0
+TXN_AARAV_0486,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-30 18:12:23,Utilities,Jio / Airtel Prepaid Recharge,178.03,UPI_GPay,0
+TXN_AARAV_0487,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-31 08:52:23,Food & Dining,Campus Canteen,61.18,UPI_GPay,0
+TXN_AARAV_0488,cust_aarav,Aarav Sharma,College Student (TKREC),2026-07-31 18:36:23,Education,College Xerox & Stationary,129.69,UPI_GPay,0
+TXN_AARAV_0489,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-01 02:59:23,Food & Dining,Irani Chai & Bakery,605.99,UPI_PhonePe,0
+TXN_AARAV_0490,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-01 08:48:23,Entertainment,PVR Cinemas Inorbit,90.8,UPI_GPay,0
+TXN_AARAV_0491,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-01 15:02:23,Food & Dining,Campus Canteen,259.67,UPI_PhonePe,0
+TXN_AARAV_0492,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-01 16:28:23,Utilities,Jio / Airtel Prepaid Recharge,72.26,UPI_GPay,0
+TXN_AARAV_0493,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-01 17:38:23,Education,Amazon Book Store,366.55,UPI_PhonePe,0
+TXN_AARAV_0494,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-01 17:55:23,Entertainment,PVR Cinemas Inorbit,77.69,UPI_PhonePe,0
+TXN_AARAV_0495,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-01 17:56:23,Transit,Hyderabad Metro Rail,280.19,UPI_PhonePe,0
+TXN_AARAV_0496,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-01 21:18:23,Education,College Xerox & Stationary,104.58,UPI_PhonePe,0
+TXN_AARAV_0497,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-01 23:06:23,Groceries,Blinkit Quick Groceries,40.79,UPI_GPay,0
+TXN_AARAV_0498,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 01:17:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,5090.37,UPI_PhonePe,1
+TXN_AARAV_0499,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 02:11:23,Education,College Xerox & Stationary,80.17,Campus_Card,0
+TXN_AARAV_0500,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 04:43:23,Utilities,Jio / Airtel Prepaid Recharge,63.14,UPI_PhonePe,0
+TXN_AARAV_0501,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 07:15:23,Utilities,Jio / Airtel Prepaid Recharge,94.97,UPI_PhonePe,0
+TXN_AARAV_0502,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 10:28:23,Utilities,Jio / Airtel Prepaid Recharge,68.13,UPI_GPay,0
+TXN_AARAV_0503,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 10:41:23,Food & Dining,Irani Chai & Bakery,93.87,UPI_PhonePe,0
+TXN_AARAV_0504,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 19:33:23,Entertainment,PVR Cinemas Inorbit,86.72,UPI_GPay,0
+TXN_AARAV_0505,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 21:30:23,Food & Dining,Campus Canteen,107.18,UPI_GPay,0
+TXN_AARAV_0506,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 22:46:23,Education,College Xerox & Stationary,45.73,UPI_PhonePe,0
+TXN_AARAV_0507,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 22:53:23,Entertainment,PVR Cinemas Inorbit,260.73,UPI_PhonePe,0
+TXN_AARAV_0508,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-02 23:01:23,Utilities,Jio / Airtel Prepaid Recharge,74.76,UPI_PhonePe,0
+TXN_AARAV_0509,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-03 00:12:23,Groceries,Blinkit Quick Groceries,156.72,UPI_PhonePe,0
+TXN_AARAV_0510,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-03 01:01:23,Transit,Hyderabad Metro Rail,114.29,UPI_PhonePe,0
+TXN_AARAV_0511,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-03 06:18:23,Transit,Hyderabad Metro Rail,155.33,UPI_PhonePe,0
+TXN_AARAV_0512,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-03 08:08:23,Entertainment,PVR Cinemas Inorbit,104.03,UPI_PhonePe,0
+TXN_AARAV_0513,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-03 13:06:23,Food & Dining,Irani Chai & Bakery,317.09,UPI_GPay,0
+TXN_AARAV_0514,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-03 15:52:23,Education,Amazon Book Store,114.89,UPI_GPay,0
+TXN_AARAV_0515,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-03 22:08:23,Food & Dining,Irani Chai & Bakery,139.41,UPI_GPay,0
+TXN_AARAV_0516,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-03 23:50:23,Utilities,Jio / Airtel Prepaid Recharge,113.93,UPI_PhonePe,0
+TXN_AARAV_0517,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-04 00:48:23,Entertainment,PVR Cinemas Inorbit,158.96,UPI_PhonePe,0
+TXN_AARAV_0518,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-04 02:00:23,Food & Dining,Irani Chai & Bakery,135.64,Campus_Card,0
+TXN_AARAV_0519,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-04 07:28:23,Utilities,Jio / Airtel Prepaid Recharge,59.85,UPI_GPay,0
+TXN_AARAV_0520,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-04 08:10:23,Groceries,Blinkit Quick Groceries,41.24,Campus_Card,0
+TXN_AARAV_0521,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-04 14:07:23,Food & Dining,Irani Chai & Bakery,87.74,UPI_PhonePe,0
+TXN_AARAV_0522,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-04 19:58:23,Education,College Xerox & Stationary,57.0,UPI_GPay,0
+TXN_AARAV_0523,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-04 21:18:23,Education,College Xerox & Stationary,72.31,UPI_GPay,0
+TXN_AARAV_0524,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-04 21:26:23,Transit,Hyderabad Metro Rail,63.84,UPI_PhonePe,0
+TXN_AARAV_0525,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-04 21:39:23,Food & Dining,Irani Chai & Bakery,140.27,UPI_GPay,0
+TXN_AARAV_0526,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 00:58:23,Food & Dining,Campus Canteen,144.77,UPI_GPay,0
+TXN_AARAV_0527,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 01:15:23,Transit,Hyderabad Metro Rail,208.45,UPI_PhonePe,0
+TXN_AARAV_0528,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 01:40:23,Food & Dining,Campus Canteen,91.91,UPI_PhonePe,0
+TXN_AARAV_0529,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 07:14:23,Entertainment,PVR Cinemas Inorbit,114.03,UPI_GPay,0
+TXN_AARAV_0530,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 08:39:23,Education,College Xerox & Stationary,142.53,Campus_Card,0
+TXN_AARAV_0531,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 09:36:23,Entertainment,PVR Cinemas Inorbit,351.24,UPI_PhonePe,0
+TXN_AARAV_0532,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 09:42:23,Education,College Xerox & Stationary,142.8,UPI_PhonePe,0
+TXN_AARAV_0533,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 13:25:23,Food & Dining,Irani Chai & Bakery,98.9,UPI_PhonePe,0
+TXN_AARAV_0534,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 13:46:23,Groceries,Blinkit Quick Groceries,112.76,UPI_GPay,0
+TXN_AARAV_0535,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 14:28:23,Education,College Xerox & Stationary,60.13,UPI_PhonePe,0
+TXN_AARAV_0536,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 17:10:23,Entertainment,PVR Cinemas Inorbit,41.94,Debit_Card,0
+TXN_AARAV_0537,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-05 22:57:23,Entertainment,PVR Cinemas Inorbit,259.08,UPI_PhonePe,0
+TXN_AARAV_0538,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-06 04:34:23,Food & Dining,Campus Canteen,140.37,UPI_PhonePe,0
+TXN_AARAV_0539,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-06 09:29:23,Food & Dining,Campus Canteen,28.45,UPI_GPay,0
+TXN_AARAV_0540,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-06 11:40:23,Transit,Hyderabad Metro Rail,117.57,UPI_GPay,0
+TXN_AARAV_0541,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-06 13:02:23,Education,Amazon Book Store,144.22,UPI_GPay,0
+TXN_AARAV_0542,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-06 13:07:23,Groceries,Blinkit Quick Groceries,244.57,UPI_PhonePe,0
+TXN_AARAV_0543,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-06 15:33:23,Education,Amazon Book Store,107.48,Debit_Card,0
+TXN_AARAV_0544,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-06 22:12:23,Entertainment,PVR Cinemas Inorbit,173.49,UPI_PhonePe,0
+TXN_AARAV_0545,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-06 23:08:23,Education,Amazon Book Store,20.82,Campus_Card,0
+TXN_AARAV_0546,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-07 02:03:23,Transit,Hyderabad Metro Rail,393.17,UPI_PhonePe,0
+TXN_AARAV_0547,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-07 02:52:23,Food & Dining,Irani Chai & Bakery,105.13,UPI_GPay,0
+TXN_AARAV_0548,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-07 08:29:23,Food & Dining,Irani Chai & Bakery,67.83,UPI_GPay,0
+TXN_AARAV_0549,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-07 12:12:23,Transit,Hyderabad Metro Rail,53.1,UPI_PhonePe,0
+TXN_AARAV_0550,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-07 15:05:23,Education,Amazon Book Store,88.11,Campus_Card,0
+TXN_AARAV_0551,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-07 17:59:23,Education,College Xerox & Stationary,203.16,UPI_PhonePe,0
+TXN_AARAV_0552,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-07 18:08:23,Groceries,Blinkit Quick Groceries,82.69,UPI_PhonePe,0
+TXN_AARAV_0553,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-07 18:13:23,Education,College Xerox & Stationary,157.46,UPI_GPay,0
+TXN_AARAV_0554,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-07 20:36:23,Food & Dining,Irani Chai & Bakery,172.55,UPI_PhonePe,0
+TXN_AARAV_0555,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-08 02:33:23,Education,Amazon Book Store,159.14,UPI_GPay,0
+TXN_AARAV_0556,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-08 05:42:23,Entertainment,PVR Cinemas Inorbit,110.18,UPI_PhonePe,0
+TXN_AARAV_0557,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-08 11:32:23,Transit,Hyderabad Metro Rail,77.72,UPI_PhonePe,0
+TXN_AARAV_0558,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-08 12:57:23,Utilities,Jio / Airtel Prepaid Recharge,129.55,UPI_PhonePe,0
+TXN_AARAV_0559,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-08 13:49:23,Utilities,Jio / Airtel Prepaid Recharge,112.07,UPI_PhonePe,0
+TXN_AARAV_0560,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-08 20:40:23,Groceries,Blinkit Quick Groceries,39.01,UPI_GPay,0
+TXN_AARAV_0561,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-08 21:04:23,Food & Dining,Irani Chai & Bakery,138.1,UPI_GPay,0
+TXN_AARAV_0562,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 02:17:23,Food & Dining,Irani Chai & Bakery,109.12,Campus_Card,0
+TXN_AARAV_0563,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 03:12:23,Groceries,Blinkit Quick Groceries,127.68,UPI_GPay,0
+TXN_AARAV_0564,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 03:43:23,Groceries,Blinkit Quick Groceries,76.59,UPI_PhonePe,0
+TXN_AARAV_0565,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 06:09:23,Groceries,Blinkit Quick Groceries,69.13,UPI_PhonePe,0
+TXN_AARAV_0566,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 06:49:23,Utilities,Jio / Airtel Prepaid Recharge,102.82,UPI_PhonePe,0
+TXN_AARAV_0567,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 10:39:23,Food & Dining,Campus Canteen,177.69,UPI_PhonePe,0
+TXN_AARAV_0568,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 10:46:23,Utilities,Jio / Airtel Prepaid Recharge,125.96,UPI_GPay,0
+TXN_AARAV_0569,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 15:23:23,Food & Dining,Campus Canteen,143.51,UPI_PhonePe,0
+TXN_AARAV_0570,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 18:56:23,Entertainment,PVR Cinemas Inorbit,122.09,UPI_PhonePe,0
+TXN_AARAV_0571,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 22:41:23,Education,College Xerox & Stationary,221.9,Campus_Card,0
+TXN_AARAV_0572,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-09 23:39:23,Entertainment,PVR Cinemas Inorbit,137.8,UPI_GPay,0
+TXN_AARAV_0573,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-10 09:55:23,Entertainment,PVR Cinemas Inorbit,90.47,UPI_PhonePe,0
+TXN_AARAV_0574,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-10 10:46:23,Education,Amazon Book Store,140.04,UPI_PhonePe,0
+TXN_AARAV_0575,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-10 14:25:23,Transit,Hyderabad Metro Rail,276.39,UPI_PhonePe,0
+TXN_AARAV_0576,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-10 19:54:23,Entertainment,PVR Cinemas Inorbit,119.66,Campus_Card,0
+TXN_AARAV_0577,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-11 00:27:23,Groceries,Blinkit Quick Groceries,42.04,UPI_PhonePe,0
+TXN_AARAV_0578,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-11 00:57:23,Groceries,Blinkit Quick Groceries,83.45,UPI_PhonePe,0
+TXN_AARAV_0579,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-11 03:01:23,Food & Dining,Campus Canteen,122.64,UPI_PhonePe,0
+TXN_AARAV_0580,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-11 05:25:23,Utilities,Jio / Airtel Prepaid Recharge,199.35,UPI_GPay,0
+TXN_AARAV_0581,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-11 10:41:23,Food & Dining,Campus Canteen,72.22,UPI_PhonePe,0
+TXN_AARAV_0582,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-11 13:39:23,Education,College Xerox & Stationary,188.14,UPI_GPay,0
+TXN_AARAV_0583,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-11 16:32:23,Food & Dining,Irani Chai & Bakery,90.66,UPI_GPay,0
+TXN_AARAV_0584,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-11 18:53:23,Groceries,Blinkit Quick Groceries,202.46,UPI_GPay,0
+TXN_AARAV_0585,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-11 19:33:23,Transit,Hyderabad Metro Rail,111.9,UPI_PhonePe,0
+TXN_AARAV_0586,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-11 20:39:23,Food & Dining,Campus Canteen,116.82,UPI_GPay,0
+TXN_AARAV_0587,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-12 00:37:23,Food & Dining,Campus Canteen,399.02,UPI_GPay,0
+TXN_AARAV_0588,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-12 07:16:23,Food & Dining,Campus Canteen,216.86,UPI_PhonePe,0
+TXN_AARAV_0589,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-12 09:08:23,Transit,Hyderabad Metro Rail,255.11,UPI_GPay,0
+TXN_AARAV_0590,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-12 14:20:23,Utilities,Jio / Airtel Prepaid Recharge,64.51,UPI_PhonePe,0
+TXN_AARAV_0591,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-12 15:17:23,Transit,Hyderabad Metro Rail,229.31,UPI_PhonePe,0
+TXN_AARAV_0592,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-12 15:21:23,Groceries,Blinkit Quick Groceries,111.76,UPI_GPay,0
+TXN_AARAV_0593,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-12 16:06:23,Groceries,Blinkit Quick Groceries,92.75,UPI_PhonePe,0
+TXN_AARAV_0594,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-12 18:00:23,Entertainment,PVR Cinemas Inorbit,51.17,UPI_GPay,0
+TXN_AARAV_0595,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-12 22:13:23,Food & Dining,Campus Canteen,107.16,UPI_PhonePe,0
+TXN_AARAV_0596,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-12 23:31:23,Utilities,Jio / Airtel Prepaid Recharge,92.58,Campus_Card,0
+TXN_AARAV_0597,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-13 01:17:23,Food & Dining,Irani Chai & Bakery,290.46,Debit_Card,0
+TXN_AARAV_0598,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-13 10:08:23,Groceries,Blinkit Quick Groceries,97.29,Campus_Card,0
+TXN_AARAV_0599,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-13 11:02:23,Education,College Xerox & Stationary,429.35,UPI_PhonePe,0
+TXN_AARAV_0600,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-13 11:13:23,Groceries,Blinkit Quick Groceries,47.83,UPI_PhonePe,0
+TXN_AARAV_0601,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-13 12:46:23,Education,College Xerox & Stationary,198.49,UPI_GPay,0
+TXN_AARAV_0602,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-13 12:57:23,Utilities,Jio / Airtel Prepaid Recharge,231.62,UPI_PhonePe,0
+TXN_AARAV_0603,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-13 14:03:23,Entertainment,PVR Cinemas Inorbit,53.45,UPI_PhonePe,0
+TXN_AARAV_0604,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-13 17:20:23,Transit,Hyderabad Metro Rail,99.77,UPI_GPay,0
+TXN_AARAV_0605,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-13 20:43:23,Food & Dining,Campus Canteen,174.5,UPI_GPay,0
+TXN_AARAV_0606,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-13 22:16:23,Utilities,Jio / Airtel Prepaid Recharge,42.68,Debit_Card,0
+TXN_AARAV_0607,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-14 01:00:23,Utilities,Jio / Airtel Prepaid Recharge,130.5,UPI_PhonePe,0
+TXN_AARAV_0608,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-14 01:53:23,Food & Dining,Campus Canteen,105.94,UPI_PhonePe,0
+TXN_AARAV_0609,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-14 02:37:23,Entertainment,PVR Cinemas Inorbit,66.91,UPI_PhonePe,0
+TXN_AARAV_0610,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-14 06:05:23,Transit,Hyderabad Metro Rail,116.0,Campus_Card,0
+TXN_AARAV_0611,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-14 07:43:23,Food & Dining,Irani Chai & Bakery,122.61,UPI_GPay,0
+TXN_AARAV_0612,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-14 09:08:23,Education,College Xerox & Stationary,59.83,UPI_GPay,0
+TXN_AARAV_0613,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-14 11:19:23,Food & Dining,Campus Canteen,237.13,Campus_Card,0
+TXN_AARAV_0614,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-14 16:40:23,Entertainment,PVR Cinemas Inorbit,105.36,UPI_GPay,0
+TXN_AARAV_0615,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-14 18:23:23,Groceries,Blinkit Quick Groceries,136.37,UPI_GPay,0
+TXN_AARAV_0616,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-15 00:15:23,Education,College Xerox & Stationary,129.17,UPI_PhonePe,0
+TXN_AARAV_0617,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-15 07:48:23,Education,College Xerox & Stationary,307.79,UPI_GPay,0
+TXN_AARAV_0618,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-15 08:57:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,4598.6,UPI_GPay,1
+TXN_AARAV_0619,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-15 09:41:23,Groceries,Blinkit Quick Groceries,181.66,UPI_GPay,0
+TXN_AARAV_0620,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-15 10:31:23,Transit,Hyderabad Metro Rail,182.4,Campus_Card,0
+TXN_AARAV_0621,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-15 12:54:23,Education,Amazon Book Store,114.21,Debit_Card,0
+TXN_AARAV_0622,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-15 18:43:23,Education,College Xerox & Stationary,45.34,UPI_GPay,0
+TXN_AARAV_0623,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-15 21:46:23,Education,College Xerox & Stationary,167.71,UPI_GPay,0
+TXN_AARAV_0624,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-16 00:10:23,Food & Dining,Campus Canteen,125.33,UPI_GPay,0
+TXN_AARAV_0625,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-16 00:56:23,Food & Dining,Irani Chai & Bakery,97.02,UPI_PhonePe,0
+TXN_AARAV_0626,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-16 01:19:23,Transit,Hyderabad Metro Rail,100.42,UPI_PhonePe,0
+TXN_AARAV_0627,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-16 05:49:23,Groceries,Blinkit Quick Groceries,147.74,UPI_GPay,0
+TXN_AARAV_0628,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-16 10:24:23,Education,Amazon Book Store,97.34,UPI_GPay,0
+TXN_AARAV_0629,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-16 12:49:23,Education,College Xerox & Stationary,74.7,UPI_PhonePe,0
+TXN_AARAV_0630,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-16 19:23:23,Entertainment,PVR Cinemas Inorbit,57.14,Campus_Card,0
+TXN_AARAV_0631,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-16 19:39:23,Food & Dining,Irani Chai & Bakery,148.12,UPI_PhonePe,0
+TXN_AARAV_0632,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-16 19:45:23,Food & Dining,Irani Chai & Bakery,176.26,UPI_PhonePe,0
+TXN_AARAV_0633,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 00:59:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,6916.45,UPI_GPay,1
+TXN_AARAV_0634,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 01:09:23,Utilities,Jio / Airtel Prepaid Recharge,46.31,UPI_PhonePe,0
+TXN_AARAV_0635,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 01:40:23,Entertainment,PVR Cinemas Inorbit,135.75,UPI_PhonePe,0
+TXN_AARAV_0636,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 06:47:23,Food & Dining,Irani Chai & Bakery,201.32,UPI_PhonePe,0
+TXN_AARAV_0637,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 09:06:23,Entertainment,PVR Cinemas Inorbit,83.88,UPI_GPay,0
+TXN_AARAV_0638,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 10:16:23,Transit,Hyderabad Metro Rail,51.71,UPI_PhonePe,0
+TXN_AARAV_0639,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 12:43:23,Food & Dining,Campus Canteen,103.55,UPI_GPay,0
+TXN_AARAV_0640,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 12:59:23,Education,College Xerox & Stationary,158.97,UPI_GPay,0
+TXN_AARAV_0641,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 17:39:23,Food & Dining,Campus Canteen,151.81,UPI_PhonePe,0
+TXN_AARAV_0642,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 22:33:23,Food & Dining,Campus Canteen,46.58,Debit_Card,0
+TXN_AARAV_0643,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 22:58:23,Education,Amazon Book Store,160.34,UPI_PhonePe,0
+TXN_AARAV_0644,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-17 23:32:23,Education,College Xerox & Stationary,133.97,Debit_Card,0
+TXN_AARAV_0645,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 02:32:23,Utilities,Jio / Airtel Prepaid Recharge,124.56,UPI_GPay,0
+TXN_AARAV_0646,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 03:51:23,Education,Amazon Book Store,156.89,Debit_Card,0
+TXN_AARAV_0647,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 08:51:23,Food & Dining,Irani Chai & Bakery,122.91,UPI_PhonePe,0
+TXN_AARAV_0648,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 10:52:23,Food & Dining,Campus Canteen,68.25,UPI_GPay,0
+TXN_AARAV_0649,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 12:06:23,Food & Dining,Campus Canteen,200.04,UPI_PhonePe,0
+TXN_AARAV_0650,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 12:13:23,Entertainment,PVR Cinemas Inorbit,296.03,UPI_PhonePe,0
+TXN_AARAV_0651,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 14:30:23,Utilities,Jio / Airtel Prepaid Recharge,150.41,UPI_GPay,0
+TXN_AARAV_0652,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 15:22:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,4999.21,UPI_PhonePe,1
+TXN_AARAV_0653,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 15:23:23,Groceries,Blinkit Quick Groceries,177.18,UPI_GPay,0
+TXN_AARAV_0654,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 15:36:23,Groceries,Blinkit Quick Groceries,56.73,UPI_PhonePe,0
+TXN_AARAV_0655,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 15:44:23,Utilities,Jio / Airtel Prepaid Recharge,91.65,UPI_PhonePe,0
+TXN_AARAV_0656,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-18 20:15:23,Utilities,Jio / Airtel Prepaid Recharge,142.53,UPI_GPay,0
+TXN_AARAV_0657,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-19 00:02:23,Food & Dining,Campus Canteen,75.36,UPI_PhonePe,0
+TXN_AARAV_0658,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-19 02:58:23,Education,Amazon Book Store,148.92,UPI_GPay,0
+TXN_AARAV_0659,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-19 03:20:23,Education,College Xerox & Stationary,82.3,UPI_GPay,0
+TXN_AARAV_0660,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-19 12:54:23,Entertainment,PVR Cinemas Inorbit,268.48,UPI_GPay,0
+TXN_AARAV_0661,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-19 13:41:23,Entertainment,PVR Cinemas Inorbit,129.06,UPI_PhonePe,0
+TXN_AARAV_0662,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-19 16:14:23,Utilities,Jio / Airtel Prepaid Recharge,172.89,UPI_GPay,0
+TXN_AARAV_0663,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-19 17:21:23,Education,College Xerox & Stationary,37.26,Debit_Card,0
+TXN_AARAV_0664,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-19 19:51:23,Food & Dining,Campus Canteen,207.59,UPI_GPay,0
+TXN_AARAV_0665,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-19 21:54:23,Food & Dining,Campus Canteen,48.63,UPI_GPay,0
+TXN_AARAV_0666,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-20 01:16:23,Food & Dining,Campus Canteen,123.91,UPI_GPay,0
+TXN_AARAV_0667,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-20 02:08:23,Utilities,Jio / Airtel Prepaid Recharge,95.18,UPI_GPay,0
+TXN_AARAV_0668,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-20 03:25:23,Groceries,Blinkit Quick Groceries,183.42,UPI_GPay,0
+TXN_AARAV_0669,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-20 12:54:23,Food & Dining,Irani Chai & Bakery,168.94,UPI_PhonePe,0
+TXN_AARAV_0670,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-20 14:07:23,Utilities,Jio / Airtel Prepaid Recharge,590.24,UPI_PhonePe,0
+TXN_AARAV_0671,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-20 15:04:23,Education,College Xerox & Stationary,108.48,UPI_GPay,0
+TXN_AARAV_0672,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-20 19:16:23,Education,College Xerox & Stationary,211.24,UPI_PhonePe,0
+TXN_AARAV_0673,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-20 20:49:23,Food & Dining,Campus Canteen,155.31,UPI_GPay,0
+TXN_AARAV_0674,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-20 23:05:23,Groceries,Blinkit Quick Groceries,54.86,UPI_PhonePe,0
+TXN_AARAV_0675,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-21 13:06:23,Groceries,Blinkit Quick Groceries,25.47,UPI_GPay,0
+TXN_AARAV_0676,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-21 16:13:23,Education,Amazon Book Store,136.92,UPI_PhonePe,0
+TXN_AARAV_0677,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-21 16:53:23,Food & Dining,Irani Chai & Bakery,226.38,UPI_PhonePe,0
+TXN_AARAV_0678,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-21 19:56:23,Food & Dining,Irani Chai & Bakery,189.49,Debit_Card,0
+TXN_AARAV_0679,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-21 20:33:23,Education,Amazon Book Store,41.8,Campus_Card,0
+TXN_AARAV_0680,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-22 03:14:23,Education,Amazon Book Store,147.2,UPI_GPay,0
+TXN_AARAV_0681,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-22 06:04:23,Utilities,Jio / Airtel Prepaid Recharge,183.85,UPI_GPay,0
+TXN_AARAV_0682,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-22 06:10:23,Groceries,Blinkit Quick Groceries,26.18,UPI_GPay,0
+TXN_AARAV_0683,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-22 06:33:23,Transit,Hyderabad Metro Rail,63.29,UPI_GPay,0
+TXN_AARAV_0684,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-22 10:29:23,Entertainment,PVR Cinemas Inorbit,63.34,UPI_GPay,0
+TXN_AARAV_0685,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-22 10:57:23,Utilities,Jio / Airtel Prepaid Recharge,252.25,UPI_PhonePe,0
+TXN_AARAV_0686,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-22 17:44:23,Food & Dining,Irani Chai & Bakery,198.81,UPI_GPay,0
+TXN_AARAV_0687,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-22 19:16:23,Transit,Hyderabad Metro Rail,248.75,UPI_GPay,0
+TXN_AARAV_0688,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-22 20:52:23,Food & Dining,Campus Canteen,67.44,Debit_Card,0
+TXN_AARAV_0689,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-23 05:18:23,Food & Dining,Campus Canteen,291.73,UPI_PhonePe,0
+TXN_AARAV_0690,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-23 05:40:23,Education,Amazon Book Store,43.29,UPI_GPay,0
+TXN_AARAV_0691,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-23 06:14:23,Education,Amazon Book Store,73.83,UPI_GPay,0
+TXN_AARAV_0692,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-23 06:56:23,Food & Dining,Campus Canteen,166.25,UPI_PhonePe,0
+TXN_AARAV_0693,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-23 08:02:23,Food & Dining,Campus Canteen,46.85,UPI_PhonePe,0
+TXN_AARAV_0694,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-23 22:34:23,Utilities,Jio / Airtel Prepaid Recharge,195.54,UPI_PhonePe,0
+TXN_AARAV_0695,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-24 02:59:23,Education,College Xerox & Stationary,402.38,UPI_PhonePe,0
+TXN_AARAV_0696,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-24 09:54:23,Education,Amazon Book Store,785.21,UPI_PhonePe,0
+TXN_AARAV_0697,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-24 14:14:23,Transit,Hyderabad Metro Rail,232.56,UPI_GPay,0
+TXN_AARAV_0698,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-24 17:46:23,Education,Amazon Book Store,220.81,UPI_GPay,0
+TXN_AARAV_0699,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-24 19:12:23,Food & Dining,Campus Canteen,181.19,UPI_GPay,0
+TXN_AARAV_0700,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-25 05:46:23,Food & Dining,Campus Canteen,156.48,Campus_Card,0
+TXN_AARAV_0701,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-25 11:31:23,Education,College Xerox & Stationary,55.73,UPI_PhonePe,0
+TXN_AARAV_0702,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-25 13:05:23,Food & Dining,Campus Canteen,58.36,UPI_PhonePe,0
+TXN_AARAV_0703,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-25 15:50:23,Education,Amazon Book Store,159.92,UPI_GPay,0
+TXN_AARAV_0704,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-25 21:45:23,Food & Dining,Campus Canteen,331.85,UPI_PhonePe,0
+TXN_AARAV_0705,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-25 23:54:23,Groceries,Blinkit Quick Groceries,159.57,UPI_PhonePe,0
+TXN_AARAV_0706,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 02:56:23,Food & Dining,Campus Canteen,88.16,UPI_PhonePe,0
+TXN_AARAV_0707,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 03:35:23,Transit,Hyderabad Metro Rail,48.88,UPI_PhonePe,0
+TXN_AARAV_0708,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 03:44:23,Entertainment,PVR Cinemas Inorbit,98.08,UPI_GPay,0
+TXN_AARAV_0709,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 05:32:23,Entertainment,PVR Cinemas Inorbit,361.96,UPI_PhonePe,0
+TXN_AARAV_0710,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 05:47:23,Groceries,Blinkit Quick Groceries,124.46,UPI_GPay,0
+TXN_AARAV_0711,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 06:35:23,Transit,Hyderabad Metro Rail,33.38,UPI_PhonePe,0
+TXN_AARAV_0712,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 09:53:23,Food & Dining,Campus Canteen,234.7,UPI_GPay,0
+TXN_AARAV_0713,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 17:58:23,Groceries,Blinkit Quick Groceries,62.16,UPI_PhonePe,0
+TXN_AARAV_0714,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 20:50:23,Food & Dining,Campus Canteen,66.2,UPI_GPay,0
+TXN_AARAV_0715,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 22:20:23,Transit,Hyderabad Metro Rail,183.12,UPI_PhonePe,0
+TXN_AARAV_0716,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-26 23:52:23,Education,Amazon Book Store,53.54,UPI_PhonePe,0
+TXN_AARAV_0717,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-27 01:43:23,Entertainment,PVR Cinemas Inorbit,126.7,UPI_GPay,0
+TXN_AARAV_0718,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-27 02:55:23,Utilities,Jio / Airtel Prepaid Recharge,82.78,UPI_PhonePe,0
+TXN_AARAV_0719,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-27 09:09:23,Food & Dining,Campus Canteen,48.74,UPI_PhonePe,0
+TXN_AARAV_0720,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-27 10:55:23,Utilities,Jio / Airtel Prepaid Recharge,236.89,UPI_PhonePe,0
+TXN_AARAV_0721,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-27 12:01:23,Groceries,Blinkit Quick Groceries,79.66,Campus_Card,0
+TXN_AARAV_0722,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-27 14:25:23,Entertainment,PVR Cinemas Inorbit,212.55,UPI_PhonePe,0
+TXN_AARAV_0723,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-28 02:15:23,Education,College Xerox & Stationary,110.66,UPI_GPay,0
+TXN_AARAV_0724,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-28 05:19:23,Education,College Xerox & Stationary,87.45,UPI_PhonePe,0
+TXN_AARAV_0725,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-28 05:37:23,Transit,Hyderabad Metro Rail,59.66,UPI_PhonePe,0
+TXN_AARAV_0726,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-28 09:13:23,Utilities,Jio / Airtel Prepaid Recharge,166.1,UPI_PhonePe,0
+TXN_AARAV_0727,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-28 13:11:23,Food & Dining,Irani Chai & Bakery,68.15,Campus_Card,0
+TXN_AARAV_0728,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-28 22:02:23,Groceries,Blinkit Quick Groceries,68.42,UPI_PhonePe,0
+TXN_AARAV_0729,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-29 00:53:23,Entertainment,PVR Cinemas Inorbit,54.76,UPI_PhonePe,0
+TXN_AARAV_0730,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-29 07:16:23,Education,College Xerox & Stationary,127.29,UPI_PhonePe,0
+TXN_AARAV_0731,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-29 07:18:23,Food & Dining,Campus Canteen,207.29,UPI_PhonePe,0
+TXN_AARAV_0732,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-29 07:50:23,Food & Dining,Campus Canteen,226.14,UPI_PhonePe,0
+TXN_AARAV_0733,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-29 17:15:23,Food & Dining,Campus Canteen,73.91,UPI_GPay,0
+TXN_AARAV_0734,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-29 17:56:23,Food & Dining,Irani Chai & Bakery,81.64,UPI_PhonePe,0
+TXN_AARAV_0735,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-29 18:19:23,Transit,Hyderabad Metro Rail,137.6,UPI_PhonePe,0
+TXN_AARAV_0736,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-30 00:22:23,Transit,Hyderabad Metro Rail,126.67,UPI_GPay,0
+TXN_AARAV_0737,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-30 00:26:23,Entertainment,PVR Cinemas Inorbit,115.58,UPI_PhonePe,0
+TXN_AARAV_0738,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-30 02:43:23,Transit,Hyderabad Metro Rail,135.83,UPI_PhonePe,0
+TXN_AARAV_0739,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-30 04:26:23,Food & Dining,Irani Chai & Bakery,55.72,UPI_PhonePe,0
+TXN_AARAV_0740,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-30 08:04:23,Entertainment,PVR Cinemas Inorbit,199.9,UPI_GPay,0
+TXN_AARAV_0741,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-30 11:19:23,Groceries,Blinkit Quick Groceries,248.13,UPI_PhonePe,0
+TXN_AARAV_0742,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-30 12:59:23,Transit,Hyderabad Metro Rail,223.23,UPI_GPay,0
+TXN_AARAV_0743,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-30 20:11:23,Food & Dining,Campus Canteen,223.77,UPI_PhonePe,0
+TXN_AARAV_0744,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-31 00:08:23,Food & Dining,Campus Canteen,143.01,UPI_GPay,0
+TXN_AARAV_0745,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-31 03:11:23,Entertainment,PVR Cinemas Inorbit,106.81,UPI_PhonePe,0
+TXN_AARAV_0746,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-31 04:19:23,Entertainment,PVR Cinemas Inorbit,143.46,UPI_GPay,0
+TXN_AARAV_0747,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-31 04:43:23,Education,College Xerox & Stationary,105.89,UPI_GPay,0
+TXN_AARAV_0748,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-31 12:35:23,Food & Dining,Campus Canteen,118.38,UPI_GPay,0
+TXN_AARAV_0749,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-31 13:36:23,Utilities,Jio / Airtel Prepaid Recharge,113.77,UPI_PhonePe,0
+TXN_AARAV_0750,cust_aarav,Aarav Sharma,College Student (TKREC),2026-08-31 21:44:23,Groceries,Blinkit Quick Groceries,163.77,UPI_PhonePe,0
+TXN_AARAV_0751,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-01 02:02:23,Transit,Hyderabad Metro Rail,119.81,UPI_PhonePe,0
+TXN_AARAV_0752,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-01 03:47:23,Utilities,Jio / Airtel Prepaid Recharge,109.44,UPI_PhonePe,0
+TXN_AARAV_0753,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-01 05:04:23,Utilities,Jio / Airtel Prepaid Recharge,46.37,UPI_PhonePe,0
+TXN_AARAV_0754,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-01 07:53:23,Transit,Hyderabad Metro Rail,93.37,UPI_GPay,0
+TXN_AARAV_0755,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-01 08:17:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,6626.18,UPI_PhonePe,1
+TXN_AARAV_0756,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-01 10:10:23,Education,College Xerox & Stationary,55.96,UPI_PhonePe,0
+TXN_AARAV_0757,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-01 15:04:23,Education,Amazon Book Store,183.8,UPI_GPay,0
+TXN_AARAV_0758,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-01 16:57:23,Education,Amazon Book Store,150.73,UPI_GPay,0
+TXN_AARAV_0759,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-01 17:41:23,Food & Dining,Campus Canteen,170.85,UPI_PhonePe,0
+TXN_AARAV_0760,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-01 22:01:23,Groceries,Blinkit Quick Groceries,70.13,UPI_GPay,0
+TXN_AARAV_0761,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-02 00:54:23,Food & Dining,Irani Chai & Bakery,73.77,UPI_PhonePe,0
+TXN_AARAV_0762,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-02 04:16:23,Food & Dining,Irani Chai & Bakery,320.21,UPI_GPay,0
+TXN_AARAV_0763,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-02 05:58:23,Education,Amazon Book Store,221.02,UPI_GPay,0
+TXN_AARAV_0764,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-02 07:10:23,Transit,Hyderabad Metro Rail,163.99,UPI_GPay,0
+TXN_AARAV_0765,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-02 13:46:23,Groceries,Blinkit Quick Groceries,161.29,UPI_GPay,0
+TXN_AARAV_0766,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-02 20:38:23,Groceries,Blinkit Quick Groceries,284.35,UPI_PhonePe,0
+TXN_AARAV_0767,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-02 22:14:23,Groceries,Blinkit Quick Groceries,182.88,UPI_PhonePe,0
+TXN_AARAV_0768,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-03 00:20:23,Entertainment,PVR Cinemas Inorbit,183.09,UPI_GPay,0
+TXN_AARAV_0769,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-03 00:38:23,Education,Amazon Book Store,107.17,UPI_PhonePe,0
+TXN_AARAV_0770,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-03 03:03:23,Food & Dining,Campus Canteen,197.59,Campus_Card,0
+TXN_AARAV_0771,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-03 06:22:23,Transit,Hyderabad Metro Rail,103.36,UPI_PhonePe,0
+TXN_AARAV_0772,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-03 21:52:23,Education,College Xerox & Stationary,54.43,UPI_PhonePe,0
+TXN_AARAV_0773,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-03 23:19:23,Groceries,Blinkit Quick Groceries,184.15,UPI_PhonePe,0
+TXN_AARAV_0774,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-04 00:45:23,Education,College Xerox & Stationary,167.84,UPI_PhonePe,0
+TXN_AARAV_0775,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-04 03:24:23,Education,Amazon Book Store,135.71,UPI_GPay,0
+TXN_AARAV_0776,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-04 03:34:23,Education,College Xerox & Stationary,96.32,UPI_GPay,0
+TXN_AARAV_0777,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-04 04:26:23,Education,Amazon Book Store,118.24,UPI_GPay,0
+TXN_AARAV_0778,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-04 07:14:23,Education,Amazon Book Store,195.57,UPI_GPay,0
+TXN_AARAV_0779,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-04 07:27:23,Transit,Hyderabad Metro Rail,120.31,Campus_Card,0
+TXN_AARAV_0780,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-04 15:33:23,Entertainment,PVR Cinemas Inorbit,57.17,UPI_GPay,0
+TXN_AARAV_0781,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-04 16:42:23,Utilities,Jio / Airtel Prepaid Recharge,197.93,UPI_PhonePe,0
+TXN_AARAV_0782,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-04 19:15:23,Education,Amazon Book Store,168.28,UPI_GPay,0
+TXN_AARAV_0783,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-04 21:21:23,Education,Amazon Book Store,65.15,UPI_PhonePe,0
+TXN_AARAV_0784,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-05 05:13:23,Education,College Xerox & Stationary,99.61,UPI_PhonePe,0
+TXN_AARAV_0785,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-05 16:06:23,Transit,Hyderabad Metro Rail,84.15,UPI_GPay,0
+TXN_AARAV_0786,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-05 20:29:23,Education,Amazon Book Store,33.55,UPI_PhonePe,0
+TXN_AARAV_0787,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-06 06:20:23,Groceries,Blinkit Quick Groceries,167.29,UPI_PhonePe,0
+TXN_AARAV_0788,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-06 07:59:23,Groceries,Blinkit Quick Groceries,168.9,UPI_PhonePe,0
+TXN_AARAV_0789,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-06 09:17:23,Entertainment,PVR Cinemas Inorbit,104.27,UPI_PhonePe,0
+TXN_AARAV_0790,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-06 14:55:23,Food & Dining,Campus Canteen,185.78,Campus_Card,0
+TXN_AARAV_0791,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-06 21:58:23,Utilities,Jio / Airtel Prepaid Recharge,122.17,UPI_PhonePe,0
+TXN_AARAV_0792,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 00:14:23,Entertainment,PVR Cinemas Inorbit,134.98,UPI_PhonePe,0
+TXN_AARAV_0793,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 01:19:23,Utilities,Jio / Airtel Prepaid Recharge,728.62,UPI_PhonePe,0
+TXN_AARAV_0794,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 01:33:23,Transit,Hyderabad Metro Rail,134.95,UPI_PhonePe,0
+TXN_AARAV_0795,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 03:03:23,Education,Amazon Book Store,134.13,Campus_Card,0
+TXN_AARAV_0796,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 07:23:23,Utilities,Jio / Airtel Prepaid Recharge,161.45,UPI_PhonePe,0
+TXN_AARAV_0797,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 10:16:23,Education,College Xerox & Stationary,69.7,UPI_GPay,0
+TXN_AARAV_0798,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 13:29:23,Entertainment,PVR Cinemas Inorbit,129.96,UPI_GPay,0
+TXN_AARAV_0799,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 13:30:23,Entertainment,PVR Cinemas Inorbit,346.12,Campus_Card,0
+TXN_AARAV_0800,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 14:45:23,Education,College Xerox & Stationary,79.38,UPI_GPay,0
+TXN_AARAV_0801,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 14:56:23,Food & Dining,Irani Chai & Bakery,57.11,UPI_GPay,0
+TXN_AARAV_0802,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 21:30:23,Education,Amazon Book Store,51.91,UPI_PhonePe,0
+TXN_AARAV_0803,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-07 23:24:23,Education,Amazon Book Store,174.15,UPI_PhonePe,0
+TXN_AARAV_0804,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 01:12:23,Education,Amazon Book Store,224.27,UPI_PhonePe,0
+TXN_AARAV_0805,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 01:45:23,Food & Dining,Campus Canteen,425.42,Campus_Card,0
+TXN_AARAV_0806,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 09:02:23,Food & Dining,Campus Canteen,233.12,UPI_PhonePe,0
+TXN_AARAV_0807,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 10:52:23,Food & Dining,Irani Chai & Bakery,228.86,UPI_PhonePe,0
+TXN_AARAV_0808,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 12:36:23,Groceries,Blinkit Quick Groceries,147.92,UPI_PhonePe,0
+TXN_AARAV_0809,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 14:34:23,Groceries,Blinkit Quick Groceries,211.57,UPI_PhonePe,0
+TXN_AARAV_0810,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 15:22:23,Groceries,Blinkit Quick Groceries,99.34,UPI_PhonePe,0
+TXN_AARAV_0811,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 18:08:23,Food & Dining,Campus Canteen,75.67,Debit_Card,0
+TXN_AARAV_0812,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 19:37:23,Education,Amazon Book Store,203.38,UPI_PhonePe,0
+TXN_AARAV_0813,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 20:18:23,Education,Amazon Book Store,105.55,UPI_GPay,0
+TXN_AARAV_0814,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-08 21:34:23,Education,Amazon Book Store,118.22,UPI_GPay,0
+TXN_AARAV_0815,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 04:02:23,Transit,Hyderabad Metro Rail,76.78,UPI_PhonePe,0
+TXN_AARAV_0816,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 04:20:23,Food & Dining,Campus Canteen,143.79,UPI_PhonePe,0
+TXN_AARAV_0817,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 06:54:23,Entertainment,PVR Cinemas Inorbit,349.04,UPI_PhonePe,0
+TXN_AARAV_0818,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 08:51:23,Food & Dining,Campus Canteen,34.76,UPI_PhonePe,0
+TXN_AARAV_0819,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 09:09:23,Utilities,Jio / Airtel Prepaid Recharge,108.62,UPI_GPay,0
+TXN_AARAV_0820,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 11:42:23,Entertainment,PVR Cinemas Inorbit,75.19,UPI_PhonePe,0
+TXN_AARAV_0821,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 14:59:23,Food & Dining,Irani Chai & Bakery,116.97,UPI_PhonePe,0
+TXN_AARAV_0822,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 16:21:23,Food & Dining,Campus Canteen,102.98,UPI_GPay,0
+TXN_AARAV_0823,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 16:46:23,Education,Amazon Book Store,213.67,Campus_Card,0
+TXN_AARAV_0824,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 17:25:23,Food & Dining,Irani Chai & Bakery,84.43,UPI_GPay,0
+TXN_AARAV_0825,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 19:03:23,Entertainment,PVR Cinemas Inorbit,137.93,UPI_GPay,0
+TXN_AARAV_0826,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-09 22:11:23,Entertainment,PVR Cinemas Inorbit,63.64,UPI_GPay,0
+TXN_AARAV_0827,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-10 04:24:23,Groceries,Blinkit Quick Groceries,80.38,UPI_PhonePe,0
+TXN_AARAV_0828,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-10 06:08:23,Education,College Xerox & Stationary,84.53,UPI_GPay,0
+TXN_AARAV_0829,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-10 08:05:23,Education,Amazon Book Store,32.35,UPI_PhonePe,0
+TXN_AARAV_0830,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-10 08:16:23,Education,College Xerox & Stationary,107.19,UPI_GPay,0
+TXN_AARAV_0831,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-10 19:22:23,Food & Dining,Irani Chai & Bakery,430.99,UPI_GPay,0
+TXN_AARAV_0832,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-11 01:56:23,Groceries,Blinkit Quick Groceries,78.22,UPI_PhonePe,0
+TXN_AARAV_0833,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-11 04:50:23,Food & Dining,Irani Chai & Bakery,127.64,UPI_GPay,0
+TXN_AARAV_0834,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-11 06:12:23,Food & Dining,Irani Chai & Bakery,190.7,Campus_Card,0
+TXN_AARAV_0835,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-11 07:22:23,Transit,Hyderabad Metro Rail,176.7,UPI_PhonePe,0
+TXN_AARAV_0836,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-11 12:37:23,Education,Amazon Book Store,282.03,UPI_GPay,0
+TXN_AARAV_0837,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-11 19:46:23,Education,Amazon Book Store,184.7,UPI_PhonePe,0
+TXN_AARAV_0838,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-11 20:51:23,Education,Amazon Book Store,150.45,UPI_GPay,0
+TXN_AARAV_0839,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-11 22:48:23,Utilities,Jio / Airtel Prepaid Recharge,138.49,UPI_GPay,0
+TXN_AARAV_0840,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-12 05:34:23,Entertainment,PVR Cinemas Inorbit,136.24,UPI_GPay,0
+TXN_AARAV_0841,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-12 07:12:23,Education,College Xerox & Stationary,213.75,Campus_Card,0
+TXN_AARAV_0842,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-12 15:39:23,Groceries,Blinkit Quick Groceries,67.18,Campus_Card,0
+TXN_AARAV_0843,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-12 16:29:23,Food & Dining,Campus Canteen,212.71,UPI_GPay,0
+TXN_AARAV_0844,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-13 00:25:23,Education,College Xerox & Stationary,97.29,UPI_PhonePe,0
+TXN_AARAV_0845,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-13 04:57:23,Transit,Hyderabad Metro Rail,52.28,Campus_Card,0
+TXN_AARAV_0846,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-13 12:56:23,Education,College Xerox & Stationary,138.85,UPI_PhonePe,0
+TXN_AARAV_0847,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-13 14:10:23,Education,Amazon Book Store,91.14,Campus_Card,0
+TXN_AARAV_0848,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-13 18:27:23,Entertainment,PVR Cinemas Inorbit,81.88,UPI_PhonePe,0
+TXN_AARAV_0849,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-13 21:27:23,Transit,Hyderabad Metro Rail,202.9,UPI_PhonePe,0
+TXN_AARAV_0850,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-13 23:51:23,Utilities,Jio / Airtel Prepaid Recharge,51.77,UPI_GPay,0
+TXN_AARAV_0851,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-14 06:54:23,Utilities,Jio / Airtel Prepaid Recharge,235.81,UPI_PhonePe,0
+TXN_AARAV_0852,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-14 07:35:23,Entertainment,PVR Cinemas Inorbit,160.44,UPI_PhonePe,0
+TXN_AARAV_0853,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-14 09:52:23,Utilities,Jio / Airtel Prepaid Recharge,53.5,UPI_PhonePe,0
+TXN_AARAV_0854,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-14 15:24:23,Entertainment,PVR Cinemas Inorbit,186.34,UPI_PhonePe,0
+TXN_AARAV_0855,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-14 22:05:23,Food & Dining,Irani Chai & Bakery,191.66,UPI_PhonePe,0
+TXN_AARAV_0856,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-15 01:07:23,Food & Dining,Campus Canteen,66.34,UPI_PhonePe,0
+TXN_AARAV_0857,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-15 02:47:23,Entertainment,PVR Cinemas Inorbit,37.43,UPI_PhonePe,0
+TXN_AARAV_0858,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-15 04:55:23,Utilities,Jio / Airtel Prepaid Recharge,99.53,UPI_PhonePe,0
+TXN_AARAV_0859,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-15 09:35:23,Entertainment,PVR Cinemas Inorbit,163.19,UPI_GPay,0
+TXN_AARAV_0860,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-15 11:50:23,Transit,Hyderabad Metro Rail,182.63,UPI_PhonePe,0
+TXN_AARAV_0861,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-15 13:26:23,Education,Amazon Book Store,101.37,Campus_Card,0
+TXN_AARAV_0862,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-15 13:46:23,Entertainment,PVR Cinemas Inorbit,91.7,Campus_Card,0
+TXN_AARAV_0863,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-15 16:21:23,Entertainment,PVR Cinemas Inorbit,178.89,UPI_PhonePe,0
+TXN_AARAV_0864,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-15 20:22:23,Food & Dining,Irani Chai & Bakery,191.34,UPI_GPay,0
+TXN_AARAV_0865,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-15 20:44:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,5760.78,UPI_GPay,1
+TXN_AARAV_0866,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 00:29:23,Groceries,Blinkit Quick Groceries,175.47,Debit_Card,0
+TXN_AARAV_0867,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 04:59:23,Transit,Hyderabad Metro Rail,251.86,UPI_GPay,0
+TXN_AARAV_0868,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 06:54:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,3061.56,UPI_PhonePe,1
+TXN_AARAV_0869,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 11:05:23,Entertainment,PVR Cinemas Inorbit,84.9,UPI_GPay,0
+TXN_AARAV_0870,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 11:59:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,7850.47,UPI_GPay,1
+TXN_AARAV_0871,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 19:56:23,Transit,Hyderabad Metro Rail,153.25,UPI_GPay,0
+TXN_AARAV_0872,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 20:16:23,Utilities,Jio / Airtel Prepaid Recharge,233.83,UPI_PhonePe,0
+TXN_AARAV_0873,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 21:31:23,Utilities,Jio / Airtel Prepaid Recharge,323.88,Campus_Card,0
+TXN_AARAV_0874,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 21:55:23,Transit,Hyderabad Metro Rail,348.23,Debit_Card,0
+TXN_AARAV_0875,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 22:01:23,Education,College Xerox & Stationary,74.36,UPI_PhonePe,0
+TXN_AARAV_0876,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-16 22:18:23,Education,Amazon Book Store,304.73,UPI_PhonePe,0
+TXN_AARAV_0877,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 01:59:23,Utilities,Jio / Airtel Prepaid Recharge,107.35,UPI_PhonePe,0
+TXN_AARAV_0878,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 02:21:23,Utilities,Jio / Airtel Prepaid Recharge,170.08,UPI_GPay,0
+TXN_AARAV_0879,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 03:46:23,Food & Dining,Campus Canteen,176.85,UPI_GPay,0
+TXN_AARAV_0880,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 10:23:23,Groceries,Blinkit Quick Groceries,206.67,UPI_GPay,0
+TXN_AARAV_0881,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 11:08:23,Food & Dining,Irani Chai & Bakery,248.07,UPI_PhonePe,0
+TXN_AARAV_0882,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 11:54:23,Transit,Hyderabad Metro Rail,245.35,UPI_GPay,0
+TXN_AARAV_0883,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 13:40:23,Education,Amazon Book Store,394.47,UPI_PhonePe,0
+TXN_AARAV_0884,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 16:16:23,Entertainment,PVR Cinemas Inorbit,121.78,UPI_GPay,0
+TXN_AARAV_0885,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 17:45:23,Education,College Xerox & Stationary,154.85,UPI_GPay,0
+TXN_AARAV_0886,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 18:04:23,Groceries,Blinkit Quick Groceries,65.81,Debit_Card,0
+TXN_AARAV_0887,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 21:35:23,Utilities,Jio / Airtel Prepaid Recharge,400.31,Campus_Card,0
+TXN_AARAV_0888,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-18 23:29:23,Food & Dining,Irani Chai & Bakery,88.36,Campus_Card,0
+TXN_AARAV_0889,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 00:17:23,Transit,Hyderabad Metro Rail,166.31,UPI_PhonePe,0
+TXN_AARAV_0890,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 01:22:23,Groceries,Blinkit Quick Groceries,270.03,UPI_GPay,0
+TXN_AARAV_0891,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 02:17:23,Groceries,Blinkit Quick Groceries,124.72,UPI_GPay,0
+TXN_AARAV_0892,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 03:55:23,Utilities,Jio / Airtel Prepaid Recharge,169.84,Campus_Card,0
+TXN_AARAV_0893,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 04:37:23,Education,College Xerox & Stationary,45.02,UPI_PhonePe,0
+TXN_AARAV_0894,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 05:52:23,Transit,Hyderabad Metro Rail,167.88,UPI_PhonePe,0
+TXN_AARAV_0895,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 05:56:23,Groceries,Blinkit Quick Groceries,91.88,UPI_PhonePe,0
+TXN_AARAV_0896,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 06:51:23,Food & Dining,Irani Chai & Bakery,111.0,UPI_GPay,0
+TXN_AARAV_0897,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 07:09:23,Groceries,Blinkit Quick Groceries,212.5,UPI_PhonePe,0
+TXN_AARAV_0898,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 09:34:23,Transit,Hyderabad Metro Rail,142.13,UPI_PhonePe,0
+TXN_AARAV_0899,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 11:01:23,Groceries,Blinkit Quick Groceries,177.28,UPI_PhonePe,0
+TXN_AARAV_0900,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 13:57:23,Food & Dining,Campus Canteen,74.99,UPI_PhonePe,0
+TXN_AARAV_0901,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 15:14:23,Groceries,Blinkit Quick Groceries,144.49,Campus_Card,0
+TXN_AARAV_0902,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 16:23:23,Utilities,Jio / Airtel Prepaid Recharge,127.09,UPI_PhonePe,0
+TXN_AARAV_0903,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 18:31:23,Education,Amazon Book Store,89.13,UPI_GPay,0
+TXN_AARAV_0904,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-19 22:32:23,Food & Dining,Campus Canteen,108.0,UPI_GPay,0
+TXN_AARAV_0905,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-20 03:09:23,Education,College Xerox & Stationary,81.47,Campus_Card,0
+TXN_AARAV_0906,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-20 06:35:23,Transit,Hyderabad Metro Rail,109.22,UPI_PhonePe,0
+TXN_AARAV_0907,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-20 06:41:23,Education,College Xerox & Stationary,90.5,Debit_Card,0
+TXN_AARAV_0908,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-20 09:29:23,Education,College Xerox & Stationary,102.42,UPI_GPay,0
+TXN_AARAV_0909,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-20 09:49:23,Groceries,Blinkit Quick Groceries,43.76,Debit_Card,0
+TXN_AARAV_0910,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-20 12:58:23,Groceries,Blinkit Quick Groceries,92.05,Campus_Card,0
+TXN_AARAV_0911,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-20 14:59:23,Education,Amazon Book Store,90.71,UPI_PhonePe,0
+TXN_AARAV_0912,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-20 15:31:23,Education,College Xerox & Stationary,98.38,UPI_PhonePe,0
+TXN_AARAV_0913,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-20 18:01:23,Groceries,Blinkit Quick Groceries,96.77,UPI_PhonePe,0
+TXN_AARAV_0914,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-20 22:39:23,Groceries,Blinkit Quick Groceries,148.3,UPI_GPay,0
+TXN_AARAV_0915,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-21 05:18:23,Education,Amazon Book Store,119.24,UPI_PhonePe,0
+TXN_AARAV_0916,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-21 08:21:23,Entertainment,PVR Cinemas Inorbit,73.04,UPI_PhonePe,0
+TXN_AARAV_0917,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-21 08:41:23,Groceries,Blinkit Quick Groceries,140.03,UPI_GPay,0
+TXN_AARAV_0918,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-21 09:56:23,Groceries,Blinkit Quick Groceries,64.21,UPI_PhonePe,0
+TXN_AARAV_0919,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-21 09:59:23,Food & Dining,Campus Canteen,114.75,UPI_PhonePe,0
+TXN_AARAV_0920,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-21 17:02:23,Education,Amazon Book Store,41.86,UPI_PhonePe,0
+TXN_AARAV_0921,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-22 00:22:23,Utilities,Jio / Airtel Prepaid Recharge,59.65,UPI_PhonePe,0
+TXN_AARAV_0922,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-22 03:12:23,Food & Dining,Irani Chai & Bakery,30.17,UPI_PhonePe,0
+TXN_AARAV_0923,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-22 03:17:23,Education,Amazon Book Store,162.27,UPI_GPay,0
+TXN_AARAV_0924,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-22 06:10:23,Education,Amazon Book Store,151.6,UPI_GPay,0
+TXN_AARAV_0925,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-22 07:58:23,Food & Dining,Irani Chai & Bakery,59.7,Campus_Card,0
+TXN_AARAV_0926,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-22 14:18:23,Food & Dining,Campus Canteen,90.05,UPI_GPay,0
+TXN_AARAV_0927,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-22 16:49:23,Education,Amazon Book Store,256.76,UPI_GPay,0
+TXN_AARAV_0928,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-22 19:45:23,Groceries,Blinkit Quick Groceries,117.07,UPI_PhonePe,0
+TXN_AARAV_0929,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-23 00:44:23,Food & Dining,Campus Canteen,88.62,UPI_GPay,0
+TXN_AARAV_0930,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-23 03:47:23,Groceries,Blinkit Quick Groceries,37.39,Campus_Card,0
+TXN_AARAV_0931,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-23 04:13:23,Food & Dining,Irani Chai & Bakery,380.88,Campus_Card,0
+TXN_AARAV_0932,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-23 04:42:23,Entertainment,PVR Cinemas Inorbit,322.33,UPI_GPay,0
+TXN_AARAV_0933,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-23 07:45:23,Groceries,Blinkit Quick Groceries,34.54,UPI_PhonePe,0
+TXN_AARAV_0934,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-23 11:41:23,Education,Amazon Book Store,204.03,UPI_PhonePe,0
+TXN_AARAV_0935,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-23 13:26:23,Education,College Xerox & Stationary,85.34,UPI_PhonePe,0
+TXN_AARAV_0936,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-23 18:09:23,Entertainment,PVR Cinemas Inorbit,73.53,Campus_Card,0
+TXN_AARAV_0937,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-23 23:18:23,Groceries,Blinkit Quick Groceries,152.66,UPI_GPay,0
+TXN_AARAV_0938,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-24 00:57:23,Entertainment,PVR Cinemas Inorbit,108.36,UPI_GPay,0
+TXN_AARAV_0939,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-24 01:15:23,Transit,Hyderabad Metro Rail,252.34,UPI_PhonePe,0
+TXN_AARAV_0940,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-24 05:36:23,Education,College Xerox & Stationary,89.31,UPI_GPay,0
+TXN_AARAV_0941,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-24 08:56:23,Entertainment,PVR Cinemas Inorbit,154.61,UPI_PhonePe,0
+TXN_AARAV_0942,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-24 09:53:23,Education,Amazon Book Store,160.93,UPI_PhonePe,0
+TXN_AARAV_0943,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-24 11:02:23,Education,Amazon Book Store,155.27,UPI_PhonePe,0
+TXN_AARAV_0944,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-24 11:42:23,Education,College Xerox & Stationary,101.02,UPI_GPay,0
+TXN_AARAV_0945,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-24 14:36:23,Suspicious Web,UNKNOWN_ONLINE_LUXURY_HK,8594.68,UPI_GPay,1
+TXN_AARAV_0946,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-24 18:45:23,Entertainment,PVR Cinemas Inorbit,273.8,Campus_Card,0
+TXN_AARAV_0947,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 00:06:23,Food & Dining,Campus Canteen,183.71,UPI_PhonePe,0
+TXN_AARAV_0948,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 03:59:23,Food & Dining,Irani Chai & Bakery,119.27,UPI_GPay,0
+TXN_AARAV_0949,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 07:15:23,Education,Amazon Book Store,70.4,UPI_GPay,0
+TXN_AARAV_0950,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 07:21:23,Transit,Hyderabad Metro Rail,81.96,UPI_PhonePe,0
+TXN_AARAV_0951,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 10:43:23,Utilities,Jio / Airtel Prepaid Recharge,78.28,UPI_GPay,0
+TXN_AARAV_0952,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 11:58:23,Food & Dining,Irani Chai & Bakery,84.43,UPI_GPay,0
+TXN_AARAV_0953,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 13:48:23,Education,Amazon Book Store,159.91,UPI_GPay,0
+TXN_AARAV_0954,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 14:36:23,Utilities,Jio / Airtel Prepaid Recharge,245.43,Campus_Card,0
+TXN_AARAV_0955,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 15:21:23,Entertainment,PVR Cinemas Inorbit,97.59,UPI_GPay,0
+TXN_AARAV_0956,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 15:52:23,Education,College Xerox & Stationary,132.26,UPI_PhonePe,0
+TXN_AARAV_0957,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 16:22:23,Education,College Xerox & Stationary,33.84,UPI_GPay,0
+TXN_AARAV_0958,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 16:55:23,Education,College Xerox & Stationary,82.23,UPI_PhonePe,0
+TXN_AARAV_0959,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-25 17:14:23,Food & Dining,Campus Canteen,121.65,UPI_PhonePe,0
+TXN_AARAV_0960,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-26 02:29:23,Transit,Hyderabad Metro Rail,102.26,UPI_PhonePe,0
+TXN_AARAV_0961,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-26 02:51:23,Groceries,Blinkit Quick Groceries,144.37,UPI_GPay,0
+TXN_AARAV_0962,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-26 05:11:23,Groceries,Blinkit Quick Groceries,141.11,UPI_GPay,0
+TXN_AARAV_0963,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-26 23:03:23,Education,College Xerox & Stationary,71.09,UPI_PhonePe,0
+TXN_AARAV_0964,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-26 23:24:23,Transit,Hyderabad Metro Rail,92.76,UPI_GPay,0
+TXN_AARAV_0965,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 02:14:23,Education,Amazon Book Store,258.34,Campus_Card,0
+TXN_AARAV_0966,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 03:01:23,Utilities,Jio / Airtel Prepaid Recharge,191.03,UPI_PhonePe,0
+TXN_AARAV_0967,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 03:36:23,Groceries,Blinkit Quick Groceries,62.12,UPI_PhonePe,0
+TXN_AARAV_0968,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 05:15:23,Food & Dining,Campus Canteen,128.87,UPI_GPay,0
+TXN_AARAV_0969,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 06:24:23,Transit,Hyderabad Metro Rail,264.42,UPI_PhonePe,0
+TXN_AARAV_0970,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 10:27:23,Education,College Xerox & Stationary,164.55,UPI_GPay,0
+TXN_AARAV_0971,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 12:12:23,Entertainment,PVR Cinemas Inorbit,136.66,UPI_PhonePe,0
+TXN_AARAV_0972,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 15:08:23,Education,Amazon Book Store,204.69,UPI_GPay,0
+TXN_AARAV_0973,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 22:46:23,Education,College Xerox & Stationary,92.45,UPI_GPay,0
+TXN_AARAV_0974,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 23:15:23,Food & Dining,Irani Chai & Bakery,68.2,UPI_GPay,0
+TXN_AARAV_0975,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-27 23:35:23,Food & Dining,Irani Chai & Bakery,67.45,UPI_GPay,0
+TXN_AARAV_0976,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-28 00:26:23,Entertainment,PVR Cinemas Inorbit,205.54,Campus_Card,0
+TXN_AARAV_0977,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-28 00:31:23,Education,College Xerox & Stationary,294.01,UPI_GPay,0
+TXN_AARAV_0978,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-28 00:32:23,Food & Dining,Campus Canteen,113.85,UPI_GPay,0
+TXN_AARAV_0979,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-28 05:54:23,Groceries,Blinkit Quick Groceries,75.22,UPI_PhonePe,0
+TXN_AARAV_0980,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-28 09:27:23,Education,College Xerox & Stationary,178.45,UPI_GPay,0
+TXN_AARAV_0981,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-28 13:26:23,Education,Amazon Book Store,108.39,UPI_PhonePe,0
+TXN_AARAV_0982,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-28 17:38:23,Entertainment,PVR Cinemas Inorbit,62.98,UPI_GPay,0
+TXN_AARAV_0983,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-29 05:40:23,Education,Amazon Book Store,145.33,UPI_PhonePe,0
+TXN_AARAV_0984,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-29 12:26:23,Food & Dining,Irani Chai & Bakery,108.62,UPI_GPay,0
+TXN_AARAV_0985,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-29 18:15:23,Education,College Xerox & Stationary,45.68,UPI_PhonePe,0
+TXN_AARAV_0986,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-29 19:31:23,Utilities,Jio / Airtel Prepaid Recharge,204.2,UPI_GPay,0
+TXN_AARAV_0987,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-29 21:51:23,Transit,Hyderabad Metro Rail,134.29,Campus_Card,0
+TXN_AARAV_0988,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-29 22:51:23,Food & Dining,Irani Chai & Bakery,68.76,UPI_PhonePe,0
+TXN_AARAV_0989,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-29 23:28:23,Food & Dining,Irani Chai & Bakery,346.69,Campus_Card,0
+TXN_AARAV_0990,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-30 00:20:23,Education,Amazon Book Store,103.33,UPI_PhonePe,0
+TXN_AARAV_0991,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-30 00:42:23,Entertainment,PVR Cinemas Inorbit,173.53,UPI_GPay,0
+TXN_AARAV_0992,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-30 01:25:23,Food & Dining,Campus Canteen,88.47,Campus_Card,0
+TXN_AARAV_0993,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-30 02:32:23,Education,College Xerox & Stationary,64.46,UPI_PhonePe,0
+TXN_AARAV_0994,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-30 10:16:23,Entertainment,PVR Cinemas Inorbit,139.43,Debit_Card,0
+TXN_AARAV_0995,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-30 10:32:23,Food & Dining,Irani Chai & Bakery,339.54,UPI_PhonePe,0
+TXN_AARAV_0996,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-30 11:50:23,Utilities,Jio / Airtel Prepaid Recharge,53.46,UPI_PhonePe,0
+TXN_AARAV_0997,cust_aarav,Aarav Sharma,College Student (TKREC),2026-09-30 18:55:23,Food & Dining,Irani Chai & Bakery,400.36,Campus_Card,0
+TXN_AARAV_0998,cust_aarav,Aarav Sharma,College Student (TKREC),2026-10-01 05:29:23,Education,Amazon Book Store,102.88,UPI_PhonePe,0
+TXN_AARAV_0999,cust_aarav,Aarav Sharma,College Student (TKREC),2026-10-01 06:10:23,Transit,Hyderabad Metro Rail,186.62,Debit_Card,0
+TXN_AARAV_1000,cust_aarav,Aarav Sharma,College Student (TKREC),2026-10-01 14:22:23,Education,Amazon Book Store,142.37,Debit_Card,0

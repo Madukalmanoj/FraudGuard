@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Customer_Name,Customer_Role,Timestamp,Category,Merchant,Amount_INR,Channel,Class
+TXN_PRIYA_0001,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-03 21:09:23,Groceries,D-Mart Supermarket,2417.88,UPI_GPay,0
+TXN_PRIYA_0002,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-03 21:52:23,Transit,Uber India,529.84,UPI_GPay,0
+TXN_PRIYA_0003,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-03 22:58:23,Health,Cult.fit Gym & Fitness,1156.91,UPI_GPay,0
+TXN_PRIYA_0004,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-04 01:50:23,Health,Cult.fit Gym & Fitness,1802.14,UPI_GPay,0
+TXN_PRIYA_0005,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-04 02:14:23,Transit,Uber India,419.71,UPI_GPay,0
+TXN_PRIYA_0006,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-04 10:45:23,Groceries,D-Mart Supermarket,653.61,Credit_Card,0
+TXN_PRIYA_0007,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-04 10:53:23,Food & Dining,Chai Point Cyber Towers,804.78,Credit_Card,0
+TXN_PRIYA_0008,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-04 11:45:23,Food & Dining,Chai Point Cyber Towers,1011.97,UPI_GPay,0
+TXN_PRIYA_0009,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-04 12:28:23,Food & Dining,Starbucks Coffee Gachibowli,1067.38,Credit_Card,0
+TXN_PRIYA_0010,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-04 13:33:23,Shopping,Myntra / Zara Lifestyle,667.49,Credit_Card,0
+TXN_PRIYA_0011,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-04 16:27:23,Transit,Uber India,1776.02,Credit_Card,0
+TXN_PRIYA_0012,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-04 18:40:23,Travel,MakeMyTrip Flights,882.14,UPI_GPay,0
+TXN_PRIYA_0013,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-04 21:34:23,Food & Dining,Chai Point Cyber Towers,256.21,Credit_Card,0
+TXN_PRIYA_0014,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-05 01:30:23,Shopping,Myntra / Zara Lifestyle,463.75,UPI_GPay,0
+TXN_PRIYA_0015,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-05 03:27:23,Groceries,D-Mart Supermarket,992.34,UPI_GPay,0
+TXN_PRIYA_0016,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-05 06:31:23,Food & Dining,Swiggy / Zomato,817.07,Credit_Card,0
+TXN_PRIYA_0017,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-05 08:36:23,Food & Dining,Swiggy / Zomato,2450.12,UPI_GPay,0
+TXN_PRIYA_0018,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-05 09:22:23,Transit,Uber India,1254.97,UPI_GPay,0
+TXN_PRIYA_0019,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-05 15:09:23,Travel,MakeMyTrip Flights,859.35,UPI_GPay,0
+TXN_PRIYA_0020,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-05 18:04:23,Transit,Uber India,388.79,UPI_GPay,0
+TXN_PRIYA_0021,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-05 22:23:23,Travel,MakeMyTrip Flights,1815.75,Credit_Card,0
+TXN_PRIYA_0022,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-05 23:11:23,Travel,MakeMyTrip Flights,1915.57,UPI_GPay,0
+TXN_PRIYA_0023,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-06 00:51:23,Travel,MakeMyTrip Flights,2368.56,Credit_Card,0
+TXN_PRIYA_0024,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-06 02:57:23,Transit,Uber India,2023.83,NetBanking,0
+TXN_PRIYA_0025,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-06 05:31:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,56134.33,NetBanking,1
+TXN_PRIYA_0026,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-06 06:47:23,Groceries,D-Mart Supermarket,158.62,UPI_GPay,0
+TXN_PRIYA_0027,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-06 12:25:23,Travel,MakeMyTrip Flights,442.06,Credit_Card,0
+TXN_PRIYA_0028,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-06 14:30:23,Subscriptions,Netflix / Prime / Spotify,739.57,Credit_Card,0
+TXN_PRIYA_0029,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-06 15:08:23,Food & Dining,Swiggy / Zomato,336.48,Credit_Card,0
+TXN_PRIYA_0030,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-06 20:33:23,Food & Dining,Swiggy / Zomato,680.27,UPI_GPay,0
+TXN_PRIYA_0031,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-06 21:10:23,Food & Dining,Starbucks Coffee Gachibowli,1431.18,Credit_Card,0
+TXN_PRIYA_0032,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-07 02:32:23,Food & Dining,Swiggy / Zomato,422.33,UPI_GPay,0
+TXN_PRIYA_0033,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-07 06:46:23,Transit,Uber India,1626.97,Credit_Card,0
+TXN_PRIYA_0034,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-07 12:27:23,Travel,MakeMyTrip Flights,749.87,Debit_Card,0
+TXN_PRIYA_0035,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-07 12:38:23,Food & Dining,Swiggy / Zomato,1730.18,Credit_Card,0
+TXN_PRIYA_0036,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-07 14:15:23,Shopping,Myntra / Zara Lifestyle,2770.48,NetBanking,0
+TXN_PRIYA_0037,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-07 20:36:23,Groceries,D-Mart Supermarket,467.22,NetBanking,0
+TXN_PRIYA_0038,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-08 02:53:23,Groceries,D-Mart Supermarket,120.98,UPI_GPay,0
+TXN_PRIYA_0039,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-08 06:48:23,Subscriptions,Netflix / Prime / Spotify,566.94,UPI_GPay,0
+TXN_PRIYA_0040,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-08 13:04:23,Subscriptions,Netflix / Prime / Spotify,834.31,Credit_Card,0
+TXN_PRIYA_0041,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-08 13:27:23,Food & Dining,Chai Point Cyber Towers,961.14,UPI_GPay,0
+TXN_PRIYA_0042,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-08 18:16:23,Groceries,D-Mart Supermarket,631.57,Credit_Card,0
+TXN_PRIYA_0043,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-09 06:31:23,Travel,MakeMyTrip Flights,807.26,Credit_Card,0
+TXN_PRIYA_0044,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-09 06:42:23,Food & Dining,Starbucks Coffee Gachibowli,515.08,UPI_GPay,0
+TXN_PRIYA_0045,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-09 09:10:23,Food & Dining,Starbucks Coffee Gachibowli,519.82,UPI_GPay,0
+TXN_PRIYA_0046,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-09 09:39:23,Subscriptions,Netflix / Prime / Spotify,1143.74,UPI_GPay,0
+TXN_PRIYA_0047,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-09 14:12:23,Food & Dining,Swiggy / Zomato,875.63,Credit_Card,0
+TXN_PRIYA_0048,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-09 16:38:23,Transit,Uber India,272.49,Credit_Card,0
+TXN_PRIYA_0049,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-09 22:19:23,Travel,MakeMyTrip Flights,724.67,Credit_Card,0
+TXN_PRIYA_0050,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-09 22:35:23,Health,Cult.fit Gym & Fitness,998.3,Credit_Card,0
+TXN_PRIYA_0051,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-09 23:00:23,Shopping,Myntra / Zara Lifestyle,1356.72,Credit_Card,0
+TXN_PRIYA_0052,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-10 02:04:23,Food & Dining,Chai Point Cyber Towers,1302.45,Credit_Card,0
+TXN_PRIYA_0053,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-10 04:10:23,Food & Dining,Starbucks Coffee Gachibowli,407.49,Credit_Card,0
+TXN_PRIYA_0054,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-10 04:41:23,Groceries,D-Mart Supermarket,414.43,NetBanking,0
+TXN_PRIYA_0055,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-10 06:51:23,Transit,Uber India,1234.04,Credit_Card,0
+TXN_PRIYA_0056,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-10 07:37:23,Food & Dining,Starbucks Coffee Gachibowli,533.81,UPI_GPay,0
+TXN_PRIYA_0057,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-10 11:36:23,Health,Cult.fit Gym & Fitness,1037.63,Credit_Card,0
+TXN_PRIYA_0058,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-10 12:01:23,Food & Dining,Swiggy / Zomato,447.26,NetBanking,0
+TXN_PRIYA_0059,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-10 12:14:23,Travel,MakeMyTrip Flights,1398.36,UPI_GPay,0
+TXN_PRIYA_0060,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-10 13:28:23,Food & Dining,Starbucks Coffee Gachibowli,1455.87,Credit_Card,0
+TXN_PRIYA_0061,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-10 17:14:23,Groceries,D-Mart Supermarket,1050.37,UPI_GPay,0
+TXN_PRIYA_0062,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-11 00:05:23,Transit,Uber India,966.3,Credit_Card,0
+TXN_PRIYA_0063,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-11 02:20:23,Subscriptions,Netflix / Prime / Spotify,3681.86,UPI_GPay,0
+TXN_PRIYA_0064,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-11 03:12:23,Food & Dining,Starbucks Coffee Gachibowli,1967.76,Credit_Card,0
+TXN_PRIYA_0065,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-11 04:55:23,Subscriptions,Netflix / Prime / Spotify,1080.92,Debit_Card,0
+TXN_PRIYA_0066,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-11 07:09:23,Subscriptions,Netflix / Prime / Spotify,673.2,Credit_Card,0
+TXN_PRIYA_0067,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-11 07:13:23,Transit,Uber India,570.82,Credit_Card,0
+TXN_PRIYA_0068,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-11 08:11:23,Food & Dining,Chai Point Cyber Towers,990.95,UPI_GPay,0
+TXN_PRIYA_0069,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-11 21:41:23,Food & Dining,Swiggy / Zomato,431.7,Credit_Card,0
+TXN_PRIYA_0070,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-11 23:58:23,Subscriptions,Netflix / Prime / Spotify,958.23,NetBanking,0
+TXN_PRIYA_0071,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-12 03:03:23,Groceries,D-Mart Supermarket,464.59,UPI_GPay,0
+TXN_PRIYA_0072,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-12 03:46:23,Subscriptions,Netflix / Prime / Spotify,1274.62,UPI_GPay,0
+TXN_PRIYA_0073,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-12 07:20:23,Health,Cult.fit Gym & Fitness,1215.2,Credit_Card,0
+TXN_PRIYA_0074,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-12 13:16:23,Travel,MakeMyTrip Flights,528.16,NetBanking,0
+TXN_PRIYA_0075,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-12 15:04:23,Health,Cult.fit Gym & Fitness,1037.2,UPI_GPay,0
+TXN_PRIYA_0076,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-12 16:03:23,Transit,Uber India,2158.4,Credit_Card,0
+TXN_PRIYA_0077,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-12 22:07:23,Food & Dining,Chai Point Cyber Towers,907.44,Credit_Card,0
+TXN_PRIYA_0078,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-12 22:20:23,Food & Dining,Starbucks Coffee Gachibowli,1049.61,Credit_Card,0
+TXN_PRIYA_0079,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-13 00:41:23,Transit,Uber India,347.9,Debit_Card,0
+TXN_PRIYA_0080,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-13 03:19:23,Food & Dining,Swiggy / Zomato,2432.46,Credit_Card,0
+TXN_PRIYA_0081,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-13 04:26:23,Travel,MakeMyTrip Flights,1714.41,UPI_GPay,0
+TXN_PRIYA_0082,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-13 08:19:23,Transit,Uber India,504.48,Credit_Card,0
+TXN_PRIYA_0083,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-13 17:51:23,Groceries,D-Mart Supermarket,494.67,Credit_Card,0
+TXN_PRIYA_0084,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-13 20:45:23,Transit,Uber India,1181.67,UPI_GPay,0
+TXN_PRIYA_0085,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-14 01:07:23,Food & Dining,Swiggy / Zomato,1185.84,Debit_Card,0
+TXN_PRIYA_0086,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-14 01:56:23,Food & Dining,Swiggy / Zomato,2151.56,UPI_GPay,0
+TXN_PRIYA_0087,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-14 02:03:23,Health,Cult.fit Gym & Fitness,378.97,NetBanking,0
+TXN_PRIYA_0088,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-14 09:08:23,Subscriptions,Netflix / Prime / Spotify,386.16,UPI_GPay,0
+TXN_PRIYA_0089,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-14 11:59:23,Food & Dining,Swiggy / Zomato,460.96,Credit_Card,0
+TXN_PRIYA_0090,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-14 14:40:23,Transit,Uber India,107.37,Credit_Card,0
+TXN_PRIYA_0091,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-14 15:30:23,Groceries,D-Mart Supermarket,1088.6,UPI_GPay,0
+TXN_PRIYA_0092,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-14 18:12:23,Groceries,D-Mart Supermarket,1185.69,Debit_Card,0
+TXN_PRIYA_0093,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 02:23:23,Travel,MakeMyTrip Flights,6055.15,NetBanking,0
+TXN_PRIYA_0094,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 02:37:23,Food & Dining,Swiggy / Zomato,2378.33,Credit_Card,0
+TXN_PRIYA_0095,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 06:28:23,Travel,MakeMyTrip Flights,1394.55,Credit_Card,0
+TXN_PRIYA_0096,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 06:35:23,Groceries,D-Mart Supermarket,253.52,Credit_Card,0
+TXN_PRIYA_0097,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 10:25:23,Food & Dining,Swiggy / Zomato,925.71,NetBanking,0
+TXN_PRIYA_0098,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 12:57:23,Shopping,Myntra / Zara Lifestyle,1291.5,NetBanking,0
+TXN_PRIYA_0099,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 16:48:23,Subscriptions,Netflix / Prime / Spotify,591.51,UPI_GPay,0
+TXN_PRIYA_0100,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 19:09:23,Groceries,D-Mart Supermarket,1566.55,Credit_Card,0
+TXN_PRIYA_0101,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 22:00:23,Subscriptions,Netflix / Prime / Spotify,2000.04,UPI_GPay,0
+TXN_PRIYA_0102,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 22:28:23,Transit,Uber India,506.21,UPI_GPay,0
+TXN_PRIYA_0103,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-15 23:09:23,Shopping,Myntra / Zara Lifestyle,2508.12,Credit_Card,0
+TXN_PRIYA_0104,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-16 00:26:23,Travel,MakeMyTrip Flights,889.87,UPI_GPay,0
+TXN_PRIYA_0105,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-16 02:00:23,Travel,MakeMyTrip Flights,500.34,Credit_Card,0
+TXN_PRIYA_0106,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-16 03:53:23,Travel,MakeMyTrip Flights,521.82,Credit_Card,0
+TXN_PRIYA_0107,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-16 08:49:23,Health,Cult.fit Gym & Fitness,949.7,NetBanking,0
+TXN_PRIYA_0108,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-16 09:38:23,Transit,Uber India,1174.82,UPI_GPay,0
+TXN_PRIYA_0109,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-16 11:59:23,Travel,MakeMyTrip Flights,117.51,Credit_Card,0
+TXN_PRIYA_0110,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-16 14:40:23,Shopping,Myntra / Zara Lifestyle,737.54,UPI_GPay,0
+TXN_PRIYA_0111,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-16 18:31:23,Food & Dining,Starbucks Coffee Gachibowli,1028.01,Credit_Card,0
+TXN_PRIYA_0112,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-16 23:17:23,Subscriptions,Netflix / Prime / Spotify,2815.41,UPI_GPay,0
+TXN_PRIYA_0113,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 00:16:23,Transit,Uber India,862.6,UPI_GPay,0
+TXN_PRIYA_0114,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 01:33:23,Health,Cult.fit Gym & Fitness,1181.52,UPI_GPay,0
+TXN_PRIYA_0115,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 04:10:23,Groceries,D-Mart Supermarket,1130.94,UPI_GPay,0
+TXN_PRIYA_0116,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 05:29:23,Travel,MakeMyTrip Flights,1498.74,Credit_Card,0
+TXN_PRIYA_0117,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 08:11:23,Transit,Uber India,679.14,Credit_Card,0
+TXN_PRIYA_0118,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 10:06:23,Transit,Uber India,1259.67,UPI_GPay,0
+TXN_PRIYA_0119,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 11:25:23,Groceries,D-Mart Supermarket,1427.02,Credit_Card,0
+TXN_PRIYA_0120,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 11:59:23,Travel,MakeMyTrip Flights,500.58,UPI_GPay,0
+TXN_PRIYA_0121,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 12:45:23,Shopping,Myntra / Zara Lifestyle,617.68,Credit_Card,0
+TXN_PRIYA_0122,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 19:39:23,Health,Cult.fit Gym & Fitness,1327.28,Credit_Card,0
+TXN_PRIYA_0123,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 19:42:23,Health,Cult.fit Gym & Fitness,613.44,Credit_Card,0
+TXN_PRIYA_0124,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 20:55:23,Travel,MakeMyTrip Flights,385.53,Debit_Card,0
+TXN_PRIYA_0125,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 21:57:23,Transit,Uber India,682.68,Credit_Card,0
+TXN_PRIYA_0126,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 22:12:23,Groceries,D-Mart Supermarket,1102.83,UPI_GPay,0
+TXN_PRIYA_0127,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-17 23:25:23,Food & Dining,Starbucks Coffee Gachibowli,272.73,Credit_Card,0
+TXN_PRIYA_0128,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-18 02:56:23,Food & Dining,Starbucks Coffee Gachibowli,1719.71,Credit_Card,0
+TXN_PRIYA_0129,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-18 04:51:23,Shopping,Myntra / Zara Lifestyle,373.93,UPI_GPay,0
+TXN_PRIYA_0130,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-18 12:36:23,Shopping,Myntra / Zara Lifestyle,654.31,UPI_GPay,0
+TXN_PRIYA_0131,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-18 13:31:23,Groceries,D-Mart Supermarket,1030.17,UPI_GPay,0
+TXN_PRIYA_0132,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-18 14:04:23,Transit,Uber India,1958.88,NetBanking,0
+TXN_PRIYA_0133,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-18 14:04:23,Shopping,Myntra / Zara Lifestyle,1572.71,Credit_Card,0
+TXN_PRIYA_0134,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-18 14:10:23,Travel,MakeMyTrip Flights,2063.27,Credit_Card,0
+TXN_PRIYA_0135,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-18 14:48:23,Food & Dining,Chai Point Cyber Towers,1103.32,NetBanking,0
+TXN_PRIYA_0136,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-19 02:57:23,Food & Dining,Starbucks Coffee Gachibowli,293.25,Credit_Card,0
+TXN_PRIYA_0137,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-19 03:20:23,Subscriptions,Netflix / Prime / Spotify,700.94,UPI_GPay,0
+TXN_PRIYA_0138,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-19 08:37:23,Health,Cult.fit Gym & Fitness,442.55,UPI_GPay,0
+TXN_PRIYA_0139,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-19 09:39:23,Shopping,Myntra / Zara Lifestyle,1026.71,Credit_Card,0
+TXN_PRIYA_0140,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-19 10:47:23,Groceries,D-Mart Supermarket,209.18,UPI_GPay,0
+TXN_PRIYA_0141,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-19 15:09:23,Groceries,D-Mart Supermarket,1245.91,Credit_Card,0
+TXN_PRIYA_0142,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-19 15:12:23,Travel,MakeMyTrip Flights,938.2,Credit_Card,0
+TXN_PRIYA_0143,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-19 15:45:23,Food & Dining,Chai Point Cyber Towers,1062.67,Credit_Card,0
+TXN_PRIYA_0144,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-19 23:55:23,Transit,Uber India,528.84,NetBanking,0
+TXN_PRIYA_0145,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 01:17:23,Food & Dining,Starbucks Coffee Gachibowli,1079.88,Credit_Card,0
+TXN_PRIYA_0146,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 01:48:23,Travel,MakeMyTrip Flights,540.15,UPI_GPay,0
+TXN_PRIYA_0147,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 01:53:23,Subscriptions,Netflix / Prime / Spotify,733.66,NetBanking,0
+TXN_PRIYA_0148,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 02:23:23,Food & Dining,Swiggy / Zomato,922.73,UPI_GPay,0
+TXN_PRIYA_0149,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 05:41:23,Subscriptions,Netflix / Prime / Spotify,3851.77,UPI_GPay,0
+TXN_PRIYA_0150,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 07:24:23,Transit,Uber India,154.33,UPI_GPay,0
+TXN_PRIYA_0151,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 07:30:23,Transit,Uber India,757.66,Credit_Card,0
+TXN_PRIYA_0152,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 08:25:23,Transit,Uber India,1838.32,UPI_GPay,0
+TXN_PRIYA_0153,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 09:29:23,Food & Dining,Swiggy / Zomato,1486.69,UPI_GPay,0
+TXN_PRIYA_0154,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 11:57:23,Travel,MakeMyTrip Flights,2470.29,Debit_Card,0
+TXN_PRIYA_0155,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 12:05:23,Health,Cult.fit Gym & Fitness,595.35,NetBanking,0
+TXN_PRIYA_0156,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-20 20:35:23,Travel,MakeMyTrip Flights,1002.62,NetBanking,0
+TXN_PRIYA_0157,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-22 05:10:23,Transit,Uber India,1052.66,NetBanking,0
+TXN_PRIYA_0158,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-22 15:30:23,Food & Dining,Starbucks Coffee Gachibowli,511.78,UPI_GPay,0
+TXN_PRIYA_0159,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-22 21:41:23,Health,Cult.fit Gym & Fitness,910.2,UPI_GPay,0
+TXN_PRIYA_0160,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-22 21:48:23,Groceries,D-Mart Supermarket,1231.92,NetBanking,0
+TXN_PRIYA_0161,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-23 03:21:23,Shopping,Myntra / Zara Lifestyle,1158.98,Credit_Card,0
+TXN_PRIYA_0162,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-23 06:13:23,Travel,MakeMyTrip Flights,743.82,Debit_Card,0
+TXN_PRIYA_0163,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-23 09:13:23,Travel,MakeMyTrip Flights,471.43,Credit_Card,0
+TXN_PRIYA_0164,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-23 10:11:23,Travel,MakeMyTrip Flights,1326.43,UPI_GPay,0
+TXN_PRIYA_0165,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-23 11:35:23,Food & Dining,Swiggy / Zomato,2123.82,UPI_GPay,0
+TXN_PRIYA_0166,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-24 00:05:23,Health,Cult.fit Gym & Fitness,1237.28,Debit_Card,0
+TXN_PRIYA_0167,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-24 02:30:23,Food & Dining,Swiggy / Zomato,456.05,Credit_Card,0
+TXN_PRIYA_0168,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-24 06:11:23,Subscriptions,Netflix / Prime / Spotify,401.76,UPI_GPay,0
+TXN_PRIYA_0169,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-24 06:17:23,Groceries,D-Mart Supermarket,1181.98,UPI_GPay,0
+TXN_PRIYA_0170,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-24 07:06:23,Food & Dining,Swiggy / Zomato,669.79,Credit_Card,0
+TXN_PRIYA_0171,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-24 09:29:23,Food & Dining,Chai Point Cyber Towers,324.81,UPI_GPay,0
+TXN_PRIYA_0172,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-24 12:45:23,Groceries,D-Mart Supermarket,238.09,UPI_GPay,0
+TXN_PRIYA_0173,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-24 14:00:23,Food & Dining,Chai Point Cyber Towers,773.97,UPI_GPay,0
+TXN_PRIYA_0174,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-24 17:07:23,Shopping,Myntra / Zara Lifestyle,1410.37,Credit_Card,0
+TXN_PRIYA_0175,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-24 18:08:23,Travel,MakeMyTrip Flights,544.31,UPI_GPay,0
+TXN_PRIYA_0176,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-25 01:01:23,Travel,MakeMyTrip Flights,883.42,UPI_GPay,0
+TXN_PRIYA_0177,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-25 04:25:23,Groceries,D-Mart Supermarket,1214.77,Credit_Card,0
+TXN_PRIYA_0178,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-25 11:31:23,Shopping,Myntra / Zara Lifestyle,1621.93,Credit_Card,0
+TXN_PRIYA_0179,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-25 13:49:23,Shopping,Myntra / Zara Lifestyle,593.5,Debit_Card,0
+TXN_PRIYA_0180,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-25 15:26:23,Travel,MakeMyTrip Flights,898.68,UPI_GPay,0
+TXN_PRIYA_0181,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-25 16:28:23,Food & Dining,Starbucks Coffee Gachibowli,672.63,UPI_GPay,0
+TXN_PRIYA_0182,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-25 19:45:23,Travel,MakeMyTrip Flights,1007.58,Credit_Card,0
+TXN_PRIYA_0183,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-25 21:09:23,Food & Dining,Starbucks Coffee Gachibowli,840.89,Credit_Card,0
+TXN_PRIYA_0184,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-25 22:45:23,Travel,MakeMyTrip Flights,1433.58,Credit_Card,0
+TXN_PRIYA_0185,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 01:32:23,Transit,Uber India,4541.74,Credit_Card,0
+TXN_PRIYA_0186,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 03:11:23,Travel,MakeMyTrip Flights,1617.88,UPI_GPay,0
+TXN_PRIYA_0187,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 06:54:23,Food & Dining,Chai Point Cyber Towers,1399.33,UPI_GPay,0
+TXN_PRIYA_0188,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 08:46:23,Food & Dining,Chai Point Cyber Towers,1982.39,UPI_GPay,0
+TXN_PRIYA_0189,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 11:02:23,Shopping,Myntra / Zara Lifestyle,1655.24,Credit_Card,0
+TXN_PRIYA_0190,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 11:21:23,Food & Dining,Chai Point Cyber Towers,1446.5,UPI_GPay,0
+TXN_PRIYA_0191,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 15:23:23,Groceries,D-Mart Supermarket,1232.72,Credit_Card,0
+TXN_PRIYA_0192,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 16:00:23,Food & Dining,Starbucks Coffee Gachibowli,1429.8,Credit_Card,0
+TXN_PRIYA_0193,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 18:39:23,Food & Dining,Swiggy / Zomato,550.38,NetBanking,0
+TXN_PRIYA_0194,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 19:29:23,Food & Dining,Swiggy / Zomato,1088.93,UPI_GPay,0
+TXN_PRIYA_0195,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-26 22:41:23,Food & Dining,Starbucks Coffee Gachibowli,232.26,UPI_GPay,0
+TXN_PRIYA_0196,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-27 05:35:23,Food & Dining,Swiggy / Zomato,977.09,Credit_Card,0
+TXN_PRIYA_0197,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-27 13:17:23,Food & Dining,Swiggy / Zomato,1291.2,NetBanking,0
+TXN_PRIYA_0198,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-27 18:49:23,Travel,MakeMyTrip Flights,2538.24,UPI_GPay,0
+TXN_PRIYA_0199,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-27 19:14:23,Food & Dining,Chai Point Cyber Towers,1086.4,UPI_GPay,0
+TXN_PRIYA_0200,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-27 19:23:23,Food & Dining,Starbucks Coffee Gachibowli,247.16,Credit_Card,0
+TXN_PRIYA_0201,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-27 21:22:23,Food & Dining,Chai Point Cyber Towers,784.72,Debit_Card,0
+TXN_PRIYA_0202,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-27 23:24:23,Shopping,Myntra / Zara Lifestyle,388.1,NetBanking,0
+TXN_PRIYA_0203,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-28 01:13:23,Shopping,Myntra / Zara Lifestyle,610.94,NetBanking,0
+TXN_PRIYA_0204,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-28 07:22:23,Food & Dining,Chai Point Cyber Towers,955.16,Credit_Card,0
+TXN_PRIYA_0205,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-28 08:28:23,Shopping,Myntra / Zara Lifestyle,1520.31,Credit_Card,0
+TXN_PRIYA_0206,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-28 11:19:23,Travel,MakeMyTrip Flights,334.03,Credit_Card,0
+TXN_PRIYA_0207,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-28 11:30:23,Health,Cult.fit Gym & Fitness,1133.76,Credit_Card,0
+TXN_PRIYA_0208,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-28 14:31:23,Food & Dining,Chai Point Cyber Towers,613.98,NetBanking,0
+TXN_PRIYA_0209,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-28 17:12:23,Shopping,Myntra / Zara Lifestyle,1297.28,Credit_Card,0
+TXN_PRIYA_0210,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-28 19:41:23,Health,Cult.fit Gym & Fitness,1607.26,Credit_Card,0
+TXN_PRIYA_0211,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-28 19:44:23,Shopping,Myntra / Zara Lifestyle,1937.99,Credit_Card,0
+TXN_PRIYA_0212,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-29 02:33:23,Shopping,Myntra / Zara Lifestyle,5050.65,Credit_Card,0
+TXN_PRIYA_0213,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-29 03:39:23,Travel,MakeMyTrip Flights,991.63,Credit_Card,0
+TXN_PRIYA_0214,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-29 05:01:23,Food & Dining,Chai Point Cyber Towers,688.84,UPI_GPay,0
+TXN_PRIYA_0215,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-29 10:49:23,Food & Dining,Swiggy / Zomato,1663.03,UPI_GPay,0
+TXN_PRIYA_0216,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-29 14:55:23,Food & Dining,Swiggy / Zomato,467.9,Credit_Card,0
+TXN_PRIYA_0217,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-29 18:14:23,Food & Dining,Swiggy / Zomato,3741.44,Credit_Card,0
+TXN_PRIYA_0218,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-29 18:17:23,Food & Dining,Starbucks Coffee Gachibowli,909.68,Credit_Card,0
+TXN_PRIYA_0219,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-29 19:53:23,Food & Dining,Chai Point Cyber Towers,2653.46,Credit_Card,0
+TXN_PRIYA_0220,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-29 22:15:23,Transit,Uber India,838.04,UPI_GPay,0
+TXN_PRIYA_0221,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 00:23:23,Subscriptions,Netflix / Prime / Spotify,1651.43,UPI_GPay,0
+TXN_PRIYA_0222,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 01:02:23,Groceries,D-Mart Supermarket,4678.38,UPI_GPay,0
+TXN_PRIYA_0223,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 01:42:23,Transit,Uber India,964.95,UPI_GPay,0
+TXN_PRIYA_0224,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 01:43:23,Food & Dining,Starbucks Coffee Gachibowli,371.31,Credit_Card,0
+TXN_PRIYA_0225,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 02:14:23,Food & Dining,Starbucks Coffee Gachibowli,818.16,Debit_Card,0
+TXN_PRIYA_0226,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 02:50:23,Food & Dining,Swiggy / Zomato,898.64,NetBanking,0
+TXN_PRIYA_0227,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 07:21:23,Food & Dining,Starbucks Coffee Gachibowli,1942.15,NetBanking,0
+TXN_PRIYA_0228,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 09:27:23,Food & Dining,Swiggy / Zomato,900.89,Credit_Card,0
+TXN_PRIYA_0229,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 09:40:23,Travel,MakeMyTrip Flights,1134.21,NetBanking,0
+TXN_PRIYA_0230,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 11:11:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,39238.31,NetBanking,1
+TXN_PRIYA_0231,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 12:05:23,Health,Cult.fit Gym & Fitness,1022.27,NetBanking,0
+TXN_PRIYA_0232,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 17:36:23,Subscriptions,Netflix / Prime / Spotify,530.72,Credit_Card,0
+TXN_PRIYA_0233,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-06-30 18:51:23,Food & Dining,Swiggy / Zomato,397.96,UPI_GPay,0
+TXN_PRIYA_0234,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-01 03:50:23,Transit,Uber India,1020.89,Debit_Card,0
+TXN_PRIYA_0235,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-01 06:30:23,Food & Dining,Chai Point Cyber Towers,2704.87,UPI_GPay,0
+TXN_PRIYA_0236,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-01 06:41:23,Transit,Uber India,611.16,UPI_GPay,0
+TXN_PRIYA_0237,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-01 09:29:23,Food & Dining,Starbucks Coffee Gachibowli,625.58,NetBanking,0
+TXN_PRIYA_0238,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-01 10:11:23,Subscriptions,Netflix / Prime / Spotify,736.99,Credit_Card,0
+TXN_PRIYA_0239,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-01 12:30:23,Travel,MakeMyTrip Flights,2081.02,UPI_GPay,0
+TXN_PRIYA_0240,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-01 21:40:23,Food & Dining,Starbucks Coffee Gachibowli,991.61,UPI_GPay,0
+TXN_PRIYA_0241,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-01 22:51:23,Health,Cult.fit Gym & Fitness,2154.3,NetBanking,0
+TXN_PRIYA_0242,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-02 00:55:23,Food & Dining,Chai Point Cyber Towers,965.39,Credit_Card,0
+TXN_PRIYA_0243,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-02 01:18:23,Food & Dining,Swiggy / Zomato,290.51,UPI_GPay,0
+TXN_PRIYA_0244,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-02 07:32:23,Food & Dining,Swiggy / Zomato,872.27,UPI_GPay,0
+TXN_PRIYA_0245,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-02 08:27:23,Subscriptions,Netflix / Prime / Spotify,449.83,UPI_GPay,0
+TXN_PRIYA_0246,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-02 09:21:23,Food & Dining,Starbucks Coffee Gachibowli,535.39,UPI_GPay,0
+TXN_PRIYA_0247,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-02 11:00:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,49160.95,NetBanking,1
+TXN_PRIYA_0248,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-02 15:40:23,Food & Dining,Swiggy / Zomato,2651.59,NetBanking,0
+TXN_PRIYA_0249,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-02 16:53:23,Subscriptions,Netflix / Prime / Spotify,1232.66,Credit_Card,0
+TXN_PRIYA_0250,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-02 17:42:23,Shopping,Myntra / Zara Lifestyle,406.87,Credit_Card,0
+TXN_PRIYA_0251,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-02 22:19:23,Food & Dining,Chai Point Cyber Towers,234.55,Credit_Card,0
+TXN_PRIYA_0252,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-03 02:22:23,Food & Dining,Starbucks Coffee Gachibowli,2129.57,Credit_Card,0
+TXN_PRIYA_0253,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-03 11:46:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,38925.49,UPI_GPay,1
+TXN_PRIYA_0254,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-03 17:41:23,Travel,MakeMyTrip Flights,1156.39,NetBanking,0
+TXN_PRIYA_0255,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-03 17:44:23,Travel,MakeMyTrip Flights,726.02,NetBanking,0
+TXN_PRIYA_0256,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-03 20:23:23,Transit,Uber India,766.43,Credit_Card,0
+TXN_PRIYA_0257,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-03 22:28:23,Food & Dining,Swiggy / Zomato,1152.47,Credit_Card,0
+TXN_PRIYA_0258,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 00:54:23,Travel,MakeMyTrip Flights,845.88,UPI_GPay,0
+TXN_PRIYA_0259,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 02:39:23,Groceries,D-Mart Supermarket,2716.71,UPI_GPay,0
+TXN_PRIYA_0260,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 03:26:23,Food & Dining,Swiggy / Zomato,548.67,Credit_Card,0
+TXN_PRIYA_0261,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 04:51:23,Subscriptions,Netflix / Prime / Spotify,1896.89,NetBanking,0
+TXN_PRIYA_0262,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 05:51:23,Food & Dining,Chai Point Cyber Towers,2234.76,NetBanking,0
+TXN_PRIYA_0263,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 06:36:23,Shopping,Myntra / Zara Lifestyle,696.33,Credit_Card,0
+TXN_PRIYA_0264,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 09:39:23,Food & Dining,Chai Point Cyber Towers,636.96,NetBanking,0
+TXN_PRIYA_0265,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 12:43:23,Shopping,Myntra / Zara Lifestyle,1495.56,Credit_Card,0
+TXN_PRIYA_0266,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 16:16:23,Food & Dining,Chai Point Cyber Towers,4215.91,UPI_GPay,0
+TXN_PRIYA_0267,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 16:59:23,Travel,MakeMyTrip Flights,1300.33,UPI_GPay,0
+TXN_PRIYA_0268,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 21:08:23,Shopping,Myntra / Zara Lifestyle,847.76,Credit_Card,0
+TXN_PRIYA_0269,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 22:01:23,Food & Dining,Swiggy / Zomato,517.93,NetBanking,0
+TXN_PRIYA_0270,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-04 22:37:23,Transit,Uber India,1353.73,UPI_GPay,0
+TXN_PRIYA_0271,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-05 01:01:23,Health,Cult.fit Gym & Fitness,712.45,UPI_GPay,0
+TXN_PRIYA_0272,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-05 03:08:23,Travel,MakeMyTrip Flights,1230.88,Credit_Card,0
+TXN_PRIYA_0273,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-05 03:49:23,Food & Dining,Starbucks Coffee Gachibowli,4220.71,Credit_Card,0
+TXN_PRIYA_0274,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-05 10:37:23,Groceries,D-Mart Supermarket,3248.24,Credit_Card,0
+TXN_PRIYA_0275,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-05 10:42:23,Shopping,Myntra / Zara Lifestyle,533.69,UPI_GPay,0
+TXN_PRIYA_0276,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-05 10:59:23,Health,Cult.fit Gym & Fitness,652.05,UPI_GPay,0
+TXN_PRIYA_0277,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-05 11:59:23,Shopping,Myntra / Zara Lifestyle,333.24,Credit_Card,0
+TXN_PRIYA_0278,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-05 15:29:23,Travel,MakeMyTrip Flights,749.46,UPI_GPay,0
+TXN_PRIYA_0279,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-05 16:33:23,Health,Cult.fit Gym & Fitness,1756.42,UPI_GPay,0
+TXN_PRIYA_0280,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-05 18:25:23,Subscriptions,Netflix / Prime / Spotify,559.82,UPI_GPay,0
+TXN_PRIYA_0281,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-06 04:04:23,Transit,Uber India,448.68,UPI_GPay,0
+TXN_PRIYA_0282,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-06 04:54:23,Food & Dining,Starbucks Coffee Gachibowli,727.68,NetBanking,0
+TXN_PRIYA_0283,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-06 05:14:23,Health,Cult.fit Gym & Fitness,2331.61,UPI_GPay,0
+TXN_PRIYA_0284,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-06 05:34:23,Food & Dining,Swiggy / Zomato,625.85,UPI_GPay,0
+TXN_PRIYA_0285,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-06 12:16:23,Health,Cult.fit Gym & Fitness,1371.58,Credit_Card,0
+TXN_PRIYA_0286,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-06 12:38:23,Travel,MakeMyTrip Flights,1277.57,Credit_Card,0
+TXN_PRIYA_0287,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-06 15:15:23,Transit,Uber India,1954.07,Credit_Card,0
+TXN_PRIYA_0288,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-06 15:40:23,Groceries,D-Mart Supermarket,428.46,UPI_GPay,0
+TXN_PRIYA_0289,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-07 00:35:23,Subscriptions,Netflix / Prime / Spotify,1618.48,Credit_Card,0
+TXN_PRIYA_0290,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-07 04:32:23,Groceries,D-Mart Supermarket,323.1,Credit_Card,0
+TXN_PRIYA_0291,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-07 09:28:23,Groceries,D-Mart Supermarket,573.11,UPI_GPay,0
+TXN_PRIYA_0292,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-07 12:14:23,Food & Dining,Swiggy / Zomato,334.34,Credit_Card,0
+TXN_PRIYA_0293,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-07 12:24:23,Food & Dining,Starbucks Coffee Gachibowli,2748.15,Credit_Card,0
+TXN_PRIYA_0294,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-07 15:58:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,46360.38,Credit_Card,1
+TXN_PRIYA_0295,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-07 16:31:23,Health,Cult.fit Gym & Fitness,1284.99,UPI_GPay,0
+TXN_PRIYA_0296,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-07 17:16:23,Health,Cult.fit Gym & Fitness,1345.09,Credit_Card,0
+TXN_PRIYA_0297,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-07 18:49:23,Shopping,Myntra / Zara Lifestyle,975.83,UPI_GPay,0
+TXN_PRIYA_0298,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-08 00:13:23,Food & Dining,Starbucks Coffee Gachibowli,223.37,UPI_GPay,0
+TXN_PRIYA_0299,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-08 04:16:23,Food & Dining,Starbucks Coffee Gachibowli,906.58,UPI_GPay,0
+TXN_PRIYA_0300,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-08 08:12:23,Food & Dining,Swiggy / Zomato,546.67,UPI_GPay,0
+TXN_PRIYA_0301,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-08 10:30:23,Food & Dining,Swiggy / Zomato,1231.49,NetBanking,0
+TXN_PRIYA_0302,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-08 11:07:23,Shopping,Myntra / Zara Lifestyle,1396.57,Credit_Card,0
+TXN_PRIYA_0303,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-08 15:15:23,Transit,Uber India,874.69,Credit_Card,0
+TXN_PRIYA_0304,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 00:37:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,55831.8,Credit_Card,1
+TXN_PRIYA_0305,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 01:59:23,Subscriptions,Netflix / Prime / Spotify,2591.6,Credit_Card,0
+TXN_PRIYA_0306,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 04:56:23,Food & Dining,Swiggy / Zomato,2119.51,Credit_Card,0
+TXN_PRIYA_0307,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 05:12:23,Food & Dining,Chai Point Cyber Towers,1149.65,Credit_Card,0
+TXN_PRIYA_0308,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 09:17:23,Food & Dining,Chai Point Cyber Towers,1384.25,UPI_GPay,0
+TXN_PRIYA_0309,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 09:26:23,Travel,MakeMyTrip Flights,292.12,UPI_GPay,0
+TXN_PRIYA_0310,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 12:58:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,57479.17,Credit_Card,1
+TXN_PRIYA_0311,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 13:54:23,Groceries,D-Mart Supermarket,490.85,UPI_GPay,0
+TXN_PRIYA_0312,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 14:13:23,Subscriptions,Netflix / Prime / Spotify,501.01,Credit_Card,0
+TXN_PRIYA_0313,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 15:00:23,Subscriptions,Netflix / Prime / Spotify,778.19,Credit_Card,0
+TXN_PRIYA_0314,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 19:23:23,Shopping,Myntra / Zara Lifestyle,1702.0,UPI_GPay,0
+TXN_PRIYA_0315,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 20:22:23,Subscriptions,Netflix / Prime / Spotify,734.79,Credit_Card,0
+TXN_PRIYA_0316,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-09 20:23:23,Transit,Uber India,1298.07,Credit_Card,0
+TXN_PRIYA_0317,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-10 00:38:23,Subscriptions,Netflix / Prime / Spotify,850.4,Credit_Card,0
+TXN_PRIYA_0318,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-10 03:03:23,Health,Cult.fit Gym & Fitness,466.18,NetBanking,0
+TXN_PRIYA_0319,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-10 07:55:23,Transit,Uber India,2578.02,UPI_GPay,0
+TXN_PRIYA_0320,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-10 09:14:23,Food & Dining,Swiggy / Zomato,704.21,Credit_Card,0
+TXN_PRIYA_0321,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-10 11:08:23,Food & Dining,Swiggy / Zomato,680.13,NetBanking,0
+TXN_PRIYA_0322,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-10 18:17:23,Subscriptions,Netflix / Prime / Spotify,1856.48,UPI_GPay,0
+TXN_PRIYA_0323,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-10 19:01:23,Food & Dining,Swiggy / Zomato,639.1,UPI_GPay,0
+TXN_PRIYA_0324,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-10 20:52:23,Groceries,D-Mart Supermarket,808.48,NetBanking,0
+TXN_PRIYA_0325,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-10 22:02:23,Food & Dining,Chai Point Cyber Towers,1487.32,Credit_Card,0
+TXN_PRIYA_0326,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-10 23:57:23,Subscriptions,Netflix / Prime / Spotify,1432.16,Credit_Card,0
+TXN_PRIYA_0327,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-11 02:17:23,Food & Dining,Chai Point Cyber Towers,1107.28,UPI_GPay,0
+TXN_PRIYA_0328,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-11 07:37:23,Food & Dining,Swiggy / Zomato,740.0,UPI_GPay,0
+TXN_PRIYA_0329,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-11 09:18:23,Transit,Uber India,888.98,UPI_GPay,0
+TXN_PRIYA_0330,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-11 12:27:23,Shopping,Myntra / Zara Lifestyle,3631.45,UPI_GPay,0
+TXN_PRIYA_0331,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-11 12:31:23,Food & Dining,Swiggy / Zomato,687.42,NetBanking,0
+TXN_PRIYA_0332,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-11 13:15:23,Transit,Uber India,1446.89,NetBanking,0
+TXN_PRIYA_0333,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-11 13:52:23,Subscriptions,Netflix / Prime / Spotify,1789.35,NetBanking,0
+TXN_PRIYA_0334,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-11 17:15:23,Shopping,Myntra / Zara Lifestyle,1008.52,NetBanking,0
+TXN_PRIYA_0335,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-11 18:44:23,Shopping,Myntra / Zara Lifestyle,390.92,NetBanking,0
+TXN_PRIYA_0336,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-12 07:28:23,Food & Dining,Starbucks Coffee Gachibowli,216.03,Credit_Card,0
+TXN_PRIYA_0337,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-12 09:23:23,Food & Dining,Chai Point Cyber Towers,2131.27,Credit_Card,0
+TXN_PRIYA_0338,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-12 13:15:23,Food & Dining,Starbucks Coffee Gachibowli,353.0,UPI_GPay,0
+TXN_PRIYA_0339,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-12 14:03:23,Food & Dining,Starbucks Coffee Gachibowli,1036.48,NetBanking,0
+TXN_PRIYA_0340,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-12 17:33:23,Food & Dining,Chai Point Cyber Towers,561.87,UPI_GPay,0
+TXN_PRIYA_0341,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-12 18:52:23,Groceries,D-Mart Supermarket,1442.39,UPI_GPay,0
+TXN_PRIYA_0342,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-13 00:56:23,Subscriptions,Netflix / Prime / Spotify,1057.61,Credit_Card,0
+TXN_PRIYA_0343,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-13 01:28:23,Transit,Uber India,425.6,Credit_Card,0
+TXN_PRIYA_0344,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-13 03:22:23,Shopping,Myntra / Zara Lifestyle,505.45,UPI_GPay,0
+TXN_PRIYA_0345,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-13 16:07:23,Food & Dining,Chai Point Cyber Towers,1834.87,Credit_Card,0
+TXN_PRIYA_0346,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-13 16:49:23,Health,Cult.fit Gym & Fitness,578.69,Credit_Card,0
+TXN_PRIYA_0347,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-13 21:56:23,Groceries,D-Mart Supermarket,665.66,Credit_Card,0
+TXN_PRIYA_0348,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-13 22:24:23,Food & Dining,Chai Point Cyber Towers,434.69,Credit_Card,0
+TXN_PRIYA_0349,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 02:30:23,Transit,Uber India,876.28,UPI_GPay,0
+TXN_PRIYA_0350,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 04:34:23,Travel,MakeMyTrip Flights,1570.46,Credit_Card,0
+TXN_PRIYA_0351,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 05:17:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,51002.98,UPI_GPay,1
+TXN_PRIYA_0352,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 06:57:23,Travel,MakeMyTrip Flights,613.86,Credit_Card,0
+TXN_PRIYA_0353,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 07:20:23,Groceries,D-Mart Supermarket,644.16,NetBanking,0
+TXN_PRIYA_0354,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 08:08:23,Groceries,D-Mart Supermarket,390.16,Credit_Card,0
+TXN_PRIYA_0355,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 08:25:23,Subscriptions,Netflix / Prime / Spotify,547.91,UPI_GPay,0
+TXN_PRIYA_0356,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 15:25:23,Health,Cult.fit Gym & Fitness,417.9,UPI_GPay,0
+TXN_PRIYA_0357,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 15:45:23,Travel,MakeMyTrip Flights,2882.05,Credit_Card,0
+TXN_PRIYA_0358,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 18:33:23,Subscriptions,Netflix / Prime / Spotify,1223.24,NetBanking,0
+TXN_PRIYA_0359,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 19:10:23,Health,Cult.fit Gym & Fitness,1186.16,UPI_GPay,0
+TXN_PRIYA_0360,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-14 19:53:23,Food & Dining,Chai Point Cyber Towers,438.54,Credit_Card,0
+TXN_PRIYA_0361,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-15 03:15:23,Shopping,Myntra / Zara Lifestyle,2930.52,Credit_Card,0
+TXN_PRIYA_0362,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-15 04:13:23,Travel,MakeMyTrip Flights,417.92,NetBanking,0
+TXN_PRIYA_0363,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-15 07:05:23,Subscriptions,Netflix / Prime / Spotify,1021.87,UPI_GPay,0
+TXN_PRIYA_0364,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-15 08:47:23,Food & Dining,Chai Point Cyber Towers,567.25,Credit_Card,0
+TXN_PRIYA_0365,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-15 13:48:23,Health,Cult.fit Gym & Fitness,2079.73,Credit_Card,0
+TXN_PRIYA_0366,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-15 15:45:23,Transit,Uber India,1563.2,NetBanking,0
+TXN_PRIYA_0367,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-15 17:25:23,Travel,MakeMyTrip Flights,773.36,UPI_GPay,0
+TXN_PRIYA_0368,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-15 20:36:23,Subscriptions,Netflix / Prime / Spotify,1997.44,UPI_GPay,0
+TXN_PRIYA_0369,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-15 20:44:23,Food & Dining,Swiggy / Zomato,936.82,Credit_Card,0
+TXN_PRIYA_0370,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-16 08:43:23,Transit,Uber India,1436.75,UPI_GPay,0
+TXN_PRIYA_0371,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-16 13:31:23,Food & Dining,Starbucks Coffee Gachibowli,914.33,Credit_Card,0
+TXN_PRIYA_0372,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-16 14:06:23,Food & Dining,Starbucks Coffee Gachibowli,2657.29,Credit_Card,0
+TXN_PRIYA_0373,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-16 16:07:23,Shopping,Myntra / Zara Lifestyle,425.81,UPI_GPay,0
+TXN_PRIYA_0374,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-16 19:10:23,Food & Dining,Chai Point Cyber Towers,717.32,Debit_Card,0
+TXN_PRIYA_0375,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-16 21:07:23,Travel,MakeMyTrip Flights,1714.88,Credit_Card,0
+TXN_PRIYA_0376,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-17 05:24:23,Travel,MakeMyTrip Flights,1114.08,UPI_GPay,0
+TXN_PRIYA_0377,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-17 12:58:23,Food & Dining,Chai Point Cyber Towers,377.13,UPI_GPay,0
+TXN_PRIYA_0378,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-17 22:55:23,Food & Dining,Chai Point Cyber Towers,638.3,UPI_GPay,0
+TXN_PRIYA_0379,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-18 09:25:23,Shopping,Myntra / Zara Lifestyle,289.85,NetBanking,0
+TXN_PRIYA_0380,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-18 17:38:23,Health,Cult.fit Gym & Fitness,846.43,UPI_GPay,0
+TXN_PRIYA_0381,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-18 23:48:23,Food & Dining,Chai Point Cyber Towers,898.54,Credit_Card,0
+TXN_PRIYA_0382,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-19 00:28:23,Food & Dining,Swiggy / Zomato,1833.46,Debit_Card,0
+TXN_PRIYA_0383,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-19 06:58:23,Food & Dining,Swiggy / Zomato,1471.06,UPI_GPay,0
+TXN_PRIYA_0384,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-19 08:08:23,Groceries,D-Mart Supermarket,520.19,NetBanking,0
+TXN_PRIYA_0385,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-19 11:43:23,Food & Dining,Starbucks Coffee Gachibowli,2944.73,UPI_GPay,0
+TXN_PRIYA_0386,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-19 13:53:23,Food & Dining,Chai Point Cyber Towers,621.61,NetBanking,0
+TXN_PRIYA_0387,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-19 21:34:23,Transit,Uber India,574.28,Credit_Card,0
+TXN_PRIYA_0388,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-20 00:52:23,Health,Cult.fit Gym & Fitness,841.06,Credit_Card,0
+TXN_PRIYA_0389,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-20 03:05:23,Groceries,D-Mart Supermarket,1261.11,NetBanking,0
+TXN_PRIYA_0390,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-20 03:44:23,Health,Cult.fit Gym & Fitness,886.88,Credit_Card,0
+TXN_PRIYA_0391,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-20 04:08:23,Health,Cult.fit Gym & Fitness,5713.75,Credit_Card,0
+TXN_PRIYA_0392,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-20 06:50:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,75439.65,UPI_GPay,1
+TXN_PRIYA_0393,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-20 16:54:23,Transit,Uber India,602.78,NetBanking,0
+TXN_PRIYA_0394,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-20 18:45:23,Subscriptions,Netflix / Prime / Spotify,4367.89,Credit_Card,0
+TXN_PRIYA_0395,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-20 19:46:23,Food & Dining,Chai Point Cyber Towers,1511.04,NetBanking,0
+TXN_PRIYA_0396,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-20 22:09:23,Food & Dining,Chai Point Cyber Towers,335.79,UPI_GPay,0
+TXN_PRIYA_0397,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 01:59:23,Food & Dining,Swiggy / Zomato,1552.55,UPI_GPay,0
+TXN_PRIYA_0398,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 03:01:23,Travel,MakeMyTrip Flights,1528.54,NetBanking,0
+TXN_PRIYA_0399,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 05:21:23,Food & Dining,Chai Point Cyber Towers,799.35,Credit_Card,0
+TXN_PRIYA_0400,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 05:56:23,Transit,Uber India,264.33,Credit_Card,0
+TXN_PRIYA_0401,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 07:19:23,Food & Dining,Chai Point Cyber Towers,4544.16,Credit_Card,0
+TXN_PRIYA_0402,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 09:18:23,Travel,MakeMyTrip Flights,292.58,UPI_GPay,0
+TXN_PRIYA_0403,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 12:39:23,Transit,Uber India,460.71,UPI_GPay,0
+TXN_PRIYA_0404,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 18:29:23,Groceries,D-Mart Supermarket,326.37,NetBanking,0
+TXN_PRIYA_0405,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 19:29:23,Health,Cult.fit Gym & Fitness,878.07,UPI_GPay,0
+TXN_PRIYA_0406,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 20:04:23,Transit,Uber India,1010.0,UPI_GPay,0
+TXN_PRIYA_0407,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 21:49:23,Food & Dining,Chai Point Cyber Towers,342.34,UPI_GPay,0
+TXN_PRIYA_0408,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 22:01:23,Food & Dining,Chai Point Cyber Towers,1926.88,Credit_Card,0
+TXN_PRIYA_0409,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-21 23:54:23,Subscriptions,Netflix / Prime / Spotify,585.4,Credit_Card,0
+TXN_PRIYA_0410,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-22 03:23:23,Transit,Uber India,1297.06,NetBanking,0
+TXN_PRIYA_0411,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-22 05:53:23,Food & Dining,Chai Point Cyber Towers,895.19,Credit_Card,0
+TXN_PRIYA_0412,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-22 06:00:23,Food & Dining,Starbucks Coffee Gachibowli,249.23,Credit_Card,0
+TXN_PRIYA_0413,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-22 13:54:23,Subscriptions,Netflix / Prime / Spotify,836.54,UPI_GPay,0
+TXN_PRIYA_0414,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-22 13:55:23,Travel,MakeMyTrip Flights,876.12,Credit_Card,0
+TXN_PRIYA_0415,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-22 23:27:23,Travel,MakeMyTrip Flights,626.21,NetBanking,0
+TXN_PRIYA_0416,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-23 02:47:23,Travel,MakeMyTrip Flights,1260.49,Credit_Card,0
+TXN_PRIYA_0417,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-23 04:55:23,Shopping,Myntra / Zara Lifestyle,1070.67,Credit_Card,0
+TXN_PRIYA_0418,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-23 08:40:23,Transit,Uber India,880.49,Credit_Card,0
+TXN_PRIYA_0419,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-23 17:16:23,Shopping,Myntra / Zara Lifestyle,792.93,UPI_GPay,0
+TXN_PRIYA_0420,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-23 19:51:23,Food & Dining,Starbucks Coffee Gachibowli,285.55,Credit_Card,0
+TXN_PRIYA_0421,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-23 20:01:23,Food & Dining,Chai Point Cyber Towers,1523.2,UPI_GPay,0
+TXN_PRIYA_0422,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-23 22:17:23,Food & Dining,Chai Point Cyber Towers,1311.16,NetBanking,0
+TXN_PRIYA_0423,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-24 10:48:23,Food & Dining,Chai Point Cyber Towers,590.91,NetBanking,0
+TXN_PRIYA_0424,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-24 14:33:23,Travel,MakeMyTrip Flights,1817.79,Credit_Card,0
+TXN_PRIYA_0425,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-24 15:02:23,Health,Cult.fit Gym & Fitness,559.53,UPI_GPay,0
+TXN_PRIYA_0426,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-24 18:03:23,Subscriptions,Netflix / Prime / Spotify,999.91,UPI_GPay,0
+TXN_PRIYA_0427,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-24 20:32:23,Shopping,Myntra / Zara Lifestyle,1720.7,NetBanking,0
+TXN_PRIYA_0428,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-25 00:16:23,Subscriptions,Netflix / Prime / Spotify,670.7,Debit_Card,0
+TXN_PRIYA_0429,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-25 01:40:23,Subscriptions,Netflix / Prime / Spotify,130.76,Credit_Card,0
+TXN_PRIYA_0430,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-25 02:01:23,Shopping,Myntra / Zara Lifestyle,978.2,UPI_GPay,0
+TXN_PRIYA_0431,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-25 08:03:23,Groceries,D-Mart Supermarket,1394.81,Credit_Card,0
+TXN_PRIYA_0432,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-25 08:24:23,Groceries,D-Mart Supermarket,821.87,Credit_Card,0
+TXN_PRIYA_0433,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-25 09:04:23,Transit,Uber India,1067.22,Credit_Card,0
+TXN_PRIYA_0434,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-25 11:18:23,Food & Dining,Swiggy / Zomato,1236.93,UPI_GPay,0
+TXN_PRIYA_0435,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-25 11:22:23,Health,Cult.fit Gym & Fitness,747.8,UPI_GPay,0
+TXN_PRIYA_0436,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-25 12:00:23,Groceries,D-Mart Supermarket,567.99,Credit_Card,0
+TXN_PRIYA_0437,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-25 21:55:23,Travel,MakeMyTrip Flights,1019.38,UPI_GPay,0
+TXN_PRIYA_0438,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 01:02:23,Food & Dining,Chai Point Cyber Towers,186.46,Credit_Card,0
+TXN_PRIYA_0439,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 06:29:23,Groceries,D-Mart Supermarket,1636.59,UPI_GPay,0
+TXN_PRIYA_0440,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 06:29:23,Food & Dining,Chai Point Cyber Towers,1504.2,Credit_Card,0
+TXN_PRIYA_0441,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 10:35:23,Groceries,D-Mart Supermarket,300.26,Credit_Card,0
+TXN_PRIYA_0442,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 12:30:23,Food & Dining,Starbucks Coffee Gachibowli,832.53,Credit_Card,0
+TXN_PRIYA_0443,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 18:31:23,Food & Dining,Starbucks Coffee Gachibowli,662.74,Credit_Card,0
+TXN_PRIYA_0444,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 20:38:23,Health,Cult.fit Gym & Fitness,591.95,UPI_GPay,0
+TXN_PRIYA_0445,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 21:14:23,Travel,MakeMyTrip Flights,408.42,Credit_Card,0
+TXN_PRIYA_0446,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 22:25:23,Food & Dining,Chai Point Cyber Towers,882.02,UPI_GPay,0
+TXN_PRIYA_0447,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 23:02:23,Health,Cult.fit Gym & Fitness,3286.97,Credit_Card,0
+TXN_PRIYA_0448,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-26 23:42:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,62431.72,UPI_GPay,1
+TXN_PRIYA_0449,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 00:19:23,Shopping,Myntra / Zara Lifestyle,1431.92,UPI_GPay,0
+TXN_PRIYA_0450,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 01:34:23,Food & Dining,Swiggy / Zomato,1099.21,Credit_Card,0
+TXN_PRIYA_0451,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 02:05:23,Transit,Uber India,2188.26,UPI_GPay,0
+TXN_PRIYA_0452,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 03:32:23,Food & Dining,Chai Point Cyber Towers,1516.58,Credit_Card,0
+TXN_PRIYA_0453,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 04:05:23,Food & Dining,Starbucks Coffee Gachibowli,783.96,UPI_GPay,0
+TXN_PRIYA_0454,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 04:09:23,Subscriptions,Netflix / Prime / Spotify,3075.42,Credit_Card,0
+TXN_PRIYA_0455,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 07:07:23,Food & Dining,Starbucks Coffee Gachibowli,1769.09,UPI_GPay,0
+TXN_PRIYA_0456,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 08:07:23,Food & Dining,Chai Point Cyber Towers,1307.94,UPI_GPay,0
+TXN_PRIYA_0457,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 10:25:23,Transit,Uber India,736.55,NetBanking,0
+TXN_PRIYA_0458,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 13:04:23,Food & Dining,Swiggy / Zomato,391.11,UPI_GPay,0
+TXN_PRIYA_0459,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 13:05:23,Subscriptions,Netflix / Prime / Spotify,3096.76,UPI_GPay,0
+TXN_PRIYA_0460,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 15:29:23,Shopping,Myntra / Zara Lifestyle,580.01,Credit_Card,0
+TXN_PRIYA_0461,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 15:51:23,Shopping,Myntra / Zara Lifestyle,650.22,NetBanking,0
+TXN_PRIYA_0462,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 15:58:23,Subscriptions,Netflix / Prime / Spotify,793.08,UPI_GPay,0
+TXN_PRIYA_0463,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 15:59:23,Transit,Uber India,184.28,Credit_Card,0
+TXN_PRIYA_0464,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-27 21:59:23,Food & Dining,Swiggy / Zomato,563.37,NetBanking,0
+TXN_PRIYA_0465,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-28 02:29:23,Food & Dining,Swiggy / Zomato,3724.71,Credit_Card,0
+TXN_PRIYA_0466,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-28 05:48:23,Food & Dining,Chai Point Cyber Towers,414.88,NetBanking,0
+TXN_PRIYA_0467,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-28 10:34:23,Travel,MakeMyTrip Flights,1430.47,NetBanking,0
+TXN_PRIYA_0468,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-28 10:49:23,Travel,MakeMyTrip Flights,249.25,Credit_Card,0
+TXN_PRIYA_0469,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-28 11:30:23,Food & Dining,Chai Point Cyber Towers,1597.9,UPI_GPay,0
+TXN_PRIYA_0470,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-28 13:00:23,Groceries,D-Mart Supermarket,2134.7,Credit_Card,0
+TXN_PRIYA_0471,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-28 13:29:23,Transit,Uber India,3454.4,Credit_Card,0
+TXN_PRIYA_0472,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-28 13:39:23,Health,Cult.fit Gym & Fitness,865.19,Credit_Card,0
+TXN_PRIYA_0473,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-28 14:07:23,Food & Dining,Swiggy / Zomato,478.38,UPI_GPay,0
+TXN_PRIYA_0474,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-29 06:24:23,Transit,Uber India,1951.94,Credit_Card,0
+TXN_PRIYA_0475,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-29 07:30:23,Food & Dining,Swiggy / Zomato,618.05,Credit_Card,0
+TXN_PRIYA_0476,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-29 08:05:23,Shopping,Myntra / Zara Lifestyle,658.15,UPI_GPay,0
+TXN_PRIYA_0477,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-29 13:59:23,Transit,Uber India,871.21,Credit_Card,0
+TXN_PRIYA_0478,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-29 15:47:23,Groceries,D-Mart Supermarket,333.4,Credit_Card,0
+TXN_PRIYA_0479,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-29 16:11:23,Food & Dining,Chai Point Cyber Towers,7211.61,Credit_Card,0
+TXN_PRIYA_0480,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-29 22:04:23,Food & Dining,Starbucks Coffee Gachibowli,2447.19,Credit_Card,0
+TXN_PRIYA_0481,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-30 04:33:23,Groceries,D-Mart Supermarket,1017.26,UPI_GPay,0
+TXN_PRIYA_0482,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-30 07:11:23,Groceries,D-Mart Supermarket,3625.47,Credit_Card,0
+TXN_PRIYA_0483,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-30 07:15:23,Food & Dining,Swiggy / Zomato,826.18,Debit_Card,0
+TXN_PRIYA_0484,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-30 08:01:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,43108.54,UPI_GPay,1
+TXN_PRIYA_0485,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-30 12:31:23,Food & Dining,Swiggy / Zomato,1160.66,Credit_Card,0
+TXN_PRIYA_0486,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-30 16:17:23,Shopping,Myntra / Zara Lifestyle,684.22,Credit_Card,0
+TXN_PRIYA_0487,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-30 16:31:23,Health,Cult.fit Gym & Fitness,576.06,Credit_Card,0
+TXN_PRIYA_0488,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-30 18:59:23,Transit,Uber India,529.83,UPI_GPay,0
+TXN_PRIYA_0489,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-30 19:34:23,Transit,Uber India,909.44,Credit_Card,0
+TXN_PRIYA_0490,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-30 23:04:23,Travel,MakeMyTrip Flights,193.11,Credit_Card,0
+TXN_PRIYA_0491,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-31 00:16:23,Food & Dining,Starbucks Coffee Gachibowli,511.78,NetBanking,0
+TXN_PRIYA_0492,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-31 06:25:23,Health,Cult.fit Gym & Fitness,1190.31,Credit_Card,0
+TXN_PRIYA_0493,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-31 12:07:23,Shopping,Myntra / Zara Lifestyle,2213.06,Credit_Card,0
+TXN_PRIYA_0494,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-31 13:47:23,Transit,Uber India,2208.8,NetBanking,0
+TXN_PRIYA_0495,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-31 15:48:23,Food & Dining,Swiggy / Zomato,3641.39,UPI_GPay,0
+TXN_PRIYA_0496,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-31 15:52:23,Food & Dining,Swiggy / Zomato,2373.11,Credit_Card,0
+TXN_PRIYA_0497,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-07-31 19:05:23,Subscriptions,Netflix / Prime / Spotify,749.2,UPI_GPay,0
+TXN_PRIYA_0498,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 02:21:23,Groceries,D-Mart Supermarket,1151.05,Credit_Card,0
+TXN_PRIYA_0499,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 02:51:23,Food & Dining,Starbucks Coffee Gachibowli,1903.14,UPI_GPay,0
+TXN_PRIYA_0500,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 02:54:23,Subscriptions,Netflix / Prime / Spotify,355.43,UPI_GPay,0
+TXN_PRIYA_0501,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 04:57:23,Travel,MakeMyTrip Flights,435.1,NetBanking,0
+TXN_PRIYA_0502,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 06:11:23,Food & Dining,Swiggy / Zomato,12327.98,Debit_Card,0
+TXN_PRIYA_0503,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 08:09:23,Food & Dining,Swiggy / Zomato,253.92,NetBanking,0
+TXN_PRIYA_0504,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 08:11:23,Subscriptions,Netflix / Prime / Spotify,530.65,NetBanking,0
+TXN_PRIYA_0505,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 16:24:23,Food & Dining,Swiggy / Zomato,741.94,UPI_GPay,0
+TXN_PRIYA_0506,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 17:11:23,Travel,MakeMyTrip Flights,1679.18,Credit_Card,0
+TXN_PRIYA_0507,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 20:11:23,Health,Cult.fit Gym & Fitness,1439.48,UPI_GPay,0
+TXN_PRIYA_0508,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-01 21:50:23,Health,Cult.fit Gym & Fitness,465.01,UPI_GPay,0
+TXN_PRIYA_0509,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-02 03:47:23,Food & Dining,Swiggy / Zomato,1257.21,NetBanking,0
+TXN_PRIYA_0510,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-02 07:12:23,Subscriptions,Netflix / Prime / Spotify,1559.59,Credit_Card,0
+TXN_PRIYA_0511,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-02 07:16:23,Groceries,D-Mart Supermarket,1295.6,NetBanking,0
+TXN_PRIYA_0512,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-02 12:50:23,Food & Dining,Chai Point Cyber Towers,1270.28,NetBanking,0
+TXN_PRIYA_0513,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-02 12:52:23,Health,Cult.fit Gym & Fitness,1254.42,Debit_Card,0
+TXN_PRIYA_0514,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-02 13:52:23,Transit,Uber India,529.96,NetBanking,0
+TXN_PRIYA_0515,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-02 18:10:23,Subscriptions,Netflix / Prime / Spotify,2415.7,Credit_Card,0
+TXN_PRIYA_0516,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-02 20:58:23,Health,Cult.fit Gym & Fitness,499.67,Credit_Card,0
+TXN_PRIYA_0517,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-02 22:17:23,Food & Dining,Chai Point Cyber Towers,1061.52,Credit_Card,0
+TXN_PRIYA_0518,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-02 23:06:23,Shopping,Myntra / Zara Lifestyle,487.39,Credit_Card,0
+TXN_PRIYA_0519,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 01:48:23,Shopping,Myntra / Zara Lifestyle,352.43,UPI_GPay,0
+TXN_PRIYA_0520,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 01:51:23,Food & Dining,Swiggy / Zomato,3198.98,NetBanking,0
+TXN_PRIYA_0521,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 06:38:23,Food & Dining,Swiggy / Zomato,720.39,NetBanking,0
+TXN_PRIYA_0522,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 10:26:23,Food & Dining,Swiggy / Zomato,1071.98,UPI_GPay,0
+TXN_PRIYA_0523,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 11:20:23,Food & Dining,Swiggy / Zomato,1424.31,Credit_Card,0
+TXN_PRIYA_0524,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 14:04:23,Shopping,Myntra / Zara Lifestyle,1821.4,Credit_Card,0
+TXN_PRIYA_0525,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 14:37:23,Food & Dining,Swiggy / Zomato,1031.24,Credit_Card,0
+TXN_PRIYA_0526,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 17:29:23,Travel,MakeMyTrip Flights,793.22,Credit_Card,0
+TXN_PRIYA_0527,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 18:59:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,78577.59,UPI_GPay,1
+TXN_PRIYA_0528,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 21:28:23,Groceries,D-Mart Supermarket,530.8,Credit_Card,0
+TXN_PRIYA_0529,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-03 22:46:23,Food & Dining,Swiggy / Zomato,756.29,Credit_Card,0
+TXN_PRIYA_0530,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 04:08:23,Food & Dining,Starbucks Coffee Gachibowli,1339.94,Credit_Card,0
+TXN_PRIYA_0531,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 04:13:23,Transit,Uber India,1732.35,UPI_GPay,0
+TXN_PRIYA_0532,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 05:10:23,Food & Dining,Swiggy / Zomato,1055.04,UPI_GPay,0
+TXN_PRIYA_0533,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 05:22:23,Travel,MakeMyTrip Flights,5739.53,UPI_GPay,0
+TXN_PRIYA_0534,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 07:07:23,Food & Dining,Chai Point Cyber Towers,1392.38,Credit_Card,0
+TXN_PRIYA_0535,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 07:22:23,Transit,Uber India,996.81,Debit_Card,0
+TXN_PRIYA_0536,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 07:34:23,Food & Dining,Swiggy / Zomato,450.37,Credit_Card,0
+TXN_PRIYA_0537,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 07:44:23,Health,Cult.fit Gym & Fitness,1775.38,UPI_GPay,0
+TXN_PRIYA_0538,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 08:09:23,Food & Dining,Starbucks Coffee Gachibowli,1473.64,UPI_GPay,0
+TXN_PRIYA_0539,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 08:54:23,Health,Cult.fit Gym & Fitness,987.06,UPI_GPay,0
+TXN_PRIYA_0540,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 09:45:23,Groceries,D-Mart Supermarket,1736.02,NetBanking,0
+TXN_PRIYA_0541,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 11:15:23,Groceries,D-Mart Supermarket,1618.54,Credit_Card,0
+TXN_PRIYA_0542,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 12:19:23,Food & Dining,Chai Point Cyber Towers,507.58,UPI_GPay,0
+TXN_PRIYA_0543,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 15:04:23,Food & Dining,Starbucks Coffee Gachibowli,1925.11,Credit_Card,0
+TXN_PRIYA_0544,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 16:44:23,Shopping,Myntra / Zara Lifestyle,2150.5,UPI_GPay,0
+TXN_PRIYA_0545,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 16:59:23,Subscriptions,Netflix / Prime / Spotify,759.98,Credit_Card,0
+TXN_PRIYA_0546,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 19:14:23,Food & Dining,Chai Point Cyber Towers,459.87,Credit_Card,0
+TXN_PRIYA_0547,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-04 19:49:23,Food & Dining,Swiggy / Zomato,298.26,UPI_GPay,0
+TXN_PRIYA_0548,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-05 03:20:23,Shopping,Myntra / Zara Lifestyle,1091.84,UPI_GPay,0
+TXN_PRIYA_0549,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-05 05:15:23,Food & Dining,Chai Point Cyber Towers,1010.06,Credit_Card,0
+TXN_PRIYA_0550,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-05 07:58:23,Groceries,D-Mart Supermarket,1438.89,UPI_GPay,0
+TXN_PRIYA_0551,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-05 12:52:23,Travel,MakeMyTrip Flights,1809.3,UPI_GPay,0
+TXN_PRIYA_0552,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-05 16:27:23,Food & Dining,Chai Point Cyber Towers,4655.91,Credit_Card,0
+TXN_PRIYA_0553,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-05 18:18:23,Health,Cult.fit Gym & Fitness,654.55,UPI_GPay,0
+TXN_PRIYA_0554,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-05 21:05:23,Groceries,D-Mart Supermarket,1513.34,UPI_GPay,0
+TXN_PRIYA_0555,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-06 08:46:23,Food & Dining,Starbucks Coffee Gachibowli,1731.31,UPI_GPay,0
+TXN_PRIYA_0556,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-06 09:29:23,Travel,MakeMyTrip Flights,1964.51,Credit_Card,0
+TXN_PRIYA_0557,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-06 09:50:23,Food & Dining,Chai Point Cyber Towers,992.8,Credit_Card,0
+TXN_PRIYA_0558,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-06 11:59:23,Health,Cult.fit Gym & Fitness,919.58,UPI_GPay,0
+TXN_PRIYA_0559,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-06 13:43:23,Food & Dining,Swiggy / Zomato,761.44,NetBanking,0
+TXN_PRIYA_0560,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-06 17:30:23,Health,Cult.fit Gym & Fitness,3156.81,UPI_GPay,0
+TXN_PRIYA_0561,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-06 21:48:23,Groceries,D-Mart Supermarket,1534.81,Credit_Card,0
+TXN_PRIYA_0562,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-06 23:18:23,Travel,MakeMyTrip Flights,3999.64,UPI_GPay,0
+TXN_PRIYA_0563,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-07 01:51:23,Food & Dining,Swiggy / Zomato,1306.41,NetBanking,0
+TXN_PRIYA_0564,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-07 02:43:23,Transit,Uber India,1345.42,Credit_Card,0
+TXN_PRIYA_0565,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-07 03:25:23,Food & Dining,Swiggy / Zomato,753.11,Debit_Card,0
+TXN_PRIYA_0566,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-07 08:03:23,Subscriptions,Netflix / Prime / Spotify,493.33,NetBanking,0
+TXN_PRIYA_0567,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-07 14:18:23,Transit,Uber India,1426.75,Credit_Card,0
+TXN_PRIYA_0568,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-07 17:47:23,Shopping,Myntra / Zara Lifestyle,1346.16,NetBanking,0
+TXN_PRIYA_0569,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-07 21:49:23,Subscriptions,Netflix / Prime / Spotify,1466.23,Credit_Card,0
+TXN_PRIYA_0570,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-07 23:37:23,Health,Cult.fit Gym & Fitness,854.14,NetBanking,0
+TXN_PRIYA_0571,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-08 00:43:23,Food & Dining,Swiggy / Zomato,1782.92,Credit_Card,0
+TXN_PRIYA_0572,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-08 02:11:23,Groceries,D-Mart Supermarket,637.91,Credit_Card,0
+TXN_PRIYA_0573,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-08 02:42:23,Food & Dining,Chai Point Cyber Towers,1201.26,UPI_GPay,0
+TXN_PRIYA_0574,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-08 06:12:23,Transit,Uber India,491.88,UPI_GPay,0
+TXN_PRIYA_0575,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-08 07:25:23,Food & Dining,Starbucks Coffee Gachibowli,771.47,Credit_Card,0
+TXN_PRIYA_0576,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-08 07:28:23,Groceries,D-Mart Supermarket,1016.44,UPI_GPay,0
+TXN_PRIYA_0577,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-08 08:02:23,Groceries,D-Mart Supermarket,662.3,Credit_Card,0
+TXN_PRIYA_0578,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-08 16:11:23,Food & Dining,Starbucks Coffee Gachibowli,2100.77,Credit_Card,0
+TXN_PRIYA_0579,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-08 20:45:23,Food & Dining,Chai Point Cyber Towers,345.65,Credit_Card,0
+TXN_PRIYA_0580,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-09 01:25:23,Subscriptions,Netflix / Prime / Spotify,903.39,UPI_GPay,0
+TXN_PRIYA_0581,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-09 02:38:23,Food & Dining,Swiggy / Zomato,738.61,Credit_Card,0
+TXN_PRIYA_0582,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-09 07:00:23,Transit,Uber India,644.73,Credit_Card,0
+TXN_PRIYA_0583,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-10 01:21:23,Transit,Uber India,484.63,Credit_Card,0
+TXN_PRIYA_0584,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-10 01:33:23,Health,Cult.fit Gym & Fitness,1761.93,Credit_Card,0
+TXN_PRIYA_0585,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-10 08:38:23,Food & Dining,Chai Point Cyber Towers,1758.32,UPI_GPay,0
+TXN_PRIYA_0586,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-10 09:20:23,Subscriptions,Netflix / Prime / Spotify,1071.38,Debit_Card,0
+TXN_PRIYA_0587,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-10 20:16:23,Food & Dining,Chai Point Cyber Towers,741.37,Credit_Card,0
+TXN_PRIYA_0588,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-10 21:51:23,Travel,MakeMyTrip Flights,806.08,NetBanking,0
+TXN_PRIYA_0589,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-10 22:45:23,Travel,MakeMyTrip Flights,2258.64,UPI_GPay,0
+TXN_PRIYA_0590,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-11 01:18:23,Subscriptions,Netflix / Prime / Spotify,1019.78,UPI_GPay,0
+TXN_PRIYA_0591,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-11 01:57:23,Food & Dining,Starbucks Coffee Gachibowli,1672.91,UPI_GPay,0
+TXN_PRIYA_0592,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-11 07:02:23,Travel,MakeMyTrip Flights,1221.28,NetBanking,0
+TXN_PRIYA_0593,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-11 08:44:23,Food & Dining,Starbucks Coffee Gachibowli,422.35,Credit_Card,0
+TXN_PRIYA_0594,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-11 10:40:23,Travel,MakeMyTrip Flights,1319.1,UPI_GPay,0
+TXN_PRIYA_0595,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-11 12:05:23,Food & Dining,Chai Point Cyber Towers,455.3,UPI_GPay,0
+TXN_PRIYA_0596,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-11 13:58:23,Food & Dining,Swiggy / Zomato,1148.28,UPI_GPay,0
+TXN_PRIYA_0597,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-11 17:26:23,Groceries,D-Mart Supermarket,1954.33,NetBanking,0
+TXN_PRIYA_0598,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-11 21:33:23,Food & Dining,Swiggy / Zomato,812.0,Credit_Card,0
+TXN_PRIYA_0599,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-12 02:36:23,Food & Dining,Starbucks Coffee Gachibowli,1392.28,UPI_GPay,0
+TXN_PRIYA_0600,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-12 09:05:23,Groceries,D-Mart Supermarket,2933.78,UPI_GPay,0
+TXN_PRIYA_0601,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-12 10:05:23,Food & Dining,Chai Point Cyber Towers,1241.59,Credit_Card,0
+TXN_PRIYA_0602,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-12 12:52:23,Shopping,Myntra / Zara Lifestyle,400.3,Credit_Card,0
+TXN_PRIYA_0603,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-12 13:19:23,Subscriptions,Netflix / Prime / Spotify,626.38,UPI_GPay,0
+TXN_PRIYA_0604,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-12 14:35:23,Groceries,D-Mart Supermarket,569.46,NetBanking,0
+TXN_PRIYA_0605,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-12 15:26:23,Groceries,D-Mart Supermarket,1343.44,UPI_GPay,0
+TXN_PRIYA_0606,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-12 16:52:23,Transit,Uber India,1112.51,NetBanking,0
+TXN_PRIYA_0607,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-12 20:05:23,Food & Dining,Starbucks Coffee Gachibowli,509.77,Credit_Card,0
+TXN_PRIYA_0608,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-12 20:50:23,Travel,MakeMyTrip Flights,1043.68,Credit_Card,0
+TXN_PRIYA_0609,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-13 00:20:23,Travel,MakeMyTrip Flights,1663.64,Credit_Card,0
+TXN_PRIYA_0610,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-13 03:32:23,Subscriptions,Netflix / Prime / Spotify,1782.7,Credit_Card,0
+TXN_PRIYA_0611,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-13 05:40:23,Groceries,D-Mart Supermarket,774.5,Credit_Card,0
+TXN_PRIYA_0612,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-13 16:46:23,Subscriptions,Netflix / Prime / Spotify,1125.6,Credit_Card,0
+TXN_PRIYA_0613,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-13 18:08:23,Travel,MakeMyTrip Flights,594.71,UPI_GPay,0
+TXN_PRIYA_0614,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-13 19:11:23,Health,Cult.fit Gym & Fitness,513.36,UPI_GPay,0
+TXN_PRIYA_0615,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-14 04:54:23,Transit,Uber India,229.82,Credit_Card,0
+TXN_PRIYA_0616,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-14 13:22:23,Health,Cult.fit Gym & Fitness,890.4,Credit_Card,0
+TXN_PRIYA_0617,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-14 14:01:23,Shopping,Myntra / Zara Lifestyle,472.51,Credit_Card,0
+TXN_PRIYA_0618,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-14 19:10:23,Transit,Uber India,548.75,UPI_GPay,0
+TXN_PRIYA_0619,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-14 21:40:23,Health,Cult.fit Gym & Fitness,1841.37,Credit_Card,0
+TXN_PRIYA_0620,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-14 23:30:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,39047.49,Credit_Card,1
+TXN_PRIYA_0621,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-15 07:45:23,Shopping,Myntra / Zara Lifestyle,1007.09,NetBanking,0
+TXN_PRIYA_0622,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-15 08:15:23,Food & Dining,Chai Point Cyber Towers,1283.02,NetBanking,0
+TXN_PRIYA_0623,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-15 18:33:23,Shopping,Myntra / Zara Lifestyle,757.08,Credit_Card,0
+TXN_PRIYA_0624,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-15 20:32:23,Subscriptions,Netflix / Prime / Spotify,232.04,Credit_Card,0
+TXN_PRIYA_0625,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-16 05:03:23,Transit,Uber India,1012.24,Credit_Card,0
+TXN_PRIYA_0626,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-16 06:35:23,Health,Cult.fit Gym & Fitness,1007.48,UPI_GPay,0
+TXN_PRIYA_0627,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-16 07:53:23,Shopping,Myntra / Zara Lifestyle,221.99,UPI_GPay,0
+TXN_PRIYA_0628,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-16 10:34:23,Subscriptions,Netflix / Prime / Spotify,895.91,Credit_Card,0
+TXN_PRIYA_0629,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-16 15:18:23,Health,Cult.fit Gym & Fitness,352.72,UPI_GPay,0
+TXN_PRIYA_0630,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-16 16:46:23,Health,Cult.fit Gym & Fitness,1188.35,Credit_Card,0
+TXN_PRIYA_0631,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-16 19:51:23,Food & Dining,Swiggy / Zomato,498.01,Credit_Card,0
+TXN_PRIYA_0632,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-16 22:23:23,Travel,MakeMyTrip Flights,1477.25,Credit_Card,0
+TXN_PRIYA_0633,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-16 22:29:23,Subscriptions,Netflix / Prime / Spotify,423.34,UPI_GPay,0
+TXN_PRIYA_0634,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 00:03:23,Transit,Uber India,2207.76,Credit_Card,0
+TXN_PRIYA_0635,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 01:28:23,Subscriptions,Netflix / Prime / Spotify,351.54,Credit_Card,0
+TXN_PRIYA_0636,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 03:58:23,Transit,Uber India,762.68,Credit_Card,0
+TXN_PRIYA_0637,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 04:11:23,Transit,Uber India,1097.07,Credit_Card,0
+TXN_PRIYA_0638,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 04:18:23,Food & Dining,Starbucks Coffee Gachibowli,1826.34,UPI_GPay,0
+TXN_PRIYA_0639,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 05:09:23,Groceries,D-Mart Supermarket,2197.03,Credit_Card,0
+TXN_PRIYA_0640,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 10:55:23,Food & Dining,Chai Point Cyber Towers,1126.78,Credit_Card,0
+TXN_PRIYA_0641,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 12:37:23,Health,Cult.fit Gym & Fitness,497.99,UPI_GPay,0
+TXN_PRIYA_0642,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 12:59:23,Subscriptions,Netflix / Prime / Spotify,833.39,UPI_GPay,0
+TXN_PRIYA_0643,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 15:48:23,Food & Dining,Swiggy / Zomato,4754.5,NetBanking,0
+TXN_PRIYA_0644,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 16:33:23,Food & Dining,Chai Point Cyber Towers,514.26,UPI_GPay,0
+TXN_PRIYA_0645,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-17 22:17:23,Transit,Uber India,596.47,Credit_Card,0
+TXN_PRIYA_0646,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-18 00:59:23,Groceries,D-Mart Supermarket,924.13,UPI_GPay,0
+TXN_PRIYA_0647,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-18 01:16:23,Food & Dining,Starbucks Coffee Gachibowli,1242.07,UPI_GPay,0
+TXN_PRIYA_0648,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-18 01:27:23,Travel,MakeMyTrip Flights,551.21,Credit_Card,0
+TXN_PRIYA_0649,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-18 02:20:23,Food & Dining,Starbucks Coffee Gachibowli,1147.92,NetBanking,0
+TXN_PRIYA_0650,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-18 08:36:23,Food & Dining,Chai Point Cyber Towers,469.35,Credit_Card,0
+TXN_PRIYA_0651,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-18 10:59:23,Travel,MakeMyTrip Flights,318.44,Debit_Card,0
+TXN_PRIYA_0652,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-18 14:58:23,Shopping,Myntra / Zara Lifestyle,607.81,NetBanking,0
+TXN_PRIYA_0653,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-18 18:42:23,Health,Cult.fit Gym & Fitness,813.9,UPI_GPay,0
+TXN_PRIYA_0654,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-18 21:48:23,Food & Dining,Starbucks Coffee Gachibowli,404.11,NetBanking,0
+TXN_PRIYA_0655,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-18 22:36:23,Travel,MakeMyTrip Flights,1651.13,UPI_GPay,0
+TXN_PRIYA_0656,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-19 11:28:23,Transit,Uber India,1745.98,Credit_Card,0
+TXN_PRIYA_0657,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-19 13:20:23,Shopping,Myntra / Zara Lifestyle,965.16,Credit_Card,0
+TXN_PRIYA_0658,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-19 19:19:23,Health,Cult.fit Gym & Fitness,805.18,Credit_Card,0
+TXN_PRIYA_0659,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-19 23:18:23,Travel,MakeMyTrip Flights,757.61,Credit_Card,0
+TXN_PRIYA_0660,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-20 17:34:23,Shopping,Myntra / Zara Lifestyle,1168.95,UPI_GPay,0
+TXN_PRIYA_0661,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-20 22:18:23,Subscriptions,Netflix / Prime / Spotify,1468.06,Credit_Card,0
+TXN_PRIYA_0662,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-21 01:30:23,Food & Dining,Swiggy / Zomato,895.79,Credit_Card,0
+TXN_PRIYA_0663,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-21 02:05:23,Shopping,Myntra / Zara Lifestyle,823.95,UPI_GPay,0
+TXN_PRIYA_0664,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-21 03:20:23,Food & Dining,Starbucks Coffee Gachibowli,2589.11,NetBanking,0
+TXN_PRIYA_0665,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-21 03:42:23,Health,Cult.fit Gym & Fitness,301.87,Credit_Card,0
+TXN_PRIYA_0666,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-21 04:47:23,Food & Dining,Swiggy / Zomato,946.83,Credit_Card,0
+TXN_PRIYA_0667,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-21 13:32:23,Food & Dining,Swiggy / Zomato,1773.17,Credit_Card,0
+TXN_PRIYA_0668,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-21 19:57:23,Travel,MakeMyTrip Flights,637.68,UPI_GPay,0
+TXN_PRIYA_0669,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-21 21:06:23,Groceries,D-Mart Supermarket,1489.07,Credit_Card,0
+TXN_PRIYA_0670,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-22 00:53:23,Food & Dining,Starbucks Coffee Gachibowli,2066.02,UPI_GPay,0
+TXN_PRIYA_0671,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-22 01:11:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,47239.99,Credit_Card,1
+TXN_PRIYA_0672,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-22 05:40:23,Shopping,Myntra / Zara Lifestyle,3418.36,Credit_Card,0
+TXN_PRIYA_0673,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-22 06:45:23,Groceries,D-Mart Supermarket,471.08,NetBanking,0
+TXN_PRIYA_0674,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-22 15:22:23,Subscriptions,Netflix / Prime / Spotify,562.27,Credit_Card,0
+TXN_PRIYA_0675,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-22 15:57:23,Food & Dining,Swiggy / Zomato,1202.69,Credit_Card,0
+TXN_PRIYA_0676,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-22 15:57:23,Travel,MakeMyTrip Flights,526.06,Credit_Card,0
+TXN_PRIYA_0677,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-22 19:01:23,Food & Dining,Swiggy / Zomato,2260.55,UPI_GPay,0
+TXN_PRIYA_0678,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-23 00:04:23,Shopping,Myntra / Zara Lifestyle,6288.75,UPI_GPay,0
+TXN_PRIYA_0679,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-23 04:49:23,Travel,MakeMyTrip Flights,1225.75,Credit_Card,0
+TXN_PRIYA_0680,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-23 05:33:23,Food & Dining,Swiggy / Zomato,1687.93,Credit_Card,0
+TXN_PRIYA_0681,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-23 08:43:23,Travel,MakeMyTrip Flights,1195.94,Credit_Card,0
+TXN_PRIYA_0682,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-23 08:56:23,Food & Dining,Starbucks Coffee Gachibowli,2674.42,UPI_GPay,0
+TXN_PRIYA_0683,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-23 12:21:23,Transit,Uber India,1704.91,UPI_GPay,0
+TXN_PRIYA_0684,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-23 12:24:23,Travel,MakeMyTrip Flights,1102.93,UPI_GPay,0
+TXN_PRIYA_0685,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-23 21:21:23,Shopping,Myntra / Zara Lifestyle,633.83,UPI_GPay,0
+TXN_PRIYA_0686,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-24 04:43:23,Food & Dining,Starbucks Coffee Gachibowli,1952.81,Credit_Card,0
+TXN_PRIYA_0687,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-24 06:41:23,Travel,MakeMyTrip Flights,1402.18,Credit_Card,0
+TXN_PRIYA_0688,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-24 07:11:23,Subscriptions,Netflix / Prime / Spotify,5294.08,Credit_Card,0
+TXN_PRIYA_0689,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-24 07:31:23,Groceries,D-Mart Supermarket,579.89,Credit_Card,0
+TXN_PRIYA_0690,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-24 08:19:23,Food & Dining,Chai Point Cyber Towers,425.63,Credit_Card,0
+TXN_PRIYA_0691,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-24 16:29:23,Food & Dining,Chai Point Cyber Towers,1032.48,UPI_GPay,0
+TXN_PRIYA_0692,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-24 17:01:23,Groceries,D-Mart Supermarket,521.79,UPI_GPay,0
+TXN_PRIYA_0693,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-24 20:29:23,Travel,MakeMyTrip Flights,1554.13,NetBanking,0
+TXN_PRIYA_0694,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-24 21:51:23,Groceries,D-Mart Supermarket,240.56,Credit_Card,0
+TXN_PRIYA_0695,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-25 01:34:23,Travel,MakeMyTrip Flights,864.65,UPI_GPay,0
+TXN_PRIYA_0696,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-25 02:17:23,Transit,Uber India,431.11,NetBanking,0
+TXN_PRIYA_0697,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-25 05:35:23,Transit,Uber India,1595.77,UPI_GPay,0
+TXN_PRIYA_0698,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-25 06:57:23,Food & Dining,Chai Point Cyber Towers,849.7,Credit_Card,0
+TXN_PRIYA_0699,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-25 07:51:23,Food & Dining,Chai Point Cyber Towers,361.88,Credit_Card,0
+TXN_PRIYA_0700,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-25 08:42:23,Travel,MakeMyTrip Flights,644.54,Credit_Card,0
+TXN_PRIYA_0701,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-25 10:44:23,Travel,MakeMyTrip Flights,1211.83,Credit_Card,0
+TXN_PRIYA_0702,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-25 14:27:23,Health,Cult.fit Gym & Fitness,745.17,UPI_GPay,0
+TXN_PRIYA_0703,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-25 21:30:23,Health,Cult.fit Gym & Fitness,1110.27,Credit_Card,0
+TXN_PRIYA_0704,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-26 00:32:23,Transit,Uber India,2145.08,Credit_Card,0
+TXN_PRIYA_0705,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-26 03:04:23,Shopping,Myntra / Zara Lifestyle,1638.34,UPI_GPay,0
+TXN_PRIYA_0706,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-26 04:13:23,Groceries,D-Mart Supermarket,988.62,UPI_GPay,0
+TXN_PRIYA_0707,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-26 05:16:23,Food & Dining,Chai Point Cyber Towers,1964.51,UPI_GPay,0
+TXN_PRIYA_0708,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-26 13:50:23,Travel,MakeMyTrip Flights,2292.01,UPI_GPay,0
+TXN_PRIYA_0709,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-26 14:01:23,Transit,Uber India,779.75,Credit_Card,0
+TXN_PRIYA_0710,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-26 17:40:23,Subscriptions,Netflix / Prime / Spotify,1266.9,Credit_Card,0
+TXN_PRIYA_0711,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-26 17:52:23,Transit,Uber India,1202.05,Credit_Card,0
+TXN_PRIYA_0712,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-27 03:40:23,Food & Dining,Starbucks Coffee Gachibowli,1098.86,UPI_GPay,0
+TXN_PRIYA_0713,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-27 06:59:23,Transit,Uber India,2566.95,NetBanking,0
+TXN_PRIYA_0714,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-27 07:21:23,Subscriptions,Netflix / Prime / Spotify,1202.7,Credit_Card,0
+TXN_PRIYA_0715,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-27 08:20:23,Groceries,D-Mart Supermarket,725.36,UPI_GPay,0
+TXN_PRIYA_0716,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-27 11:13:23,Groceries,D-Mart Supermarket,697.52,Credit_Card,0
+TXN_PRIYA_0717,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-27 12:34:23,Food & Dining,Swiggy / Zomato,3360.88,UPI_GPay,0
+TXN_PRIYA_0718,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-27 16:48:23,Shopping,Myntra / Zara Lifestyle,1403.87,Credit_Card,0
+TXN_PRIYA_0719,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-27 17:06:23,Food & Dining,Starbucks Coffee Gachibowli,459.47,Credit_Card,0
+TXN_PRIYA_0720,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-27 23:19:23,Subscriptions,Netflix / Prime / Spotify,246.09,NetBanking,0
+TXN_PRIYA_0721,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 01:06:23,Food & Dining,Chai Point Cyber Towers,404.1,UPI_GPay,0
+TXN_PRIYA_0722,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 03:39:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,46904.26,UPI_GPay,1
+TXN_PRIYA_0723,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 04:17:23,Transit,Uber India,622.8,Credit_Card,0
+TXN_PRIYA_0724,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 08:49:23,Transit,Uber India,588.45,Credit_Card,0
+TXN_PRIYA_0725,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 09:30:23,Transit,Uber India,693.11,Credit_Card,0
+TXN_PRIYA_0726,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 11:25:23,Food & Dining,Chai Point Cyber Towers,1600.78,NetBanking,0
+TXN_PRIYA_0727,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 11:28:23,Health,Cult.fit Gym & Fitness,767.09,Debit_Card,0
+TXN_PRIYA_0728,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 12:10:23,Health,Cult.fit Gym & Fitness,719.02,Credit_Card,0
+TXN_PRIYA_0729,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 12:30:23,Shopping,Myntra / Zara Lifestyle,879.92,Credit_Card,0
+TXN_PRIYA_0730,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 15:00:23,Travel,MakeMyTrip Flights,2140.81,NetBanking,0
+TXN_PRIYA_0731,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 17:11:23,Food & Dining,Chai Point Cyber Towers,4190.05,Credit_Card,0
+TXN_PRIYA_0732,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 18:49:23,Health,Cult.fit Gym & Fitness,362.53,UPI_GPay,0
+TXN_PRIYA_0733,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 19:30:23,Health,Cult.fit Gym & Fitness,938.64,Credit_Card,0
+TXN_PRIYA_0734,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 22:07:23,Subscriptions,Netflix / Prime / Spotify,1417.14,UPI_GPay,0
+TXN_PRIYA_0735,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-28 22:34:23,Food & Dining,Swiggy / Zomato,1219.06,UPI_GPay,0
+TXN_PRIYA_0736,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-29 02:52:23,Health,Cult.fit Gym & Fitness,758.15,NetBanking,0
+TXN_PRIYA_0737,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-29 04:02:23,Shopping,Myntra / Zara Lifestyle,527.44,UPI_GPay,0
+TXN_PRIYA_0738,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-29 07:09:23,Transit,Uber India,1748.45,Credit_Card,0
+TXN_PRIYA_0739,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-29 07:43:23,Food & Dining,Chai Point Cyber Towers,965.47,UPI_GPay,0
+TXN_PRIYA_0740,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-29 14:18:23,Groceries,D-Mart Supermarket,916.24,NetBanking,0
+TXN_PRIYA_0741,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-29 15:30:23,Subscriptions,Netflix / Prime / Spotify,3399.49,Credit_Card,0
+TXN_PRIYA_0742,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-29 16:00:23,Shopping,Myntra / Zara Lifestyle,3834.33,Credit_Card,0
+TXN_PRIYA_0743,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-29 20:35:23,Shopping,Myntra / Zara Lifestyle,1349.7,Credit_Card,0
+TXN_PRIYA_0744,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-29 22:14:23,Groceries,D-Mart Supermarket,926.29,UPI_GPay,0
+TXN_PRIYA_0745,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-29 23:51:23,Shopping,Myntra / Zara Lifestyle,3462.27,Credit_Card,0
+TXN_PRIYA_0746,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-30 02:19:23,Travel,MakeMyTrip Flights,1347.84,UPI_GPay,0
+TXN_PRIYA_0747,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-30 05:35:23,Transit,Uber India,397.85,Credit_Card,0
+TXN_PRIYA_0748,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-30 16:04:23,Travel,MakeMyTrip Flights,617.56,NetBanking,0
+TXN_PRIYA_0749,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-30 19:08:23,Groceries,D-Mart Supermarket,1238.02,Credit_Card,0
+TXN_PRIYA_0750,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-31 01:14:23,Health,Cult.fit Gym & Fitness,650.34,Credit_Card,0
+TXN_PRIYA_0751,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-31 02:55:23,Groceries,D-Mart Supermarket,1659.51,UPI_GPay,0
+TXN_PRIYA_0752,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-31 04:16:23,Food & Dining,Swiggy / Zomato,3532.28,UPI_GPay,0
+TXN_PRIYA_0753,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-31 05:06:23,Food & Dining,Starbucks Coffee Gachibowli,351.74,Credit_Card,0
+TXN_PRIYA_0754,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-31 06:45:23,Groceries,D-Mart Supermarket,388.53,Credit_Card,0
+TXN_PRIYA_0755,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-31 10:00:23,Travel,MakeMyTrip Flights,2901.85,Credit_Card,0
+TXN_PRIYA_0756,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-31 12:53:23,Food & Dining,Starbucks Coffee Gachibowli,2319.06,UPI_GPay,0
+TXN_PRIYA_0757,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-31 17:00:23,Groceries,D-Mart Supermarket,501.7,UPI_GPay,0
+TXN_PRIYA_0758,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-08-31 20:16:23,Travel,MakeMyTrip Flights,574.04,UPI_GPay,0
+TXN_PRIYA_0759,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 00:16:23,Food & Dining,Starbucks Coffee Gachibowli,580.43,UPI_GPay,0
+TXN_PRIYA_0760,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 02:51:23,Shopping,Myntra / Zara Lifestyle,718.46,UPI_GPay,0
+TXN_PRIYA_0761,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 04:10:23,Food & Dining,Swiggy / Zomato,459.95,Credit_Card,0
+TXN_PRIYA_0762,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 05:24:23,Travel,MakeMyTrip Flights,643.3,Debit_Card,0
+TXN_PRIYA_0763,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 07:24:23,Shopping,Myntra / Zara Lifestyle,1528.35,NetBanking,0
+TXN_PRIYA_0764,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 09:28:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,81544.91,Credit_Card,1
+TXN_PRIYA_0765,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 11:26:23,Subscriptions,Netflix / Prime / Spotify,305.72,Credit_Card,0
+TXN_PRIYA_0766,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 13:52:23,Food & Dining,Chai Point Cyber Towers,1544.59,Credit_Card,0
+TXN_PRIYA_0767,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 15:02:23,Health,Cult.fit Gym & Fitness,930.63,Credit_Card,0
+TXN_PRIYA_0768,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 15:37:23,Groceries,D-Mart Supermarket,571.3,UPI_GPay,0
+TXN_PRIYA_0769,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 16:08:23,Subscriptions,Netflix / Prime / Spotify,2595.11,UPI_GPay,0
+TXN_PRIYA_0770,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 16:54:23,Food & Dining,Starbucks Coffee Gachibowli,836.46,UPI_GPay,0
+TXN_PRIYA_0771,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 20:16:23,Food & Dining,Swiggy / Zomato,1219.63,UPI_GPay,0
+TXN_PRIYA_0772,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-01 20:21:23,Shopping,Myntra / Zara Lifestyle,1288.35,UPI_GPay,0
+TXN_PRIYA_0773,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-02 00:09:23,Health,Cult.fit Gym & Fitness,1037.78,UPI_GPay,0
+TXN_PRIYA_0774,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-02 01:53:23,Subscriptions,Netflix / Prime / Spotify,2657.3,Credit_Card,0
+TXN_PRIYA_0775,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-02 04:14:23,Subscriptions,Netflix / Prime / Spotify,845.84,Credit_Card,0
+TXN_PRIYA_0776,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-02 11:08:23,Transit,Uber India,2274.5,UPI_GPay,0
+TXN_PRIYA_0777,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-02 17:47:23,Shopping,Myntra / Zara Lifestyle,407.8,Credit_Card,0
+TXN_PRIYA_0778,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-02 17:59:23,Groceries,D-Mart Supermarket,2637.5,Credit_Card,0
+TXN_PRIYA_0779,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-02 20:55:23,Health,Cult.fit Gym & Fitness,438.74,NetBanking,0
+TXN_PRIYA_0780,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-02 22:32:23,Health,Cult.fit Gym & Fitness,1543.36,UPI_GPay,0
+TXN_PRIYA_0781,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-03 07:05:23,Travel,MakeMyTrip Flights,1843.13,Credit_Card,0
+TXN_PRIYA_0782,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-03 09:44:23,Subscriptions,Netflix / Prime / Spotify,760.26,UPI_GPay,0
+TXN_PRIYA_0783,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-03 12:53:23,Groceries,D-Mart Supermarket,560.17,UPI_GPay,0
+TXN_PRIYA_0784,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-03 18:40:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,67855.94,Credit_Card,1
+TXN_PRIYA_0785,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-03 18:56:23,Shopping,Myntra / Zara Lifestyle,2939.14,Credit_Card,0
+TXN_PRIYA_0786,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-04 13:30:23,Food & Dining,Starbucks Coffee Gachibowli,1840.15,NetBanking,0
+TXN_PRIYA_0787,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-04 13:57:23,Groceries,D-Mart Supermarket,1236.55,Credit_Card,0
+TXN_PRIYA_0788,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-04 20:38:23,Food & Dining,Swiggy / Zomato,1752.55,Credit_Card,0
+TXN_PRIYA_0789,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-04 23:00:23,Subscriptions,Netflix / Prime / Spotify,1857.28,UPI_GPay,0
+TXN_PRIYA_0790,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-05 03:45:23,Transit,Uber India,293.46,UPI_GPay,0
+TXN_PRIYA_0791,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-05 14:13:23,Groceries,D-Mart Supermarket,1025.06,Credit_Card,0
+TXN_PRIYA_0792,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-05 17:53:23,Shopping,Myntra / Zara Lifestyle,526.7,Credit_Card,0
+TXN_PRIYA_0793,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-05 20:31:23,Food & Dining,Chai Point Cyber Towers,1392.21,Credit_Card,0
+TXN_PRIYA_0794,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-05 23:49:23,Shopping,Myntra / Zara Lifestyle,1459.62,Debit_Card,0
+TXN_PRIYA_0795,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 05:12:23,Groceries,D-Mart Supermarket,691.16,Credit_Card,0
+TXN_PRIYA_0796,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 07:17:23,Transit,Uber India,484.79,UPI_GPay,0
+TXN_PRIYA_0797,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 07:34:23,Food & Dining,Chai Point Cyber Towers,874.83,NetBanking,0
+TXN_PRIYA_0798,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 07:46:23,Health,Cult.fit Gym & Fitness,1566.55,Credit_Card,0
+TXN_PRIYA_0799,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 14:04:23,Subscriptions,Netflix / Prime / Spotify,499.75,Debit_Card,0
+TXN_PRIYA_0800,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 14:18:23,Groceries,D-Mart Supermarket,1568.52,NetBanking,0
+TXN_PRIYA_0801,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 15:49:23,Travel,MakeMyTrip Flights,1418.35,NetBanking,0
+TXN_PRIYA_0802,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 15:57:23,Shopping,Myntra / Zara Lifestyle,3445.29,Credit_Card,0
+TXN_PRIYA_0803,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 16:07:23,Health,Cult.fit Gym & Fitness,1128.66,UPI_GPay,0
+TXN_PRIYA_0804,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 19:23:23,Food & Dining,Swiggy / Zomato,480.52,UPI_GPay,0
+TXN_PRIYA_0805,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-06 22:25:23,Food & Dining,Starbucks Coffee Gachibowli,1491.69,Debit_Card,0
+TXN_PRIYA_0806,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-07 02:41:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,78990.52,Credit_Card,1
+TXN_PRIYA_0807,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-07 04:31:23,Shopping,Myntra / Zara Lifestyle,1424.23,UPI_GPay,0
+TXN_PRIYA_0808,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-07 05:31:23,Health,Cult.fit Gym & Fitness,4447.53,Credit_Card,0
+TXN_PRIYA_0809,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-07 07:40:23,Food & Dining,Swiggy / Zomato,714.2,Credit_Card,0
+TXN_PRIYA_0810,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-07 21:03:23,Subscriptions,Netflix / Prime / Spotify,443.32,Credit_Card,0
+TXN_PRIYA_0811,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-07 23:46:23,Food & Dining,Chai Point Cyber Towers,505.12,UPI_GPay,0
+TXN_PRIYA_0812,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-08 05:55:23,Shopping,Myntra / Zara Lifestyle,744.84,UPI_GPay,0
+TXN_PRIYA_0813,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-08 07:19:23,Health,Cult.fit Gym & Fitness,2023.02,UPI_GPay,0
+TXN_PRIYA_0814,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-08 10:41:23,Food & Dining,Starbucks Coffee Gachibowli,2702.16,Debit_Card,0
+TXN_PRIYA_0815,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-08 13:50:23,Food & Dining,Swiggy / Zomato,827.14,Credit_Card,0
+TXN_PRIYA_0816,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-08 15:51:23,Transit,Uber India,1865.69,UPI_GPay,0
+TXN_PRIYA_0817,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-08 17:39:23,Transit,Uber India,3008.92,Credit_Card,0
+TXN_PRIYA_0818,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-09 00:30:23,Travel,MakeMyTrip Flights,1314.25,Credit_Card,0
+TXN_PRIYA_0819,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-09 02:40:23,Travel,MakeMyTrip Flights,358.97,UPI_GPay,0
+TXN_PRIYA_0820,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-09 04:48:23,Shopping,Myntra / Zara Lifestyle,725.37,NetBanking,0
+TXN_PRIYA_0821,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-09 05:02:23,Food & Dining,Chai Point Cyber Towers,1566.06,UPI_GPay,0
+TXN_PRIYA_0822,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-09 09:47:23,Travel,MakeMyTrip Flights,269.26,UPI_GPay,0
+TXN_PRIYA_0823,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-09 13:31:23,Subscriptions,Netflix / Prime / Spotify,2023.15,Credit_Card,0
+TXN_PRIYA_0824,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-09 15:49:23,Food & Dining,Starbucks Coffee Gachibowli,1091.52,Credit_Card,0
+TXN_PRIYA_0825,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-09 16:27:23,Shopping,Myntra / Zara Lifestyle,1625.58,UPI_GPay,0
+TXN_PRIYA_0826,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-09 16:41:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,47075.31,Credit_Card,1
+TXN_PRIYA_0827,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-09 19:54:23,Groceries,D-Mart Supermarket,523.4,Credit_Card,0
+TXN_PRIYA_0828,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 01:43:23,Groceries,D-Mart Supermarket,223.51,UPI_GPay,0
+TXN_PRIYA_0829,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 02:21:23,Food & Dining,Chai Point Cyber Towers,1288.81,Credit_Card,0
+TXN_PRIYA_0830,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 02:29:23,Subscriptions,Netflix / Prime / Spotify,2748.48,Credit_Card,0
+TXN_PRIYA_0831,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 04:04:23,Shopping,Myntra / Zara Lifestyle,1677.39,UPI_GPay,0
+TXN_PRIYA_0832,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 05:30:23,Health,Cult.fit Gym & Fitness,1173.61,UPI_GPay,0
+TXN_PRIYA_0833,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 05:49:23,Groceries,D-Mart Supermarket,977.88,NetBanking,0
+TXN_PRIYA_0834,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 08:34:23,Health,Cult.fit Gym & Fitness,292.77,UPI_GPay,0
+TXN_PRIYA_0835,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 11:16:23,Food & Dining,Chai Point Cyber Towers,545.96,Credit_Card,0
+TXN_PRIYA_0836,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 11:34:23,Food & Dining,Swiggy / Zomato,621.04,NetBanking,0
+TXN_PRIYA_0837,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 14:37:23,Travel,MakeMyTrip Flights,1573.81,UPI_GPay,0
+TXN_PRIYA_0838,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 15:17:23,Groceries,D-Mart Supermarket,2120.44,Credit_Card,0
+TXN_PRIYA_0839,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 17:53:23,Food & Dining,Swiggy / Zomato,408.09,Credit_Card,0
+TXN_PRIYA_0840,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 22:53:23,Food & Dining,Starbucks Coffee Gachibowli,2908.26,UPI_GPay,0
+TXN_PRIYA_0841,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-10 23:45:23,Subscriptions,Netflix / Prime / Spotify,1143.0,UPI_GPay,0
+TXN_PRIYA_0842,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-11 03:08:23,Food & Dining,Starbucks Coffee Gachibowli,3041.44,UPI_GPay,0
+TXN_PRIYA_0843,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-11 03:48:23,Food & Dining,Starbucks Coffee Gachibowli,1331.31,UPI_GPay,0
+TXN_PRIYA_0844,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-11 05:04:23,Transit,Uber India,1064.79,UPI_GPay,0
+TXN_PRIYA_0845,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-11 13:20:23,Shopping,Myntra / Zara Lifestyle,1918.29,Debit_Card,0
+TXN_PRIYA_0846,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-11 14:02:23,Subscriptions,Netflix / Prime / Spotify,2260.9,UPI_GPay,0
+TXN_PRIYA_0847,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-11 14:19:23,Food & Dining,Chai Point Cyber Towers,846.08,Credit_Card,0
+TXN_PRIYA_0848,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 00:03:23,Health,Cult.fit Gym & Fitness,177.15,NetBanking,0
+TXN_PRIYA_0849,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 00:04:23,Subscriptions,Netflix / Prime / Spotify,822.37,Credit_Card,0
+TXN_PRIYA_0850,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 00:23:23,Health,Cult.fit Gym & Fitness,1121.23,UPI_GPay,0
+TXN_PRIYA_0851,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 03:02:23,Food & Dining,Swiggy / Zomato,928.13,Debit_Card,0
+TXN_PRIYA_0852,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 05:46:23,Health,Cult.fit Gym & Fitness,455.75,UPI_GPay,0
+TXN_PRIYA_0853,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 06:22:23,Shopping,Myntra / Zara Lifestyle,1107.57,UPI_GPay,0
+TXN_PRIYA_0854,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 08:48:23,Shopping,Myntra / Zara Lifestyle,2099.79,UPI_GPay,0
+TXN_PRIYA_0855,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 10:22:23,Food & Dining,Swiggy / Zomato,1706.51,Credit_Card,0
+TXN_PRIYA_0856,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 10:26:23,Transit,Uber India,1124.82,Credit_Card,0
+TXN_PRIYA_0857,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 16:27:23,Subscriptions,Netflix / Prime / Spotify,821.17,UPI_GPay,0
+TXN_PRIYA_0858,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-12 22:48:23,Health,Cult.fit Gym & Fitness,457.93,UPI_GPay,0
+TXN_PRIYA_0859,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 00:12:23,Food & Dining,Starbucks Coffee Gachibowli,964.61,UPI_GPay,0
+TXN_PRIYA_0860,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 00:41:23,Shopping,Myntra / Zara Lifestyle,412.57,Credit_Card,0
+TXN_PRIYA_0861,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 00:49:23,Health,Cult.fit Gym & Fitness,3807.27,UPI_GPay,0
+TXN_PRIYA_0862,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 02:42:23,Subscriptions,Netflix / Prime / Spotify,911.88,UPI_GPay,0
+TXN_PRIYA_0863,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 07:19:23,Food & Dining,Chai Point Cyber Towers,2708.14,UPI_GPay,0
+TXN_PRIYA_0864,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 09:56:23,Health,Cult.fit Gym & Fitness,1211.15,UPI_GPay,0
+TXN_PRIYA_0865,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 12:05:23,Health,Cult.fit Gym & Fitness,1803.36,UPI_GPay,0
+TXN_PRIYA_0866,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 15:01:23,Travel,MakeMyTrip Flights,2356.57,UPI_GPay,0
+TXN_PRIYA_0867,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 16:38:23,Health,Cult.fit Gym & Fitness,1253.08,Credit_Card,0
+TXN_PRIYA_0868,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 17:55:23,Food & Dining,Starbucks Coffee Gachibowli,173.3,NetBanking,0
+TXN_PRIYA_0869,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 19:13:23,Subscriptions,Netflix / Prime / Spotify,1185.62,Credit_Card,0
+TXN_PRIYA_0870,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 20:20:23,Health,Cult.fit Gym & Fitness,607.15,Debit_Card,0
+TXN_PRIYA_0871,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 20:29:23,Food & Dining,Chai Point Cyber Towers,759.77,Credit_Card,0
+TXN_PRIYA_0872,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 21:33:23,Travel,MakeMyTrip Flights,1294.61,Credit_Card,0
+TXN_PRIYA_0873,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-13 23:36:23,Health,Cult.fit Gym & Fitness,722.49,NetBanking,0
+TXN_PRIYA_0874,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-14 01:42:23,Food & Dining,Chai Point Cyber Towers,848.72,Credit_Card,0
+TXN_PRIYA_0875,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-14 07:10:23,Transit,Uber India,407.85,UPI_GPay,0
+TXN_PRIYA_0876,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-14 08:27:23,Transit,Uber India,851.42,NetBanking,0
+TXN_PRIYA_0877,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-14 10:52:23,Subscriptions,Netflix / Prime / Spotify,508.65,NetBanking,0
+TXN_PRIYA_0878,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-14 11:14:23,Transit,Uber India,1426.18,Debit_Card,0
+TXN_PRIYA_0879,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-14 11:37:23,Food & Dining,Swiggy / Zomato,824.53,Credit_Card,0
+TXN_PRIYA_0880,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-14 14:49:23,Food & Dining,Starbucks Coffee Gachibowli,1281.81,UPI_GPay,0
+TXN_PRIYA_0881,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-14 15:10:23,Groceries,D-Mart Supermarket,1049.16,Credit_Card,0
+TXN_PRIYA_0882,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-14 21:54:23,Groceries,D-Mart Supermarket,3042.23,Credit_Card,0
+TXN_PRIYA_0883,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-14 22:17:23,Subscriptions,Netflix / Prime / Spotify,3188.73,NetBanking,0
+TXN_PRIYA_0884,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 02:21:23,Food & Dining,Swiggy / Zomato,2124.66,Credit_Card,0
+TXN_PRIYA_0885,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 03:09:23,Food & Dining,Starbucks Coffee Gachibowli,509.68,UPI_GPay,0
+TXN_PRIYA_0886,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 06:28:23,Travel,MakeMyTrip Flights,3526.45,UPI_GPay,0
+TXN_PRIYA_0887,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 09:22:23,Food & Dining,Chai Point Cyber Towers,3211.37,UPI_GPay,0
+TXN_PRIYA_0888,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 12:01:23,Health,Cult.fit Gym & Fitness,557.66,Debit_Card,0
+TXN_PRIYA_0889,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 13:47:23,Transit,Uber India,562.55,Credit_Card,0
+TXN_PRIYA_0890,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 13:55:23,Travel,MakeMyTrip Flights,279.51,UPI_GPay,0
+TXN_PRIYA_0891,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 13:56:23,Subscriptions,Netflix / Prime / Spotify,1043.4,NetBanking,0
+TXN_PRIYA_0892,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 16:39:23,Food & Dining,Chai Point Cyber Towers,3082.2,UPI_GPay,0
+TXN_PRIYA_0893,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 20:37:23,Food & Dining,Chai Point Cyber Towers,2079.88,Credit_Card,0
+TXN_PRIYA_0894,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 22:55:23,Food & Dining,Starbucks Coffee Gachibowli,1342.37,UPI_GPay,0
+TXN_PRIYA_0895,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 23:40:23,Food & Dining,Swiggy / Zomato,324.82,Credit_Card,0
+TXN_PRIYA_0896,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-15 23:51:23,Groceries,D-Mart Supermarket,862.0,Credit_Card,0
+TXN_PRIYA_0897,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-16 05:21:23,Travel,MakeMyTrip Flights,862.52,NetBanking,0
+TXN_PRIYA_0898,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-16 08:02:23,Subscriptions,Netflix / Prime / Spotify,2642.44,UPI_GPay,0
+TXN_PRIYA_0899,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-16 08:20:23,Travel,MakeMyTrip Flights,862.2,NetBanking,0
+TXN_PRIYA_0900,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-16 12:20:23,Food & Dining,Starbucks Coffee Gachibowli,8000.47,NetBanking,0
+TXN_PRIYA_0901,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-16 17:09:23,Groceries,D-Mart Supermarket,3352.45,UPI_GPay,0
+TXN_PRIYA_0902,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-16 19:49:23,Transit,Uber India,472.02,Credit_Card,0
+TXN_PRIYA_0903,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-16 22:56:23,Food & Dining,Starbucks Coffee Gachibowli,3244.22,Credit_Card,0
+TXN_PRIYA_0904,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-17 01:01:23,Transit,Uber India,194.76,Credit_Card,0
+TXN_PRIYA_0905,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-17 01:58:23,Health,Cult.fit Gym & Fitness,715.98,NetBanking,0
+TXN_PRIYA_0906,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-17 03:38:23,Groceries,D-Mart Supermarket,932.83,Credit_Card,0
+TXN_PRIYA_0907,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-17 13:06:23,Groceries,D-Mart Supermarket,673.44,Credit_Card,0
+TXN_PRIYA_0908,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-17 19:25:23,Health,Cult.fit Gym & Fitness,599.13,UPI_GPay,0
+TXN_PRIYA_0909,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-18 01:51:23,Food & Dining,Swiggy / Zomato,6064.7,Credit_Card,0
+TXN_PRIYA_0910,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-18 07:32:23,Subscriptions,Netflix / Prime / Spotify,986.66,Credit_Card,0
+TXN_PRIYA_0911,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-18 11:03:23,Transit,Uber India,828.88,UPI_GPay,0
+TXN_PRIYA_0912,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-18 11:39:23,Health,Cult.fit Gym & Fitness,1904.34,Credit_Card,0
+TXN_PRIYA_0913,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-18 19:21:23,Food & Dining,Swiggy / Zomato,1845.79,Credit_Card,0
+TXN_PRIYA_0914,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-18 20:11:23,Travel,MakeMyTrip Flights,325.8,Credit_Card,0
+TXN_PRIYA_0915,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-19 01:00:23,Food & Dining,Chai Point Cyber Towers,452.68,UPI_GPay,0
+TXN_PRIYA_0916,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-19 02:52:23,Shopping,Myntra / Zara Lifestyle,193.68,UPI_GPay,0
+TXN_PRIYA_0917,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-19 10:26:23,Shopping,Myntra / Zara Lifestyle,1014.85,Credit_Card,0
+TXN_PRIYA_0918,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-19 13:29:23,Travel,MakeMyTrip Flights,296.47,UPI_GPay,0
+TXN_PRIYA_0919,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-19 14:26:23,Subscriptions,Netflix / Prime / Spotify,3559.94,Credit_Card,0
+TXN_PRIYA_0920,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-20 08:51:23,Groceries,D-Mart Supermarket,1028.42,NetBanking,0
+TXN_PRIYA_0921,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-20 09:08:23,Subscriptions,Netflix / Prime / Spotify,3840.48,Credit_Card,0
+TXN_PRIYA_0922,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-20 16:42:23,Health,Cult.fit Gym & Fitness,1187.64,UPI_GPay,0
+TXN_PRIYA_0923,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-20 19:14:23,Food & Dining,Swiggy / Zomato,572.91,NetBanking,0
+TXN_PRIYA_0924,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-20 21:53:23,Groceries,D-Mart Supermarket,1632.28,NetBanking,0
+TXN_PRIYA_0925,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-21 00:41:23,Travel,MakeMyTrip Flights,650.54,Credit_Card,0
+TXN_PRIYA_0926,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-21 07:08:23,Travel,MakeMyTrip Flights,430.02,Credit_Card,0
+TXN_PRIYA_0927,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-21 12:42:23,Transit,Uber India,1131.04,UPI_GPay,0
+TXN_PRIYA_0928,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-21 16:46:23,Travel,MakeMyTrip Flights,961.99,Credit_Card,0
+TXN_PRIYA_0929,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-21 20:31:23,Transit,Uber India,567.55,NetBanking,0
+TXN_PRIYA_0930,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-22 04:04:23,Food & Dining,Chai Point Cyber Towers,699.65,UPI_GPay,0
+TXN_PRIYA_0931,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-22 11:20:23,Subscriptions,Netflix / Prime / Spotify,1166.18,UPI_GPay,0
+TXN_PRIYA_0932,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-22 12:30:23,Food & Dining,Swiggy / Zomato,551.54,Credit_Card,0
+TXN_PRIYA_0933,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-22 13:11:23,Food & Dining,Chai Point Cyber Towers,599.35,UPI_GPay,0
+TXN_PRIYA_0934,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-22 17:33:23,Food & Dining,Starbucks Coffee Gachibowli,451.26,UPI_GPay,0
+TXN_PRIYA_0935,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-22 18:57:23,Food & Dining,Chai Point Cyber Towers,1203.74,NetBanking,0
+TXN_PRIYA_0936,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-22 23:51:23,Shopping,Myntra / Zara Lifestyle,4144.68,Credit_Card,0
+TXN_PRIYA_0937,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-23 01:32:23,Food & Dining,Starbucks Coffee Gachibowli,1850.65,Credit_Card,0
+TXN_PRIYA_0938,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-23 04:34:23,Shopping,Myntra / Zara Lifestyle,1051.75,Credit_Card,0
+TXN_PRIYA_0939,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-23 08:27:23,Health,Cult.fit Gym & Fitness,613.65,Credit_Card,0
+TXN_PRIYA_0940,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-23 09:50:23,Subscriptions,Netflix / Prime / Spotify,2240.3,UPI_GPay,0
+TXN_PRIYA_0941,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-23 12:20:23,Subscriptions,Netflix / Prime / Spotify,463.18,NetBanking,0
+TXN_PRIYA_0942,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-23 14:05:23,Subscriptions,Netflix / Prime / Spotify,5957.18,Credit_Card,0
+TXN_PRIYA_0943,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-23 17:02:23,Shopping,Myntra / Zara Lifestyle,1187.4,NetBanking,0
+TXN_PRIYA_0944,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-23 22:21:23,Health,Cult.fit Gym & Fitness,933.34,Credit_Card,0
+TXN_PRIYA_0945,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-24 00:57:23,Transit,Uber India,992.49,Credit_Card,0
+TXN_PRIYA_0946,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-24 03:35:23,Groceries,D-Mart Supermarket,731.58,Credit_Card,0
+TXN_PRIYA_0947,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-24 03:38:23,Shopping,Myntra / Zara Lifestyle,522.56,Credit_Card,0
+TXN_PRIYA_0948,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-24 04:07:23,Travel,MakeMyTrip Flights,740.7,NetBanking,0
+TXN_PRIYA_0949,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-24 06:40:23,Transit,Uber India,1077.48,Credit_Card,0
+TXN_PRIYA_0950,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-24 07:08:23,Food & Dining,Starbucks Coffee Gachibowli,345.13,UPI_GPay,0
+TXN_PRIYA_0951,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-24 11:48:23,Food & Dining,Swiggy / Zomato,734.88,UPI_GPay,0
+TXN_PRIYA_0952,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-24 17:12:23,Health,Cult.fit Gym & Fitness,1949.52,NetBanking,0
+TXN_PRIYA_0953,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-24 21:15:23,Groceries,D-Mart Supermarket,2009.22,Credit_Card,0
+TXN_PRIYA_0954,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-24 22:30:23,Travel,MakeMyTrip Flights,268.52,Credit_Card,0
+TXN_PRIYA_0955,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 01:51:23,Shopping,Myntra / Zara Lifestyle,767.05,Credit_Card,0
+TXN_PRIYA_0956,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 06:11:23,Subscriptions,Netflix / Prime / Spotify,1622.58,Credit_Card,0
+TXN_PRIYA_0957,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 07:24:23,Transit,Uber India,3036.72,Credit_Card,0
+TXN_PRIYA_0958,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 08:50:23,Food & Dining,Starbucks Coffee Gachibowli,630.7,NetBanking,0
+TXN_PRIYA_0959,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 10:55:23,Subscriptions,Netflix / Prime / Spotify,1899.21,UPI_GPay,0
+TXN_PRIYA_0960,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 16:04:23,Health,Cult.fit Gym & Fitness,631.59,UPI_GPay,0
+TXN_PRIYA_0961,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 17:32:23,Transit,Uber India,866.43,UPI_GPay,0
+TXN_PRIYA_0962,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 21:13:23,Transit,Uber India,1008.79,Credit_Card,0
+TXN_PRIYA_0963,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 21:21:23,Subscriptions,Netflix / Prime / Spotify,1180.09,Credit_Card,0
+TXN_PRIYA_0964,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 22:25:23,Food & Dining,Swiggy / Zomato,996.48,Debit_Card,0
+TXN_PRIYA_0965,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-25 23:20:23,Food & Dining,Starbucks Coffee Gachibowli,470.49,NetBanking,0
+TXN_PRIYA_0966,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-26 02:31:23,Food & Dining,Chai Point Cyber Towers,957.11,NetBanking,0
+TXN_PRIYA_0967,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-26 02:32:23,Shopping,Myntra / Zara Lifestyle,1547.67,NetBanking,0
+TXN_PRIYA_0968,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-26 04:17:23,Subscriptions,Netflix / Prime / Spotify,702.02,Credit_Card,0
+TXN_PRIYA_0969,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-26 08:00:23,Food & Dining,Starbucks Coffee Gachibowli,3855.76,Credit_Card,0
+TXN_PRIYA_0970,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-27 00:03:23,Transit,Uber India,1802.4,Credit_Card,0
+TXN_PRIYA_0971,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-27 02:02:23,Suspicious Web,OVERSEAS_CASINO_PAYMENT,81232.56,Credit_Card,1
+TXN_PRIYA_0972,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-27 14:52:23,Food & Dining,Swiggy / Zomato,817.44,Credit_Card,0
+TXN_PRIYA_0973,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-27 18:16:23,Food & Dining,Chai Point Cyber Towers,620.05,UPI_GPay,0
+TXN_PRIYA_0974,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-27 23:19:23,Travel,MakeMyTrip Flights,1991.62,UPI_GPay,0
+TXN_PRIYA_0975,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-27 23:40:23,Food & Dining,Chai Point Cyber Towers,661.99,NetBanking,0
+TXN_PRIYA_0976,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-28 08:49:23,Transit,Uber India,813.62,UPI_GPay,0
+TXN_PRIYA_0977,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-28 10:10:23,Travel,MakeMyTrip Flights,699.76,NetBanking,0
+TXN_PRIYA_0978,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-28 18:18:23,Food & Dining,Starbucks Coffee Gachibowli,1719.23,Credit_Card,0
+TXN_PRIYA_0979,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-28 20:50:23,Food & Dining,Chai Point Cyber Towers,285.89,Credit_Card,0
+TXN_PRIYA_0980,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-28 22:22:23,Travel,MakeMyTrip Flights,1415.37,UPI_GPay,0
+TXN_PRIYA_0981,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-29 07:52:23,Shopping,Myntra / Zara Lifestyle,212.94,Credit_Card,0
+TXN_PRIYA_0982,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-29 08:35:23,Shopping,Myntra / Zara Lifestyle,1827.99,Credit_Card,0
+TXN_PRIYA_0983,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-29 08:59:23,Travel,MakeMyTrip Flights,1656.49,Credit_Card,0
+TXN_PRIYA_0984,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-29 14:24:23,Food & Dining,Chai Point Cyber Towers,2821.04,Credit_Card,0
+TXN_PRIYA_0985,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-29 16:50:23,Subscriptions,Netflix / Prime / Spotify,1574.79,UPI_GPay,0
+TXN_PRIYA_0986,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-29 16:54:23,Food & Dining,Starbucks Coffee Gachibowli,3509.33,Credit_Card,0
+TXN_PRIYA_0987,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-29 22:11:23,Food & Dining,Chai Point Cyber Towers,1005.23,UPI_GPay,0
+TXN_PRIYA_0988,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-29 22:17:23,Health,Cult.fit Gym & Fitness,954.12,UPI_GPay,0
+TXN_PRIYA_0989,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-30 00:16:23,Shopping,Myntra / Zara Lifestyle,1184.54,Credit_Card,0
+TXN_PRIYA_0990,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-30 00:50:23,Travel,MakeMyTrip Flights,3052.6,Credit_Card,0
+TXN_PRIYA_0991,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-30 18:51:23,Travel,MakeMyTrip Flights,2337.31,Credit_Card,0
+TXN_PRIYA_0992,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-30 19:47:23,Food & Dining,Chai Point Cyber Towers,756.0,Credit_Card,0
+TXN_PRIYA_0993,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-09-30 21:16:23,Shopping,Myntra / Zara Lifestyle,257.62,UPI_GPay,0
+TXN_PRIYA_0994,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-10-01 00:08:23,Subscriptions,Netflix / Prime / Spotify,545.87,UPI_GPay,0
+TXN_PRIYA_0995,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-10-01 02:15:23,Health,Cult.fit Gym & Fitness,607.56,UPI_GPay,0
+TXN_PRIYA_0996,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-10-01 05:59:23,Transit,Uber India,439.32,Credit_Card,0
+TXN_PRIYA_0997,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-10-01 08:02:23,Subscriptions,Netflix / Prime / Spotify,772.36,UPI_GPay,0
+TXN_PRIYA_0998,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-10-01 09:59:23,Transit,Uber India,1031.79,UPI_GPay,0
+TXN_PRIYA_0999,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-10-01 10:20:23,Shopping,Myntra / Zara Lifestyle,736.35,UPI_GPay,0
+TXN_PRIYA_1000,cust_priya,Priya Patel,Software Engineer (Hitec City),2026-10-01 12:26:23,Subscriptions,Netflix / Prime / Spotify,141.21,UPI_GPay,0

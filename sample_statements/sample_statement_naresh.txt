@@ -1,0 +1,10 @@
+STATE BANK E-ALERT NOTIFICATION LOG
+Cardholder: K. Naresh (23R91A05F3) - TKREC Hostel & Events Head
+Currency: Indian Rupees (INR)
+
+2026-10-01 | College Hostel Catering & Mess Pass | Rs 1450.00 | UPI
+2026-10-01 | Decathlon Sports Gear & Fitness Band | Rs 1200.00 | POS
+2026-10-02 | TSRTC Express Monthly Pass Renewal | Rs 950.00 | UPI
+2026-10-02 | College Fest Sound System Rental Supplies | Rs 1800.00 | UPI
+2026-10-03 | Zepto Hostel Monthly Provisions & Supplies | Rs 1150.00 | POS
+2026-10-04 | Overseas Crypto Wire Transaction Malta | Rs 28000.00 | International

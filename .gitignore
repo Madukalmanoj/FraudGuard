@@ -1,0 +1,28 @@
+# Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Large raw datasets (> 100MB exceeds GitHub limits)
+data/creditcard.csv
+archive (6).zip
+*.zip
+*.tar.gz
+
+# Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

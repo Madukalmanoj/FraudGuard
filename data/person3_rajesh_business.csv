@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Customer_Name,Customer_Role,Timestamp,Category,Merchant,Amount_INR,Channel,Class
+TXN_RAJESH_0001,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-03 17:53:23,Professional Services,Tally Software & Audit,32162.51,Business_Credit_Card,0
+TXN_RAJESH_0002,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-03 21:20:23,Raw Materials,Sri Krishna Wholesale Suppliers,7635.39,RTGS_NEFT,0
+TXN_RAJESH_0003,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 00:56:23,Logistics Fuel,Indian Oil Fuel Station Fleet,18863.55,Corporate_NetBanking,0
+TXN_RAJESH_0004,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 06:33:23,Client Entertainment,Taj Krishna Corporate Dining,33636.66,Corporate_NetBanking,0
+TXN_RAJESH_0005,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 07:39:23,Raw Materials,Sri Krishna Wholesale Suppliers,5841.07,Business_Credit_Card,0
+TXN_RAJESH_0006,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 07:53:23,Travel,Air India Corporate Travel,7031.79,Business_Credit_Card,0
+TXN_RAJESH_0007,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 11:13:23,Client Entertainment,Taj Krishna Corporate Dining,3695.32,RTGS_NEFT,0
+TXN_RAJESH_0008,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 11:58:23,Facilities,Godrej Warehouse Lease,3805.12,Corporate_NetBanking,0
+TXN_RAJESH_0009,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 14:51:23,Logistics Fuel,Indian Oil Fuel Station Fleet,19224.33,Corporate_NetBanking,0
+TXN_RAJESH_0010,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 16:34:23,Travel,Air India Corporate Travel,17738.72,Cheque_Clearance,0
+TXN_RAJESH_0011,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 17:07:23,Travel,Air India Corporate Travel,5135.31,Corporate_NetBanking,0
+TXN_RAJESH_0012,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 19:52:23,Logistics Fuel,Indian Oil Fuel Station Fleet,29494.45,Corporate_NetBanking,0
+TXN_RAJESH_0013,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-04 23:18:23,Client Entertainment,Taj Krishna Corporate Dining,13851.77,Business_Credit_Card,0
+TXN_RAJESH_0014,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-05 01:04:23,Logistics Fuel,Indian Oil Fuel Station Fleet,3918.08,RTGS_NEFT,0
+TXN_RAJESH_0015,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-05 07:27:23,Logistics Fuel,Indian Oil Fuel Station Fleet,13716.51,RTGS_NEFT,0
+TXN_RAJESH_0016,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-05 07:43:23,Facilities,Godrej Warehouse Lease,11407.94,RTGS_NEFT,0
+TXN_RAJESH_0017,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-05 08:51:23,Travel,Air India Corporate Travel,10421.01,Corporate_NetBanking,0
+TXN_RAJESH_0018,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-05 11:26:23,IT Infrastructure,HP Enterprise Server Hosting,14116.25,Corporate_NetBanking,0
+TXN_RAJESH_0019,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-05 20:20:23,Shipping & Transport,BlueDart Logistics Freight,33199.48,Corporate_NetBanking,0
+TXN_RAJESH_0020,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-05 20:40:23,Logistics Fuel,Indian Oil Fuel Station Fleet,8649.78,RTGS_NEFT,0
+TXN_RAJESH_0021,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-06 00:29:23,Shipping & Transport,BlueDart Logistics Freight,15808.83,Business_Credit_Card,0
+TXN_RAJESH_0022,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-06 01:27:23,Travel,Air India Corporate Travel,6508.7,Corporate_NetBanking,0
+TXN_RAJESH_0023,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-06 01:35:23,Travel,Air India Corporate Travel,12578.71,RTGS_NEFT,0
+TXN_RAJESH_0024,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-06 02:15:23,Client Entertainment,Taj Krishna Corporate Dining,12893.13,Corporate_NetBanking,0
+TXN_RAJESH_0025,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-06 16:15:23,Client Entertainment,Taj Krishna Corporate Dining,10829.52,Business_Credit_Card,0
+TXN_RAJESH_0026,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-06 17:00:23,Client Entertainment,Taj Krishna Corporate Dining,20140.42,RTGS_NEFT,0
+TXN_RAJESH_0027,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-06 17:30:23,Logistics Fuel,Indian Oil Fuel Station Fleet,80047.09,Corporate_NetBanking,0
+TXN_RAJESH_0028,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-06 19:03:23,Raw Materials,Sri Krishna Wholesale Suppliers,8538.95,Corporate_NetBanking,0
+TXN_RAJESH_0029,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-07 01:08:23,Raw Materials,Sri Krishna Wholesale Suppliers,10043.01,Corporate_NetBanking,0
+TXN_RAJESH_0030,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-07 01:19:23,Professional Services,Tally Software & Audit,46360.03,Corporate_NetBanking,0
+TXN_RAJESH_0031,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-07 01:38:23,Shipping & Transport,BlueDart Logistics Freight,12784.84,Corporate_NetBanking,0
+TXN_RAJESH_0032,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-07 07:50:23,Professional Services,Tally Software & Audit,32239.32,Business_Credit_Card,0
+TXN_RAJESH_0033,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-07 10:55:23,Shipping & Transport,BlueDart Logistics Freight,14687.47,Corporate_NetBanking,0
+TXN_RAJESH_0034,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-07 11:31:23,Shipping & Transport,BlueDart Logistics Freight,3878.66,RTGS_NEFT,0
+TXN_RAJESH_0035,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-07 11:39:23,Travel,Air India Corporate Travel,9059.77,Corporate_NetBanking,0
+TXN_RAJESH_0036,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-07 15:25:23,Travel,Air India Corporate Travel,28289.94,Corporate_NetBanking,0
+TXN_RAJESH_0037,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-07 20:10:23,Shipping & Transport,BlueDart Logistics Freight,6152.97,Corporate_NetBanking,0
+TXN_RAJESH_0038,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-07 22:08:23,Shipping & Transport,BlueDart Logistics Freight,11043.9,RTGS_NEFT,0
+TXN_RAJESH_0039,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-08 02:28:23,Professional Services,Tally Software & Audit,8958.8,Business_Credit_Card,0
+TXN_RAJESH_0040,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-08 03:20:23,Shipping & Transport,BlueDart Logistics Freight,41019.75,RTGS_NEFT,0
+TXN_RAJESH_0041,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-08 03:53:23,Raw Materials,Sri Krishna Wholesale Suppliers,10786.25,RTGS_NEFT,0
+TXN_RAJESH_0042,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-08 06:35:23,Professional Services,Tally Software & Audit,11385.55,RTGS_NEFT,0
+TXN_RAJESH_0043,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-08 08:48:23,Travel,Air India Corporate Travel,5186.86,RTGS_NEFT,0
+TXN_RAJESH_0044,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-08 11:47:23,Logistics Fuel,Indian Oil Fuel Station Fleet,46366.45,Corporate_NetBanking,0
+TXN_RAJESH_0045,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-08 16:03:23,Professional Services,Tally Software & Audit,11643.89,RTGS_NEFT,0
+TXN_RAJESH_0046,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-09 02:11:23,Facilities,Godrej Warehouse Lease,26918.52,RTGS_NEFT,0
+TXN_RAJESH_0047,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-09 05:20:23,Logistics Fuel,Indian Oil Fuel Station Fleet,27503.27,Cheque_Clearance,0
+TXN_RAJESH_0048,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-09 09:02:23,IT Infrastructure,HP Enterprise Server Hosting,14472.64,Corporate_NetBanking,0
+TXN_RAJESH_0049,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-09 09:19:23,Travel,Air India Corporate Travel,20210.4,Business_Credit_Card,0
+TXN_RAJESH_0050,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-09 13:35:23,Logistics Fuel,Indian Oil Fuel Station Fleet,16259.41,Corporate_NetBanking,0
+TXN_RAJESH_0051,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-09 15:14:23,Logistics Fuel,Indian Oil Fuel Station Fleet,12562.67,Corporate_NetBanking,0
+TXN_RAJESH_0052,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-09 18:39:23,Raw Materials,Sri Krishna Wholesale Suppliers,1464.15,RTGS_NEFT,0
+TXN_RAJESH_0053,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-10 00:10:23,IT Infrastructure,HP Enterprise Server Hosting,48788.17,Cheque_Clearance,0
+TXN_RAJESH_0054,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-10 01:23:23,Raw Materials,Sri Krishna Wholesale Suppliers,18792.98,Business_Credit_Card,0
+TXN_RAJESH_0055,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-10 01:37:23,Professional Services,Tally Software & Audit,9376.42,RTGS_NEFT,0
+TXN_RAJESH_0056,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-10 03:05:23,Logistics Fuel,Indian Oil Fuel Station Fleet,42103.46,Corporate_NetBanking,0
+TXN_RAJESH_0057,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-10 06:12:23,Facilities,Godrej Warehouse Lease,4750.95,Corporate_NetBanking,0
+TXN_RAJESH_0058,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-10 06:58:23,Facilities,Godrej Warehouse Lease,24306.83,Business_Credit_Card,0
+TXN_RAJESH_0059,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-10 10:53:23,Facilities,Godrej Warehouse Lease,16541.63,Corporate_NetBanking,0
+TXN_RAJESH_0060,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-10 14:36:23,IT Infrastructure,HP Enterprise Server Hosting,11777.51,RTGS_NEFT,0
+TXN_RAJESH_0061,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-10 21:14:23,Travel,Air India Corporate Travel,21406.77,Corporate_NetBanking,0
+TXN_RAJESH_0062,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-11 09:54:23,Facilities,Godrej Warehouse Lease,35515.9,Business_Credit_Card,0
+TXN_RAJESH_0063,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-11 12:48:23,Raw Materials,Sri Krishna Wholesale Suppliers,8409.17,Business_Credit_Card,0
+TXN_RAJESH_0064,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-11 13:44:23,Raw Materials,Sri Krishna Wholesale Suppliers,15815.93,Corporate_NetBanking,0
+TXN_RAJESH_0065,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-11 15:04:23,Client Entertainment,Taj Krishna Corporate Dining,7446.39,RTGS_NEFT,0
+TXN_RAJESH_0066,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-11 15:33:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,819254.01,Business_Credit_Card,1
+TXN_RAJESH_0067,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-11 20:01:23,Travel,Air India Corporate Travel,19956.06,Business_Credit_Card,0
+TXN_RAJESH_0068,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-12 03:40:23,Professional Services,Tally Software & Audit,7583.79,RTGS_NEFT,0
+TXN_RAJESH_0069,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-12 04:15:23,Shipping & Transport,BlueDart Logistics Freight,20758.32,Corporate_NetBanking,0
+TXN_RAJESH_0070,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-12 07:32:23,Raw Materials,Sri Krishna Wholesale Suppliers,7695.69,RTGS_NEFT,0
+TXN_RAJESH_0071,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-12 09:19:23,Logistics Fuel,Indian Oil Fuel Station Fleet,26887.0,Corporate_NetBanking,0
+TXN_RAJESH_0072,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-12 12:45:23,Professional Services,Tally Software & Audit,15339.05,Corporate_NetBanking,0
+TXN_RAJESH_0073,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-12 15:14:23,Logistics Fuel,Indian Oil Fuel Station Fleet,4240.63,Cheque_Clearance,0
+TXN_RAJESH_0074,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-12 20:09:23,Professional Services,Tally Software & Audit,18690.53,RTGS_NEFT,0
+TXN_RAJESH_0075,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-13 05:16:23,Client Entertainment,Taj Krishna Corporate Dining,4895.31,Corporate_NetBanking,0
+TXN_RAJESH_0076,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-13 07:49:23,Shipping & Transport,BlueDart Logistics Freight,20431.43,Business_Credit_Card,0
+TXN_RAJESH_0077,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-13 08:01:23,Professional Services,Tally Software & Audit,4282.54,RTGS_NEFT,0
+TXN_RAJESH_0078,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-13 12:00:23,Travel,Air India Corporate Travel,6901.78,Corporate_NetBanking,0
+TXN_RAJESH_0079,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-13 14:00:23,Travel,Air India Corporate Travel,20353.62,Corporate_NetBanking,0
+TXN_RAJESH_0080,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-13 17:06:23,Professional Services,Tally Software & Audit,5189.38,Business_Credit_Card,0
+TXN_RAJESH_0081,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-13 20:06:23,Shipping & Transport,BlueDart Logistics Freight,15848.78,Corporate_NetBanking,0
+TXN_RAJESH_0082,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-13 22:19:23,Raw Materials,Sri Krishna Wholesale Suppliers,3773.49,Corporate_NetBanking,0
+TXN_RAJESH_0083,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-14 06:15:23,Client Entertainment,Taj Krishna Corporate Dining,9295.22,RTGS_NEFT,0
+TXN_RAJESH_0084,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-14 06:26:23,Raw Materials,Sri Krishna Wholesale Suppliers,30258.61,Corporate_NetBanking,0
+TXN_RAJESH_0085,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-14 07:30:23,IT Infrastructure,HP Enterprise Server Hosting,48179.47,RTGS_NEFT,0
+TXN_RAJESH_0086,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-14 11:18:23,Travel,Air India Corporate Travel,19336.71,Business_Credit_Card,0
+TXN_RAJESH_0087,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-14 13:17:23,Raw Materials,Sri Krishna Wholesale Suppliers,33641.77,Business_Credit_Card,0
+TXN_RAJESH_0088,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-14 13:27:23,Facilities,Godrej Warehouse Lease,18952.18,Business_Credit_Card,0
+TXN_RAJESH_0089,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-14 13:58:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,612493.66,Business_Credit_Card,1
+TXN_RAJESH_0090,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-14 15:50:23,Raw Materials,Sri Krishna Wholesale Suppliers,8856.5,Corporate_NetBanking,0
+TXN_RAJESH_0091,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-14 22:30:23,IT Infrastructure,HP Enterprise Server Hosting,26053.13,Corporate_NetBanking,0
+TXN_RAJESH_0092,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-14 22:36:23,IT Infrastructure,HP Enterprise Server Hosting,11659.08,RTGS_NEFT,0
+TXN_RAJESH_0093,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-15 04:22:23,Shipping & Transport,BlueDart Logistics Freight,17582.36,Corporate_NetBanking,0
+TXN_RAJESH_0094,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-15 06:24:23,Shipping & Transport,BlueDart Logistics Freight,5637.52,Corporate_NetBanking,0
+TXN_RAJESH_0095,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-15 11:18:23,Logistics Fuel,Indian Oil Fuel Station Fleet,28029.56,Cheque_Clearance,0
+TXN_RAJESH_0096,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-15 12:51:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,731882.43,Cheque_Clearance,1
+TXN_RAJESH_0097,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-15 14:24:23,IT Infrastructure,HP Enterprise Server Hosting,29924.05,Corporate_NetBanking,0
+TXN_RAJESH_0098,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-15 15:51:23,Logistics Fuel,Indian Oil Fuel Station Fleet,4761.41,Corporate_NetBanking,0
+TXN_RAJESH_0099,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-15 16:14:23,Facilities,Godrej Warehouse Lease,2540.57,RTGS_NEFT,0
+TXN_RAJESH_0100,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-15 17:30:23,Logistics Fuel,Indian Oil Fuel Station Fleet,2391.27,RTGS_NEFT,0
+TXN_RAJESH_0101,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-15 22:28:23,Professional Services,Tally Software & Audit,109761.45,Corporate_NetBanking,0
+TXN_RAJESH_0102,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-16 01:29:23,Logistics Fuel,Indian Oil Fuel Station Fleet,14016.62,Corporate_NetBanking,0
+TXN_RAJESH_0103,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-16 04:18:23,Logistics Fuel,Indian Oil Fuel Station Fleet,14847.71,RTGS_NEFT,0
+TXN_RAJESH_0104,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-16 05:04:23,Facilities,Godrej Warehouse Lease,12814.4,RTGS_NEFT,0
+TXN_RAJESH_0105,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-16 09:34:23,Raw Materials,Sri Krishna Wholesale Suppliers,15146.23,RTGS_NEFT,0
+TXN_RAJESH_0106,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-16 11:00:23,Raw Materials,Sri Krishna Wholesale Suppliers,27335.11,Corporate_NetBanking,0
+TXN_RAJESH_0107,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-16 14:34:23,Facilities,Godrej Warehouse Lease,2679.38,Business_Credit_Card,0
+TXN_RAJESH_0108,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-16 14:38:23,Travel,Air India Corporate Travel,21061.9,Business_Credit_Card,0
+TXN_RAJESH_0109,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-16 17:06:23,Professional Services,Tally Software & Audit,32244.24,Corporate_NetBanking,0
+TXN_RAJESH_0110,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-16 18:54:23,Travel,Air India Corporate Travel,4286.5,Corporate_NetBanking,0
+TXN_RAJESH_0111,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-17 13:47:23,Travel,Air India Corporate Travel,23999.67,Corporate_NetBanking,0
+TXN_RAJESH_0112,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-17 18:37:23,IT Infrastructure,HP Enterprise Server Hosting,34118.96,Business_Credit_Card,0
+TXN_RAJESH_0113,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-17 18:57:23,Professional Services,Tally Software & Audit,19136.13,Business_Credit_Card,0
+TXN_RAJESH_0114,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-17 20:54:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,877832.32,RTGS_NEFT,1
+TXN_RAJESH_0115,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-17 22:33:23,Travel,Air India Corporate Travel,6957.67,RTGS_NEFT,0
+TXN_RAJESH_0116,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-18 05:21:23,Logistics Fuel,Indian Oil Fuel Station Fleet,14793.5,RTGS_NEFT,0
+TXN_RAJESH_0117,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-18 05:27:23,IT Infrastructure,HP Enterprise Server Hosting,8872.21,RTGS_NEFT,0
+TXN_RAJESH_0118,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-18 14:04:23,IT Infrastructure,HP Enterprise Server Hosting,20265.87,Corporate_NetBanking,0
+TXN_RAJESH_0119,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-18 16:56:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,624840.16,Corporate_NetBanking,1
+TXN_RAJESH_0120,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-18 19:37:23,Raw Materials,Sri Krishna Wholesale Suppliers,9645.64,Business_Credit_Card,0
+TXN_RAJESH_0121,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-18 22:00:23,Client Entertainment,Taj Krishna Corporate Dining,6965.82,Corporate_NetBanking,0
+TXN_RAJESH_0122,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-18 23:24:23,Shipping & Transport,BlueDart Logistics Freight,10315.32,RTGS_NEFT,0
+TXN_RAJESH_0123,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-18 23:40:23,Raw Materials,Sri Krishna Wholesale Suppliers,6084.34,Corporate_NetBanking,0
+TXN_RAJESH_0124,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-19 01:29:23,Travel,Air India Corporate Travel,5782.28,Corporate_NetBanking,0
+TXN_RAJESH_0125,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-19 02:09:23,IT Infrastructure,HP Enterprise Server Hosting,22169.57,Business_Credit_Card,0
+TXN_RAJESH_0126,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-19 06:53:23,Shipping & Transport,BlueDart Logistics Freight,25519.7,Business_Credit_Card,0
+TXN_RAJESH_0127,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-19 07:35:23,Client Entertainment,Taj Krishna Corporate Dining,19985.95,Business_Credit_Card,0
+TXN_RAJESH_0128,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-19 11:57:23,IT Infrastructure,HP Enterprise Server Hosting,24084.49,Business_Credit_Card,0
+TXN_RAJESH_0129,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-19 18:20:23,Travel,Air India Corporate Travel,20064.77,Corporate_NetBanking,0
+TXN_RAJESH_0130,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-19 18:37:23,IT Infrastructure,HP Enterprise Server Hosting,18159.68,Corporate_NetBanking,0
+TXN_RAJESH_0131,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-19 22:32:23,Logistics Fuel,Indian Oil Fuel Station Fleet,27886.44,RTGS_NEFT,0
+TXN_RAJESH_0132,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-19 23:32:23,Facilities,Godrej Warehouse Lease,41048.68,Corporate_NetBanking,0
+TXN_RAJESH_0133,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-20 03:50:23,Professional Services,Tally Software & Audit,8644.23,Corporate_NetBanking,0
+TXN_RAJESH_0134,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-20 08:02:23,IT Infrastructure,HP Enterprise Server Hosting,24267.06,Business_Credit_Card,0
+TXN_RAJESH_0135,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-20 09:01:23,Shipping & Transport,BlueDart Logistics Freight,1018.51,Corporate_NetBanking,0
+TXN_RAJESH_0136,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-20 10:08:23,Travel,Air India Corporate Travel,16349.8,Business_Credit_Card,0
+TXN_RAJESH_0137,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-20 10:34:23,Logistics Fuel,Indian Oil Fuel Station Fleet,57024.54,Business_Credit_Card,0
+TXN_RAJESH_0138,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-20 12:36:23,Raw Materials,Sri Krishna Wholesale Suppliers,14276.78,RTGS_NEFT,0
+TXN_RAJESH_0139,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-20 16:19:23,IT Infrastructure,HP Enterprise Server Hosting,34459.77,RTGS_NEFT,0
+TXN_RAJESH_0140,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-20 21:00:23,Raw Materials,Sri Krishna Wholesale Suppliers,11251.66,Corporate_NetBanking,0
+TXN_RAJESH_0141,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-21 09:48:23,Logistics Fuel,Indian Oil Fuel Station Fleet,12399.49,Business_Credit_Card,0
+TXN_RAJESH_0142,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-21 21:22:23,Client Entertainment,Taj Krishna Corporate Dining,19169.58,Corporate_NetBanking,0
+TXN_RAJESH_0143,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-21 23:06:23,Shipping & Transport,BlueDart Logistics Freight,11804.95,Corporate_NetBanking,0
+TXN_RAJESH_0144,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-21 23:29:23,Travel,Air India Corporate Travel,12732.27,Business_Credit_Card,0
+TXN_RAJESH_0145,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-22 00:09:23,Raw Materials,Sri Krishna Wholesale Suppliers,14691.12,Corporate_NetBanking,0
+TXN_RAJESH_0146,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-22 02:37:23,Shipping & Transport,BlueDart Logistics Freight,6789.43,Business_Credit_Card,0
+TXN_RAJESH_0147,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-22 02:55:23,IT Infrastructure,HP Enterprise Server Hosting,7675.22,RTGS_NEFT,0
+TXN_RAJESH_0148,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-22 16:40:23,Client Entertainment,Taj Krishna Corporate Dining,14751.66,RTGS_NEFT,0
+TXN_RAJESH_0149,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-22 17:55:23,Client Entertainment,Taj Krishna Corporate Dining,15609.85,RTGS_NEFT,0
+TXN_RAJESH_0150,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-22 18:55:23,Client Entertainment,Taj Krishna Corporate Dining,11781.78,Corporate_NetBanking,0
+TXN_RAJESH_0151,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-22 20:11:23,Facilities,Godrej Warehouse Lease,6135.39,Corporate_NetBanking,0
+TXN_RAJESH_0152,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-23 00:03:23,IT Infrastructure,HP Enterprise Server Hosting,3960.32,Corporate_NetBanking,0
+TXN_RAJESH_0153,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-23 00:54:23,Facilities,Godrej Warehouse Lease,26682.15,Corporate_NetBanking,0
+TXN_RAJESH_0154,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-23 11:32:23,Travel,Air India Corporate Travel,3583.9,Corporate_NetBanking,0
+TXN_RAJESH_0155,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-23 12:32:23,IT Infrastructure,HP Enterprise Server Hosting,3865.41,Corporate_NetBanking,0
+TXN_RAJESH_0156,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-23 14:27:23,Facilities,Godrej Warehouse Lease,28280.93,Business_Credit_Card,0
+TXN_RAJESH_0157,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-23 14:50:23,Travel,Air India Corporate Travel,18084.7,RTGS_NEFT,0
+TXN_RAJESH_0158,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-23 16:42:23,IT Infrastructure,HP Enterprise Server Hosting,8224.84,RTGS_NEFT,0
+TXN_RAJESH_0159,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-23 17:56:23,Raw Materials,Sri Krishna Wholesale Suppliers,12638.57,Business_Credit_Card,0
+TXN_RAJESH_0160,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-23 19:25:23,Client Entertainment,Taj Krishna Corporate Dining,18886.06,Business_Credit_Card,0
+TXN_RAJESH_0161,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-24 02:23:23,Raw Materials,Sri Krishna Wholesale Suppliers,11369.32,Business_Credit_Card,0
+TXN_RAJESH_0162,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-24 05:10:23,Client Entertainment,Taj Krishna Corporate Dining,84964.22,Business_Credit_Card,0
+TXN_RAJESH_0163,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-24 05:39:23,Facilities,Godrej Warehouse Lease,11789.58,Corporate_NetBanking,0
+TXN_RAJESH_0164,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-24 05:56:23,Raw Materials,Sri Krishna Wholesale Suppliers,14632.42,RTGS_NEFT,0
+TXN_RAJESH_0165,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-24 06:49:23,Logistics Fuel,Indian Oil Fuel Station Fleet,24750.08,Business_Credit_Card,0
+TXN_RAJESH_0166,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-24 08:49:23,IT Infrastructure,HP Enterprise Server Hosting,54282.31,Corporate_NetBanking,0
+TXN_RAJESH_0167,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-24 10:29:23,Logistics Fuel,Indian Oil Fuel Station Fleet,7123.75,Corporate_NetBanking,0
+TXN_RAJESH_0168,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-24 18:30:23,Shipping & Transport,BlueDart Logistics Freight,26339.91,Corporate_NetBanking,0
+TXN_RAJESH_0169,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-24 21:03:23,Logistics Fuel,Indian Oil Fuel Station Fleet,47824.53,Business_Credit_Card,0
+TXN_RAJESH_0170,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-24 21:04:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,635175.79,RTGS_NEFT,1
+TXN_RAJESH_0171,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-25 00:58:23,Client Entertainment,Taj Krishna Corporate Dining,51487.4,Corporate_NetBanking,0
+TXN_RAJESH_0172,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-25 09:55:23,Travel,Air India Corporate Travel,26217.59,Corporate_NetBanking,0
+TXN_RAJESH_0173,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-25 13:13:23,Client Entertainment,Taj Krishna Corporate Dining,16898.03,RTGS_NEFT,0
+TXN_RAJESH_0174,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-25 18:03:23,Logistics Fuel,Indian Oil Fuel Station Fleet,26210.49,Corporate_NetBanking,0
+TXN_RAJESH_0175,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-25 18:09:23,Raw Materials,Sri Krishna Wholesale Suppliers,69894.92,Corporate_NetBanking,0
+TXN_RAJESH_0176,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-25 23:34:23,Shipping & Transport,BlueDart Logistics Freight,33933.93,Corporate_NetBanking,0
+TXN_RAJESH_0177,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-26 02:55:23,Travel,Air India Corporate Travel,9848.18,RTGS_NEFT,0
+TXN_RAJESH_0178,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-26 05:11:23,Professional Services,Tally Software & Audit,61848.42,Business_Credit_Card,0
+TXN_RAJESH_0179,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-26 12:42:23,Facilities,Godrej Warehouse Lease,6526.58,Business_Credit_Card,0
+TXN_RAJESH_0180,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-26 16:15:23,Travel,Air India Corporate Travel,5463.34,Cheque_Clearance,0
+TXN_RAJESH_0181,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-26 19:03:23,Raw Materials,Sri Krishna Wholesale Suppliers,15560.76,RTGS_NEFT,0
+TXN_RAJESH_0182,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-26 21:02:23,IT Infrastructure,HP Enterprise Server Hosting,17190.88,Corporate_NetBanking,0
+TXN_RAJESH_0183,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-26 21:09:23,Travel,Air India Corporate Travel,11743.14,RTGS_NEFT,0
+TXN_RAJESH_0184,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-26 22:20:23,Client Entertainment,Taj Krishna Corporate Dining,10438.31,Corporate_NetBanking,0
+TXN_RAJESH_0185,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 01:17:23,IT Infrastructure,HP Enterprise Server Hosting,32029.08,Business_Credit_Card,0
+TXN_RAJESH_0186,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 02:00:23,Professional Services,Tally Software & Audit,4000.34,Corporate_NetBanking,0
+TXN_RAJESH_0187,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 02:42:23,Travel,Air India Corporate Travel,15921.05,Business_Credit_Card,0
+TXN_RAJESH_0188,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 09:43:23,Client Entertainment,Taj Krishna Corporate Dining,6159.2,Corporate_NetBanking,0
+TXN_RAJESH_0189,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 14:24:23,Facilities,Godrej Warehouse Lease,15538.49,RTGS_NEFT,0
+TXN_RAJESH_0190,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 19:23:23,Shipping & Transport,BlueDart Logistics Freight,29344.81,Corporate_NetBanking,0
+TXN_RAJESH_0191,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 20:04:23,Shipping & Transport,BlueDart Logistics Freight,14549.77,Business_Credit_Card,0
+TXN_RAJESH_0192,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 21:43:23,IT Infrastructure,HP Enterprise Server Hosting,14233.39,Corporate_NetBanking,0
+TXN_RAJESH_0193,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 22:16:23,Shipping & Transport,BlueDart Logistics Freight,15153.0,RTGS_NEFT,0
+TXN_RAJESH_0194,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 22:17:23,Facilities,Godrej Warehouse Lease,9877.82,RTGS_NEFT,0
+TXN_RAJESH_0195,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-27 22:50:23,Raw Materials,Sri Krishna Wholesale Suppliers,6502.04,Corporate_NetBanking,0
+TXN_RAJESH_0196,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-28 04:24:23,Raw Materials,Sri Krishna Wholesale Suppliers,59488.88,RTGS_NEFT,0
+TXN_RAJESH_0197,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-28 06:06:23,Client Entertainment,Taj Krishna Corporate Dining,9761.04,Corporate_NetBanking,0
+TXN_RAJESH_0198,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-28 13:30:23,Shipping & Transport,BlueDart Logistics Freight,10305.48,Business_Credit_Card,0
+TXN_RAJESH_0199,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-28 15:09:23,Raw Materials,Sri Krishna Wholesale Suppliers,26395.08,RTGS_NEFT,0
+TXN_RAJESH_0200,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-28 15:19:23,Travel,Air India Corporate Travel,89682.99,Corporate_NetBanking,0
+TXN_RAJESH_0201,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-28 16:47:23,Facilities,Godrej Warehouse Lease,13956.93,Cheque_Clearance,0
+TXN_RAJESH_0202,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-28 19:47:23,Logistics Fuel,Indian Oil Fuel Station Fleet,5214.17,Corporate_NetBanking,0
+TXN_RAJESH_0203,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-29 07:18:23,Client Entertainment,Taj Krishna Corporate Dining,9921.27,Corporate_NetBanking,0
+TXN_RAJESH_0204,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-29 07:31:23,Travel,Air India Corporate Travel,11887.23,RTGS_NEFT,0
+TXN_RAJESH_0205,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-29 08:49:23,Professional Services,Tally Software & Audit,22604.61,RTGS_NEFT,0
+TXN_RAJESH_0206,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-29 09:40:23,Facilities,Godrej Warehouse Lease,6616.61,Corporate_NetBanking,0
+TXN_RAJESH_0207,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-29 10:26:23,Professional Services,Tally Software & Audit,41380.76,Corporate_NetBanking,0
+TXN_RAJESH_0208,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-29 13:05:23,Logistics Fuel,Indian Oil Fuel Station Fleet,8106.48,RTGS_NEFT,0
+TXN_RAJESH_0209,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-29 16:32:23,Client Entertainment,Taj Krishna Corporate Dining,34321.6,Corporate_NetBanking,0
+TXN_RAJESH_0210,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 00:26:23,Travel,Air India Corporate Travel,49790.22,RTGS_NEFT,0
+TXN_RAJESH_0211,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 00:45:23,Client Entertainment,Taj Krishna Corporate Dining,17200.39,RTGS_NEFT,0
+TXN_RAJESH_0212,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 04:27:23,Client Entertainment,Taj Krishna Corporate Dining,12640.91,Corporate_NetBanking,0
+TXN_RAJESH_0213,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 08:02:23,Professional Services,Tally Software & Audit,7146.76,Corporate_NetBanking,0
+TXN_RAJESH_0214,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 08:16:23,Raw Materials,Sri Krishna Wholesale Suppliers,52855.42,Business_Credit_Card,0
+TXN_RAJESH_0215,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 10:36:23,Facilities,Godrej Warehouse Lease,20538.89,Corporate_NetBanking,0
+TXN_RAJESH_0216,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 10:50:23,Travel,Air India Corporate Travel,3945.06,RTGS_NEFT,0
+TXN_RAJESH_0217,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 14:27:23,Professional Services,Tally Software & Audit,14885.84,Cheque_Clearance,0
+TXN_RAJESH_0218,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 14:53:23,IT Infrastructure,HP Enterprise Server Hosting,4975.53,Business_Credit_Card,0
+TXN_RAJESH_0219,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 20:34:23,Facilities,Godrej Warehouse Lease,4919.48,Business_Credit_Card,0
+TXN_RAJESH_0220,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 20:39:23,Raw Materials,Sri Krishna Wholesale Suppliers,10401.45,Corporate_NetBanking,0
+TXN_RAJESH_0221,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-06-30 20:56:23,Travel,Air India Corporate Travel,7164.95,Business_Credit_Card,0
+TXN_RAJESH_0222,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 02:32:23,Raw Materials,Sri Krishna Wholesale Suppliers,14381.6,Business_Credit_Card,0
+TXN_RAJESH_0223,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 02:39:23,Travel,Air India Corporate Travel,40428.17,Business_Credit_Card,0
+TXN_RAJESH_0224,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 03:02:23,Facilities,Godrej Warehouse Lease,14458.75,Corporate_NetBanking,0
+TXN_RAJESH_0225,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 05:28:23,Client Entertainment,Taj Krishna Corporate Dining,21864.83,RTGS_NEFT,0
+TXN_RAJESH_0226,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 05:35:23,IT Infrastructure,HP Enterprise Server Hosting,12986.76,Corporate_NetBanking,0
+TXN_RAJESH_0227,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 08:34:23,Travel,Air India Corporate Travel,12168.62,RTGS_NEFT,0
+TXN_RAJESH_0228,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 08:43:23,Logistics Fuel,Indian Oil Fuel Station Fleet,26715.24,RTGS_NEFT,0
+TXN_RAJESH_0229,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 10:44:23,IT Infrastructure,HP Enterprise Server Hosting,9752.33,Business_Credit_Card,0
+TXN_RAJESH_0230,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 11:43:23,IT Infrastructure,HP Enterprise Server Hosting,11121.27,Corporate_NetBanking,0
+TXN_RAJESH_0231,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 12:18:23,Client Entertainment,Taj Krishna Corporate Dining,2682.37,Business_Credit_Card,0
+TXN_RAJESH_0232,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 13:26:23,Facilities,Godrej Warehouse Lease,19370.96,Corporate_NetBanking,0
+TXN_RAJESH_0233,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 17:39:23,Professional Services,Tally Software & Audit,7003.21,RTGS_NEFT,0
+TXN_RAJESH_0234,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 21:20:23,Logistics Fuel,Indian Oil Fuel Station Fleet,9969.71,Corporate_NetBanking,0
+TXN_RAJESH_0235,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-01 21:57:23,Logistics Fuel,Indian Oil Fuel Station Fleet,11855.61,Corporate_NetBanking,0
+TXN_RAJESH_0236,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-02 02:39:23,Facilities,Godrej Warehouse Lease,16078.74,Corporate_NetBanking,0
+TXN_RAJESH_0237,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-02 10:44:23,Logistics Fuel,Indian Oil Fuel Station Fleet,16300.44,RTGS_NEFT,0
+TXN_RAJESH_0238,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-02 11:02:23,Travel,Air India Corporate Travel,11353.86,Business_Credit_Card,0
+TXN_RAJESH_0239,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-02 13:51:23,Travel,Air India Corporate Travel,19176.76,Business_Credit_Card,0
+TXN_RAJESH_0240,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-02 17:02:23,Facilities,Godrej Warehouse Lease,19285.68,Business_Credit_Card,0
+TXN_RAJESH_0241,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-02 17:04:23,Travel,Air India Corporate Travel,38160.42,RTGS_NEFT,0
+TXN_RAJESH_0242,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-02 17:20:23,Professional Services,Tally Software & Audit,2038.16,Corporate_NetBanking,0
+TXN_RAJESH_0243,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-02 19:53:23,Shipping & Transport,BlueDart Logistics Freight,3456.91,Business_Credit_Card,0
+TXN_RAJESH_0244,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-03 00:10:23,Facilities,Godrej Warehouse Lease,19058.46,Business_Credit_Card,0
+TXN_RAJESH_0245,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-03 01:37:23,Client Entertainment,Taj Krishna Corporate Dining,7093.66,Corporate_NetBanking,0
+TXN_RAJESH_0246,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-03 05:02:23,Raw Materials,Sri Krishna Wholesale Suppliers,21727.48,Corporate_NetBanking,0
+TXN_RAJESH_0247,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-03 07:33:23,Facilities,Godrej Warehouse Lease,19693.66,Corporate_NetBanking,0
+TXN_RAJESH_0248,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-03 13:23:23,Shipping & Transport,BlueDart Logistics Freight,12653.82,Corporate_NetBanking,0
+TXN_RAJESH_0249,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-03 15:20:23,Client Entertainment,Taj Krishna Corporate Dining,10715.89,Corporate_NetBanking,0
+TXN_RAJESH_0250,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-03 19:32:23,IT Infrastructure,HP Enterprise Server Hosting,7826.35,Corporate_NetBanking,0
+TXN_RAJESH_0251,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-03 20:20:23,Shipping & Transport,BlueDart Logistics Freight,4375.23,Business_Credit_Card,0
+TXN_RAJESH_0252,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-03 23:34:23,Raw Materials,Sri Krishna Wholesale Suppliers,8051.46,Corporate_NetBanking,0
+TXN_RAJESH_0253,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-04 00:31:23,IT Infrastructure,HP Enterprise Server Hosting,12328.7,Corporate_NetBanking,0
+TXN_RAJESH_0254,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-04 02:45:23,Client Entertainment,Taj Krishna Corporate Dining,23810.94,RTGS_NEFT,0
+TXN_RAJESH_0255,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-04 03:19:23,Raw Materials,Sri Krishna Wholesale Suppliers,2228.4,Business_Credit_Card,0
+TXN_RAJESH_0256,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-04 06:49:23,Client Entertainment,Taj Krishna Corporate Dining,12643.16,Corporate_NetBanking,0
+TXN_RAJESH_0257,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-04 14:40:23,Logistics Fuel,Indian Oil Fuel Station Fleet,11739.31,Business_Credit_Card,0
+TXN_RAJESH_0258,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-04 15:54:23,Facilities,Godrej Warehouse Lease,4180.92,Corporate_NetBanking,0
+TXN_RAJESH_0259,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-04 20:35:23,Raw Materials,Sri Krishna Wholesale Suppliers,3202.82,Corporate_NetBanking,0
+TXN_RAJESH_0260,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-04 21:07:23,Shipping & Transport,BlueDart Logistics Freight,7792.7,Corporate_NetBanking,0
+TXN_RAJESH_0261,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-04 23:26:23,Raw Materials,Sri Krishna Wholesale Suppliers,11222.57,Cheque_Clearance,0
+TXN_RAJESH_0262,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-05 01:01:23,Facilities,Godrej Warehouse Lease,26474.02,RTGS_NEFT,0
+TXN_RAJESH_0263,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-05 04:16:23,Raw Materials,Sri Krishna Wholesale Suppliers,8300.03,RTGS_NEFT,0
+TXN_RAJESH_0264,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-05 11:57:23,IT Infrastructure,HP Enterprise Server Hosting,50867.37,Cheque_Clearance,0
+TXN_RAJESH_0265,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-05 15:09:23,Client Entertainment,Taj Krishna Corporate Dining,9864.57,RTGS_NEFT,0
+TXN_RAJESH_0266,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-05 15:17:23,Travel,Air India Corporate Travel,3942.49,RTGS_NEFT,0
+TXN_RAJESH_0267,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-05 22:40:23,Travel,Air India Corporate Travel,96470.99,Business_Credit_Card,0
+TXN_RAJESH_0268,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-06 10:52:23,Client Entertainment,Taj Krishna Corporate Dining,5589.2,Corporate_NetBanking,0
+TXN_RAJESH_0269,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-06 12:41:23,Travel,Air India Corporate Travel,3880.96,Corporate_NetBanking,0
+TXN_RAJESH_0270,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-06 13:57:23,Logistics Fuel,Indian Oil Fuel Station Fleet,90287.78,Business_Credit_Card,0
+TXN_RAJESH_0271,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-06 14:55:23,Raw Materials,Sri Krishna Wholesale Suppliers,42399.47,Business_Credit_Card,0
+TXN_RAJESH_0272,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-07 01:52:23,IT Infrastructure,HP Enterprise Server Hosting,13981.82,Cheque_Clearance,0
+TXN_RAJESH_0273,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-07 06:12:23,Shipping & Transport,BlueDart Logistics Freight,5468.5,Business_Credit_Card,0
+TXN_RAJESH_0274,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-07 07:16:23,Logistics Fuel,Indian Oil Fuel Station Fleet,19863.64,Business_Credit_Card,0
+TXN_RAJESH_0275,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-07 08:07:23,Facilities,Godrej Warehouse Lease,9158.76,Business_Credit_Card,0
+TXN_RAJESH_0276,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-07 09:12:23,IT Infrastructure,HP Enterprise Server Hosting,1676.22,Corporate_NetBanking,0
+TXN_RAJESH_0277,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-07 18:39:23,IT Infrastructure,HP Enterprise Server Hosting,12401.28,Business_Credit_Card,0
+TXN_RAJESH_0278,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-07 20:22:23,Raw Materials,Sri Krishna Wholesale Suppliers,21748.09,Business_Credit_Card,0
+TXN_RAJESH_0279,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-07 20:47:23,Facilities,Godrej Warehouse Lease,9996.21,Business_Credit_Card,0
+TXN_RAJESH_0280,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-08 02:10:23,Facilities,Godrej Warehouse Lease,19710.76,Business_Credit_Card,0
+TXN_RAJESH_0281,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-08 02:21:23,Raw Materials,Sri Krishna Wholesale Suppliers,41756.36,Corporate_NetBanking,0
+TXN_RAJESH_0282,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-08 06:32:23,Raw Materials,Sri Krishna Wholesale Suppliers,45781.49,Business_Credit_Card,0
+TXN_RAJESH_0283,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-08 12:31:23,Raw Materials,Sri Krishna Wholesale Suppliers,9489.21,Business_Credit_Card,0
+TXN_RAJESH_0284,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-08 14:02:23,Shipping & Transport,BlueDart Logistics Freight,8162.42,Business_Credit_Card,0
+TXN_RAJESH_0285,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-08 14:45:23,IT Infrastructure,HP Enterprise Server Hosting,10954.34,Business_Credit_Card,0
+TXN_RAJESH_0286,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-08 14:55:23,Professional Services,Tally Software & Audit,16413.93,Corporate_NetBanking,0
+TXN_RAJESH_0287,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-08 20:08:23,Professional Services,Tally Software & Audit,15944.54,Corporate_NetBanking,0
+TXN_RAJESH_0288,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-08 23:46:23,Client Entertainment,Taj Krishna Corporate Dining,21759.01,Corporate_NetBanking,0
+TXN_RAJESH_0289,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-09 05:06:23,IT Infrastructure,HP Enterprise Server Hosting,17266.3,Business_Credit_Card,0
+TXN_RAJESH_0290,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-09 05:58:23,Travel,Air India Corporate Travel,9926.54,Business_Credit_Card,0
+TXN_RAJESH_0291,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-09 08:59:23,Raw Materials,Sri Krishna Wholesale Suppliers,5590.21,RTGS_NEFT,0
+TXN_RAJESH_0292,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-09 09:32:23,IT Infrastructure,HP Enterprise Server Hosting,30884.71,Corporate_NetBanking,0
+TXN_RAJESH_0293,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-09 17:56:23,Raw Materials,Sri Krishna Wholesale Suppliers,29949.45,Corporate_NetBanking,0
+TXN_RAJESH_0294,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-09 18:42:23,Raw Materials,Sri Krishna Wholesale Suppliers,5233.28,Business_Credit_Card,0
+TXN_RAJESH_0295,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-10 01:53:23,Raw Materials,Sri Krishna Wholesale Suppliers,23185.99,Business_Credit_Card,0
+TXN_RAJESH_0296,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-10 03:01:23,Raw Materials,Sri Krishna Wholesale Suppliers,21375.2,Business_Credit_Card,0
+TXN_RAJESH_0297,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-10 06:49:23,Travel,Air India Corporate Travel,46726.34,RTGS_NEFT,0
+TXN_RAJESH_0298,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-10 18:29:23,Professional Services,Tally Software & Audit,7536.26,RTGS_NEFT,0
+TXN_RAJESH_0299,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-10 19:18:23,Professional Services,Tally Software & Audit,28736.86,Corporate_NetBanking,0
+TXN_RAJESH_0300,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-10 20:24:23,Logistics Fuel,Indian Oil Fuel Station Fleet,27227.12,RTGS_NEFT,0
+TXN_RAJESH_0301,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-10 22:59:23,Client Entertainment,Taj Krishna Corporate Dining,101244.85,Corporate_NetBanking,0
+TXN_RAJESH_0302,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-11 01:44:23,Client Entertainment,Taj Krishna Corporate Dining,9723.9,Business_Credit_Card,0
+TXN_RAJESH_0303,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-11 02:54:23,Shipping & Transport,BlueDart Logistics Freight,45958.56,Business_Credit_Card,0
+TXN_RAJESH_0304,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-11 10:32:23,Professional Services,Tally Software & Audit,34269.7,Business_Credit_Card,0
+TXN_RAJESH_0305,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-11 10:32:23,Professional Services,Tally Software & Audit,7773.02,Corporate_NetBanking,0
+TXN_RAJESH_0306,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-11 14:58:23,Travel,Air India Corporate Travel,25846.72,Corporate_NetBanking,0
+TXN_RAJESH_0307,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-11 15:19:23,IT Infrastructure,HP Enterprise Server Hosting,15361.35,Business_Credit_Card,0
+TXN_RAJESH_0308,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-11 19:03:23,Facilities,Godrej Warehouse Lease,7067.35,Corporate_NetBanking,0
+TXN_RAJESH_0309,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-11 19:31:23,Shipping & Transport,BlueDart Logistics Freight,7047.94,Corporate_NetBanking,0
+TXN_RAJESH_0310,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-11 23:41:23,Travel,Air India Corporate Travel,19890.57,Business_Credit_Card,0
+TXN_RAJESH_0311,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-12 00:48:23,Raw Materials,Sri Krishna Wholesale Suppliers,23459.36,Business_Credit_Card,0
+TXN_RAJESH_0312,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-12 04:59:23,Shipping & Transport,BlueDart Logistics Freight,9371.71,Business_Credit_Card,0
+TXN_RAJESH_0313,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-12 05:47:23,Facilities,Godrej Warehouse Lease,10823.53,Corporate_NetBanking,0
+TXN_RAJESH_0314,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-12 06:06:23,Logistics Fuel,Indian Oil Fuel Station Fleet,2283.15,RTGS_NEFT,0
+TXN_RAJESH_0315,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-12 11:10:23,Logistics Fuel,Indian Oil Fuel Station Fleet,18786.68,Corporate_NetBanking,0
+TXN_RAJESH_0316,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-12 14:36:23,IT Infrastructure,HP Enterprise Server Hosting,20262.66,RTGS_NEFT,0
+TXN_RAJESH_0317,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-12 14:40:23,Travel,Air India Corporate Travel,2291.08,Business_Credit_Card,0
+TXN_RAJESH_0318,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-12 15:33:23,Logistics Fuel,Indian Oil Fuel Station Fleet,40677.34,Business_Credit_Card,0
+TXN_RAJESH_0319,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-12 20:52:23,Professional Services,Tally Software & Audit,2687.38,RTGS_NEFT,0
+TXN_RAJESH_0320,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-12 22:01:23,Professional Services,Tally Software & Audit,20551.04,Corporate_NetBanking,0
+TXN_RAJESH_0321,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-13 07:18:23,Professional Services,Tally Software & Audit,26390.95,Corporate_NetBanking,0
+TXN_RAJESH_0322,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-13 07:24:23,IT Infrastructure,HP Enterprise Server Hosting,38771.02,Business_Credit_Card,0
+TXN_RAJESH_0323,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-13 09:04:23,Facilities,Godrej Warehouse Lease,19544.34,Corporate_NetBanking,0
+TXN_RAJESH_0324,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-13 13:14:23,Shipping & Transport,BlueDart Logistics Freight,4085.12,Business_Credit_Card,0
+TXN_RAJESH_0325,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-13 13:16:23,Raw Materials,Sri Krishna Wholesale Suppliers,1651.51,Corporate_NetBanking,0
+TXN_RAJESH_0326,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-13 13:58:23,Client Entertainment,Taj Krishna Corporate Dining,7752.95,RTGS_NEFT,0
+TXN_RAJESH_0327,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-14 03:55:23,Client Entertainment,Taj Krishna Corporate Dining,9521.54,Business_Credit_Card,0
+TXN_RAJESH_0328,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-14 07:19:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,632782.64,Corporate_NetBanking,1
+TXN_RAJESH_0329,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-14 07:45:23,Shipping & Transport,BlueDart Logistics Freight,12630.39,RTGS_NEFT,0
+TXN_RAJESH_0330,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-14 08:55:23,IT Infrastructure,HP Enterprise Server Hosting,20821.88,Corporate_NetBanking,0
+TXN_RAJESH_0331,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-14 09:01:23,Raw Materials,Sri Krishna Wholesale Suppliers,7546.47,Corporate_NetBanking,0
+TXN_RAJESH_0332,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-14 12:54:23,Client Entertainment,Taj Krishna Corporate Dining,12415.11,Corporate_NetBanking,0
+TXN_RAJESH_0333,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-14 23:08:23,Travel,Air India Corporate Travel,119093.18,Business_Credit_Card,0
+TXN_RAJESH_0334,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-14 23:09:23,Professional Services,Tally Software & Audit,6645.5,Business_Credit_Card,0
+TXN_RAJESH_0335,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-14 23:31:23,Shipping & Transport,BlueDart Logistics Freight,6417.78,Business_Credit_Card,0
+TXN_RAJESH_0336,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-15 00:10:23,Logistics Fuel,Indian Oil Fuel Station Fleet,14024.09,Corporate_NetBanking,0
+TXN_RAJESH_0337,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-15 10:12:23,Professional Services,Tally Software & Audit,6572.83,Cheque_Clearance,0
+TXN_RAJESH_0338,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-15 11:26:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,905934.27,RTGS_NEFT,1
+TXN_RAJESH_0339,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-15 16:32:23,Client Entertainment,Taj Krishna Corporate Dining,24343.12,Corporate_NetBanking,0
+TXN_RAJESH_0340,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-15 18:41:23,Logistics Fuel,Indian Oil Fuel Station Fleet,6177.41,RTGS_NEFT,0
+TXN_RAJESH_0341,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-16 01:24:23,Professional Services,Tally Software & Audit,17010.32,Business_Credit_Card,0
+TXN_RAJESH_0342,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-16 02:25:23,Facilities,Godrej Warehouse Lease,25568.59,Corporate_NetBanking,0
+TXN_RAJESH_0343,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-16 02:25:23,Raw Materials,Sri Krishna Wholesale Suppliers,6554.65,Corporate_NetBanking,0
+TXN_RAJESH_0344,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-16 03:28:23,Travel,Air India Corporate Travel,16768.41,Corporate_NetBanking,0
+TXN_RAJESH_0345,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-16 06:50:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,362614.88,RTGS_NEFT,1
+TXN_RAJESH_0346,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-16 13:11:23,Professional Services,Tally Software & Audit,9129.44,Business_Credit_Card,0
+TXN_RAJESH_0347,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-16 17:18:23,Professional Services,Tally Software & Audit,24426.37,Corporate_NetBanking,0
+TXN_RAJESH_0348,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-16 21:19:23,Facilities,Godrej Warehouse Lease,21276.51,Corporate_NetBanking,0
+TXN_RAJESH_0349,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-16 21:31:23,IT Infrastructure,HP Enterprise Server Hosting,14502.11,Business_Credit_Card,0
+TXN_RAJESH_0350,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-16 22:15:23,Facilities,Godrej Warehouse Lease,46386.14,Business_Credit_Card,0
+TXN_RAJESH_0351,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-17 05:10:23,IT Infrastructure,HP Enterprise Server Hosting,6820.55,RTGS_NEFT,0
+TXN_RAJESH_0352,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-17 05:45:23,Client Entertainment,Taj Krishna Corporate Dining,8276.58,Cheque_Clearance,0
+TXN_RAJESH_0353,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-17 07:34:23,Facilities,Godrej Warehouse Lease,6821.25,Business_Credit_Card,0
+TXN_RAJESH_0354,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-17 07:56:23,IT Infrastructure,HP Enterprise Server Hosting,9710.65,Business_Credit_Card,0
+TXN_RAJESH_0355,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-17 08:05:23,Shipping & Transport,BlueDart Logistics Freight,9291.4,Corporate_NetBanking,0
+TXN_RAJESH_0356,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-17 10:27:23,Professional Services,Tally Software & Audit,27820.96,RTGS_NEFT,0
+TXN_RAJESH_0357,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-17 13:59:23,Logistics Fuel,Indian Oil Fuel Station Fleet,16417.04,Corporate_NetBanking,0
+TXN_RAJESH_0358,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-17 19:55:23,Professional Services,Tally Software & Audit,5773.8,Corporate_NetBanking,0
+TXN_RAJESH_0359,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-17 20:48:23,IT Infrastructure,HP Enterprise Server Hosting,59953.3,RTGS_NEFT,0
+TXN_RAJESH_0360,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-17 21:33:23,Raw Materials,Sri Krishna Wholesale Suppliers,4990.16,Corporate_NetBanking,0
+TXN_RAJESH_0361,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 01:42:23,Logistics Fuel,Indian Oil Fuel Station Fleet,10390.0,Corporate_NetBanking,0
+TXN_RAJESH_0362,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 02:49:23,Client Entertainment,Taj Krishna Corporate Dining,27947.82,Business_Credit_Card,0
+TXN_RAJESH_0363,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 05:09:23,Travel,Air India Corporate Travel,20989.7,Corporate_NetBanking,0
+TXN_RAJESH_0364,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 06:31:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,669294.49,Corporate_NetBanking,1
+TXN_RAJESH_0365,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 07:41:23,IT Infrastructure,HP Enterprise Server Hosting,31238.38,Business_Credit_Card,0
+TXN_RAJESH_0366,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 07:53:23,Travel,Air India Corporate Travel,10556.12,Business_Credit_Card,0
+TXN_RAJESH_0367,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 11:16:23,IT Infrastructure,HP Enterprise Server Hosting,12794.81,Corporate_NetBanking,0
+TXN_RAJESH_0368,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 13:50:23,Travel,Air India Corporate Travel,7441.87,RTGS_NEFT,0
+TXN_RAJESH_0369,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 14:24:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,874201.19,Corporate_NetBanking,1
+TXN_RAJESH_0370,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 15:04:23,Facilities,Godrej Warehouse Lease,48598.36,RTGS_NEFT,0
+TXN_RAJESH_0371,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 17:56:23,Logistics Fuel,Indian Oil Fuel Station Fleet,28992.92,Corporate_NetBanking,0
+TXN_RAJESH_0372,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-18 20:47:23,Travel,Air India Corporate Travel,14485.66,Business_Credit_Card,0
+TXN_RAJESH_0373,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-19 06:16:23,Travel,Air India Corporate Travel,13999.82,Corporate_NetBanking,0
+TXN_RAJESH_0374,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-19 12:23:23,Logistics Fuel,Indian Oil Fuel Station Fleet,27780.93,Corporate_NetBanking,0
+TXN_RAJESH_0375,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-19 13:43:23,Professional Services,Tally Software & Audit,8725.94,Corporate_NetBanking,0
+TXN_RAJESH_0376,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-19 17:39:23,Logistics Fuel,Indian Oil Fuel Station Fleet,21960.2,Business_Credit_Card,0
+TXN_RAJESH_0377,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-20 02:34:23,Shipping & Transport,BlueDart Logistics Freight,18533.81,Business_Credit_Card,0
+TXN_RAJESH_0378,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-20 04:19:23,Professional Services,Tally Software & Audit,11067.27,Corporate_NetBanking,0
+TXN_RAJESH_0379,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-20 09:05:23,Client Entertainment,Taj Krishna Corporate Dining,30266.54,Cheque_Clearance,0
+TXN_RAJESH_0380,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-20 14:21:23,Logistics Fuel,Indian Oil Fuel Station Fleet,21350.38,Corporate_NetBanking,0
+TXN_RAJESH_0381,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-20 15:10:23,Facilities,Godrej Warehouse Lease,12598.74,Business_Credit_Card,0
+TXN_RAJESH_0382,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-20 22:38:23,Travel,Air India Corporate Travel,10663.6,Corporate_NetBanking,0
+TXN_RAJESH_0383,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-20 23:42:23,Facilities,Godrej Warehouse Lease,28638.95,Business_Credit_Card,0
+TXN_RAJESH_0384,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-21 07:56:23,Shipping & Transport,BlueDart Logistics Freight,7686.7,RTGS_NEFT,0
+TXN_RAJESH_0385,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-21 08:14:23,Logistics Fuel,Indian Oil Fuel Station Fleet,8126.74,Business_Credit_Card,0
+TXN_RAJESH_0386,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-21 09:17:23,Logistics Fuel,Indian Oil Fuel Station Fleet,72461.56,Corporate_NetBanking,0
+TXN_RAJESH_0387,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-21 20:39:23,Travel,Air India Corporate Travel,5529.15,Corporate_NetBanking,0
+TXN_RAJESH_0388,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-21 23:30:23,Shipping & Transport,BlueDart Logistics Freight,24056.96,RTGS_NEFT,0
+TXN_RAJESH_0389,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-22 01:27:23,Facilities,Godrej Warehouse Lease,16833.09,Corporate_NetBanking,0
+TXN_RAJESH_0390,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-22 02:00:23,Logistics Fuel,Indian Oil Fuel Station Fleet,20071.59,Corporate_NetBanking,0
+TXN_RAJESH_0391,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-22 13:49:23,Logistics Fuel,Indian Oil Fuel Station Fleet,4372.96,Corporate_NetBanking,0
+TXN_RAJESH_0392,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-22 15:37:23,Raw Materials,Sri Krishna Wholesale Suppliers,17870.5,Corporate_NetBanking,0
+TXN_RAJESH_0393,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-22 17:31:23,Logistics Fuel,Indian Oil Fuel Station Fleet,13578.16,Corporate_NetBanking,0
+TXN_RAJESH_0394,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-22 18:27:23,Facilities,Godrej Warehouse Lease,12789.98,RTGS_NEFT,0
+TXN_RAJESH_0395,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-22 18:35:23,Raw Materials,Sri Krishna Wholesale Suppliers,4000.49,RTGS_NEFT,0
+TXN_RAJESH_0396,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-22 19:31:23,Client Entertainment,Taj Krishna Corporate Dining,9049.66,Business_Credit_Card,0
+TXN_RAJESH_0397,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-22 19:32:23,IT Infrastructure,HP Enterprise Server Hosting,7606.4,Corporate_NetBanking,0
+TXN_RAJESH_0398,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-23 01:06:23,Shipping & Transport,BlueDart Logistics Freight,63104.85,Business_Credit_Card,0
+TXN_RAJESH_0399,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-23 03:56:23,Professional Services,Tally Software & Audit,2695.59,Business_Credit_Card,0
+TXN_RAJESH_0400,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-23 07:41:23,IT Infrastructure,HP Enterprise Server Hosting,23418.23,Business_Credit_Card,0
+TXN_RAJESH_0401,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-23 09:00:23,IT Infrastructure,HP Enterprise Server Hosting,12306.2,Corporate_NetBanking,0
+TXN_RAJESH_0402,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-23 15:25:23,Raw Materials,Sri Krishna Wholesale Suppliers,7373.9,Cheque_Clearance,0
+TXN_RAJESH_0403,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-23 16:17:23,Logistics Fuel,Indian Oil Fuel Station Fleet,7554.79,Business_Credit_Card,0
+TXN_RAJESH_0404,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-23 16:18:23,Logistics Fuel,Indian Oil Fuel Station Fleet,32407.89,RTGS_NEFT,0
+TXN_RAJESH_0405,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-23 19:47:23,Shipping & Transport,BlueDart Logistics Freight,23701.05,Corporate_NetBanking,0
+TXN_RAJESH_0406,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-23 20:18:23,IT Infrastructure,HP Enterprise Server Hosting,10620.2,Corporate_NetBanking,0
+TXN_RAJESH_0407,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-24 01:37:23,Shipping & Transport,BlueDart Logistics Freight,56421.01,Corporate_NetBanking,0
+TXN_RAJESH_0408,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-24 12:10:23,Raw Materials,Sri Krishna Wholesale Suppliers,7865.27,RTGS_NEFT,0
+TXN_RAJESH_0409,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-24 19:20:23,Shipping & Transport,BlueDart Logistics Freight,21521.07,Corporate_NetBanking,0
+TXN_RAJESH_0410,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-24 22:12:23,Professional Services,Tally Software & Audit,17147.51,RTGS_NEFT,0
+TXN_RAJESH_0411,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-24 23:21:23,Client Entertainment,Taj Krishna Corporate Dining,34499.24,RTGS_NEFT,0
+TXN_RAJESH_0412,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-24 23:26:23,Facilities,Godrej Warehouse Lease,10805.79,Business_Credit_Card,0
+TXN_RAJESH_0413,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 04:51:23,Shipping & Transport,BlueDart Logistics Freight,9353.93,Business_Credit_Card,0
+TXN_RAJESH_0414,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 06:47:23,Facilities,Godrej Warehouse Lease,6353.29,RTGS_NEFT,0
+TXN_RAJESH_0415,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 10:34:23,Facilities,Godrej Warehouse Lease,4483.21,Business_Credit_Card,0
+TXN_RAJESH_0416,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 11:40:23,Client Entertainment,Taj Krishna Corporate Dining,17911.01,Corporate_NetBanking,0
+TXN_RAJESH_0417,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 12:07:23,Facilities,Godrej Warehouse Lease,19106.3,Business_Credit_Card,0
+TXN_RAJESH_0418,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 12:18:23,Facilities,Godrej Warehouse Lease,10373.58,RTGS_NEFT,0
+TXN_RAJESH_0419,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 14:27:23,Raw Materials,Sri Krishna Wholesale Suppliers,19370.23,Corporate_NetBanking,0
+TXN_RAJESH_0420,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 16:13:23,Shipping & Transport,BlueDart Logistics Freight,35575.84,RTGS_NEFT,0
+TXN_RAJESH_0421,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 17:18:23,Logistics Fuel,Indian Oil Fuel Station Fleet,7710.68,Corporate_NetBanking,0
+TXN_RAJESH_0422,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 18:51:23,Shipping & Transport,BlueDart Logistics Freight,22442.67,Corporate_NetBanking,0
+TXN_RAJESH_0423,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 21:06:23,Facilities,Godrej Warehouse Lease,23843.58,Corporate_NetBanking,0
+TXN_RAJESH_0424,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 21:14:23,IT Infrastructure,HP Enterprise Server Hosting,26425.49,Corporate_NetBanking,0
+TXN_RAJESH_0425,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-25 21:26:23,Shipping & Transport,BlueDart Logistics Freight,7841.92,RTGS_NEFT,0
+TXN_RAJESH_0426,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-26 08:47:23,Shipping & Transport,BlueDart Logistics Freight,5641.24,RTGS_NEFT,0
+TXN_RAJESH_0427,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-26 16:35:23,Travel,Air India Corporate Travel,3251.57,RTGS_NEFT,0
+TXN_RAJESH_0428,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-26 17:33:23,Client Entertainment,Taj Krishna Corporate Dining,45263.97,Cheque_Clearance,0
+TXN_RAJESH_0429,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-26 19:14:23,Facilities,Godrej Warehouse Lease,3862.57,Corporate_NetBanking,0
+TXN_RAJESH_0430,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-26 19:45:23,Raw Materials,Sri Krishna Wholesale Suppliers,41335.37,Corporate_NetBanking,0
+TXN_RAJESH_0431,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-26 21:44:23,Raw Materials,Sri Krishna Wholesale Suppliers,34354.28,Business_Credit_Card,0
+TXN_RAJESH_0432,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-26 23:02:23,IT Infrastructure,HP Enterprise Server Hosting,3809.93,RTGS_NEFT,0
+TXN_RAJESH_0433,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-27 03:59:23,Raw Materials,Sri Krishna Wholesale Suppliers,17035.22,Corporate_NetBanking,0
+TXN_RAJESH_0434,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-27 08:20:23,Client Entertainment,Taj Krishna Corporate Dining,1880.91,Cheque_Clearance,0
+TXN_RAJESH_0435,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-27 10:04:23,IT Infrastructure,HP Enterprise Server Hosting,95293.53,Business_Credit_Card,0
+TXN_RAJESH_0436,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-27 14:23:23,Logistics Fuel,Indian Oil Fuel Station Fleet,18977.05,Cheque_Clearance,0
+TXN_RAJESH_0437,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-27 16:17:23,Raw Materials,Sri Krishna Wholesale Suppliers,32139.09,Corporate_NetBanking,0
+TXN_RAJESH_0438,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-27 18:16:23,Travel,Air India Corporate Travel,19550.82,Business_Credit_Card,0
+TXN_RAJESH_0439,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-27 19:01:23,Logistics Fuel,Indian Oil Fuel Station Fleet,25495.19,RTGS_NEFT,0
+TXN_RAJESH_0440,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-27 19:38:23,Raw Materials,Sri Krishna Wholesale Suppliers,12949.43,RTGS_NEFT,0
+TXN_RAJESH_0441,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-27 23:49:23,Travel,Air India Corporate Travel,24037.64,Corporate_NetBanking,0
+TXN_RAJESH_0442,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-28 07:42:23,Logistics Fuel,Indian Oil Fuel Station Fleet,28098.71,RTGS_NEFT,0
+TXN_RAJESH_0443,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-28 08:13:23,Facilities,Godrej Warehouse Lease,13084.57,RTGS_NEFT,0
+TXN_RAJESH_0444,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-28 08:18:23,Travel,Air India Corporate Travel,33153.01,Corporate_NetBanking,0
+TXN_RAJESH_0445,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-28 13:09:23,Travel,Air India Corporate Travel,2787.97,Corporate_NetBanking,0
+TXN_RAJESH_0446,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-28 17:33:23,Shipping & Transport,BlueDart Logistics Freight,21218.71,Business_Credit_Card,0
+TXN_RAJESH_0447,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-28 20:34:23,Professional Services,Tally Software & Audit,5432.86,Business_Credit_Card,0
+TXN_RAJESH_0448,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-28 20:54:23,Raw Materials,Sri Krishna Wholesale Suppliers,3940.78,RTGS_NEFT,0
+TXN_RAJESH_0449,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-29 09:45:23,IT Infrastructure,HP Enterprise Server Hosting,9687.58,Corporate_NetBanking,0
+TXN_RAJESH_0450,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-29 22:46:23,Client Entertainment,Taj Krishna Corporate Dining,29120.06,Business_Credit_Card,0
+TXN_RAJESH_0451,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 02:13:23,IT Infrastructure,HP Enterprise Server Hosting,48263.96,Business_Credit_Card,0
+TXN_RAJESH_0452,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 02:14:23,Professional Services,Tally Software & Audit,41500.6,Corporate_NetBanking,0
+TXN_RAJESH_0453,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 03:54:23,IT Infrastructure,HP Enterprise Server Hosting,6902.54,Business_Credit_Card,0
+TXN_RAJESH_0454,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 03:58:23,Facilities,Godrej Warehouse Lease,18278.19,Corporate_NetBanking,0
+TXN_RAJESH_0455,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 04:43:23,Raw Materials,Sri Krishna Wholesale Suppliers,22513.82,Corporate_NetBanking,0
+TXN_RAJESH_0456,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 06:21:23,IT Infrastructure,HP Enterprise Server Hosting,34773.63,Business_Credit_Card,0
+TXN_RAJESH_0457,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 07:21:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,766210.29,Cheque_Clearance,1
+TXN_RAJESH_0458,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 07:52:23,Travel,Air India Corporate Travel,20796.79,Corporate_NetBanking,0
+TXN_RAJESH_0459,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 11:36:23,Client Entertainment,Taj Krishna Corporate Dining,14319.35,Corporate_NetBanking,0
+TXN_RAJESH_0460,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 11:45:23,Client Entertainment,Taj Krishna Corporate Dining,9867.18,Corporate_NetBanking,0
+TXN_RAJESH_0461,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 12:04:23,Client Entertainment,Taj Krishna Corporate Dining,3880.83,Corporate_NetBanking,0
+TXN_RAJESH_0462,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 13:14:23,Raw Materials,Sri Krishna Wholesale Suppliers,19410.2,Business_Credit_Card,0
+TXN_RAJESH_0463,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 15:45:23,Facilities,Godrej Warehouse Lease,8734.4,RTGS_NEFT,0
+TXN_RAJESH_0464,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 15:53:23,Raw Materials,Sri Krishna Wholesale Suppliers,14338.05,Corporate_NetBanking,0
+TXN_RAJESH_0465,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 16:41:23,Travel,Air India Corporate Travel,14561.91,Cheque_Clearance,0
+TXN_RAJESH_0466,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 17:51:23,Client Entertainment,Taj Krishna Corporate Dining,23477.86,Corporate_NetBanking,0
+TXN_RAJESH_0467,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 18:00:23,Travel,Air India Corporate Travel,6631.88,RTGS_NEFT,0
+TXN_RAJESH_0468,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 19:51:23,Facilities,Godrej Warehouse Lease,39772.15,RTGS_NEFT,0
+TXN_RAJESH_0469,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 21:19:23,Logistics Fuel,Indian Oil Fuel Station Fleet,19558.13,Business_Credit_Card,0
+TXN_RAJESH_0470,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 23:28:23,Professional Services,Tally Software & Audit,52293.89,Corporate_NetBanking,0
+TXN_RAJESH_0471,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-30 23:30:23,Logistics Fuel,Indian Oil Fuel Station Fleet,4683.72,Business_Credit_Card,0
+TXN_RAJESH_0472,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-31 02:49:23,Logistics Fuel,Indian Oil Fuel Station Fleet,12974.65,Business_Credit_Card,0
+TXN_RAJESH_0473,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-31 06:15:23,Professional Services,Tally Software & Audit,61266.48,RTGS_NEFT,0
+TXN_RAJESH_0474,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-31 12:38:23,Travel,Air India Corporate Travel,5433.84,Business_Credit_Card,0
+TXN_RAJESH_0475,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-31 17:12:23,Travel,Air India Corporate Travel,5533.69,Business_Credit_Card,0
+TXN_RAJESH_0476,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-31 20:58:23,Professional Services,Tally Software & Audit,10293.5,RTGS_NEFT,0
+TXN_RAJESH_0477,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-07-31 21:03:23,IT Infrastructure,HP Enterprise Server Hosting,24081.09,Cheque_Clearance,0
+TXN_RAJESH_0478,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 00:02:23,Facilities,Godrej Warehouse Lease,14750.46,Business_Credit_Card,0
+TXN_RAJESH_0479,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 02:27:23,IT Infrastructure,HP Enterprise Server Hosting,14522.84,RTGS_NEFT,0
+TXN_RAJESH_0480,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 03:28:23,Shipping & Transport,BlueDart Logistics Freight,13081.25,Business_Credit_Card,0
+TXN_RAJESH_0481,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 04:53:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,932034.42,Business_Credit_Card,1
+TXN_RAJESH_0482,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 14:16:23,Travel,Air India Corporate Travel,12063.06,Business_Credit_Card,0
+TXN_RAJESH_0483,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 15:32:23,Logistics Fuel,Indian Oil Fuel Station Fleet,11893.27,RTGS_NEFT,0
+TXN_RAJESH_0484,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 15:35:23,Shipping & Transport,BlueDart Logistics Freight,10713.3,Corporate_NetBanking,0
+TXN_RAJESH_0485,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 16:28:23,Raw Materials,Sri Krishna Wholesale Suppliers,20701.56,Business_Credit_Card,0
+TXN_RAJESH_0486,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 19:07:23,Travel,Air India Corporate Travel,6325.57,Business_Credit_Card,0
+TXN_RAJESH_0487,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 20:27:23,Raw Materials,Sri Krishna Wholesale Suppliers,29144.67,Corporate_NetBanking,0
+TXN_RAJESH_0488,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 22:01:23,Logistics Fuel,Indian Oil Fuel Station Fleet,9525.26,Corporate_NetBanking,0
+TXN_RAJESH_0489,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-01 22:15:23,IT Infrastructure,HP Enterprise Server Hosting,6845.75,RTGS_NEFT,0
+TXN_RAJESH_0490,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-02 00:11:23,Raw Materials,Sri Krishna Wholesale Suppliers,17405.32,Business_Credit_Card,0
+TXN_RAJESH_0491,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-02 01:16:23,Raw Materials,Sri Krishna Wholesale Suppliers,11925.01,Corporate_NetBanking,0
+TXN_RAJESH_0492,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-02 06:36:23,Travel,Air India Corporate Travel,15823.47,RTGS_NEFT,0
+TXN_RAJESH_0493,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-02 09:51:23,Shipping & Transport,BlueDart Logistics Freight,9816.04,RTGS_NEFT,0
+TXN_RAJESH_0494,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-02 17:17:23,Professional Services,Tally Software & Audit,1885.25,Business_Credit_Card,0
+TXN_RAJESH_0495,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-02 17:58:23,Client Entertainment,Taj Krishna Corporate Dining,3798.7,Corporate_NetBanking,0
+TXN_RAJESH_0496,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-02 19:12:23,Professional Services,Tally Software & Audit,9448.73,RTGS_NEFT,0
+TXN_RAJESH_0497,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-02 22:06:23,Raw Materials,Sri Krishna Wholesale Suppliers,17394.1,RTGS_NEFT,0
+TXN_RAJESH_0498,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-02 22:47:23,Professional Services,Tally Software & Audit,9916.38,Corporate_NetBanking,0
+TXN_RAJESH_0499,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 00:25:23,Raw Materials,Sri Krishna Wholesale Suppliers,5073.62,Corporate_NetBanking,0
+TXN_RAJESH_0500,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 00:28:23,Facilities,Godrej Warehouse Lease,16261.16,Business_Credit_Card,0
+TXN_RAJESH_0501,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 01:29:23,Travel,Air India Corporate Travel,28711.49,Business_Credit_Card,0
+TXN_RAJESH_0502,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 05:44:23,Shipping & Transport,BlueDart Logistics Freight,43639.33,Corporate_NetBanking,0
+TXN_RAJESH_0503,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 06:32:23,Professional Services,Tally Software & Audit,17723.07,Business_Credit_Card,0
+TXN_RAJESH_0504,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 09:07:23,Raw Materials,Sri Krishna Wholesale Suppliers,3573.53,Business_Credit_Card,0
+TXN_RAJESH_0505,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 09:54:23,Raw Materials,Sri Krishna Wholesale Suppliers,17832.38,RTGS_NEFT,0
+TXN_RAJESH_0506,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 10:27:23,Logistics Fuel,Indian Oil Fuel Station Fleet,24378.25,Business_Credit_Card,0
+TXN_RAJESH_0507,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 17:06:23,Professional Services,Tally Software & Audit,8297.07,Business_Credit_Card,0
+TXN_RAJESH_0508,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 19:39:23,Travel,Air India Corporate Travel,18123.01,Cheque_Clearance,0
+TXN_RAJESH_0509,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-03 23:42:23,Travel,Air India Corporate Travel,64921.76,Corporate_NetBanking,0
+TXN_RAJESH_0510,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-04 01:27:23,Shipping & Transport,BlueDart Logistics Freight,83876.99,Corporate_NetBanking,0
+TXN_RAJESH_0511,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-04 03:26:23,Shipping & Transport,BlueDart Logistics Freight,8923.17,RTGS_NEFT,0
+TXN_RAJESH_0512,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-04 04:17:23,Logistics Fuel,Indian Oil Fuel Station Fleet,8956.75,Corporate_NetBanking,0
+TXN_RAJESH_0513,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-04 04:49:23,Client Entertainment,Taj Krishna Corporate Dining,15383.34,RTGS_NEFT,0
+TXN_RAJESH_0514,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-04 05:01:23,Travel,Air India Corporate Travel,5915.33,Corporate_NetBanking,0
+TXN_RAJESH_0515,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-04 06:30:23,Shipping & Transport,BlueDart Logistics Freight,19201.38,Corporate_NetBanking,0
+TXN_RAJESH_0516,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-04 08:36:23,Raw Materials,Sri Krishna Wholesale Suppliers,24241.35,RTGS_NEFT,0
+TXN_RAJESH_0517,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-04 21:35:23,Professional Services,Tally Software & Audit,15531.51,Business_Credit_Card,0
+TXN_RAJESH_0518,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-04 22:42:23,Raw Materials,Sri Krishna Wholesale Suppliers,19853.13,RTGS_NEFT,0
+TXN_RAJESH_0519,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 03:38:23,Facilities,Godrej Warehouse Lease,26812.9,Corporate_NetBanking,0
+TXN_RAJESH_0520,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 04:26:23,Professional Services,Tally Software & Audit,124472.23,Corporate_NetBanking,0
+TXN_RAJESH_0521,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 07:37:23,Raw Materials,Sri Krishna Wholesale Suppliers,12154.92,RTGS_NEFT,0
+TXN_RAJESH_0522,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 11:21:23,Professional Services,Tally Software & Audit,7738.55,Corporate_NetBanking,0
+TXN_RAJESH_0523,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 12:17:23,Facilities,Godrej Warehouse Lease,15546.62,Business_Credit_Card,0
+TXN_RAJESH_0524,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 12:24:23,Shipping & Transport,BlueDart Logistics Freight,12844.28,Corporate_NetBanking,0
+TXN_RAJESH_0525,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 13:02:23,Travel,Air India Corporate Travel,5072.38,Corporate_NetBanking,0
+TXN_RAJESH_0526,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 14:17:23,Shipping & Transport,BlueDart Logistics Freight,13777.39,RTGS_NEFT,0
+TXN_RAJESH_0527,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 14:59:23,Client Entertainment,Taj Krishna Corporate Dining,5338.97,RTGS_NEFT,0
+TXN_RAJESH_0528,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 15:28:23,Facilities,Godrej Warehouse Lease,2018.71,Business_Credit_Card,0
+TXN_RAJESH_0529,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 15:45:23,Client Entertainment,Taj Krishna Corporate Dining,16846.97,Business_Credit_Card,0
+TXN_RAJESH_0530,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 15:54:23,Travel,Air India Corporate Travel,41364.52,Business_Credit_Card,0
+TXN_RAJESH_0531,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 19:54:23,Travel,Air India Corporate Travel,35097.77,Business_Credit_Card,0
+TXN_RAJESH_0532,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-05 20:16:23,Facilities,Godrej Warehouse Lease,21858.73,RTGS_NEFT,0
+TXN_RAJESH_0533,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-06 01:38:23,Travel,Air India Corporate Travel,33448.58,Corporate_NetBanking,0
+TXN_RAJESH_0534,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-06 04:56:23,Logistics Fuel,Indian Oil Fuel Station Fleet,7189.84,Corporate_NetBanking,0
+TXN_RAJESH_0535,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-06 11:39:23,Facilities,Godrej Warehouse Lease,18654.33,RTGS_NEFT,0
+TXN_RAJESH_0536,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-06 17:39:23,Raw Materials,Sri Krishna Wholesale Suppliers,26226.47,Corporate_NetBanking,0
+TXN_RAJESH_0537,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-07 00:27:23,Travel,Air India Corporate Travel,12639.24,Corporate_NetBanking,0
+TXN_RAJESH_0538,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-07 04:51:23,Facilities,Godrej Warehouse Lease,7753.23,Business_Credit_Card,0
+TXN_RAJESH_0539,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-07 06:58:23,Logistics Fuel,Indian Oil Fuel Station Fleet,13052.18,RTGS_NEFT,0
+TXN_RAJESH_0540,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-07 15:14:23,Travel,Air India Corporate Travel,10224.15,Business_Credit_Card,0
+TXN_RAJESH_0541,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-07 15:47:23,Shipping & Transport,BlueDart Logistics Freight,16709.39,Corporate_NetBanking,0
+TXN_RAJESH_0542,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-07 21:13:23,Client Entertainment,Taj Krishna Corporate Dining,33865.64,Cheque_Clearance,0
+TXN_RAJESH_0543,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-07 22:28:23,Client Entertainment,Taj Krishna Corporate Dining,16091.4,RTGS_NEFT,0
+TXN_RAJESH_0544,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-08 01:49:23,Client Entertainment,Taj Krishna Corporate Dining,7158.76,RTGS_NEFT,0
+TXN_RAJESH_0545,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-08 02:32:23,Logistics Fuel,Indian Oil Fuel Station Fleet,13891.52,Corporate_NetBanking,0
+TXN_RAJESH_0546,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-08 03:56:23,Travel,Air India Corporate Travel,38652.64,Corporate_NetBanking,0
+TXN_RAJESH_0547,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-08 08:40:23,Professional Services,Tally Software & Audit,35865.44,Corporate_NetBanking,0
+TXN_RAJESH_0548,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-08 23:22:23,Travel,Air India Corporate Travel,29902.03,Corporate_NetBanking,0
+TXN_RAJESH_0549,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 01:03:23,Shipping & Transport,BlueDart Logistics Freight,10824.34,Corporate_NetBanking,0
+TXN_RAJESH_0550,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 01:21:23,Facilities,Godrej Warehouse Lease,11789.48,Corporate_NetBanking,0
+TXN_RAJESH_0551,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 02:13:23,Logistics Fuel,Indian Oil Fuel Station Fleet,6231.18,Business_Credit_Card,0
+TXN_RAJESH_0552,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 05:38:23,IT Infrastructure,HP Enterprise Server Hosting,4406.45,Business_Credit_Card,0
+TXN_RAJESH_0553,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 05:49:23,Raw Materials,Sri Krishna Wholesale Suppliers,17344.25,RTGS_NEFT,0
+TXN_RAJESH_0554,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 08:37:23,Travel,Air India Corporate Travel,27700.57,Corporate_NetBanking,0
+TXN_RAJESH_0555,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 10:45:23,IT Infrastructure,HP Enterprise Server Hosting,10516.9,Business_Credit_Card,0
+TXN_RAJESH_0556,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 11:12:23,Travel,Air India Corporate Travel,20268.93,Corporate_NetBanking,0
+TXN_RAJESH_0557,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 11:31:23,Raw Materials,Sri Krishna Wholesale Suppliers,5441.1,Business_Credit_Card,0
+TXN_RAJESH_0558,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 13:32:23,Raw Materials,Sri Krishna Wholesale Suppliers,7351.01,Business_Credit_Card,0
+TXN_RAJESH_0559,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 14:36:23,Client Entertainment,Taj Krishna Corporate Dining,2697.43,Business_Credit_Card,0
+TXN_RAJESH_0560,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 14:53:23,IT Infrastructure,HP Enterprise Server Hosting,39466.49,RTGS_NEFT,0
+TXN_RAJESH_0561,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-09 17:58:23,Facilities,Godrej Warehouse Lease,17259.25,RTGS_NEFT,0
+TXN_RAJESH_0562,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-10 03:37:23,Professional Services,Tally Software & Audit,24401.7,Business_Credit_Card,0
+TXN_RAJESH_0563,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-10 03:47:23,IT Infrastructure,HP Enterprise Server Hosting,38576.15,RTGS_NEFT,0
+TXN_RAJESH_0564,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-10 09:51:23,Professional Services,Tally Software & Audit,9890.75,Business_Credit_Card,0
+TXN_RAJESH_0565,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-10 11:41:23,IT Infrastructure,HP Enterprise Server Hosting,8555.0,RTGS_NEFT,0
+TXN_RAJESH_0566,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-10 12:14:23,IT Infrastructure,HP Enterprise Server Hosting,47332.96,Business_Credit_Card,0
+TXN_RAJESH_0567,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-10 16:36:23,IT Infrastructure,HP Enterprise Server Hosting,28999.86,Business_Credit_Card,0
+TXN_RAJESH_0568,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-10 22:18:23,Logistics Fuel,Indian Oil Fuel Station Fleet,4297.83,RTGS_NEFT,0
+TXN_RAJESH_0569,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-11 01:53:23,Travel,Air India Corporate Travel,8056.13,Corporate_NetBanking,0
+TXN_RAJESH_0570,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-11 06:10:23,Logistics Fuel,Indian Oil Fuel Station Fleet,40204.25,Business_Credit_Card,0
+TXN_RAJESH_0571,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-11 06:49:23,Facilities,Godrej Warehouse Lease,23358.83,RTGS_NEFT,0
+TXN_RAJESH_0572,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-11 15:02:23,Travel,Air India Corporate Travel,16867.67,RTGS_NEFT,0
+TXN_RAJESH_0573,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-11 17:15:23,Professional Services,Tally Software & Audit,21590.61,Corporate_NetBanking,0
+TXN_RAJESH_0574,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-11 21:09:23,Logistics Fuel,Indian Oil Fuel Station Fleet,66683.99,Corporate_NetBanking,0
+TXN_RAJESH_0575,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-11 21:55:23,IT Infrastructure,HP Enterprise Server Hosting,9634.71,RTGS_NEFT,0
+TXN_RAJESH_0576,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-12 00:46:23,Logistics Fuel,Indian Oil Fuel Station Fleet,5732.93,Cheque_Clearance,0
+TXN_RAJESH_0577,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-12 04:27:23,Facilities,Godrej Warehouse Lease,31543.26,Corporate_NetBanking,0
+TXN_RAJESH_0578,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-12 05:28:23,Professional Services,Tally Software & Audit,9915.08,RTGS_NEFT,0
+TXN_RAJESH_0579,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-12 07:22:23,IT Infrastructure,HP Enterprise Server Hosting,17774.21,RTGS_NEFT,0
+TXN_RAJESH_0580,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-12 12:56:23,Professional Services,Tally Software & Audit,63504.44,Corporate_NetBanking,0
+TXN_RAJESH_0581,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-12 14:47:23,Shipping & Transport,BlueDart Logistics Freight,7148.45,RTGS_NEFT,0
+TXN_RAJESH_0582,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-12 15:20:23,Raw Materials,Sri Krishna Wholesale Suppliers,11312.66,Corporate_NetBanking,0
+TXN_RAJESH_0583,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-12 20:37:23,Professional Services,Tally Software & Audit,45510.23,Business_Credit_Card,0
+TXN_RAJESH_0584,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 02:56:23,Professional Services,Tally Software & Audit,11882.72,Business_Credit_Card,0
+TXN_RAJESH_0585,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 03:21:23,Client Entertainment,Taj Krishna Corporate Dining,2929.84,Business_Credit_Card,0
+TXN_RAJESH_0586,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 04:17:23,Professional Services,Tally Software & Audit,36299.73,RTGS_NEFT,0
+TXN_RAJESH_0587,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 05:52:23,Facilities,Godrej Warehouse Lease,22539.11,Business_Credit_Card,0
+TXN_RAJESH_0588,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 06:48:23,Logistics Fuel,Indian Oil Fuel Station Fleet,15042.15,RTGS_NEFT,0
+TXN_RAJESH_0589,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 07:20:23,Client Entertainment,Taj Krishna Corporate Dining,16652.82,RTGS_NEFT,0
+TXN_RAJESH_0590,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 07:50:23,IT Infrastructure,HP Enterprise Server Hosting,9231.98,RTGS_NEFT,0
+TXN_RAJESH_0591,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 08:06:23,Professional Services,Tally Software & Audit,16825.61,Business_Credit_Card,0
+TXN_RAJESH_0592,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 10:43:23,Client Entertainment,Taj Krishna Corporate Dining,35773.33,Corporate_NetBanking,0
+TXN_RAJESH_0593,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 11:14:23,Client Entertainment,Taj Krishna Corporate Dining,51263.99,Business_Credit_Card,0
+TXN_RAJESH_0594,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-13 12:04:23,Facilities,Godrej Warehouse Lease,19786.54,RTGS_NEFT,0
+TXN_RAJESH_0595,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-14 00:32:23,IT Infrastructure,HP Enterprise Server Hosting,96459.63,Corporate_NetBanking,0
+TXN_RAJESH_0596,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-14 03:27:23,Professional Services,Tally Software & Audit,8798.76,Cheque_Clearance,0
+TXN_RAJESH_0597,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-14 06:07:23,Logistics Fuel,Indian Oil Fuel Station Fleet,3444.22,RTGS_NEFT,0
+TXN_RAJESH_0598,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-14 07:32:23,Facilities,Godrej Warehouse Lease,19619.31,RTGS_NEFT,0
+TXN_RAJESH_0599,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-14 15:46:23,IT Infrastructure,HP Enterprise Server Hosting,9032.57,Business_Credit_Card,0
+TXN_RAJESH_0600,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-14 17:18:23,Shipping & Transport,BlueDart Logistics Freight,24882.21,Business_Credit_Card,0
+TXN_RAJESH_0601,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-14 18:08:23,Facilities,Godrej Warehouse Lease,7386.84,RTGS_NEFT,0
+TXN_RAJESH_0602,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-14 19:38:23,Travel,Air India Corporate Travel,9008.88,Business_Credit_Card,0
+TXN_RAJESH_0603,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-15 00:45:23,Professional Services,Tally Software & Audit,11660.59,RTGS_NEFT,0
+TXN_RAJESH_0604,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-15 08:46:23,Professional Services,Tally Software & Audit,10710.87,Business_Credit_Card,0
+TXN_RAJESH_0605,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-15 09:01:23,Shipping & Transport,BlueDart Logistics Freight,3563.86,RTGS_NEFT,0
+TXN_RAJESH_0606,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-15 09:22:23,Facilities,Godrej Warehouse Lease,13732.02,RTGS_NEFT,0
+TXN_RAJESH_0607,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-15 12:06:23,Facilities,Godrej Warehouse Lease,38512.36,Corporate_NetBanking,0
+TXN_RAJESH_0608,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-15 16:24:23,IT Infrastructure,HP Enterprise Server Hosting,1915.38,Corporate_NetBanking,0
+TXN_RAJESH_0609,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-15 17:44:23,Travel,Air India Corporate Travel,12748.61,RTGS_NEFT,0
+TXN_RAJESH_0610,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-15 18:44:23,Professional Services,Tally Software & Audit,4971.88,Corporate_NetBanking,0
+TXN_RAJESH_0611,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-15 20:29:23,Shipping & Transport,BlueDart Logistics Freight,29317.08,Business_Credit_Card,0
+TXN_RAJESH_0612,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-15 21:27:23,Facilities,Godrej Warehouse Lease,10305.4,Business_Credit_Card,0
+TXN_RAJESH_0613,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 02:13:23,Travel,Air India Corporate Travel,9402.64,Corporate_NetBanking,0
+TXN_RAJESH_0614,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 02:20:23,IT Infrastructure,HP Enterprise Server Hosting,10282.57,Corporate_NetBanking,0
+TXN_RAJESH_0615,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 02:38:23,Logistics Fuel,Indian Oil Fuel Station Fleet,30662.81,RTGS_NEFT,0
+TXN_RAJESH_0616,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 03:09:23,Facilities,Godrej Warehouse Lease,9866.68,Business_Credit_Card,0
+TXN_RAJESH_0617,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 03:27:23,Shipping & Transport,BlueDart Logistics Freight,6284.09,Business_Credit_Card,0
+TXN_RAJESH_0618,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 07:58:23,Raw Materials,Sri Krishna Wholesale Suppliers,24329.43,RTGS_NEFT,0
+TXN_RAJESH_0619,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 09:43:23,IT Infrastructure,HP Enterprise Server Hosting,10238.05,Corporate_NetBanking,0
+TXN_RAJESH_0620,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 13:34:23,Shipping & Transport,BlueDart Logistics Freight,8890.21,Corporate_NetBanking,0
+TXN_RAJESH_0621,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 17:44:23,Shipping & Transport,BlueDart Logistics Freight,8774.49,RTGS_NEFT,0
+TXN_RAJESH_0622,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 22:10:23,Shipping & Transport,BlueDart Logistics Freight,17158.48,RTGS_NEFT,0
+TXN_RAJESH_0623,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-16 22:54:23,Logistics Fuel,Indian Oil Fuel Station Fleet,22848.42,Business_Credit_Card,0
+TXN_RAJESH_0624,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 01:35:23,Logistics Fuel,Indian Oil Fuel Station Fleet,25472.73,Cheque_Clearance,0
+TXN_RAJESH_0625,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 07:01:23,Travel,Air India Corporate Travel,3485.2,RTGS_NEFT,0
+TXN_RAJESH_0626,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 07:27:23,Travel,Air India Corporate Travel,6747.06,Corporate_NetBanking,0
+TXN_RAJESH_0627,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 08:01:23,Professional Services,Tally Software & Audit,13780.48,Corporate_NetBanking,0
+TXN_RAJESH_0628,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 11:33:23,Raw Materials,Sri Krishna Wholesale Suppliers,7716.83,RTGS_NEFT,0
+TXN_RAJESH_0629,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 12:08:23,IT Infrastructure,HP Enterprise Server Hosting,13445.76,Corporate_NetBanking,0
+TXN_RAJESH_0630,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 14:57:23,Shipping & Transport,BlueDart Logistics Freight,8881.7,Corporate_NetBanking,0
+TXN_RAJESH_0631,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 17:37:23,Professional Services,Tally Software & Audit,5555.93,RTGS_NEFT,0
+TXN_RAJESH_0632,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 17:39:23,Professional Services,Tally Software & Audit,7804.16,Business_Credit_Card,0
+TXN_RAJESH_0633,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 19:23:23,IT Infrastructure,HP Enterprise Server Hosting,48858.08,Business_Credit_Card,0
+TXN_RAJESH_0634,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 19:55:23,Logistics Fuel,Indian Oil Fuel Station Fleet,19699.51,Corporate_NetBanking,0
+TXN_RAJESH_0635,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-17 22:43:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,367879.86,Business_Credit_Card,1
+TXN_RAJESH_0636,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-18 03:43:23,Facilities,Godrej Warehouse Lease,7900.66,Business_Credit_Card,0
+TXN_RAJESH_0637,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-18 05:36:23,Professional Services,Tally Software & Audit,37747.52,Corporate_NetBanking,0
+TXN_RAJESH_0638,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-18 06:44:23,Raw Materials,Sri Krishna Wholesale Suppliers,14029.96,Corporate_NetBanking,0
+TXN_RAJESH_0639,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-18 07:49:23,Travel,Air India Corporate Travel,12567.82,Business_Credit_Card,0
+TXN_RAJESH_0640,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-18 16:28:23,Facilities,Godrej Warehouse Lease,22055.98,RTGS_NEFT,0
+TXN_RAJESH_0641,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-18 17:06:23,Professional Services,Tally Software & Audit,31571.98,RTGS_NEFT,0
+TXN_RAJESH_0642,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-18 17:49:23,IT Infrastructure,HP Enterprise Server Hosting,39634.86,Corporate_NetBanking,0
+TXN_RAJESH_0643,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-18 21:41:23,IT Infrastructure,HP Enterprise Server Hosting,7005.42,RTGS_NEFT,0
+TXN_RAJESH_0644,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-19 10:31:23,Travel,Air India Corporate Travel,6689.14,RTGS_NEFT,0
+TXN_RAJESH_0645,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-19 15:29:23,Travel,Air India Corporate Travel,5568.66,RTGS_NEFT,0
+TXN_RAJESH_0646,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-19 21:31:23,Facilities,Godrej Warehouse Lease,34111.9,Business_Credit_Card,0
+TXN_RAJESH_0647,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-19 22:57:23,Shipping & Transport,BlueDart Logistics Freight,18593.27,Corporate_NetBanking,0
+TXN_RAJESH_0648,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-20 04:49:23,Travel,Air India Corporate Travel,23655.43,RTGS_NEFT,0
+TXN_RAJESH_0649,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-20 05:12:23,Shipping & Transport,BlueDart Logistics Freight,42816.25,Corporate_NetBanking,0
+TXN_RAJESH_0650,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-20 06:23:23,Raw Materials,Sri Krishna Wholesale Suppliers,12852.71,Corporate_NetBanking,0
+TXN_RAJESH_0651,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-20 08:35:23,Facilities,Godrej Warehouse Lease,11285.4,Business_Credit_Card,0
+TXN_RAJESH_0652,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-20 11:34:23,IT Infrastructure,HP Enterprise Server Hosting,15861.83,Cheque_Clearance,0
+TXN_RAJESH_0653,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-20 12:34:23,IT Infrastructure,HP Enterprise Server Hosting,63251.03,Corporate_NetBanking,0
+TXN_RAJESH_0654,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-20 17:42:23,Facilities,Godrej Warehouse Lease,4350.39,Business_Credit_Card,0
+TXN_RAJESH_0655,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-20 18:59:23,Logistics Fuel,Indian Oil Fuel Station Fleet,12936.75,Corporate_NetBanking,0
+TXN_RAJESH_0656,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-20 19:01:23,Raw Materials,Sri Krishna Wholesale Suppliers,4544.84,RTGS_NEFT,0
+TXN_RAJESH_0657,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-21 01:33:23,IT Infrastructure,HP Enterprise Server Hosting,7882.3,Business_Credit_Card,0
+TXN_RAJESH_0658,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-21 02:12:23,Logistics Fuel,Indian Oil Fuel Station Fleet,8248.28,Corporate_NetBanking,0
+TXN_RAJESH_0659,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-21 02:25:23,Facilities,Godrej Warehouse Lease,19426.07,Corporate_NetBanking,0
+TXN_RAJESH_0660,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-21 07:52:23,IT Infrastructure,HP Enterprise Server Hosting,49882.91,Business_Credit_Card,0
+TXN_RAJESH_0661,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-21 09:09:23,Travel,Air India Corporate Travel,11584.99,Corporate_NetBanking,0
+TXN_RAJESH_0662,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-21 17:48:23,Travel,Air India Corporate Travel,15447.41,Corporate_NetBanking,0
+TXN_RAJESH_0663,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-21 23:44:23,Travel,Air India Corporate Travel,13388.08,Business_Credit_Card,0
+TXN_RAJESH_0664,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-22 00:48:23,Professional Services,Tally Software & Audit,9867.55,Business_Credit_Card,0
+TXN_RAJESH_0665,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-22 02:16:23,Raw Materials,Sri Krishna Wholesale Suppliers,4641.7,RTGS_NEFT,0
+TXN_RAJESH_0666,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-22 22:08:23,Client Entertainment,Taj Krishna Corporate Dining,6712.72,Corporate_NetBanking,0
+TXN_RAJESH_0667,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-23 07:13:23,Travel,Air India Corporate Travel,9354.56,Business_Credit_Card,0
+TXN_RAJESH_0668,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-23 21:10:23,Client Entertainment,Taj Krishna Corporate Dining,5327.96,Business_Credit_Card,0
+TXN_RAJESH_0669,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-23 21:29:23,Logistics Fuel,Indian Oil Fuel Station Fleet,60780.68,Corporate_NetBanking,0
+TXN_RAJESH_0670,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-24 02:03:23,Facilities,Godrej Warehouse Lease,12826.41,Business_Credit_Card,0
+TXN_RAJESH_0671,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-24 02:25:23,Travel,Air India Corporate Travel,20962.28,Corporate_NetBanking,0
+TXN_RAJESH_0672,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-24 02:32:23,Travel,Air India Corporate Travel,21315.3,RTGS_NEFT,0
+TXN_RAJESH_0673,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-24 03:36:23,Shipping & Transport,BlueDart Logistics Freight,13957.13,Business_Credit_Card,0
+TXN_RAJESH_0674,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-24 03:50:23,Travel,Air India Corporate Travel,41511.38,Business_Credit_Card,0
+TXN_RAJESH_0675,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-24 05:53:23,Logistics Fuel,Indian Oil Fuel Station Fleet,12960.94,Corporate_NetBanking,0
+TXN_RAJESH_0676,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-24 06:02:23,Travel,Air India Corporate Travel,24863.15,Corporate_NetBanking,0
+TXN_RAJESH_0677,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-24 09:03:23,Logistics Fuel,Indian Oil Fuel Station Fleet,2913.25,Business_Credit_Card,0
+TXN_RAJESH_0678,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-24 09:58:23,IT Infrastructure,HP Enterprise Server Hosting,45201.31,Business_Credit_Card,0
+TXN_RAJESH_0679,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-24 10:51:23,Travel,Air India Corporate Travel,7860.74,Corporate_NetBanking,0
+TXN_RAJESH_0680,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-25 08:09:23,Raw Materials,Sri Krishna Wholesale Suppliers,14361.86,Corporate_NetBanking,0
+TXN_RAJESH_0681,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-25 21:09:23,Client Entertainment,Taj Krishna Corporate Dining,7648.04,Corporate_NetBanking,0
+TXN_RAJESH_0682,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-25 21:12:23,Raw Materials,Sri Krishna Wholesale Suppliers,26992.7,Business_Credit_Card,0
+TXN_RAJESH_0683,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-25 21:52:23,Shipping & Transport,BlueDart Logistics Freight,14654.35,Corporate_NetBanking,0
+TXN_RAJESH_0684,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-25 23:27:23,Travel,Air India Corporate Travel,32574.08,Business_Credit_Card,0
+TXN_RAJESH_0685,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-25 23:50:23,Shipping & Transport,BlueDart Logistics Freight,13411.1,Corporate_NetBanking,0
+TXN_RAJESH_0686,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-26 07:52:23,Shipping & Transport,BlueDart Logistics Freight,10028.8,Business_Credit_Card,0
+TXN_RAJESH_0687,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-26 08:50:23,Logistics Fuel,Indian Oil Fuel Station Fleet,11404.13,Corporate_NetBanking,0
+TXN_RAJESH_0688,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-26 10:19:23,Client Entertainment,Taj Krishna Corporate Dining,2628.81,Business_Credit_Card,0
+TXN_RAJESH_0689,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-26 12:22:23,Client Entertainment,Taj Krishna Corporate Dining,41468.95,Corporate_NetBanking,0
+TXN_RAJESH_0690,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-26 15:43:23,Logistics Fuel,Indian Oil Fuel Station Fleet,30477.68,Corporate_NetBanking,0
+TXN_RAJESH_0691,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-26 16:03:23,Shipping & Transport,BlueDart Logistics Freight,11325.07,Business_Credit_Card,0
+TXN_RAJESH_0692,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-26 22:05:23,Shipping & Transport,BlueDart Logistics Freight,17989.83,Corporate_NetBanking,0
+TXN_RAJESH_0693,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-26 23:54:23,Client Entertainment,Taj Krishna Corporate Dining,10401.46,Corporate_NetBanking,0
+TXN_RAJESH_0694,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 03:55:23,Shipping & Transport,BlueDart Logistics Freight,14805.45,RTGS_NEFT,0
+TXN_RAJESH_0695,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 04:23:23,Facilities,Godrej Warehouse Lease,15384.61,RTGS_NEFT,0
+TXN_RAJESH_0696,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 04:59:23,Professional Services,Tally Software & Audit,3417.56,Corporate_NetBanking,0
+TXN_RAJESH_0697,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 05:40:23,Facilities,Godrej Warehouse Lease,21752.18,RTGS_NEFT,0
+TXN_RAJESH_0698,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 05:54:23,Logistics Fuel,Indian Oil Fuel Station Fleet,9756.97,Business_Credit_Card,0
+TXN_RAJESH_0699,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 07:17:23,Travel,Air India Corporate Travel,31506.63,Corporate_NetBanking,0
+TXN_RAJESH_0700,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 07:22:23,IT Infrastructure,HP Enterprise Server Hosting,39173.1,Cheque_Clearance,0
+TXN_RAJESH_0701,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 08:16:23,Travel,Air India Corporate Travel,28006.85,RTGS_NEFT,0
+TXN_RAJESH_0702,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 10:40:23,Travel,Air India Corporate Travel,12160.43,Cheque_Clearance,0
+TXN_RAJESH_0703,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 10:44:23,Professional Services,Tally Software & Audit,13105.77,Corporate_NetBanking,0
+TXN_RAJESH_0704,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 14:17:23,Client Entertainment,Taj Krishna Corporate Dining,16265.31,Corporate_NetBanking,0
+TXN_RAJESH_0705,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 16:19:23,Professional Services,Tally Software & Audit,17289.81,Business_Credit_Card,0
+TXN_RAJESH_0706,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 17:53:23,Client Entertainment,Taj Krishna Corporate Dining,39697.14,Business_Credit_Card,0
+TXN_RAJESH_0707,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-27 19:40:23,IT Infrastructure,HP Enterprise Server Hosting,4053.79,Corporate_NetBanking,0
+TXN_RAJESH_0708,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-28 01:55:23,Raw Materials,Sri Krishna Wholesale Suppliers,28295.93,RTGS_NEFT,0
+TXN_RAJESH_0709,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-28 04:42:23,Travel,Air India Corporate Travel,22448.13,Business_Credit_Card,0
+TXN_RAJESH_0710,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-28 07:15:23,IT Infrastructure,HP Enterprise Server Hosting,20359.07,Business_Credit_Card,0
+TXN_RAJESH_0711,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-28 11:50:23,Logistics Fuel,Indian Oil Fuel Station Fleet,27173.6,Business_Credit_Card,0
+TXN_RAJESH_0712,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-28 13:31:23,Travel,Air India Corporate Travel,8576.11,Business_Credit_Card,0
+TXN_RAJESH_0713,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-28 13:37:23,Professional Services,Tally Software & Audit,3034.96,Corporate_NetBanking,0
+TXN_RAJESH_0714,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-28 13:45:23,Travel,Air India Corporate Travel,34608.33,Cheque_Clearance,0
+TXN_RAJESH_0715,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-28 15:33:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,366577.85,Corporate_NetBanking,1
+TXN_RAJESH_0716,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-28 17:23:23,Shipping & Transport,BlueDart Logistics Freight,95488.42,Corporate_NetBanking,0
+TXN_RAJESH_0717,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-28 20:33:23,Travel,Air India Corporate Travel,16405.23,RTGS_NEFT,0
+TXN_RAJESH_0718,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-29 03:08:23,IT Infrastructure,HP Enterprise Server Hosting,5793.77,Cheque_Clearance,0
+TXN_RAJESH_0719,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-29 07:47:23,Facilities,Godrej Warehouse Lease,40819.89,RTGS_NEFT,0
+TXN_RAJESH_0720,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-29 12:53:23,Raw Materials,Sri Krishna Wholesale Suppliers,26229.7,RTGS_NEFT,0
+TXN_RAJESH_0721,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-29 15:27:23,Logistics Fuel,Indian Oil Fuel Station Fleet,19194.65,Business_Credit_Card,0
+TXN_RAJESH_0722,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-29 16:22:23,Facilities,Godrej Warehouse Lease,11182.61,RTGS_NEFT,0
+TXN_RAJESH_0723,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-29 22:05:23,Raw Materials,Sri Krishna Wholesale Suppliers,24496.6,Corporate_NetBanking,0
+TXN_RAJESH_0724,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-29 22:39:23,Client Entertainment,Taj Krishna Corporate Dining,10731.17,RTGS_NEFT,0
+TXN_RAJESH_0725,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-30 02:25:23,Facilities,Godrej Warehouse Lease,36446.19,Business_Credit_Card,0
+TXN_RAJESH_0726,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-30 02:48:23,Client Entertainment,Taj Krishna Corporate Dining,15221.9,Corporate_NetBanking,0
+TXN_RAJESH_0727,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-30 10:19:23,Raw Materials,Sri Krishna Wholesale Suppliers,13251.07,Business_Credit_Card,0
+TXN_RAJESH_0728,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-30 23:05:23,Shipping & Transport,BlueDart Logistics Freight,16737.26,Business_Credit_Card,0
+TXN_RAJESH_0729,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-31 04:29:23,Facilities,Godrej Warehouse Lease,8857.29,Business_Credit_Card,0
+TXN_RAJESH_0730,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-31 07:51:23,Professional Services,Tally Software & Audit,20311.52,Corporate_NetBanking,0
+TXN_RAJESH_0731,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-31 09:47:23,Logistics Fuel,Indian Oil Fuel Station Fleet,6769.54,RTGS_NEFT,0
+TXN_RAJESH_0732,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-08-31 17:27:23,IT Infrastructure,HP Enterprise Server Hosting,23450.27,Corporate_NetBanking,0
+TXN_RAJESH_0733,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 02:13:23,Travel,Air India Corporate Travel,32531.68,Business_Credit_Card,0
+TXN_RAJESH_0734,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 10:20:23,Travel,Air India Corporate Travel,7309.78,RTGS_NEFT,0
+TXN_RAJESH_0735,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 10:33:23,Shipping & Transport,BlueDart Logistics Freight,38338.56,Business_Credit_Card,0
+TXN_RAJESH_0736,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 12:03:23,Facilities,Godrej Warehouse Lease,16567.05,Corporate_NetBanking,0
+TXN_RAJESH_0737,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 14:06:23,Shipping & Transport,BlueDart Logistics Freight,9691.84,Corporate_NetBanking,0
+TXN_RAJESH_0738,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 15:08:23,Shipping & Transport,BlueDart Logistics Freight,3914.08,Business_Credit_Card,0
+TXN_RAJESH_0739,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 15:36:23,Professional Services,Tally Software & Audit,5345.07,Cheque_Clearance,0
+TXN_RAJESH_0740,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 16:41:23,Raw Materials,Sri Krishna Wholesale Suppliers,26552.32,RTGS_NEFT,0
+TXN_RAJESH_0741,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 17:31:23,IT Infrastructure,HP Enterprise Server Hosting,26855.66,RTGS_NEFT,0
+TXN_RAJESH_0742,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 20:35:23,Professional Services,Tally Software & Audit,6892.5,Corporate_NetBanking,0
+TXN_RAJESH_0743,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-01 21:23:23,Raw Materials,Sri Krishna Wholesale Suppliers,62897.96,Corporate_NetBanking,0
+TXN_RAJESH_0744,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-02 01:16:23,Professional Services,Tally Software & Audit,72471.39,Corporate_NetBanking,0
+TXN_RAJESH_0745,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-02 03:30:23,Professional Services,Tally Software & Audit,10839.75,Corporate_NetBanking,0
+TXN_RAJESH_0746,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-02 05:51:23,Shipping & Transport,BlueDart Logistics Freight,16315.08,Corporate_NetBanking,0
+TXN_RAJESH_0747,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-02 10:03:23,Facilities,Godrej Warehouse Lease,2979.82,Corporate_NetBanking,0
+TXN_RAJESH_0748,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-02 11:46:23,Client Entertainment,Taj Krishna Corporate Dining,23654.48,Business_Credit_Card,0
+TXN_RAJESH_0749,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-02 12:11:23,IT Infrastructure,HP Enterprise Server Hosting,4385.32,Corporate_NetBanking,0
+TXN_RAJESH_0750,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-02 12:48:23,Professional Services,Tally Software & Audit,8064.57,Business_Credit_Card,0
+TXN_RAJESH_0751,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-02 16:30:23,Raw Materials,Sri Krishna Wholesale Suppliers,19557.76,RTGS_NEFT,0
+TXN_RAJESH_0752,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-02 18:30:23,Shipping & Transport,BlueDart Logistics Freight,7075.14,Business_Credit_Card,0
+TXN_RAJESH_0753,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-02 18:43:23,Professional Services,Tally Software & Audit,11240.24,RTGS_NEFT,0
+TXN_RAJESH_0754,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-03 01:56:23,Raw Materials,Sri Krishna Wholesale Suppliers,7320.58,RTGS_NEFT,0
+TXN_RAJESH_0755,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-03 03:37:23,Travel,Air India Corporate Travel,10624.11,Corporate_NetBanking,0
+TXN_RAJESH_0756,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-03 03:37:23,Shipping & Transport,BlueDart Logistics Freight,8945.16,Corporate_NetBanking,0
+TXN_RAJESH_0757,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-03 04:28:23,Shipping & Transport,BlueDart Logistics Freight,7308.32,Corporate_NetBanking,0
+TXN_RAJESH_0758,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-03 06:29:23,Client Entertainment,Taj Krishna Corporate Dining,4743.65,Corporate_NetBanking,0
+TXN_RAJESH_0759,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-03 07:46:23,Facilities,Godrej Warehouse Lease,26983.68,Business_Credit_Card,0
+TXN_RAJESH_0760,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-03 08:12:23,IT Infrastructure,HP Enterprise Server Hosting,8593.83,RTGS_NEFT,0
+TXN_RAJESH_0761,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-03 16:56:23,Facilities,Godrej Warehouse Lease,3861.14,Cheque_Clearance,0
+TXN_RAJESH_0762,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-03 23:18:23,IT Infrastructure,HP Enterprise Server Hosting,22711.34,Corporate_NetBanking,0
+TXN_RAJESH_0763,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-04 05:14:23,Shipping & Transport,BlueDart Logistics Freight,10709.98,Cheque_Clearance,0
+TXN_RAJESH_0764,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-04 05:58:23,Professional Services,Tally Software & Audit,16060.41,Corporate_NetBanking,0
+TXN_RAJESH_0765,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-04 09:40:23,Shipping & Transport,BlueDart Logistics Freight,11836.0,RTGS_NEFT,0
+TXN_RAJESH_0766,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-04 15:36:23,Facilities,Godrej Warehouse Lease,9257.22,Corporate_NetBanking,0
+TXN_RAJESH_0767,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-04 15:43:23,Raw Materials,Sri Krishna Wholesale Suppliers,30813.88,Corporate_NetBanking,0
+TXN_RAJESH_0768,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-04 18:30:23,Logistics Fuel,Indian Oil Fuel Station Fleet,2714.82,Corporate_NetBanking,0
+TXN_RAJESH_0769,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-04 19:11:23,Facilities,Godrej Warehouse Lease,12041.39,RTGS_NEFT,0
+TXN_RAJESH_0770,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-04 20:16:23,Professional Services,Tally Software & Audit,9861.17,Corporate_NetBanking,0
+TXN_RAJESH_0771,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-04 20:32:23,Shipping & Transport,BlueDart Logistics Freight,4549.56,Corporate_NetBanking,0
+TXN_RAJESH_0772,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-04 21:24:23,Logistics Fuel,Indian Oil Fuel Station Fleet,16939.31,RTGS_NEFT,0
+TXN_RAJESH_0773,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-05 05:03:23,Travel,Air India Corporate Travel,19092.21,RTGS_NEFT,0
+TXN_RAJESH_0774,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-05 08:18:23,Raw Materials,Sri Krishna Wholesale Suppliers,6935.06,Corporate_NetBanking,0
+TXN_RAJESH_0775,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-05 16:53:23,Professional Services,Tally Software & Audit,15406.0,RTGS_NEFT,0
+TXN_RAJESH_0776,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-05 17:16:23,Travel,Air India Corporate Travel,11755.45,Corporate_NetBanking,0
+TXN_RAJESH_0777,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-05 20:34:23,Shipping & Transport,BlueDart Logistics Freight,33456.43,Corporate_NetBanking,0
+TXN_RAJESH_0778,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-05 23:23:23,Travel,Air India Corporate Travel,2886.77,Business_Credit_Card,0
+TXN_RAJESH_0779,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-05 23:55:23,Logistics Fuel,Indian Oil Fuel Station Fleet,5456.98,Business_Credit_Card,0
+TXN_RAJESH_0780,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-06 00:44:23,IT Infrastructure,HP Enterprise Server Hosting,39590.8,Business_Credit_Card,0
+TXN_RAJESH_0781,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-06 02:40:23,Professional Services,Tally Software & Audit,2499.98,Business_Credit_Card,0
+TXN_RAJESH_0782,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-06 06:12:23,Travel,Air India Corporate Travel,10004.48,Business_Credit_Card,0
+TXN_RAJESH_0783,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-06 06:17:23,Professional Services,Tally Software & Audit,4964.79,RTGS_NEFT,0
+TXN_RAJESH_0784,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-06 10:00:23,Raw Materials,Sri Krishna Wholesale Suppliers,13774.17,RTGS_NEFT,0
+TXN_RAJESH_0785,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-06 11:33:23,Raw Materials,Sri Krishna Wholesale Suppliers,8437.01,Business_Credit_Card,0
+TXN_RAJESH_0786,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-06 20:43:23,Shipping & Transport,BlueDart Logistics Freight,27685.99,Corporate_NetBanking,0
+TXN_RAJESH_0787,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-06 21:05:23,Facilities,Godrej Warehouse Lease,80039.81,Business_Credit_Card,0
+TXN_RAJESH_0788,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-06 22:22:23,Client Entertainment,Taj Krishna Corporate Dining,2290.14,RTGS_NEFT,0
+TXN_RAJESH_0789,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-07 01:36:23,Logistics Fuel,Indian Oil Fuel Station Fleet,30401.27,Business_Credit_Card,0
+TXN_RAJESH_0790,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-07 02:27:23,IT Infrastructure,HP Enterprise Server Hosting,7050.4,Business_Credit_Card,0
+TXN_RAJESH_0791,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-07 04:31:23,Shipping & Transport,BlueDart Logistics Freight,27212.42,Corporate_NetBanking,0
+TXN_RAJESH_0792,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-07 10:51:23,IT Infrastructure,HP Enterprise Server Hosting,14250.38,Business_Credit_Card,0
+TXN_RAJESH_0793,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-07 11:24:23,IT Infrastructure,HP Enterprise Server Hosting,29476.32,Corporate_NetBanking,0
+TXN_RAJESH_0794,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-07 13:58:23,Facilities,Godrej Warehouse Lease,19547.43,RTGS_NEFT,0
+TXN_RAJESH_0795,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-07 22:53:23,Travel,Air India Corporate Travel,46383.76,Business_Credit_Card,0
+TXN_RAJESH_0796,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-08 08:15:23,Client Entertainment,Taj Krishna Corporate Dining,4426.84,Corporate_NetBanking,0
+TXN_RAJESH_0797,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-08 12:24:23,Professional Services,Tally Software & Audit,27978.09,Business_Credit_Card,0
+TXN_RAJESH_0798,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-08 18:27:23,IT Infrastructure,HP Enterprise Server Hosting,2948.41,RTGS_NEFT,0
+TXN_RAJESH_0799,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-08 19:43:23,Client Entertainment,Taj Krishna Corporate Dining,12064.41,Corporate_NetBanking,0
+TXN_RAJESH_0800,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-09 07:33:23,Travel,Air India Corporate Travel,7606.38,Business_Credit_Card,0
+TXN_RAJESH_0801,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-09 07:41:23,Travel,Air India Corporate Travel,6070.45,Business_Credit_Card,0
+TXN_RAJESH_0802,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-09 08:42:23,Facilities,Godrej Warehouse Lease,4279.74,RTGS_NEFT,0
+TXN_RAJESH_0803,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-09 12:44:23,Raw Materials,Sri Krishna Wholesale Suppliers,19421.96,Corporate_NetBanking,0
+TXN_RAJESH_0804,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-09 20:35:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,655468.22,Business_Credit_Card,1
+TXN_RAJESH_0805,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-09 21:08:23,Raw Materials,Sri Krishna Wholesale Suppliers,7824.28,RTGS_NEFT,0
+TXN_RAJESH_0806,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-09 22:34:23,Facilities,Godrej Warehouse Lease,16199.85,Cheque_Clearance,0
+TXN_RAJESH_0807,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-09 22:51:23,Travel,Air India Corporate Travel,3884.79,Business_Credit_Card,0
+TXN_RAJESH_0808,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-10 02:35:23,Shipping & Transport,BlueDart Logistics Freight,18308.25,Cheque_Clearance,0
+TXN_RAJESH_0809,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-10 03:58:23,Shipping & Transport,BlueDart Logistics Freight,30484.94,Business_Credit_Card,0
+TXN_RAJESH_0810,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-10 04:01:23,IT Infrastructure,HP Enterprise Server Hosting,24979.23,Business_Credit_Card,0
+TXN_RAJESH_0811,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-10 09:40:23,Shipping & Transport,BlueDart Logistics Freight,30763.48,Business_Credit_Card,0
+TXN_RAJESH_0812,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-10 11:30:23,Shipping & Transport,BlueDart Logistics Freight,20363.97,Corporate_NetBanking,0
+TXN_RAJESH_0813,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-10 17:07:23,Travel,Air India Corporate Travel,3526.28,Business_Credit_Card,0
+TXN_RAJESH_0814,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-10 20:47:23,Facilities,Godrej Warehouse Lease,5729.68,Business_Credit_Card,0
+TXN_RAJESH_0815,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-10 23:34:23,Shipping & Transport,BlueDart Logistics Freight,17095.21,RTGS_NEFT,0
+TXN_RAJESH_0816,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-11 02:30:23,Client Entertainment,Taj Krishna Corporate Dining,4661.39,RTGS_NEFT,0
+TXN_RAJESH_0817,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-11 06:05:23,Travel,Air India Corporate Travel,26287.26,Business_Credit_Card,0
+TXN_RAJESH_0818,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-11 06:06:23,Facilities,Godrej Warehouse Lease,10759.59,Corporate_NetBanking,0
+TXN_RAJESH_0819,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-11 09:39:23,Professional Services,Tally Software & Audit,13533.42,Corporate_NetBanking,0
+TXN_RAJESH_0820,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-11 14:49:23,Professional Services,Tally Software & Audit,65835.1,Corporate_NetBanking,0
+TXN_RAJESH_0821,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-11 16:51:23,Logistics Fuel,Indian Oil Fuel Station Fleet,6209.45,Business_Credit_Card,0
+TXN_RAJESH_0822,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-11 18:24:23,Facilities,Godrej Warehouse Lease,30929.86,Corporate_NetBanking,0
+TXN_RAJESH_0823,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-11 18:28:23,Client Entertainment,Taj Krishna Corporate Dining,11433.96,Business_Credit_Card,0
+TXN_RAJESH_0824,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-11 19:53:23,Logistics Fuel,Indian Oil Fuel Station Fleet,12485.7,Corporate_NetBanking,0
+TXN_RAJESH_0825,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-12 02:26:23,Raw Materials,Sri Krishna Wholesale Suppliers,9247.53,RTGS_NEFT,0
+TXN_RAJESH_0826,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-12 03:50:23,Logistics Fuel,Indian Oil Fuel Station Fleet,25593.0,RTGS_NEFT,0
+TXN_RAJESH_0827,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-12 05:04:23,Client Entertainment,Taj Krishna Corporate Dining,5513.42,Business_Credit_Card,0
+TXN_RAJESH_0828,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-12 06:30:23,Professional Services,Tally Software & Audit,63184.37,Corporate_NetBanking,0
+TXN_RAJESH_0829,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-12 11:40:23,Professional Services,Tally Software & Audit,6370.57,Business_Credit_Card,0
+TXN_RAJESH_0830,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-12 16:37:23,Facilities,Godrej Warehouse Lease,5755.77,Corporate_NetBanking,0
+TXN_RAJESH_0831,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-12 23:07:23,Logistics Fuel,Indian Oil Fuel Station Fleet,16967.64,Corporate_NetBanking,0
+TXN_RAJESH_0832,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 01:59:23,Client Entertainment,Taj Krishna Corporate Dining,6545.8,Corporate_NetBanking,0
+TXN_RAJESH_0833,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 02:35:23,Facilities,Godrej Warehouse Lease,2477.42,Corporate_NetBanking,0
+TXN_RAJESH_0834,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 05:55:23,Raw Materials,Sri Krishna Wholesale Suppliers,13917.49,Corporate_NetBanking,0
+TXN_RAJESH_0835,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 06:34:23,Shipping & Transport,BlueDart Logistics Freight,9883.07,Corporate_NetBanking,0
+TXN_RAJESH_0836,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 08:30:23,Facilities,Godrej Warehouse Lease,19378.19,Corporate_NetBanking,0
+TXN_RAJESH_0837,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 11:35:23,IT Infrastructure,HP Enterprise Server Hosting,31941.91,Business_Credit_Card,0
+TXN_RAJESH_0838,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 12:41:23,Shipping & Transport,BlueDart Logistics Freight,31809.07,Cheque_Clearance,0
+TXN_RAJESH_0839,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 16:02:23,Raw Materials,Sri Krishna Wholesale Suppliers,9805.58,RTGS_NEFT,0
+TXN_RAJESH_0840,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 20:28:23,Professional Services,Tally Software & Audit,24287.3,Corporate_NetBanking,0
+TXN_RAJESH_0841,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 21:59:23,Facilities,Godrej Warehouse Lease,17643.2,Business_Credit_Card,0
+TXN_RAJESH_0842,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 23:41:23,Facilities,Godrej Warehouse Lease,11901.02,RTGS_NEFT,0
+TXN_RAJESH_0843,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 23:46:23,IT Infrastructure,HP Enterprise Server Hosting,4700.39,Corporate_NetBanking,0
+TXN_RAJESH_0844,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-13 23:51:23,Raw Materials,Sri Krishna Wholesale Suppliers,8941.52,RTGS_NEFT,0
+TXN_RAJESH_0845,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 04:27:23,Professional Services,Tally Software & Audit,17297.31,Business_Credit_Card,0
+TXN_RAJESH_0846,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 06:29:23,Shipping & Transport,BlueDart Logistics Freight,11623.33,RTGS_NEFT,0
+TXN_RAJESH_0847,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 06:58:23,Raw Materials,Sri Krishna Wholesale Suppliers,5824.42,RTGS_NEFT,0
+TXN_RAJESH_0848,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 13:13:23,Shipping & Transport,BlueDart Logistics Freight,20306.25,Business_Credit_Card,0
+TXN_RAJESH_0849,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 14:05:23,Logistics Fuel,Indian Oil Fuel Station Fleet,15836.85,Business_Credit_Card,0
+TXN_RAJESH_0850,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 15:03:23,Professional Services,Tally Software & Audit,24158.5,Corporate_NetBanking,0
+TXN_RAJESH_0851,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 16:23:23,Travel,Air India Corporate Travel,4941.31,Corporate_NetBanking,0
+TXN_RAJESH_0852,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 16:34:23,Raw Materials,Sri Krishna Wholesale Suppliers,10312.01,Business_Credit_Card,0
+TXN_RAJESH_0853,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 17:14:23,Shipping & Transport,BlueDart Logistics Freight,14548.59,Corporate_NetBanking,0
+TXN_RAJESH_0854,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 19:12:23,Raw Materials,Sri Krishna Wholesale Suppliers,5692.95,Corporate_NetBanking,0
+TXN_RAJESH_0855,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-14 21:27:23,Raw Materials,Sri Krishna Wholesale Suppliers,6936.61,Corporate_NetBanking,0
+TXN_RAJESH_0856,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-15 01:59:23,Raw Materials,Sri Krishna Wholesale Suppliers,3192.4,RTGS_NEFT,0
+TXN_RAJESH_0857,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-15 06:25:23,Shipping & Transport,BlueDart Logistics Freight,19622.07,Corporate_NetBanking,0
+TXN_RAJESH_0858,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-15 11:37:23,IT Infrastructure,HP Enterprise Server Hosting,23896.37,Corporate_NetBanking,0
+TXN_RAJESH_0859,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-15 12:24:23,Travel,Air India Corporate Travel,12445.09,Business_Credit_Card,0
+TXN_RAJESH_0860,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-15 18:10:23,Shipping & Transport,BlueDart Logistics Freight,5493.3,Business_Credit_Card,0
+TXN_RAJESH_0861,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-15 18:17:23,Professional Services,Tally Software & Audit,23902.86,Corporate_NetBanking,0
+TXN_RAJESH_0862,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-15 19:57:23,Shipping & Transport,BlueDart Logistics Freight,1803.58,Cheque_Clearance,0
+TXN_RAJESH_0863,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-15 20:49:23,Client Entertainment,Taj Krishna Corporate Dining,8481.13,Business_Credit_Card,0
+TXN_RAJESH_0864,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-15 21:12:23,Shipping & Transport,BlueDart Logistics Freight,37033.22,Business_Credit_Card,0
+TXN_RAJESH_0865,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 01:56:23,IT Infrastructure,HP Enterprise Server Hosting,25662.22,Corporate_NetBanking,0
+TXN_RAJESH_0866,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 04:12:23,Raw Materials,Sri Krishna Wholesale Suppliers,43364.59,Business_Credit_Card,0
+TXN_RAJESH_0867,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 07:53:23,Professional Services,Tally Software & Audit,15572.13,RTGS_NEFT,0
+TXN_RAJESH_0868,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 09:16:23,Facilities,Godrej Warehouse Lease,8939.04,Corporate_NetBanking,0
+TXN_RAJESH_0869,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 10:31:23,IT Infrastructure,HP Enterprise Server Hosting,19602.1,Corporate_NetBanking,0
+TXN_RAJESH_0870,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 11:02:23,Shipping & Transport,BlueDart Logistics Freight,71189.69,Corporate_NetBanking,0
+TXN_RAJESH_0871,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 12:36:23,Client Entertainment,Taj Krishna Corporate Dining,18321.24,Cheque_Clearance,0
+TXN_RAJESH_0872,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 13:09:23,Shipping & Transport,BlueDart Logistics Freight,29934.78,Corporate_NetBanking,0
+TXN_RAJESH_0873,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 14:19:23,Travel,Air India Corporate Travel,37805.02,RTGS_NEFT,0
+TXN_RAJESH_0874,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 14:59:23,Client Entertainment,Taj Krishna Corporate Dining,23416.06,Corporate_NetBanking,0
+TXN_RAJESH_0875,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 15:16:23,Shipping & Transport,BlueDart Logistics Freight,14311.28,Business_Credit_Card,0
+TXN_RAJESH_0876,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 21:23:23,Client Entertainment,Taj Krishna Corporate Dining,40740.78,Business_Credit_Card,0
+TXN_RAJESH_0877,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-16 23:20:23,Travel,Air India Corporate Travel,7153.63,Corporate_NetBanking,0
+TXN_RAJESH_0878,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-17 05:57:23,Client Entertainment,Taj Krishna Corporate Dining,9567.98,Business_Credit_Card,0
+TXN_RAJESH_0879,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-17 11:28:23,Travel,Air India Corporate Travel,61854.15,Corporate_NetBanking,0
+TXN_RAJESH_0880,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-17 13:28:23,Client Entertainment,Taj Krishna Corporate Dining,10633.31,Corporate_NetBanking,0
+TXN_RAJESH_0881,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-17 23:04:23,Facilities,Godrej Warehouse Lease,24853.21,RTGS_NEFT,0
+TXN_RAJESH_0882,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-17 23:56:23,IT Infrastructure,HP Enterprise Server Hosting,6171.61,Corporate_NetBanking,0
+TXN_RAJESH_0883,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 03:54:23,IT Infrastructure,HP Enterprise Server Hosting,22561.35,Business_Credit_Card,0
+TXN_RAJESH_0884,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 04:05:23,IT Infrastructure,HP Enterprise Server Hosting,11242.09,Corporate_NetBanking,0
+TXN_RAJESH_0885,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 06:28:23,Client Entertainment,Taj Krishna Corporate Dining,60295.1,Corporate_NetBanking,0
+TXN_RAJESH_0886,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 06:37:23,Shipping & Transport,BlueDart Logistics Freight,28784.84,Business_Credit_Card,0
+TXN_RAJESH_0887,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 07:46:23,IT Infrastructure,HP Enterprise Server Hosting,6014.02,Business_Credit_Card,0
+TXN_RAJESH_0888,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 09:37:23,Shipping & Transport,BlueDart Logistics Freight,22293.94,Corporate_NetBanking,0
+TXN_RAJESH_0889,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 10:11:23,Raw Materials,Sri Krishna Wholesale Suppliers,5927.78,Business_Credit_Card,0
+TXN_RAJESH_0890,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 10:42:23,Facilities,Godrej Warehouse Lease,8445.47,Corporate_NetBanking,0
+TXN_RAJESH_0891,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 12:18:23,Logistics Fuel,Indian Oil Fuel Station Fleet,3634.12,RTGS_NEFT,0
+TXN_RAJESH_0892,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 14:34:23,IT Infrastructure,HP Enterprise Server Hosting,29624.76,Corporate_NetBanking,0
+TXN_RAJESH_0893,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 16:27:23,Shipping & Transport,BlueDart Logistics Freight,7288.45,Corporate_NetBanking,0
+TXN_RAJESH_0894,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 18:26:23,Shipping & Transport,BlueDart Logistics Freight,22486.22,RTGS_NEFT,0
+TXN_RAJESH_0895,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 19:42:23,Shipping & Transport,BlueDart Logistics Freight,38937.24,Corporate_NetBanking,0
+TXN_RAJESH_0896,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 20:18:23,IT Infrastructure,HP Enterprise Server Hosting,12921.24,Corporate_NetBanking,0
+TXN_RAJESH_0897,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 20:53:23,Travel,Air India Corporate Travel,3478.61,Corporate_NetBanking,0
+TXN_RAJESH_0898,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 22:03:23,Raw Materials,Sri Krishna Wholesale Suppliers,45882.9,RTGS_NEFT,0
+TXN_RAJESH_0899,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-18 22:46:23,Logistics Fuel,Indian Oil Fuel Station Fleet,107336.3,Cheque_Clearance,0
+TXN_RAJESH_0900,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-19 01:05:23,IT Infrastructure,HP Enterprise Server Hosting,14503.9,RTGS_NEFT,0
+TXN_RAJESH_0901,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-19 02:39:23,Raw Materials,Sri Krishna Wholesale Suppliers,11464.98,Business_Credit_Card,0
+TXN_RAJESH_0902,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-19 08:00:23,Shipping & Transport,BlueDart Logistics Freight,8034.61,Business_Credit_Card,0
+TXN_RAJESH_0903,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-19 17:57:23,Facilities,Godrej Warehouse Lease,12560.09,Business_Credit_Card,0
+TXN_RAJESH_0904,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-19 19:12:23,IT Infrastructure,HP Enterprise Server Hosting,14211.49,Corporate_NetBanking,0
+TXN_RAJESH_0905,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-19 20:28:23,Client Entertainment,Taj Krishna Corporate Dining,1900.91,Cheque_Clearance,0
+TXN_RAJESH_0906,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-19 23:10:23,Travel,Air India Corporate Travel,20825.71,Corporate_NetBanking,0
+TXN_RAJESH_0907,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-19 23:32:23,Suspicious Wire,FOREIGN_WIRE_ESCROW_TRX,720027.4,Corporate_NetBanking,1
+TXN_RAJESH_0908,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 02:01:23,Professional Services,Tally Software & Audit,8384.95,RTGS_NEFT,0
+TXN_RAJESH_0909,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 03:55:23,Logistics Fuel,Indian Oil Fuel Station Fleet,7621.99,RTGS_NEFT,0
+TXN_RAJESH_0910,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 04:04:23,Logistics Fuel,Indian Oil Fuel Station Fleet,6473.92,Corporate_NetBanking,0
+TXN_RAJESH_0911,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 05:48:23,Raw Materials,Sri Krishna Wholesale Suppliers,64004.77,Corporate_NetBanking,0
+TXN_RAJESH_0912,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 06:39:23,Raw Materials,Sri Krishna Wholesale Suppliers,7774.73,Business_Credit_Card,0
+TXN_RAJESH_0913,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 08:19:23,Professional Services,Tally Software & Audit,39445.07,Business_Credit_Card,0
+TXN_RAJESH_0914,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 09:29:23,Professional Services,Tally Software & Audit,9285.68,Business_Credit_Card,0
+TXN_RAJESH_0915,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 13:54:23,Logistics Fuel,Indian Oil Fuel Station Fleet,13755.44,Corporate_NetBanking,0
+TXN_RAJESH_0916,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 14:19:23,Shipping & Transport,BlueDart Logistics Freight,3594.12,Cheque_Clearance,0
+TXN_RAJESH_0917,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 14:58:23,Client Entertainment,Taj Krishna Corporate Dining,20394.91,Corporate_NetBanking,0
+TXN_RAJESH_0918,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 16:46:23,Client Entertainment,Taj Krishna Corporate Dining,15741.92,Business_Credit_Card,0
+TXN_RAJESH_0919,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 17:58:23,Client Entertainment,Taj Krishna Corporate Dining,10220.68,Business_Credit_Card,0
+TXN_RAJESH_0920,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 19:28:23,Facilities,Godrej Warehouse Lease,18228.43,Corporate_NetBanking,0
+TXN_RAJESH_0921,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 20:37:23,Logistics Fuel,Indian Oil Fuel Station Fleet,35398.27,Corporate_NetBanking,0
+TXN_RAJESH_0922,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 23:32:23,Logistics Fuel,Indian Oil Fuel Station Fleet,30568.91,RTGS_NEFT,0
+TXN_RAJESH_0923,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-20 23:36:23,Travel,Air India Corporate Travel,5812.58,RTGS_NEFT,0
+TXN_RAJESH_0924,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-21 00:10:23,Travel,Air India Corporate Travel,11212.1,Corporate_NetBanking,0
+TXN_RAJESH_0925,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-21 02:24:23,IT Infrastructure,HP Enterprise Server Hosting,10508.32,RTGS_NEFT,0
+TXN_RAJESH_0926,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-21 11:45:23,Shipping & Transport,BlueDart Logistics Freight,29710.86,Corporate_NetBanking,0
+TXN_RAJESH_0927,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-21 16:04:23,Shipping & Transport,BlueDart Logistics Freight,15942.06,Business_Credit_Card,0
+TXN_RAJESH_0928,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-22 06:24:23,IT Infrastructure,HP Enterprise Server Hosting,21241.69,Corporate_NetBanking,0
+TXN_RAJESH_0929,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-22 07:12:23,Client Entertainment,Taj Krishna Corporate Dining,7084.27,RTGS_NEFT,0
+TXN_RAJESH_0930,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-22 14:05:23,Travel,Air India Corporate Travel,10424.43,Corporate_NetBanking,0
+TXN_RAJESH_0931,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-22 14:27:23,Client Entertainment,Taj Krishna Corporate Dining,50919.2,Business_Credit_Card,0
+TXN_RAJESH_0932,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-22 16:42:23,Client Entertainment,Taj Krishna Corporate Dining,40273.78,RTGS_NEFT,0
+TXN_RAJESH_0933,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-22 22:09:23,Client Entertainment,Taj Krishna Corporate Dining,6649.42,Corporate_NetBanking,0
+TXN_RAJESH_0934,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-22 23:16:23,Travel,Air India Corporate Travel,32954.49,Business_Credit_Card,0
+TXN_RAJESH_0935,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-23 01:19:23,Facilities,Godrej Warehouse Lease,7299.79,Corporate_NetBanking,0
+TXN_RAJESH_0936,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-23 02:55:23,Shipping & Transport,BlueDart Logistics Freight,6904.84,Business_Credit_Card,0
+TXN_RAJESH_0937,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-23 03:02:23,Professional Services,Tally Software & Audit,3994.24,Corporate_NetBanking,0
+TXN_RAJESH_0938,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-23 03:30:23,Logistics Fuel,Indian Oil Fuel Station Fleet,25139.21,Business_Credit_Card,0
+TXN_RAJESH_0939,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-23 11:48:23,IT Infrastructure,HP Enterprise Server Hosting,51382.17,RTGS_NEFT,0
+TXN_RAJESH_0940,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-23 18:42:23,Shipping & Transport,BlueDart Logistics Freight,5062.97,Corporate_NetBanking,0
+TXN_RAJESH_0941,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-23 20:36:23,Client Entertainment,Taj Krishna Corporate Dining,12625.92,Corporate_NetBanking,0
+TXN_RAJESH_0942,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-23 23:51:23,Raw Materials,Sri Krishna Wholesale Suppliers,16138.33,Business_Credit_Card,0
+TXN_RAJESH_0943,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-24 00:50:23,Logistics Fuel,Indian Oil Fuel Station Fleet,17174.22,RTGS_NEFT,0
+TXN_RAJESH_0944,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-24 02:04:23,Logistics Fuel,Indian Oil Fuel Station Fleet,7781.67,Cheque_Clearance,0
+TXN_RAJESH_0945,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-24 04:07:23,Professional Services,Tally Software & Audit,28975.55,Corporate_NetBanking,0
+TXN_RAJESH_0946,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-24 04:35:23,Raw Materials,Sri Krishna Wholesale Suppliers,62443.83,Corporate_NetBanking,0
+TXN_RAJESH_0947,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-24 10:53:23,IT Infrastructure,HP Enterprise Server Hosting,20177.71,RTGS_NEFT,0
+TXN_RAJESH_0948,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-24 17:06:23,Shipping & Transport,BlueDart Logistics Freight,17339.56,RTGS_NEFT,0
+TXN_RAJESH_0949,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-24 17:07:23,Logistics Fuel,Indian Oil Fuel Station Fleet,10137.67,Business_Credit_Card,0
+TXN_RAJESH_0950,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-25 01:07:23,IT Infrastructure,HP Enterprise Server Hosting,22645.28,Corporate_NetBanking,0
+TXN_RAJESH_0951,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-25 05:42:23,Professional Services,Tally Software & Audit,37513.94,Corporate_NetBanking,0
+TXN_RAJESH_0952,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-25 13:51:23,Client Entertainment,Taj Krishna Corporate Dining,14851.45,Corporate_NetBanking,0
+TXN_RAJESH_0953,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-25 16:56:23,Shipping & Transport,BlueDart Logistics Freight,16629.41,RTGS_NEFT,0
+TXN_RAJESH_0954,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-25 22:21:23,Professional Services,Tally Software & Audit,31965.58,Corporate_NetBanking,0
+TXN_RAJESH_0955,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 00:01:23,Client Entertainment,Taj Krishna Corporate Dining,8771.11,Business_Credit_Card,0
+TXN_RAJESH_0956,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 00:08:23,Facilities,Godrej Warehouse Lease,14791.95,Business_Credit_Card,0
+TXN_RAJESH_0957,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 01:04:23,IT Infrastructure,HP Enterprise Server Hosting,14449.95,Corporate_NetBanking,0
+TXN_RAJESH_0958,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 03:41:23,Shipping & Transport,BlueDart Logistics Freight,27722.86,Corporate_NetBanking,0
+TXN_RAJESH_0959,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 04:32:23,IT Infrastructure,HP Enterprise Server Hosting,23179.31,Business_Credit_Card,0
+TXN_RAJESH_0960,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 05:52:23,Professional Services,Tally Software & Audit,5538.57,Corporate_NetBanking,0
+TXN_RAJESH_0961,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 07:22:23,Facilities,Godrej Warehouse Lease,5204.97,Corporate_NetBanking,0
+TXN_RAJESH_0962,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 11:19:23,Professional Services,Tally Software & Audit,9363.75,Corporate_NetBanking,0
+TXN_RAJESH_0963,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 13:15:23,Professional Services,Tally Software & Audit,13808.23,RTGS_NEFT,0
+TXN_RAJESH_0964,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 14:56:23,Shipping & Transport,BlueDart Logistics Freight,13525.32,Cheque_Clearance,0
+TXN_RAJESH_0965,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 17:13:23,Professional Services,Tally Software & Audit,33418.19,Business_Credit_Card,0
+TXN_RAJESH_0966,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-26 18:22:23,IT Infrastructure,HP Enterprise Server Hosting,80217.14,RTGS_NEFT,0
+TXN_RAJESH_0967,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-27 02:34:23,Travel,Air India Corporate Travel,26520.09,Business_Credit_Card,0
+TXN_RAJESH_0968,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-27 10:28:23,IT Infrastructure,HP Enterprise Server Hosting,9399.95,Business_Credit_Card,0
+TXN_RAJESH_0969,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-27 14:26:23,Client Entertainment,Taj Krishna Corporate Dining,14406.77,Cheque_Clearance,0
+TXN_RAJESH_0970,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-27 16:06:23,Travel,Air India Corporate Travel,4111.65,Business_Credit_Card,0
+TXN_RAJESH_0971,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-27 18:37:23,Travel,Air India Corporate Travel,26316.69,Corporate_NetBanking,0
+TXN_RAJESH_0972,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-27 23:25:23,Logistics Fuel,Indian Oil Fuel Station Fleet,25410.44,Cheque_Clearance,0
+TXN_RAJESH_0973,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 04:31:23,Shipping & Transport,BlueDart Logistics Freight,19659.99,RTGS_NEFT,0
+TXN_RAJESH_0974,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 06:49:23,IT Infrastructure,HP Enterprise Server Hosting,36223.01,Corporate_NetBanking,0
+TXN_RAJESH_0975,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 08:01:23,Raw Materials,Sri Krishna Wholesale Suppliers,12856.3,Cheque_Clearance,0
+TXN_RAJESH_0976,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 09:00:23,Logistics Fuel,Indian Oil Fuel Station Fleet,30155.29,Corporate_NetBanking,0
+TXN_RAJESH_0977,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 09:21:23,Shipping & Transport,BlueDart Logistics Freight,5655.98,Corporate_NetBanking,0
+TXN_RAJESH_0978,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 12:23:23,IT Infrastructure,HP Enterprise Server Hosting,6036.65,Business_Credit_Card,0
+TXN_RAJESH_0979,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 16:55:23,Raw Materials,Sri Krishna Wholesale Suppliers,32967.96,Corporate_NetBanking,0
+TXN_RAJESH_0980,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 18:00:23,Facilities,Godrej Warehouse Lease,12920.68,Business_Credit_Card,0
+TXN_RAJESH_0981,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 18:17:23,Travel,Air India Corporate Travel,6078.72,Corporate_NetBanking,0
+TXN_RAJESH_0982,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 19:15:23,Raw Materials,Sri Krishna Wholesale Suppliers,103527.27,Corporate_NetBanking,0
+TXN_RAJESH_0983,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-28 19:27:23,Logistics Fuel,Indian Oil Fuel Station Fleet,41024.12,Business_Credit_Card,0
+TXN_RAJESH_0984,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-29 00:35:23,Raw Materials,Sri Krishna Wholesale Suppliers,8217.38,Business_Credit_Card,0
+TXN_RAJESH_0985,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-29 01:14:23,Shipping & Transport,BlueDart Logistics Freight,44252.43,Corporate_NetBanking,0
+TXN_RAJESH_0986,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-29 03:27:23,Travel,Air India Corporate Travel,19499.4,Cheque_Clearance,0
+TXN_RAJESH_0987,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-29 09:39:23,Logistics Fuel,Indian Oil Fuel Station Fleet,24034.47,Business_Credit_Card,0
+TXN_RAJESH_0988,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-29 11:28:23,Client Entertainment,Taj Krishna Corporate Dining,13257.31,Corporate_NetBanking,0
+TXN_RAJESH_0989,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-29 14:03:23,Professional Services,Tally Software & Audit,5739.11,Corporate_NetBanking,0
+TXN_RAJESH_0990,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-29 17:34:23,Logistics Fuel,Indian Oil Fuel Station Fleet,7437.11,RTGS_NEFT,0
+TXN_RAJESH_0991,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-29 19:36:23,IT Infrastructure,HP Enterprise Server Hosting,5275.93,Business_Credit_Card,0
+TXN_RAJESH_0992,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-29 20:34:23,Travel,Air India Corporate Travel,10057.7,Corporate_NetBanking,0
+TXN_RAJESH_0993,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-29 23:46:23,Raw Materials,Sri Krishna Wholesale Suppliers,26043.43,Corporate_NetBanking,0
+TXN_RAJESH_0994,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-30 12:41:23,IT Infrastructure,HP Enterprise Server Hosting,41043.25,Business_Credit_Card,0
+TXN_RAJESH_0995,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-30 17:50:23,Shipping & Transport,BlueDart Logistics Freight,7177.14,Corporate_NetBanking,0
+TXN_RAJESH_0996,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-30 20:28:23,Client Entertainment,Taj Krishna Corporate Dining,7875.83,Business_Credit_Card,0
+TXN_RAJESH_0997,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-09-30 21:14:23,Logistics Fuel,Indian Oil Fuel Station Fleet,5500.84,RTGS_NEFT,0
+TXN_RAJESH_0998,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-10-01 08:01:23,IT Infrastructure,HP Enterprise Server Hosting,10800.19,Corporate_NetBanking,0
+TXN_RAJESH_0999,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-10-01 09:10:23,Travel,Air India Corporate Travel,18818.19,RTGS_NEFT,0
+TXN_RAJESH_1000,cust_rajesh,Rajesh Singhania,Business Owner (Wholesale Trader),2026-10-01 14:14:23,Client Entertainment,Taj Krishna Corporate Dining,15378.24,RTGS_NEFT,0

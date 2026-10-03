@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Customer_Name,Roll_No,Timestamp,Category,Merchant,Amount_INR,Channel,Class
+TXN_JANAKIRAM_0001,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-05 15:18:00,Developer Tools,GitHub Enterprise & Copilot Annual,4653.64,NetBanking,0
+TXN_JANAKIRAM_0002,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-05 17:31:00,Food & Dining,Chai & Code Cafe Cyberabad,5623.64,UPI_GPay,0
+TXN_JANAKIRAM_0003,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-06 06:49:00,Travel,MakeMyTrip Outstation Hackathon Travel,5169.91,Credit_Card,0
+TXN_JANAKIRAM_0004,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-06 11:58:00,Robotics Hardware,Robotics India Component Supplies,10363.4,Credit_Card,0
+TXN_JANAKIRAM_0005,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-06 14:09:00,Robotics Hardware,Robotics India Component Supplies,3330.81,Credit_Card,0
+TXN_JANAKIRAM_0006,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-06 14:21:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4562.82,Credit_Card,0
+TXN_JANAKIRAM_0007,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-06 20:08:00,Robotics Hardware,Robotics India Component Supplies,4021.77,Debit_Card,0
+TXN_JANAKIRAM_0008,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-07 00:18:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,7545.58,UPI_GPay,0
+TXN_JANAKIRAM_0009,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-07 01:28:00,Food & Dining,Chai & Code Cafe Cyberabad,4660.85,Credit_Card,0
+TXN_JANAKIRAM_0010,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-07 04:53:00,Robotics Hardware,Robotics India Component Supplies,4101.4,Credit_Card,0
+TXN_JANAKIRAM_0011,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-07 14:16:00,Hardware,Lenovo Pro Workstation Accessories,5821.52,UPI_GPay,0
+TXN_JANAKIRAM_0012,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-07 14:22:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,8479.24,UPI_GPay,0
+TXN_JANAKIRAM_0013,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-07 14:28:00,Travel,MakeMyTrip Outstation Hackathon Travel,4389.85,Credit_Card,0
+TXN_JANAKIRAM_0014,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-07 15:40:00,Robotics Hardware,Robotics India Component Supplies,7458.9,Debit_Card,0
+TXN_JANAKIRAM_0015,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-07 15:47:00,Hardware,Lenovo Pro Workstation Accessories,8763.84,Credit_Card,0
+TXN_JANAKIRAM_0016,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-07 18:53:00,Robotics Hardware,Robotics India Component Supplies,7228.89,Credit_Card,0
+TXN_JANAKIRAM_0017,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-07 23:52:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5747.56,Credit_Card,0
+TXN_JANAKIRAM_0018,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-08 02:25:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6442.2,UPI_GPay,0
+TXN_JANAKIRAM_0019,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-08 04:02:00,Electronics,Croma Electronics Cyberabad,2830.06,Credit_Card,0
+TXN_JANAKIRAM_0020,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-08 05:47:00,Robotics Hardware,Robotics India Component Supplies,6252.51,Credit_Card,0
+TXN_JANAKIRAM_0021,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-08 07:03:00,Food & Dining,Chai & Code Cafe Cyberabad,5269.63,Credit_Card,0
+TXN_JANAKIRAM_0022,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-08 13:47:00,Developer Tools,GitHub Enterprise & Copilot Annual,4110.56,UPI_GPay,0
+TXN_JANAKIRAM_0023,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-08 18:35:00,Robotics Hardware,Robotics India Component Supplies,2090.61,Credit_Card,0
+TXN_JANAKIRAM_0024,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-08 20:52:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3033.89,Credit_Card,0
+TXN_JANAKIRAM_0025,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-08 22:22:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3016.85,Credit_Card,0
+TXN_JANAKIRAM_0026,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 01:12:00,Hardware,Lenovo Pro Workstation Accessories,5458.9,Credit_Card,0
+TXN_JANAKIRAM_0027,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 01:20:00,Developer Tools,GitHub Enterprise & Copilot Annual,6662.09,UPI_GPay,0
+TXN_JANAKIRAM_0028,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 01:21:00,Travel,MakeMyTrip Outstation Hackathon Travel,3204.35,Credit_Card,0
+TXN_JANAKIRAM_0029,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 08:46:00,Food & Dining,Chai & Code Cafe Cyberabad,5455.02,Credit_Card,0
+TXN_JANAKIRAM_0030,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 11:45:00,Travel,MakeMyTrip Outstation Hackathon Travel,9165.43,UPI_GPay,0
+TXN_JANAKIRAM_0031,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 12:16:00,Electronics,Croma Electronics Cyberabad,3594.94,Credit_Card,0
+TXN_JANAKIRAM_0032,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 13:17:00,Developer Tools,GitHub Enterprise & Copilot Annual,5657.15,Credit_Card,0
+TXN_JANAKIRAM_0033,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 16:11:00,Developer Tools,GitHub Enterprise & Copilot Annual,7667.89,Credit_Card,0
+TXN_JANAKIRAM_0034,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 20:19:00,Hardware,Lenovo Pro Workstation Accessories,2915.66,NetBanking,0
+TXN_JANAKIRAM_0035,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 20:27:00,Robotics Hardware,Robotics India Component Supplies,10868.68,UPI_GPay,0
+TXN_JANAKIRAM_0036,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-09 23:26:00,Developer Tools,GitHub Enterprise & Copilot Annual,7658.68,NetBanking,0
+TXN_JANAKIRAM_0037,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 03:35:00,Hardware,Lenovo Pro Workstation Accessories,5160.73,NetBanking,0
+TXN_JANAKIRAM_0038,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 08:43:00,Food & Dining,Chai & Code Cafe Cyberabad,4787.35,Debit_Card,0
+TXN_JANAKIRAM_0039,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 09:15:00,Electronics,Croma Electronics Cyberabad,4776.7,UPI_GPay,0
+TXN_JANAKIRAM_0040,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 09:19:00,Hardware,Lenovo Pro Workstation Accessories,2790.83,UPI_GPay,0
+TXN_JANAKIRAM_0041,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 10:21:00,Developer Tools,GitHub Enterprise & Copilot Annual,2076.43,Credit_Card,0
+TXN_JANAKIRAM_0042,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 12:34:00,Suspicious Wire,UNKNOWN_FOREIGN_WIRE_TRANSFER,80144.01,Credit_Card,1
+TXN_JANAKIRAM_0043,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 13:32:00,Robotics Hardware,Robotics India Component Supplies,4070.35,UPI_GPay,0
+TXN_JANAKIRAM_0044,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 15:41:00,Hardware,Lenovo Pro Workstation Accessories,2594.3,Debit_Card,0
+TXN_JANAKIRAM_0045,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 16:01:00,Robotics Hardware,Robotics India Component Supplies,4682.91,UPI_GPay,0
+TXN_JANAKIRAM_0046,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 17:05:00,Electronics,Croma Electronics Cyberabad,5800.38,UPI_GPay,0
+TXN_JANAKIRAM_0047,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 18:11:00,Robotics Hardware,Robotics India Component Supplies,10481.16,UPI_GPay,0
+TXN_JANAKIRAM_0048,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-10 23:03:00,Robotics Hardware,Robotics India Component Supplies,6694.3,Credit_Card,0
+TXN_JANAKIRAM_0049,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-11 06:05:00,Hardware,Lenovo Pro Workstation Accessories,3730.86,Credit_Card,0
+TXN_JANAKIRAM_0050,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-11 07:07:00,Electronics,Croma Electronics Cyberabad,6293.2,UPI_GPay,0
+TXN_JANAKIRAM_0051,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-11 11:22:00,Developer Tools,GitHub Enterprise & Copilot Annual,5783.39,Credit_Card,0
+TXN_JANAKIRAM_0052,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-11 13:02:00,Developer Tools,GitHub Enterprise & Copilot Annual,4705.42,UPI_GPay,0
+TXN_JANAKIRAM_0053,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-11 15:26:00,Travel,MakeMyTrip Outstation Hackathon Travel,3378.87,NetBanking,0
+TXN_JANAKIRAM_0054,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-11 17:17:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,2697.05,NetBanking,0
+TXN_JANAKIRAM_0055,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-11 19:37:00,Travel,MakeMyTrip Outstation Hackathon Travel,5722.91,Credit_Card,0
+TXN_JANAKIRAM_0056,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-11 21:10:00,Robotics Hardware,Robotics India Component Supplies,5410.74,NetBanking,0
+TXN_JANAKIRAM_0057,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-12 07:04:00,Robotics Hardware,Robotics India Component Supplies,5325.36,Credit_Card,0
+TXN_JANAKIRAM_0058,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-12 10:23:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,2612.1,Credit_Card,0
+TXN_JANAKIRAM_0059,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-12 11:50:00,Travel,MakeMyTrip Outstation Hackathon Travel,4662.65,UPI_GPay,0
+TXN_JANAKIRAM_0060,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-12 13:11:00,Hardware,Lenovo Pro Workstation Accessories,3989.45,Credit_Card,0
+TXN_JANAKIRAM_0061,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-12 18:27:00,Food & Dining,Chai & Code Cafe Cyberabad,7955.63,Credit_Card,0
+TXN_JANAKIRAM_0062,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-13 00:11:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4778.34,Credit_Card,0
+TXN_JANAKIRAM_0063,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-13 00:12:00,Travel,MakeMyTrip Outstation Hackathon Travel,4931.57,UPI_GPay,0
+TXN_JANAKIRAM_0064,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-13 03:22:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5662.02,Credit_Card,0
+TXN_JANAKIRAM_0065,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-13 09:39:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5991.39,UPI_GPay,0
+TXN_JANAKIRAM_0066,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-13 16:16:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,7017.1,UPI_GPay,0
+TXN_JANAKIRAM_0067,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-13 16:36:00,Electronics,Croma Electronics Cyberabad,3450.62,UPI_GPay,0
+TXN_JANAKIRAM_0068,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-13 19:17:00,Developer Tools,GitHub Enterprise & Copilot Annual,3572.05,NetBanking,0
+TXN_JANAKIRAM_0069,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-13 21:20:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,1835.72,Credit_Card,0
+TXN_JANAKIRAM_0070,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-13 23:09:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,7130.03,Credit_Card,0
+TXN_JANAKIRAM_0071,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 02:42:00,Food & Dining,Chai & Code Cafe Cyberabad,3964.06,Credit_Card,0
+TXN_JANAKIRAM_0072,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 04:04:00,Travel,MakeMyTrip Outstation Hackathon Travel,5171.86,Credit_Card,0
+TXN_JANAKIRAM_0073,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 04:47:00,Hardware,Lenovo Pro Workstation Accessories,10120.73,UPI_GPay,0
+TXN_JANAKIRAM_0074,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 09:03:00,Electronics,Croma Electronics Cyberabad,5654.5,Credit_Card,0
+TXN_JANAKIRAM_0075,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 09:14:00,Hardware,Lenovo Pro Workstation Accessories,4180.52,Credit_Card,0
+TXN_JANAKIRAM_0076,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 14:42:00,Food & Dining,Chai & Code Cafe Cyberabad,2451.73,UPI_GPay,0
+TXN_JANAKIRAM_0077,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 15:05:00,Electronics,Croma Electronics Cyberabad,9782.21,UPI_GPay,0
+TXN_JANAKIRAM_0078,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 15:34:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6586.35,UPI_GPay,0
+TXN_JANAKIRAM_0079,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 16:51:00,Hardware,Lenovo Pro Workstation Accessories,7662.28,NetBanking,0
+TXN_JANAKIRAM_0080,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 19:02:00,Food & Dining,Chai & Code Cafe Cyberabad,4597.51,UPI_GPay,0
+TXN_JANAKIRAM_0081,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-14 19:13:00,Hardware,Lenovo Pro Workstation Accessories,8373.31,UPI_GPay,0
+TXN_JANAKIRAM_0082,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-15 01:39:00,Food & Dining,Chai & Code Cafe Cyberabad,7458.13,Credit_Card,0
+TXN_JANAKIRAM_0083,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-15 03:52:00,Food & Dining,Chai & Code Cafe Cyberabad,3708.43,Debit_Card,0
+TXN_JANAKIRAM_0084,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-15 05:36:00,Travel,MakeMyTrip Outstation Hackathon Travel,4794.09,UPI_GPay,0
+TXN_JANAKIRAM_0085,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-15 13:37:00,Hardware,Lenovo Pro Workstation Accessories,6812.39,Credit_Card,0
+TXN_JANAKIRAM_0086,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-15 14:50:00,Electronics,Croma Electronics Cyberabad,3223.31,Credit_Card,0
+TXN_JANAKIRAM_0087,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-15 15:36:00,Hardware,Lenovo Pro Workstation Accessories,3379.53,UPI_GPay,0
+TXN_JANAKIRAM_0088,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-15 23:21:00,Hardware,Lenovo Pro Workstation Accessories,7282.69,NetBanking,0
+TXN_JANAKIRAM_0089,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-16 01:13:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4422.62,Credit_Card,0
+TXN_JANAKIRAM_0090,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-16 01:31:00,Robotics Hardware,Robotics India Component Supplies,5243.74,Credit_Card,0
+TXN_JANAKIRAM_0091,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-16 03:57:00,Electronics,Croma Electronics Cyberabad,2819.12,NetBanking,0
+TXN_JANAKIRAM_0092,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-16 04:39:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,2704.33,NetBanking,0
+TXN_JANAKIRAM_0093,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-16 06:04:00,Hardware,Lenovo Pro Workstation Accessories,3867.32,Credit_Card,0
+TXN_JANAKIRAM_0094,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-16 08:03:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3850.92,Credit_Card,0
+TXN_JANAKIRAM_0095,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-16 14:54:00,Suspicious Wire,UNKNOWN_FOREIGN_WIRE_TRANSFER,120880.21,UPI_GPay,1
+TXN_JANAKIRAM_0096,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-16 17:09:00,Travel,MakeMyTrip Outstation Hackathon Travel,2703.54,Credit_Card,0
+TXN_JANAKIRAM_0097,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-16 21:20:00,Robotics Hardware,Robotics India Component Supplies,3364.81,NetBanking,0
+TXN_JANAKIRAM_0098,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-17 01:17:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5360.19,Credit_Card,0
+TXN_JANAKIRAM_0099,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-17 06:50:00,Travel,MakeMyTrip Outstation Hackathon Travel,3371.1,Credit_Card,0
+TXN_JANAKIRAM_0100,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-17 12:09:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6127.29,Credit_Card,0
+TXN_JANAKIRAM_0101,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-17 13:32:00,Robotics Hardware,Robotics India Component Supplies,3575.71,Credit_Card,0
+TXN_JANAKIRAM_0102,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-17 13:46:00,Developer Tools,GitHub Enterprise & Copilot Annual,6587.66,Credit_Card,0
+TXN_JANAKIRAM_0103,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-17 14:07:00,Food & Dining,Chai & Code Cafe Cyberabad,5894.09,Credit_Card,0
+TXN_JANAKIRAM_0104,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-17 23:36:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,10370.22,UPI_GPay,0
+TXN_JANAKIRAM_0105,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-17 23:55:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6764.5,Credit_Card,0
+TXN_JANAKIRAM_0106,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-18 00:36:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4038.53,NetBanking,0
+TXN_JANAKIRAM_0107,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-18 05:47:00,Developer Tools,GitHub Enterprise & Copilot Annual,7637.79,Credit_Card,0
+TXN_JANAKIRAM_0108,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-18 14:21:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4217.39,UPI_GPay,0
+TXN_JANAKIRAM_0109,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-18 14:22:00,Food & Dining,Chai & Code Cafe Cyberabad,7076.76,Credit_Card,0
+TXN_JANAKIRAM_0110,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-18 19:11:00,Travel,MakeMyTrip Outstation Hackathon Travel,2389.19,Credit_Card,0
+TXN_JANAKIRAM_0111,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-18 19:28:00,Food & Dining,Chai & Code Cafe Cyberabad,2828.39,UPI_GPay,0
+TXN_JANAKIRAM_0112,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-19 04:18:00,Food & Dining,Chai & Code Cafe Cyberabad,1684.71,UPI_GPay,0
+TXN_JANAKIRAM_0113,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-19 05:01:00,Travel,MakeMyTrip Outstation Hackathon Travel,4789.14,UPI_GPay,0
+TXN_JANAKIRAM_0114,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-19 06:22:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3925.56,UPI_GPay,0
+TXN_JANAKIRAM_0115,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-19 06:58:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,1738.04,UPI_GPay,0
+TXN_JANAKIRAM_0116,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-19 16:37:00,Hardware,Lenovo Pro Workstation Accessories,2691.89,Credit_Card,0
+TXN_JANAKIRAM_0117,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-19 18:29:00,Electronics,Croma Electronics Cyberabad,3818.07,NetBanking,0
+TXN_JANAKIRAM_0118,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-19 20:53:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5784.92,UPI_GPay,0
+TXN_JANAKIRAM_0119,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-19 22:51:00,Developer Tools,GitHub Enterprise & Copilot Annual,3443.01,Debit_Card,0
+TXN_JANAKIRAM_0120,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-20 08:37:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6455.2,NetBanking,0
+TXN_JANAKIRAM_0121,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-20 11:06:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2511.64,Credit_Card,0
+TXN_JANAKIRAM_0122,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-20 12:03:00,Robotics Hardware,Robotics India Component Supplies,3177.47,Credit_Card,0
+TXN_JANAKIRAM_0123,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-20 14:48:00,Travel,MakeMyTrip Outstation Hackathon Travel,6892.78,UPI_GPay,0
+TXN_JANAKIRAM_0124,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-20 17:49:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5932.68,UPI_GPay,0
+TXN_JANAKIRAM_0125,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-20 19:37:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4972.83,UPI_GPay,0
+TXN_JANAKIRAM_0126,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-20 21:10:00,Travel,MakeMyTrip Outstation Hackathon Travel,3692.55,UPI_GPay,0
+TXN_JANAKIRAM_0127,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-21 01:30:00,Developer Tools,GitHub Enterprise & Copilot Annual,6405.9,Credit_Card,0
+TXN_JANAKIRAM_0128,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-21 09:13:00,Robotics Hardware,Robotics India Component Supplies,2301.95,Credit_Card,0
+TXN_JANAKIRAM_0129,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-21 09:27:00,Robotics Hardware,Robotics India Component Supplies,6497.59,Credit_Card,0
+TXN_JANAKIRAM_0130,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-21 10:41:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6483.4,UPI_GPay,0
+TXN_JANAKIRAM_0131,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-21 15:37:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5291.35,UPI_GPay,0
+TXN_JANAKIRAM_0132,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-21 16:29:00,Developer Tools,GitHub Enterprise & Copilot Annual,4306.13,Credit_Card,0
+TXN_JANAKIRAM_0133,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-21 19:12:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4240.6,UPI_GPay,0
+TXN_JANAKIRAM_0134,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-22 00:34:00,Developer Tools,GitHub Enterprise & Copilot Annual,3868.71,Credit_Card,0
+TXN_JANAKIRAM_0135,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-22 00:54:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4525.76,Credit_Card,0
+TXN_JANAKIRAM_0136,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-22 01:52:00,Robotics Hardware,Robotics India Component Supplies,12673.59,UPI_GPay,0
+TXN_JANAKIRAM_0137,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-22 03:23:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2088.44,Credit_Card,0
+TXN_JANAKIRAM_0138,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-22 09:01:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2396.04,UPI_GPay,0
+TXN_JANAKIRAM_0139,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-22 10:39:00,Developer Tools,GitHub Enterprise & Copilot Annual,8191.88,NetBanking,0
+TXN_JANAKIRAM_0140,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-22 10:55:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3375.64,NetBanking,0
+TXN_JANAKIRAM_0141,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-22 10:57:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4616.51,Credit_Card,0
+TXN_JANAKIRAM_0142,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-22 18:01:00,Travel,MakeMyTrip Outstation Hackathon Travel,3555.33,UPI_GPay,0
+TXN_JANAKIRAM_0143,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-22 18:26:00,Robotics Hardware,Robotics India Component Supplies,6425.07,UPI_GPay,0
+TXN_JANAKIRAM_0144,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 00:57:00,Developer Tools,GitHub Enterprise & Copilot Annual,6246.49,UPI_GPay,0
+TXN_JANAKIRAM_0145,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 01:52:00,Developer Tools,GitHub Enterprise & Copilot Annual,2672.38,UPI_GPay,0
+TXN_JANAKIRAM_0146,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 05:16:00,Developer Tools,GitHub Enterprise & Copilot Annual,3411.4,Credit_Card,0
+TXN_JANAKIRAM_0147,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 06:49:00,Electronics,Croma Electronics Cyberabad,9115.72,Credit_Card,0
+TXN_JANAKIRAM_0148,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 11:05:00,Hardware,Lenovo Pro Workstation Accessories,3454.85,UPI_GPay,0
+TXN_JANAKIRAM_0149,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 11:13:00,Electronics,Croma Electronics Cyberabad,6059.07,UPI_GPay,0
+TXN_JANAKIRAM_0150,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 13:39:00,Hardware,Lenovo Pro Workstation Accessories,7813.33,Credit_Card,0
+TXN_JANAKIRAM_0151,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 14:42:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,8016.95,Credit_Card,0
+TXN_JANAKIRAM_0152,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 17:03:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4352.6,UPI_GPay,0
+TXN_JANAKIRAM_0153,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 18:21:00,Electronics,Croma Electronics Cyberabad,5699.11,Credit_Card,0
+TXN_JANAKIRAM_0154,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-23 20:38:00,Travel,MakeMyTrip Outstation Hackathon Travel,7004.44,Credit_Card,0
+TXN_JANAKIRAM_0155,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-24 06:35:00,Robotics Hardware,Robotics India Component Supplies,4086.07,Credit_Card,0
+TXN_JANAKIRAM_0156,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-24 06:47:00,Electronics,Croma Electronics Cyberabad,3622.22,Credit_Card,0
+TXN_JANAKIRAM_0157,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-24 14:28:00,Travel,MakeMyTrip Outstation Hackathon Travel,5684.79,UPI_GPay,0
+TXN_JANAKIRAM_0158,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-24 15:32:00,Robotics Hardware,Robotics India Component Supplies,2914.58,Credit_Card,0
+TXN_JANAKIRAM_0159,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-24 18:53:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3373.54,Credit_Card,0
+TXN_JANAKIRAM_0160,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-24 20:00:00,Travel,MakeMyTrip Outstation Hackathon Travel,4212.18,Credit_Card,0
+TXN_JANAKIRAM_0161,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-24 20:07:00,Robotics Hardware,Robotics India Component Supplies,6170.31,Credit_Card,0
+TXN_JANAKIRAM_0162,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-25 01:05:00,Travel,MakeMyTrip Outstation Hackathon Travel,5158.01,UPI_GPay,0
+TXN_JANAKIRAM_0163,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-25 02:42:00,Developer Tools,GitHub Enterprise & Copilot Annual,5290.79,Credit_Card,0
+TXN_JANAKIRAM_0164,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-25 17:51:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3562.9,UPI_GPay,0
+TXN_JANAKIRAM_0165,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-25 21:08:00,Robotics Hardware,Robotics India Component Supplies,2408.39,Credit_Card,0
+TXN_JANAKIRAM_0166,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-25 21:46:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3948.63,Credit_Card,0
+TXN_JANAKIRAM_0167,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-25 23:37:00,Electronics,Croma Electronics Cyberabad,4306.37,Credit_Card,0
+TXN_JANAKIRAM_0168,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-26 01:29:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,8448.97,Credit_Card,0
+TXN_JANAKIRAM_0169,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-26 03:00:00,Hardware,Lenovo Pro Workstation Accessories,3690.56,UPI_GPay,0
+TXN_JANAKIRAM_0170,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-26 03:26:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,2804.58,UPI_GPay,0
+TXN_JANAKIRAM_0171,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-26 13:14:00,Travel,MakeMyTrip Outstation Hackathon Travel,2201.46,NetBanking,0
+TXN_JANAKIRAM_0172,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-26 16:11:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4581.15,Credit_Card,0
+TXN_JANAKIRAM_0173,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-26 21:46:00,Developer Tools,GitHub Enterprise & Copilot Annual,3921.8,Credit_Card,0
+TXN_JANAKIRAM_0174,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 06:20:00,Robotics Hardware,Robotics India Component Supplies,4143.95,Credit_Card,0
+TXN_JANAKIRAM_0175,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 06:21:00,Developer Tools,GitHub Enterprise & Copilot Annual,8699.11,UPI_GPay,0
+TXN_JANAKIRAM_0176,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 11:35:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3012.18,Credit_Card,0
+TXN_JANAKIRAM_0177,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 12:25:00,Travel,MakeMyTrip Outstation Hackathon Travel,5322.7,Credit_Card,0
+TXN_JANAKIRAM_0178,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 14:22:00,Electronics,Croma Electronics Cyberabad,5503.68,Credit_Card,0
+TXN_JANAKIRAM_0179,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 15:11:00,Hardware,Lenovo Pro Workstation Accessories,5850.44,Credit_Card,0
+TXN_JANAKIRAM_0180,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 17:10:00,Electronics,Croma Electronics Cyberabad,2215.33,NetBanking,0
+TXN_JANAKIRAM_0181,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 20:10:00,Robotics Hardware,Robotics India Component Supplies,3896.37,UPI_GPay,0
+TXN_JANAKIRAM_0182,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 20:11:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2167.56,UPI_GPay,0
+TXN_JANAKIRAM_0183,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 22:21:00,Food & Dining,Chai & Code Cafe Cyberabad,4654.39,UPI_GPay,0
+TXN_JANAKIRAM_0184,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 22:33:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6927.02,UPI_GPay,0
+TXN_JANAKIRAM_0185,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 23:21:00,Robotics Hardware,Robotics India Component Supplies,4312.17,Credit_Card,0
+TXN_JANAKIRAM_0186,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-27 23:47:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5699.76,UPI_GPay,0
+TXN_JANAKIRAM_0187,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-28 06:43:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6878.04,Credit_Card,0
+TXN_JANAKIRAM_0188,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-28 08:54:00,Food & Dining,Chai & Code Cafe Cyberabad,6394.92,Credit_Card,0
+TXN_JANAKIRAM_0189,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-28 11:04:00,Robotics Hardware,Robotics India Component Supplies,3132.42,UPI_GPay,0
+TXN_JANAKIRAM_0190,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-28 11:11:00,Developer Tools,GitHub Enterprise & Copilot Annual,5652.2,UPI_GPay,0
+TXN_JANAKIRAM_0191,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-28 12:38:00,Electronics,Croma Electronics Cyberabad,4410.88,UPI_GPay,0
+TXN_JANAKIRAM_0192,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-28 14:36:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,7642.51,UPI_GPay,0
+TXN_JANAKIRAM_0193,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-28 16:49:00,Robotics Hardware,Robotics India Component Supplies,4757.4,Credit_Card,0
+TXN_JANAKIRAM_0194,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-28 16:50:00,Electronics,Croma Electronics Cyberabad,5146.93,Credit_Card,0
+TXN_JANAKIRAM_0195,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-28 21:06:00,Travel,MakeMyTrip Outstation Hackathon Travel,4028.82,Credit_Card,0
+TXN_JANAKIRAM_0196,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-28 23:24:00,Travel,MakeMyTrip Outstation Hackathon Travel,6647.75,UPI_GPay,0
+TXN_JANAKIRAM_0197,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-29 02:08:00,Robotics Hardware,Robotics India Component Supplies,1803.63,Debit_Card,0
+TXN_JANAKIRAM_0198,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-29 02:35:00,Electronics,Croma Electronics Cyberabad,10590.99,Credit_Card,0
+TXN_JANAKIRAM_0199,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-29 04:10:00,Suspicious Wire,UNKNOWN_FOREIGN_WIRE_TRANSFER,67331.65,Credit_Card,1
+TXN_JANAKIRAM_0200,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-29 05:54:00,Electronics,Croma Electronics Cyberabad,4681.36,UPI_GPay,0
+TXN_JANAKIRAM_0201,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-29 09:32:00,Electronics,Croma Electronics Cyberabad,3750.18,NetBanking,0
+TXN_JANAKIRAM_0202,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-29 11:46:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6116.73,UPI_GPay,0
+TXN_JANAKIRAM_0203,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-29 14:28:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3061.21,Credit_Card,0
+TXN_JANAKIRAM_0204,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-29 16:50:00,Travel,MakeMyTrip Outstation Hackathon Travel,4675.7,Debit_Card,0
+TXN_JANAKIRAM_0205,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-29 20:05:00,Food & Dining,Chai & Code Cafe Cyberabad,3699.46,NetBanking,0
+TXN_JANAKIRAM_0206,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-29 22:49:00,Travel,MakeMyTrip Outstation Hackathon Travel,9278.95,Credit_Card,0
+TXN_JANAKIRAM_0207,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-30 00:13:00,Robotics Hardware,Robotics India Component Supplies,3168.16,NetBanking,0
+TXN_JANAKIRAM_0208,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-30 04:23:00,Electronics,Croma Electronics Cyberabad,2920.52,UPI_GPay,0
+TXN_JANAKIRAM_0209,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-30 04:47:00,Electronics,Croma Electronics Cyberabad,3435.7,Credit_Card,0
+TXN_JANAKIRAM_0210,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-30 14:10:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4025.02,UPI_GPay,0
+TXN_JANAKIRAM_0211,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-30 14:40:00,Hardware,Lenovo Pro Workstation Accessories,3904.12,NetBanking,0
+TXN_JANAKIRAM_0212,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-30 17:45:00,Travel,MakeMyTrip Outstation Hackathon Travel,4246.76,UPI_GPay,0
+TXN_JANAKIRAM_0213,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-30 20:29:00,Travel,MakeMyTrip Outstation Hackathon Travel,5016.21,Credit_Card,0
+TXN_JANAKIRAM_0214,cust_janakiram,M. Janaki Ram,24R95A0519,2026-06-30 21:18:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,7904.87,Debit_Card,0
+TXN_JANAKIRAM_0215,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-01 02:43:00,Food & Dining,Chai & Code Cafe Cyberabad,5289.56,Credit_Card,0
+TXN_JANAKIRAM_0216,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-01 06:22:00,Hardware,Lenovo Pro Workstation Accessories,3894.85,UPI_GPay,0
+TXN_JANAKIRAM_0217,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-01 08:32:00,Food & Dining,Chai & Code Cafe Cyberabad,2494.93,UPI_GPay,0
+TXN_JANAKIRAM_0218,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-01 13:46:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3945.62,Credit_Card,0
+TXN_JANAKIRAM_0219,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-01 15:07:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6696.96,Credit_Card,0
+TXN_JANAKIRAM_0220,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-01 18:49:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3923.54,NetBanking,0
+TXN_JANAKIRAM_0221,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-01 19:08:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4514.13,Credit_Card,0
+TXN_JANAKIRAM_0222,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-01 20:32:00,Robotics Hardware,Robotics India Component Supplies,4348.43,UPI_GPay,0
+TXN_JANAKIRAM_0223,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-01 21:22:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,7169.99,UPI_GPay,0
+TXN_JANAKIRAM_0224,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-01 22:22:00,Developer Tools,GitHub Enterprise & Copilot Annual,5344.97,UPI_GPay,0
+TXN_JANAKIRAM_0225,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-02 11:19:00,Travel,MakeMyTrip Outstation Hackathon Travel,2329.28,UPI_GPay,0
+TXN_JANAKIRAM_0226,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-02 13:01:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4063.14,Credit_Card,0
+TXN_JANAKIRAM_0227,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-02 15:09:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3374.51,Credit_Card,0
+TXN_JANAKIRAM_0228,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-02 16:32:00,Developer Tools,GitHub Enterprise & Copilot Annual,4489.09,NetBanking,0
+TXN_JANAKIRAM_0229,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-02 19:34:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,9203.76,UPI_GPay,0
+TXN_JANAKIRAM_0230,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-02 23:16:00,Travel,MakeMyTrip Outstation Hackathon Travel,5416.53,Credit_Card,0
+TXN_JANAKIRAM_0231,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-03 05:11:00,Electronics,Croma Electronics Cyberabad,8357.6,NetBanking,0
+TXN_JANAKIRAM_0232,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-03 07:25:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3308.98,UPI_GPay,0
+TXN_JANAKIRAM_0233,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-03 13:10:00,Travel,MakeMyTrip Outstation Hackathon Travel,16271.88,Credit_Card,0
+TXN_JANAKIRAM_0234,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-03 15:11:00,Food & Dining,Chai & Code Cafe Cyberabad,10409.05,Debit_Card,0
+TXN_JANAKIRAM_0235,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-03 22:20:00,Food & Dining,Chai & Code Cafe Cyberabad,4894.74,UPI_GPay,0
+TXN_JANAKIRAM_0236,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-04 01:37:00,Travel,MakeMyTrip Outstation Hackathon Travel,4007.72,Credit_Card,0
+TXN_JANAKIRAM_0237,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-04 06:32:00,Hardware,Lenovo Pro Workstation Accessories,4041.28,Credit_Card,0
+TXN_JANAKIRAM_0238,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-04 07:22:00,Hardware,Lenovo Pro Workstation Accessories,5501.28,UPI_GPay,0
+TXN_JANAKIRAM_0239,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-04 08:10:00,Hardware,Lenovo Pro Workstation Accessories,11704.3,UPI_GPay,0
+TXN_JANAKIRAM_0240,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-04 10:11:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5124.55,Credit_Card,0
+TXN_JANAKIRAM_0241,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-04 10:23:00,Food & Dining,Chai & Code Cafe Cyberabad,9422.91,Credit_Card,0
+TXN_JANAKIRAM_0242,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-04 17:32:00,Robotics Hardware,Robotics India Component Supplies,6227.54,Credit_Card,0
+TXN_JANAKIRAM_0243,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-04 18:34:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4899.8,UPI_GPay,0
+TXN_JANAKIRAM_0244,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-04 20:49:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5531.17,Credit_Card,0
+TXN_JANAKIRAM_0245,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-04 23:08:00,Electronics,Croma Electronics Cyberabad,5175.87,Credit_Card,0
+TXN_JANAKIRAM_0246,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-05 06:25:00,Hardware,Lenovo Pro Workstation Accessories,4390.75,UPI_GPay,0
+TXN_JANAKIRAM_0247,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-05 09:32:00,Developer Tools,GitHub Enterprise & Copilot Annual,2470.13,UPI_GPay,0
+TXN_JANAKIRAM_0248,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-05 16:49:00,Developer Tools,GitHub Enterprise & Copilot Annual,4442.05,UPI_GPay,0
+TXN_JANAKIRAM_0249,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-05 16:55:00,Travel,MakeMyTrip Outstation Hackathon Travel,4059.42,Credit_Card,0
+TXN_JANAKIRAM_0250,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-05 19:31:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5285.0,Credit_Card,0
+TXN_JANAKIRAM_0251,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-05 23:56:00,Food & Dining,Chai & Code Cafe Cyberabad,4728.05,Credit_Card,0
+TXN_JANAKIRAM_0252,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-06 03:31:00,Developer Tools,GitHub Enterprise & Copilot Annual,10512.22,Debit_Card,0
+TXN_JANAKIRAM_0253,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-06 09:53:00,Travel,MakeMyTrip Outstation Hackathon Travel,4477.58,UPI_GPay,0
+TXN_JANAKIRAM_0254,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-06 11:30:00,Travel,MakeMyTrip Outstation Hackathon Travel,10381.09,Credit_Card,0
+TXN_JANAKIRAM_0255,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-06 11:32:00,Robotics Hardware,Robotics India Component Supplies,4774.28,Credit_Card,0
+TXN_JANAKIRAM_0256,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-06 12:21:00,Hardware,Lenovo Pro Workstation Accessories,2542.57,UPI_GPay,0
+TXN_JANAKIRAM_0257,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-06 15:55:00,Electronics,Croma Electronics Cyberabad,4296.53,UPI_GPay,0
+TXN_JANAKIRAM_0258,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-06 20:54:00,Hardware,Lenovo Pro Workstation Accessories,1882.66,UPI_GPay,0
+TXN_JANAKIRAM_0259,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-07 00:44:00,Developer Tools,GitHub Enterprise & Copilot Annual,6767.21,NetBanking,0
+TXN_JANAKIRAM_0260,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-07 09:20:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,8274.57,UPI_GPay,0
+TXN_JANAKIRAM_0261,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-07 10:52:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2633.82,UPI_GPay,0
+TXN_JANAKIRAM_0262,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-07 13:41:00,Travel,MakeMyTrip Outstation Hackathon Travel,6456.52,NetBanking,0
+TXN_JANAKIRAM_0263,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-07 20:09:00,Developer Tools,GitHub Enterprise & Copilot Annual,6512.19,UPI_GPay,0
+TXN_JANAKIRAM_0264,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-07 21:25:00,Food & Dining,Chai & Code Cafe Cyberabad,5703.02,UPI_GPay,0
+TXN_JANAKIRAM_0265,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-08 03:43:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6056.49,Debit_Card,0
+TXN_JANAKIRAM_0266,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-08 04:11:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4566.88,Credit_Card,0
+TXN_JANAKIRAM_0267,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-08 04:19:00,Developer Tools,GitHub Enterprise & Copilot Annual,4311.14,Credit_Card,0
+TXN_JANAKIRAM_0268,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-08 06:11:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4951.44,NetBanking,0
+TXN_JANAKIRAM_0269,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-08 08:32:00,Hardware,Lenovo Pro Workstation Accessories,4080.31,UPI_GPay,0
+TXN_JANAKIRAM_0270,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-08 08:54:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4489.18,NetBanking,0
+TXN_JANAKIRAM_0271,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-08 09:57:00,Robotics Hardware,Robotics India Component Supplies,4331.56,Credit_Card,0
+TXN_JANAKIRAM_0272,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-08 18:31:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4457.71,UPI_GPay,0
+TXN_JANAKIRAM_0273,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-09 00:09:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4940.65,Credit_Card,0
+TXN_JANAKIRAM_0274,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-09 15:23:00,Developer Tools,GitHub Enterprise & Copilot Annual,4872.34,UPI_GPay,0
+TXN_JANAKIRAM_0275,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-09 17:15:00,Food & Dining,Chai & Code Cafe Cyberabad,3416.65,Credit_Card,0
+TXN_JANAKIRAM_0276,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-09 18:11:00,Food & Dining,Chai & Code Cafe Cyberabad,6136.41,Credit_Card,0
+TXN_JANAKIRAM_0277,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-10 07:35:00,Travel,MakeMyTrip Outstation Hackathon Travel,5751.9,Credit_Card,0
+TXN_JANAKIRAM_0278,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-10 08:44:00,Hardware,Lenovo Pro Workstation Accessories,4540.19,UPI_GPay,0
+TXN_JANAKIRAM_0279,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-10 09:46:00,Travel,MakeMyTrip Outstation Hackathon Travel,4962.85,Credit_Card,0
+TXN_JANAKIRAM_0280,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-11 04:39:00,Electronics,Croma Electronics Cyberabad,1663.4,Credit_Card,0
+TXN_JANAKIRAM_0281,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-11 07:50:00,Hardware,Lenovo Pro Workstation Accessories,4407.77,Credit_Card,0
+TXN_JANAKIRAM_0282,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-11 08:22:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4784.73,Credit_Card,0
+TXN_JANAKIRAM_0283,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-11 09:39:00,Food & Dining,Chai & Code Cafe Cyberabad,3639.93,NetBanking,0
+TXN_JANAKIRAM_0284,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-11 15:32:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,8499.57,Credit_Card,0
+TXN_JANAKIRAM_0285,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-11 20:55:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4420.36,Credit_Card,0
+TXN_JANAKIRAM_0286,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-11 23:45:00,Robotics Hardware,Robotics India Component Supplies,3484.75,NetBanking,0
+TXN_JANAKIRAM_0287,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-12 01:26:00,Electronics,Croma Electronics Cyberabad,2865.26,UPI_GPay,0
+TXN_JANAKIRAM_0288,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-12 01:49:00,Hardware,Lenovo Pro Workstation Accessories,4327.41,UPI_GPay,0
+TXN_JANAKIRAM_0289,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-12 02:54:00,Robotics Hardware,Robotics India Component Supplies,5780.97,UPI_GPay,0
+TXN_JANAKIRAM_0290,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-12 04:34:00,Robotics Hardware,Robotics India Component Supplies,2935.61,NetBanking,0
+TXN_JANAKIRAM_0291,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-12 08:55:00,Hardware,Lenovo Pro Workstation Accessories,6416.87,Credit_Card,0
+TXN_JANAKIRAM_0292,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-12 10:43:00,Food & Dining,Chai & Code Cafe Cyberabad,4179.13,Debit_Card,0
+TXN_JANAKIRAM_0293,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-12 12:02:00,Hardware,Lenovo Pro Workstation Accessories,6734.46,NetBanking,0
+TXN_JANAKIRAM_0294,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-12 12:35:00,Hardware,Lenovo Pro Workstation Accessories,1545.26,UPI_GPay,0
+TXN_JANAKIRAM_0295,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-13 00:11:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3217.84,UPI_GPay,0
+TXN_JANAKIRAM_0296,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-14 06:41:00,Robotics Hardware,Robotics India Component Supplies,2640.68,UPI_GPay,0
+TXN_JANAKIRAM_0297,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-14 12:30:00,Hardware,Lenovo Pro Workstation Accessories,4275.25,Credit_Card,0
+TXN_JANAKIRAM_0298,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-14 16:07:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5045.96,Credit_Card,0
+TXN_JANAKIRAM_0299,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-14 18:46:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4205.03,Debit_Card,0
+TXN_JANAKIRAM_0300,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-14 19:45:00,Developer Tools,GitHub Enterprise & Copilot Annual,4773.47,UPI_GPay,0
+TXN_JANAKIRAM_0301,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-14 23:14:00,Electronics,Croma Electronics Cyberabad,5548.65,Credit_Card,0
+TXN_JANAKIRAM_0302,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-15 00:45:00,Travel,MakeMyTrip Outstation Hackathon Travel,2197.6,UPI_GPay,0
+TXN_JANAKIRAM_0303,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-15 01:25:00,Developer Tools,GitHub Enterprise & Copilot Annual,3713.25,UPI_GPay,0
+TXN_JANAKIRAM_0304,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-15 04:44:00,Robotics Hardware,Robotics India Component Supplies,12150.42,Credit_Card,0
+TXN_JANAKIRAM_0305,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-15 10:31:00,Developer Tools,GitHub Enterprise & Copilot Annual,6939.29,UPI_GPay,0
+TXN_JANAKIRAM_0306,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-15 11:09:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4502.13,UPI_GPay,0
+TXN_JANAKIRAM_0307,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-15 12:04:00,Developer Tools,GitHub Enterprise & Copilot Annual,7943.25,Credit_Card,0
+TXN_JANAKIRAM_0308,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-15 14:04:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4970.74,Debit_Card,0
+TXN_JANAKIRAM_0309,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-15 16:23:00,Food & Dining,Chai & Code Cafe Cyberabad,3905.65,Credit_Card,0
+TXN_JANAKIRAM_0310,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-15 19:13:00,Electronics,Croma Electronics Cyberabad,5953.38,UPI_GPay,0
+TXN_JANAKIRAM_0311,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-15 19:20:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,2324.92,Credit_Card,0
+TXN_JANAKIRAM_0312,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 02:27:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,2250.5,UPI_GPay,0
+TXN_JANAKIRAM_0313,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 04:50:00,Food & Dining,Chai & Code Cafe Cyberabad,3953.63,Credit_Card,0
+TXN_JANAKIRAM_0314,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 09:49:00,Robotics Hardware,Robotics India Component Supplies,5227.85,Credit_Card,0
+TXN_JANAKIRAM_0315,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 10:12:00,Food & Dining,Chai & Code Cafe Cyberabad,6109.69,NetBanking,0
+TXN_JANAKIRAM_0316,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 14:57:00,Electronics,Croma Electronics Cyberabad,5049.53,Credit_Card,0
+TXN_JANAKIRAM_0317,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 15:46:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6064.01,UPI_GPay,0
+TXN_JANAKIRAM_0318,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 16:06:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4995.76,UPI_GPay,0
+TXN_JANAKIRAM_0319,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 16:48:00,Robotics Hardware,Robotics India Component Supplies,3738.73,Debit_Card,0
+TXN_JANAKIRAM_0320,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 18:50:00,Electronics,Croma Electronics Cyberabad,4382.61,UPI_GPay,0
+TXN_JANAKIRAM_0321,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 20:43:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5344.95,Credit_Card,0
+TXN_JANAKIRAM_0322,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-16 23:27:00,Robotics Hardware,Robotics India Component Supplies,4664.51,Credit_Card,0
+TXN_JANAKIRAM_0323,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-17 00:36:00,Developer Tools,GitHub Enterprise & Copilot Annual,3133.44,NetBanking,0
+TXN_JANAKIRAM_0324,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-17 02:12:00,Travel,MakeMyTrip Outstation Hackathon Travel,5529.8,NetBanking,0
+TXN_JANAKIRAM_0325,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-17 03:20:00,Food & Dining,Chai & Code Cafe Cyberabad,3512.48,Credit_Card,0
+TXN_JANAKIRAM_0326,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-17 07:12:00,Robotics Hardware,Robotics India Component Supplies,2600.28,UPI_GPay,0
+TXN_JANAKIRAM_0327,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-17 09:24:00,Food & Dining,Chai & Code Cafe Cyberabad,2921.3,UPI_GPay,0
+TXN_JANAKIRAM_0328,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-17 09:57:00,Travel,MakeMyTrip Outstation Hackathon Travel,3102.31,Debit_Card,0
+TXN_JANAKIRAM_0329,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-17 10:26:00,Electronics,Croma Electronics Cyberabad,7041.95,NetBanking,0
+TXN_JANAKIRAM_0330,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-17 19:12:00,Food & Dining,Chai & Code Cafe Cyberabad,4516.75,Debit_Card,0
+TXN_JANAKIRAM_0331,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-17 22:48:00,Developer Tools,GitHub Enterprise & Copilot Annual,6388.23,NetBanking,0
+TXN_JANAKIRAM_0332,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-17 23:56:00,Robotics Hardware,Robotics India Component Supplies,3120.28,NetBanking,0
+TXN_JANAKIRAM_0333,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-18 00:11:00,Travel,MakeMyTrip Outstation Hackathon Travel,3582.7,Credit_Card,0
+TXN_JANAKIRAM_0334,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-18 02:52:00,Hardware,Lenovo Pro Workstation Accessories,7768.38,NetBanking,0
+TXN_JANAKIRAM_0335,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-18 03:56:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,7405.64,UPI_GPay,0
+TXN_JANAKIRAM_0336,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-18 04:23:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4279.75,Debit_Card,0
+TXN_JANAKIRAM_0337,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-18 07:23:00,Hardware,Lenovo Pro Workstation Accessories,4085.28,UPI_GPay,0
+TXN_JANAKIRAM_0338,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-18 10:39:00,Hardware,Lenovo Pro Workstation Accessories,3830.89,Credit_Card,0
+TXN_JANAKIRAM_0339,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-18 15:57:00,Hardware,Lenovo Pro Workstation Accessories,9587.12,UPI_GPay,0
+TXN_JANAKIRAM_0340,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-18 20:50:00,Travel,MakeMyTrip Outstation Hackathon Travel,5900.19,UPI_GPay,0
+TXN_JANAKIRAM_0341,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-18 23:05:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3611.73,Credit_Card,0
+TXN_JANAKIRAM_0342,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-19 00:42:00,Robotics Hardware,Robotics India Component Supplies,2915.52,Credit_Card,0
+TXN_JANAKIRAM_0343,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-19 02:23:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2446.03,UPI_GPay,0
+TXN_JANAKIRAM_0344,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-19 04:07:00,Robotics Hardware,Robotics India Component Supplies,3717.63,Credit_Card,0
+TXN_JANAKIRAM_0345,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-19 05:25:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5723.17,Credit_Card,0
+TXN_JANAKIRAM_0346,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-19 05:41:00,Electronics,Croma Electronics Cyberabad,2591.86,Credit_Card,0
+TXN_JANAKIRAM_0347,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-19 07:28:00,Hardware,Lenovo Pro Workstation Accessories,6851.32,NetBanking,0
+TXN_JANAKIRAM_0348,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-19 11:50:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5758.78,UPI_GPay,0
+TXN_JANAKIRAM_0349,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-19 12:40:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2970.9,Credit_Card,0
+TXN_JANAKIRAM_0350,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-19 14:17:00,Electronics,Croma Electronics Cyberabad,5837.02,UPI_GPay,0
+TXN_JANAKIRAM_0351,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-19 21:23:00,Robotics Hardware,Robotics India Component Supplies,3767.96,UPI_GPay,0
+TXN_JANAKIRAM_0352,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-20 02:31:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5261.99,Credit_Card,0
+TXN_JANAKIRAM_0353,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-20 03:26:00,Hardware,Lenovo Pro Workstation Accessories,4331.28,Credit_Card,0
+TXN_JANAKIRAM_0354,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-20 03:50:00,Hardware,Lenovo Pro Workstation Accessories,2651.08,UPI_GPay,0
+TXN_JANAKIRAM_0355,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-20 03:53:00,Food & Dining,Chai & Code Cafe Cyberabad,8965.3,UPI_GPay,0
+TXN_JANAKIRAM_0356,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-20 06:07:00,Hardware,Lenovo Pro Workstation Accessories,3366.01,UPI_GPay,0
+TXN_JANAKIRAM_0357,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-20 06:25:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3852.83,Credit_Card,0
+TXN_JANAKIRAM_0358,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-20 11:35:00,Food & Dining,Chai & Code Cafe Cyberabad,3445.02,Credit_Card,0
+TXN_JANAKIRAM_0359,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-20 14:13:00,Developer Tools,GitHub Enterprise & Copilot Annual,3620.88,Debit_Card,0
+TXN_JANAKIRAM_0360,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-20 16:00:00,Electronics,Croma Electronics Cyberabad,5849.57,Credit_Card,0
+TXN_JANAKIRAM_0361,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-21 00:23:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2537.88,UPI_GPay,0
+TXN_JANAKIRAM_0362,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-21 05:46:00,Hardware,Lenovo Pro Workstation Accessories,5177.51,Credit_Card,0
+TXN_JANAKIRAM_0363,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-21 07:25:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5007.58,Credit_Card,0
+TXN_JANAKIRAM_0364,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-21 09:27:00,Suspicious Wire,UNKNOWN_FOREIGN_WIRE_TRANSFER,130684.44,Credit_Card,1
+TXN_JANAKIRAM_0365,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-21 12:39:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5754.28,Credit_Card,0
+TXN_JANAKIRAM_0366,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-21 14:50:00,Food & Dining,Chai & Code Cafe Cyberabad,2907.89,Credit_Card,0
+TXN_JANAKIRAM_0367,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-21 15:16:00,Robotics Hardware,Robotics India Component Supplies,4556.66,Credit_Card,0
+TXN_JANAKIRAM_0368,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-21 16:36:00,Robotics Hardware,Robotics India Component Supplies,5052.7,UPI_GPay,0
+TXN_JANAKIRAM_0369,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-21 18:06:00,Travel,MakeMyTrip Outstation Hackathon Travel,6618.45,UPI_GPay,0
+TXN_JANAKIRAM_0370,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-22 04:17:00,Hardware,Lenovo Pro Workstation Accessories,6662.77,Credit_Card,0
+TXN_JANAKIRAM_0371,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-22 09:28:00,Hardware,Lenovo Pro Workstation Accessories,4754.14,NetBanking,0
+TXN_JANAKIRAM_0372,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-22 10:24:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4105.25,Credit_Card,0
+TXN_JANAKIRAM_0373,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-22 10:56:00,Electronics,Croma Electronics Cyberabad,5458.59,Credit_Card,0
+TXN_JANAKIRAM_0374,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-22 11:19:00,Developer Tools,GitHub Enterprise & Copilot Annual,4698.01,UPI_GPay,0
+TXN_JANAKIRAM_0375,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-22 15:02:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3935.07,UPI_GPay,0
+TXN_JANAKIRAM_0376,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-22 15:03:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,7161.61,UPI_GPay,0
+TXN_JANAKIRAM_0377,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-22 17:23:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4592.81,Credit_Card,0
+TXN_JANAKIRAM_0378,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-22 18:50:00,Robotics Hardware,Robotics India Component Supplies,4323.49,NetBanking,0
+TXN_JANAKIRAM_0379,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-22 20:55:00,Robotics Hardware,Robotics India Component Supplies,4924.81,UPI_GPay,0
+TXN_JANAKIRAM_0380,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-23 03:44:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3597.97,Credit_Card,0
+TXN_JANAKIRAM_0381,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-23 09:46:00,Food & Dining,Chai & Code Cafe Cyberabad,4550.49,Credit_Card,0
+TXN_JANAKIRAM_0382,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-23 11:59:00,Hardware,Lenovo Pro Workstation Accessories,2809.18,NetBanking,0
+TXN_JANAKIRAM_0383,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-23 13:18:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6127.3,UPI_GPay,0
+TXN_JANAKIRAM_0384,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-23 14:08:00,Electronics,Croma Electronics Cyberabad,12958.37,Credit_Card,0
+TXN_JANAKIRAM_0385,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-23 14:08:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4870.32,Credit_Card,0
+TXN_JANAKIRAM_0386,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-23 17:12:00,Travel,MakeMyTrip Outstation Hackathon Travel,4191.99,Credit_Card,0
+TXN_JANAKIRAM_0387,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 04:28:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6930.49,UPI_GPay,0
+TXN_JANAKIRAM_0388,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 04:38:00,Electronics,Croma Electronics Cyberabad,2459.05,NetBanking,0
+TXN_JANAKIRAM_0389,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 04:46:00,Electronics,Croma Electronics Cyberabad,5635.5,Credit_Card,0
+TXN_JANAKIRAM_0390,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 08:08:00,Robotics Hardware,Robotics India Component Supplies,4600.55,Credit_Card,0
+TXN_JANAKIRAM_0391,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 08:32:00,Electronics,Croma Electronics Cyberabad,4081.24,NetBanking,0
+TXN_JANAKIRAM_0392,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 10:07:00,Hardware,Lenovo Pro Workstation Accessories,8325.95,UPI_GPay,0
+TXN_JANAKIRAM_0393,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 10:08:00,Robotics Hardware,Robotics India Component Supplies,3455.84,UPI_GPay,0
+TXN_JANAKIRAM_0394,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 14:39:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3595.56,Credit_Card,0
+TXN_JANAKIRAM_0395,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 15:35:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,8120.86,UPI_GPay,0
+TXN_JANAKIRAM_0396,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 22:19:00,Developer Tools,GitHub Enterprise & Copilot Annual,6997.22,UPI_GPay,0
+TXN_JANAKIRAM_0397,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 22:52:00,Robotics Hardware,Robotics India Component Supplies,4862.23,Credit_Card,0
+TXN_JANAKIRAM_0398,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-24 23:59:00,Hardware,Lenovo Pro Workstation Accessories,5511.87,Debit_Card,0
+TXN_JANAKIRAM_0399,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-25 08:01:00,Developer Tools,GitHub Enterprise & Copilot Annual,3257.41,NetBanking,0
+TXN_JANAKIRAM_0400,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-25 08:28:00,Electronics,Croma Electronics Cyberabad,3316.58,UPI_GPay,0
+TXN_JANAKIRAM_0401,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-25 10:31:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6152.63,UPI_GPay,0
+TXN_JANAKIRAM_0402,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-25 13:36:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,2461.7,UPI_GPay,0
+TXN_JANAKIRAM_0403,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-25 16:47:00,Electronics,Croma Electronics Cyberabad,6766.62,Credit_Card,0
+TXN_JANAKIRAM_0404,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-25 18:17:00,Food & Dining,Chai & Code Cafe Cyberabad,6065.68,Credit_Card,0
+TXN_JANAKIRAM_0405,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-25 20:15:00,Travel,MakeMyTrip Outstation Hackathon Travel,7390.85,UPI_GPay,0
+TXN_JANAKIRAM_0406,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-25 20:44:00,Food & Dining,Chai & Code Cafe Cyberabad,7250.98,UPI_GPay,0
+TXN_JANAKIRAM_0407,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-25 22:51:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3526.44,NetBanking,0
+TXN_JANAKIRAM_0408,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-25 23:03:00,Electronics,Croma Electronics Cyberabad,3822.08,Credit_Card,0
+TXN_JANAKIRAM_0409,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-26 08:17:00,Electronics,Croma Electronics Cyberabad,5222.88,UPI_GPay,0
+TXN_JANAKIRAM_0410,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-26 09:27:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5173.23,UPI_GPay,0
+TXN_JANAKIRAM_0411,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-26 09:56:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3319.49,UPI_GPay,0
+TXN_JANAKIRAM_0412,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-26 12:05:00,Food & Dining,Chai & Code Cafe Cyberabad,6577.62,NetBanking,0
+TXN_JANAKIRAM_0413,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-26 20:43:00,Travel,MakeMyTrip Outstation Hackathon Travel,5827.91,Debit_Card,0
+TXN_JANAKIRAM_0414,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-26 21:29:00,Robotics Hardware,Robotics India Component Supplies,3232.56,Credit_Card,0
+TXN_JANAKIRAM_0415,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-26 22:43:00,Hardware,Lenovo Pro Workstation Accessories,5842.95,Credit_Card,0
+TXN_JANAKIRAM_0416,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-27 03:35:00,Hardware,Lenovo Pro Workstation Accessories,3390.0,Credit_Card,0
+TXN_JANAKIRAM_0417,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-27 08:52:00,Developer Tools,GitHub Enterprise & Copilot Annual,3301.44,UPI_GPay,0
+TXN_JANAKIRAM_0418,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-27 11:54:00,Hardware,Lenovo Pro Workstation Accessories,2532.32,Credit_Card,0
+TXN_JANAKIRAM_0419,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-27 14:51:00,Developer Tools,GitHub Enterprise & Copilot Annual,3343.06,UPI_GPay,0
+TXN_JANAKIRAM_0420,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-27 14:51:00,Electronics,Croma Electronics Cyberabad,2183.83,Credit_Card,0
+TXN_JANAKIRAM_0421,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-27 15:51:00,Developer Tools,GitHub Enterprise & Copilot Annual,4524.19,UPI_GPay,0
+TXN_JANAKIRAM_0422,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-27 17:22:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3746.24,UPI_GPay,0
+TXN_JANAKIRAM_0423,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-28 01:19:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5358.16,UPI_GPay,0
+TXN_JANAKIRAM_0424,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-28 02:34:00,Robotics Hardware,Robotics India Component Supplies,4688.68,UPI_GPay,0
+TXN_JANAKIRAM_0425,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-28 04:15:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,2376.49,Credit_Card,0
+TXN_JANAKIRAM_0426,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-28 05:03:00,Electronics,Croma Electronics Cyberabad,3176.84,Credit_Card,0
+TXN_JANAKIRAM_0427,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-28 08:24:00,Hardware,Lenovo Pro Workstation Accessories,3998.47,UPI_GPay,0
+TXN_JANAKIRAM_0428,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-28 12:12:00,Hardware,Lenovo Pro Workstation Accessories,3500.41,UPI_GPay,0
+TXN_JANAKIRAM_0429,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-28 13:17:00,Food & Dining,Chai & Code Cafe Cyberabad,2763.33,NetBanking,0
+TXN_JANAKIRAM_0430,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-28 14:58:00,Hardware,Lenovo Pro Workstation Accessories,10499.31,NetBanking,0
+TXN_JANAKIRAM_0431,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-28 18:22:00,Hardware,Lenovo Pro Workstation Accessories,2852.59,NetBanking,0
+TXN_JANAKIRAM_0432,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-28 22:10:00,Travel,MakeMyTrip Outstation Hackathon Travel,3609.74,Credit_Card,0
+TXN_JANAKIRAM_0433,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 00:09:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4335.52,UPI_GPay,0
+TXN_JANAKIRAM_0434,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 00:29:00,Hardware,Lenovo Pro Workstation Accessories,12512.74,Credit_Card,0
+TXN_JANAKIRAM_0435,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 04:16:00,Developer Tools,GitHub Enterprise & Copilot Annual,5073.33,Credit_Card,0
+TXN_JANAKIRAM_0436,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 11:14:00,Robotics Hardware,Robotics India Component Supplies,5475.31,Credit_Card,0
+TXN_JANAKIRAM_0437,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 11:53:00,Electronics,Croma Electronics Cyberabad,5013.36,Credit_Card,0
+TXN_JANAKIRAM_0438,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 17:11:00,Travel,MakeMyTrip Outstation Hackathon Travel,7857.36,Credit_Card,0
+TXN_JANAKIRAM_0439,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 17:13:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3484.03,UPI_GPay,0
+TXN_JANAKIRAM_0440,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 19:30:00,Electronics,Croma Electronics Cyberabad,5352.62,Debit_Card,0
+TXN_JANAKIRAM_0441,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 19:44:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3208.44,Credit_Card,0
+TXN_JANAKIRAM_0442,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 19:52:00,Travel,MakeMyTrip Outstation Hackathon Travel,3812.54,NetBanking,0
+TXN_JANAKIRAM_0443,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 21:00:00,Hardware,Lenovo Pro Workstation Accessories,8668.43,Credit_Card,0
+TXN_JANAKIRAM_0444,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-29 21:33:00,Food & Dining,Chai & Code Cafe Cyberabad,2466.02,Credit_Card,0
+TXN_JANAKIRAM_0445,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-30 05:51:00,Travel,MakeMyTrip Outstation Hackathon Travel,5262.8,UPI_GPay,0
+TXN_JANAKIRAM_0446,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-30 08:28:00,Robotics Hardware,Robotics India Component Supplies,9077.18,UPI_GPay,0
+TXN_JANAKIRAM_0447,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-30 09:52:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4648.32,Credit_Card,0
+TXN_JANAKIRAM_0448,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-30 10:44:00,Hardware,Lenovo Pro Workstation Accessories,3514.33,Credit_Card,0
+TXN_JANAKIRAM_0449,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-30 11:40:00,Robotics Hardware,Robotics India Component Supplies,4383.95,UPI_GPay,0
+TXN_JANAKIRAM_0450,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-30 12:13:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5570.71,Credit_Card,0
+TXN_JANAKIRAM_0451,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-30 12:31:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6491.31,UPI_GPay,0
+TXN_JANAKIRAM_0452,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-30 14:51:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6633.76,UPI_GPay,0
+TXN_JANAKIRAM_0453,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 01:48:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,12801.9,Credit_Card,0
+TXN_JANAKIRAM_0454,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 02:40:00,Food & Dining,Chai & Code Cafe Cyberabad,5843.33,NetBanking,0
+TXN_JANAKIRAM_0455,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 05:15:00,Developer Tools,GitHub Enterprise & Copilot Annual,3846.16,Credit_Card,0
+TXN_JANAKIRAM_0456,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 07:06:00,Food & Dining,Chai & Code Cafe Cyberabad,5276.39,UPI_GPay,0
+TXN_JANAKIRAM_0457,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 11:25:00,Travel,MakeMyTrip Outstation Hackathon Travel,4688.81,UPI_GPay,0
+TXN_JANAKIRAM_0458,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 11:48:00,Hardware,Lenovo Pro Workstation Accessories,3578.85,Debit_Card,0
+TXN_JANAKIRAM_0459,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 13:37:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3864.34,UPI_GPay,0
+TXN_JANAKIRAM_0460,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 17:14:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,7568.64,UPI_GPay,0
+TXN_JANAKIRAM_0461,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 18:23:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4435.43,Credit_Card,0
+TXN_JANAKIRAM_0462,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 18:25:00,Electronics,Croma Electronics Cyberabad,3915.73,UPI_GPay,0
+TXN_JANAKIRAM_0463,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 18:29:00,Electronics,Croma Electronics Cyberabad,10584.86,UPI_GPay,0
+TXN_JANAKIRAM_0464,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 18:44:00,Food & Dining,Chai & Code Cafe Cyberabad,3327.79,Credit_Card,0
+TXN_JANAKIRAM_0465,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 19:07:00,Hardware,Lenovo Pro Workstation Accessories,7854.98,NetBanking,0
+TXN_JANAKIRAM_0466,cust_janakiram,M. Janaki Ram,24R95A0519,2026-07-31 22:59:00,Travel,MakeMyTrip Outstation Hackathon Travel,6109.44,Credit_Card,0
+TXN_JANAKIRAM_0467,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-01 03:15:00,Food & Dining,Chai & Code Cafe Cyberabad,11617.77,NetBanking,0
+TXN_JANAKIRAM_0468,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-01 04:04:00,Developer Tools,GitHub Enterprise & Copilot Annual,7422.55,NetBanking,0
+TXN_JANAKIRAM_0469,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-01 04:24:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5434.38,UPI_GPay,0
+TXN_JANAKIRAM_0470,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-01 04:37:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,1912.12,UPI_GPay,0
+TXN_JANAKIRAM_0471,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-01 05:18:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3036.34,Credit_Card,0
+TXN_JANAKIRAM_0472,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-01 08:34:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3741.57,Debit_Card,0
+TXN_JANAKIRAM_0473,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-01 09:46:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,7972.51,Credit_Card,0
+TXN_JANAKIRAM_0474,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-01 16:00:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5364.74,UPI_GPay,0
+TXN_JANAKIRAM_0475,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-02 00:45:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4113.86,UPI_GPay,0
+TXN_JANAKIRAM_0476,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-02 03:15:00,Electronics,Croma Electronics Cyberabad,14799.64,NetBanking,0
+TXN_JANAKIRAM_0477,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-02 09:42:00,Hardware,Lenovo Pro Workstation Accessories,5335.83,UPI_GPay,0
+TXN_JANAKIRAM_0478,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-02 17:46:00,Food & Dining,Chai & Code Cafe Cyberabad,3006.24,UPI_GPay,0
+TXN_JANAKIRAM_0479,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-02 19:35:00,Developer Tools,GitHub Enterprise & Copilot Annual,8073.81,Credit_Card,0
+TXN_JANAKIRAM_0480,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-02 20:46:00,Travel,MakeMyTrip Outstation Hackathon Travel,4791.97,Credit_Card,0
+TXN_JANAKIRAM_0481,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-02 21:24:00,Food & Dining,Chai & Code Cafe Cyberabad,2672.22,Credit_Card,0
+TXN_JANAKIRAM_0482,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-03 01:43:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6941.32,NetBanking,0
+TXN_JANAKIRAM_0483,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-03 03:02:00,Robotics Hardware,Robotics India Component Supplies,3142.91,UPI_GPay,0
+TXN_JANAKIRAM_0484,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-03 03:47:00,Food & Dining,Chai & Code Cafe Cyberabad,3998.62,UPI_GPay,0
+TXN_JANAKIRAM_0485,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-03 12:34:00,Developer Tools,GitHub Enterprise & Copilot Annual,6040.02,UPI_GPay,0
+TXN_JANAKIRAM_0486,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-03 16:50:00,Hardware,Lenovo Pro Workstation Accessories,4399.8,UPI_GPay,0
+TXN_JANAKIRAM_0487,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-03 17:32:00,Robotics Hardware,Robotics India Component Supplies,2779.96,Credit_Card,0
+TXN_JANAKIRAM_0488,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-03 18:07:00,Developer Tools,GitHub Enterprise & Copilot Annual,6156.96,Credit_Card,0
+TXN_JANAKIRAM_0489,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-03 23:03:00,Robotics Hardware,Robotics India Component Supplies,3195.15,Credit_Card,0
+TXN_JANAKIRAM_0490,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-04 01:13:00,Developer Tools,GitHub Enterprise & Copilot Annual,8092.98,UPI_GPay,0
+TXN_JANAKIRAM_0491,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-04 02:16:00,Robotics Hardware,Robotics India Component Supplies,6137.62,Credit_Card,0
+TXN_JANAKIRAM_0492,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-04 03:59:00,Developer Tools,GitHub Enterprise & Copilot Annual,8452.01,UPI_GPay,0
+TXN_JANAKIRAM_0493,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-04 09:31:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4517.5,UPI_GPay,0
+TXN_JANAKIRAM_0494,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-04 09:35:00,Robotics Hardware,Robotics India Component Supplies,4007.92,UPI_GPay,0
+TXN_JANAKIRAM_0495,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-04 12:46:00,Hardware,Lenovo Pro Workstation Accessories,4057.2,Credit_Card,0
+TXN_JANAKIRAM_0496,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-04 17:17:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5920.17,Credit_Card,0
+TXN_JANAKIRAM_0497,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-04 21:00:00,Developer Tools,GitHub Enterprise & Copilot Annual,3657.82,Credit_Card,0
+TXN_JANAKIRAM_0498,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-04 22:56:00,Electronics,Croma Electronics Cyberabad,16765.67,UPI_GPay,0
+TXN_JANAKIRAM_0499,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-05 01:01:00,Travel,MakeMyTrip Outstation Hackathon Travel,5787.38,Credit_Card,0
+TXN_JANAKIRAM_0500,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-05 01:08:00,Robotics Hardware,Robotics India Component Supplies,3658.48,NetBanking,0
+TXN_JANAKIRAM_0501,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-05 01:20:00,Travel,MakeMyTrip Outstation Hackathon Travel,3649.99,UPI_GPay,0
+TXN_JANAKIRAM_0502,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-05 01:27:00,Electronics,Croma Electronics Cyberabad,5158.35,Credit_Card,0
+TXN_JANAKIRAM_0503,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-05 07:00:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,9074.23,UPI_GPay,0
+TXN_JANAKIRAM_0504,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-05 08:35:00,Travel,MakeMyTrip Outstation Hackathon Travel,5783.22,UPI_GPay,0
+TXN_JANAKIRAM_0505,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-05 11:50:00,Food & Dining,Chai & Code Cafe Cyberabad,3899.13,UPI_GPay,0
+TXN_JANAKIRAM_0506,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-05 20:58:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,13032.32,Credit_Card,0
+TXN_JANAKIRAM_0507,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-05 22:51:00,Travel,MakeMyTrip Outstation Hackathon Travel,4395.07,Credit_Card,0
+TXN_JANAKIRAM_0508,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-05 22:53:00,Robotics Hardware,Robotics India Component Supplies,5224.07,Credit_Card,0
+TXN_JANAKIRAM_0509,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-06 03:05:00,Hardware,Lenovo Pro Workstation Accessories,3067.27,Credit_Card,0
+TXN_JANAKIRAM_0510,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-06 04:39:00,Electronics,Croma Electronics Cyberabad,2508.3,UPI_GPay,0
+TXN_JANAKIRAM_0511,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-06 05:37:00,Food & Dining,Chai & Code Cafe Cyberabad,13097.83,UPI_GPay,0
+TXN_JANAKIRAM_0512,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-06 05:56:00,Food & Dining,Chai & Code Cafe Cyberabad,7230.83,NetBanking,0
+TXN_JANAKIRAM_0513,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-06 06:37:00,Hardware,Lenovo Pro Workstation Accessories,17163.96,Credit_Card,0
+TXN_JANAKIRAM_0514,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-06 12:09:00,Developer Tools,GitHub Enterprise & Copilot Annual,4731.5,Credit_Card,0
+TXN_JANAKIRAM_0515,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-06 13:40:00,Hardware,Lenovo Pro Workstation Accessories,4816.3,UPI_GPay,0
+TXN_JANAKIRAM_0516,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-06 14:43:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4873.56,Credit_Card,0
+TXN_JANAKIRAM_0517,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-06 20:42:00,Travel,MakeMyTrip Outstation Hackathon Travel,3700.73,Credit_Card,0
+TXN_JANAKIRAM_0518,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 00:18:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5809.38,UPI_GPay,0
+TXN_JANAKIRAM_0519,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 04:34:00,Hardware,Lenovo Pro Workstation Accessories,10735.82,Credit_Card,0
+TXN_JANAKIRAM_0520,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 04:35:00,Developer Tools,GitHub Enterprise & Copilot Annual,4139.06,UPI_GPay,0
+TXN_JANAKIRAM_0521,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 05:21:00,Robotics Hardware,Robotics India Component Supplies,7249.17,Credit_Card,0
+TXN_JANAKIRAM_0522,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 07:55:00,Robotics Hardware,Robotics India Component Supplies,18000.0,UPI_GPay,0
+TXN_JANAKIRAM_0523,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 08:28:00,Robotics Hardware,Robotics India Component Supplies,8418.89,NetBanking,0
+TXN_JANAKIRAM_0524,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 09:57:00,Food & Dining,Chai & Code Cafe Cyberabad,4939.03,Credit_Card,0
+TXN_JANAKIRAM_0525,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 09:58:00,Developer Tools,GitHub Enterprise & Copilot Annual,5484.83,NetBanking,0
+TXN_JANAKIRAM_0526,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 11:02:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,8908.41,UPI_GPay,0
+TXN_JANAKIRAM_0527,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 11:09:00,Hardware,Lenovo Pro Workstation Accessories,5473.17,NetBanking,0
+TXN_JANAKIRAM_0528,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 12:52:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,9621.45,Credit_Card,0
+TXN_JANAKIRAM_0529,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 13:21:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2260.42,UPI_GPay,0
+TXN_JANAKIRAM_0530,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 18:04:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3373.66,Credit_Card,0
+TXN_JANAKIRAM_0531,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 18:34:00,Travel,MakeMyTrip Outstation Hackathon Travel,1000.0,UPI_GPay,0
+TXN_JANAKIRAM_0532,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-07 18:54:00,Food & Dining,Chai & Code Cafe Cyberabad,2928.27,UPI_GPay,0
+TXN_JANAKIRAM_0533,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 01:47:00,Food & Dining,Chai & Code Cafe Cyberabad,3741.95,UPI_GPay,0
+TXN_JANAKIRAM_0534,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 02:51:00,Developer Tools,GitHub Enterprise & Copilot Annual,4869.26,NetBanking,0
+TXN_JANAKIRAM_0535,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 10:33:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4861.34,Credit_Card,0
+TXN_JANAKIRAM_0536,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 10:53:00,Electronics,Croma Electronics Cyberabad,6873.25,Credit_Card,0
+TXN_JANAKIRAM_0537,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 13:41:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6046.91,UPI_GPay,0
+TXN_JANAKIRAM_0538,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 14:29:00,Travel,MakeMyTrip Outstation Hackathon Travel,4515.12,UPI_GPay,0
+TXN_JANAKIRAM_0539,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 17:32:00,Food & Dining,Chai & Code Cafe Cyberabad,6039.52,Credit_Card,0
+TXN_JANAKIRAM_0540,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 18:49:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5259.6,UPI_GPay,0
+TXN_JANAKIRAM_0541,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 19:58:00,Suspicious Wire,UNKNOWN_FOREIGN_WIRE_TRANSFER,93207.52,Debit_Card,1
+TXN_JANAKIRAM_0542,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 20:20:00,Travel,MakeMyTrip Outstation Hackathon Travel,8212.06,UPI_GPay,0
+TXN_JANAKIRAM_0543,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 21:12:00,Electronics,Croma Electronics Cyberabad,4860.11,Credit_Card,0
+TXN_JANAKIRAM_0544,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-08 22:38:00,Food & Dining,Chai & Code Cafe Cyberabad,4735.23,Credit_Card,0
+TXN_JANAKIRAM_0545,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 00:52:00,Electronics,Croma Electronics Cyberabad,3007.97,Debit_Card,0
+TXN_JANAKIRAM_0546,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 01:22:00,Hardware,Lenovo Pro Workstation Accessories,4919.84,UPI_GPay,0
+TXN_JANAKIRAM_0547,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 03:34:00,Robotics Hardware,Robotics India Component Supplies,3129.36,NetBanking,0
+TXN_JANAKIRAM_0548,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 04:08:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5777.35,Credit_Card,0
+TXN_JANAKIRAM_0549,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 04:31:00,Electronics,Croma Electronics Cyberabad,6453.25,UPI_GPay,0
+TXN_JANAKIRAM_0550,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 07:15:00,Travel,MakeMyTrip Outstation Hackathon Travel,5883.82,UPI_GPay,0
+TXN_JANAKIRAM_0551,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 11:33:00,Food & Dining,Chai & Code Cafe Cyberabad,6340.72,Credit_Card,0
+TXN_JANAKIRAM_0552,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 13:02:00,Travel,MakeMyTrip Outstation Hackathon Travel,2756.63,UPI_GPay,0
+TXN_JANAKIRAM_0553,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 15:51:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,7694.52,UPI_GPay,0
+TXN_JANAKIRAM_0554,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 17:24:00,Developer Tools,GitHub Enterprise & Copilot Annual,4993.94,UPI_GPay,0
+TXN_JANAKIRAM_0555,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 19:06:00,Hardware,Lenovo Pro Workstation Accessories,4811.89,NetBanking,0
+TXN_JANAKIRAM_0556,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 19:34:00,Travel,MakeMyTrip Outstation Hackathon Travel,3889.81,NetBanking,0
+TXN_JANAKIRAM_0557,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 20:08:00,Travel,MakeMyTrip Outstation Hackathon Travel,2243.57,NetBanking,0
+TXN_JANAKIRAM_0558,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 21:10:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,8758.56,NetBanking,0
+TXN_JANAKIRAM_0559,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-09 22:05:00,Hardware,Lenovo Pro Workstation Accessories,2641.59,UPI_GPay,0
+TXN_JANAKIRAM_0560,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-10 03:00:00,Robotics Hardware,Robotics India Component Supplies,7834.22,Credit_Card,0
+TXN_JANAKIRAM_0561,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-10 03:54:00,Hardware,Lenovo Pro Workstation Accessories,7753.32,NetBanking,0
+TXN_JANAKIRAM_0562,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-10 15:08:00,Robotics Hardware,Robotics India Component Supplies,12454.97,UPI_GPay,0
+TXN_JANAKIRAM_0563,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-10 16:26:00,Hardware,Lenovo Pro Workstation Accessories,5539.47,Credit_Card,0
+TXN_JANAKIRAM_0564,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-10 18:50:00,Hardware,Lenovo Pro Workstation Accessories,4730.53,UPI_GPay,0
+TXN_JANAKIRAM_0565,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-10 22:27:00,Food & Dining,Chai & Code Cafe Cyberabad,2303.71,Credit_Card,0
+TXN_JANAKIRAM_0566,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-10 23:29:00,Developer Tools,GitHub Enterprise & Copilot Annual,1736.18,UPI_GPay,0
+TXN_JANAKIRAM_0567,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-11 02:54:00,Developer Tools,GitHub Enterprise & Copilot Annual,7999.44,Credit_Card,0
+TXN_JANAKIRAM_0568,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-11 06:08:00,Electronics,Croma Electronics Cyberabad,5913.31,Credit_Card,0
+TXN_JANAKIRAM_0569,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-11 11:54:00,Hardware,Lenovo Pro Workstation Accessories,2645.13,Debit_Card,0
+TXN_JANAKIRAM_0570,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-11 15:06:00,Hardware,Lenovo Pro Workstation Accessories,7125.19,UPI_GPay,0
+TXN_JANAKIRAM_0571,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-11 15:48:00,Hardware,Lenovo Pro Workstation Accessories,7954.71,UPI_GPay,0
+TXN_JANAKIRAM_0572,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-11 19:58:00,Robotics Hardware,Robotics India Component Supplies,3916.63,UPI_GPay,0
+TXN_JANAKIRAM_0573,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-11 22:11:00,Food & Dining,Chai & Code Cafe Cyberabad,6306.17,NetBanking,0
+TXN_JANAKIRAM_0574,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-11 23:41:00,Food & Dining,Chai & Code Cafe Cyberabad,3694.69,UPI_GPay,0
+TXN_JANAKIRAM_0575,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-12 02:11:00,Food & Dining,Chai & Code Cafe Cyberabad,4343.13,UPI_GPay,0
+TXN_JANAKIRAM_0576,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-12 10:04:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5660.05,Debit_Card,0
+TXN_JANAKIRAM_0577,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-12 13:43:00,Developer Tools,GitHub Enterprise & Copilot Annual,5020.27,Credit_Card,0
+TXN_JANAKIRAM_0578,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-12 20:34:00,Robotics Hardware,Robotics India Component Supplies,2049.58,NetBanking,0
+TXN_JANAKIRAM_0579,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-13 01:10:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3671.55,Credit_Card,0
+TXN_JANAKIRAM_0580,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-13 03:12:00,Robotics Hardware,Robotics India Component Supplies,5783.76,UPI_GPay,0
+TXN_JANAKIRAM_0581,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-13 09:52:00,Developer Tools,GitHub Enterprise & Copilot Annual,3442.02,Credit_Card,0
+TXN_JANAKIRAM_0582,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-13 10:19:00,Electronics,Croma Electronics Cyberabad,3754.76,UPI_GPay,0
+TXN_JANAKIRAM_0583,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-13 15:05:00,Travel,MakeMyTrip Outstation Hackathon Travel,3415.97,UPI_GPay,0
+TXN_JANAKIRAM_0584,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-13 21:22:00,Hardware,Lenovo Pro Workstation Accessories,3201.8,Debit_Card,0
+TXN_JANAKIRAM_0585,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-13 23:43:00,Robotics Hardware,Robotics India Component Supplies,3795.73,Debit_Card,0
+TXN_JANAKIRAM_0586,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 01:52:00,Food & Dining,Chai & Code Cafe Cyberabad,3303.95,Debit_Card,0
+TXN_JANAKIRAM_0587,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 02:24:00,Food & Dining,Chai & Code Cafe Cyberabad,3248.25,Credit_Card,0
+TXN_JANAKIRAM_0588,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 03:38:00,Electronics,Croma Electronics Cyberabad,4478.52,Debit_Card,0
+TXN_JANAKIRAM_0589,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 04:04:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4032.34,UPI_GPay,0
+TXN_JANAKIRAM_0590,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 04:14:00,Hardware,Lenovo Pro Workstation Accessories,4253.65,NetBanking,0
+TXN_JANAKIRAM_0591,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 09:42:00,Electronics,Croma Electronics Cyberabad,3592.01,Credit_Card,0
+TXN_JANAKIRAM_0592,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 11:36:00,Hardware,Lenovo Pro Workstation Accessories,2771.7,UPI_GPay,0
+TXN_JANAKIRAM_0593,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 12:46:00,Hardware,Lenovo Pro Workstation Accessories,4471.11,Debit_Card,0
+TXN_JANAKIRAM_0594,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 18:48:00,Hardware,Lenovo Pro Workstation Accessories,8346.95,NetBanking,0
+TXN_JANAKIRAM_0595,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 21:42:00,Developer Tools,GitHub Enterprise & Copilot Annual,5913.12,UPI_GPay,0
+TXN_JANAKIRAM_0596,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-14 21:44:00,Travel,MakeMyTrip Outstation Hackathon Travel,5429.8,UPI_GPay,0
+TXN_JANAKIRAM_0597,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-15 02:57:00,Hardware,Lenovo Pro Workstation Accessories,10572.84,Credit_Card,0
+TXN_JANAKIRAM_0598,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-15 09:11:00,Robotics Hardware,Robotics India Component Supplies,6902.31,UPI_GPay,0
+TXN_JANAKIRAM_0599,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-15 11:45:00,Food & Dining,Chai & Code Cafe Cyberabad,3587.51,UPI_GPay,0
+TXN_JANAKIRAM_0600,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-15 12:46:00,Hardware,Lenovo Pro Workstation Accessories,2765.01,Credit_Card,0
+TXN_JANAKIRAM_0601,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-15 17:07:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6350.93,Credit_Card,0
+TXN_JANAKIRAM_0602,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-15 19:30:00,Developer Tools,GitHub Enterprise & Copilot Annual,3656.54,Credit_Card,0
+TXN_JANAKIRAM_0603,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-15 20:01:00,Robotics Hardware,Robotics India Component Supplies,7654.23,UPI_GPay,0
+TXN_JANAKIRAM_0604,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-16 00:23:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5973.01,Credit_Card,0
+TXN_JANAKIRAM_0605,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-16 04:58:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4074.9,UPI_GPay,0
+TXN_JANAKIRAM_0606,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-16 08:30:00,Electronics,Croma Electronics Cyberabad,3223.71,Credit_Card,0
+TXN_JANAKIRAM_0607,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-16 12:40:00,Robotics Hardware,Robotics India Component Supplies,4886.01,UPI_GPay,0
+TXN_JANAKIRAM_0608,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-16 15:04:00,Hardware,Lenovo Pro Workstation Accessories,7967.23,UPI_GPay,0
+TXN_JANAKIRAM_0609,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-16 21:17:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,7131.59,UPI_GPay,0
+TXN_JANAKIRAM_0610,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-16 21:54:00,Hardware,Lenovo Pro Workstation Accessories,4431.95,UPI_GPay,0
+TXN_JANAKIRAM_0611,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-17 00:05:00,Electronics,Croma Electronics Cyberabad,7045.39,UPI_GPay,0
+TXN_JANAKIRAM_0612,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-17 04:07:00,Electronics,Croma Electronics Cyberabad,6100.57,Credit_Card,0
+TXN_JANAKIRAM_0613,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-17 09:57:00,Travel,MakeMyTrip Outstation Hackathon Travel,4345.58,NetBanking,0
+TXN_JANAKIRAM_0614,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-17 13:38:00,Robotics Hardware,Robotics India Component Supplies,3187.69,Credit_Card,0
+TXN_JANAKIRAM_0615,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-17 13:40:00,Hardware,Lenovo Pro Workstation Accessories,5213.24,Credit_Card,0
+TXN_JANAKIRAM_0616,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-17 15:52:00,Electronics,Croma Electronics Cyberabad,5244.8,UPI_GPay,0
+TXN_JANAKIRAM_0617,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-17 17:08:00,Travel,MakeMyTrip Outstation Hackathon Travel,3731.81,Credit_Card,0
+TXN_JANAKIRAM_0618,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-17 17:38:00,Travel,MakeMyTrip Outstation Hackathon Travel,3933.59,NetBanking,0
+TXN_JANAKIRAM_0619,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-17 19:58:00,Developer Tools,GitHub Enterprise & Copilot Annual,4622.85,Credit_Card,0
+TXN_JANAKIRAM_0620,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-17 22:55:00,Developer Tools,GitHub Enterprise & Copilot Annual,5959.19,UPI_GPay,0
+TXN_JANAKIRAM_0621,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-18 02:12:00,Hardware,Lenovo Pro Workstation Accessories,7369.06,Credit_Card,0
+TXN_JANAKIRAM_0622,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-18 03:18:00,Hardware,Lenovo Pro Workstation Accessories,6921.66,Credit_Card,0
+TXN_JANAKIRAM_0623,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-18 04:34:00,Travel,MakeMyTrip Outstation Hackathon Travel,3898.67,Credit_Card,0
+TXN_JANAKIRAM_0624,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-18 07:15:00,Hardware,Lenovo Pro Workstation Accessories,5283.59,NetBanking,0
+TXN_JANAKIRAM_0625,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-18 08:39:00,Hardware,Lenovo Pro Workstation Accessories,14034.23,Debit_Card,0
+TXN_JANAKIRAM_0626,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-18 13:29:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4965.69,UPI_GPay,0
+TXN_JANAKIRAM_0627,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-18 16:48:00,Travel,MakeMyTrip Outstation Hackathon Travel,3322.55,NetBanking,0
+TXN_JANAKIRAM_0628,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-18 17:09:00,Robotics Hardware,Robotics India Component Supplies,5118.06,UPI_GPay,0
+TXN_JANAKIRAM_0629,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-18 22:20:00,Electronics,Croma Electronics Cyberabad,2976.12,Debit_Card,0
+TXN_JANAKIRAM_0630,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-19 01:50:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3259.04,NetBanking,0
+TXN_JANAKIRAM_0631,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-19 15:08:00,Developer Tools,GitHub Enterprise & Copilot Annual,4729.36,Credit_Card,0
+TXN_JANAKIRAM_0632,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-19 23:09:00,Robotics Hardware,Robotics India Component Supplies,6284.15,UPI_GPay,0
+TXN_JANAKIRAM_0633,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-20 02:52:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5324.86,UPI_GPay,0
+TXN_JANAKIRAM_0634,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-20 04:39:00,Travel,MakeMyTrip Outstation Hackathon Travel,5948.75,Credit_Card,0
+TXN_JANAKIRAM_0635,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-20 05:52:00,Food & Dining,Chai & Code Cafe Cyberabad,4789.86,Credit_Card,0
+TXN_JANAKIRAM_0636,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-20 06:17:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,11363.16,NetBanking,0
+TXN_JANAKIRAM_0637,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-20 07:11:00,Food & Dining,Chai & Code Cafe Cyberabad,7103.7,NetBanking,0
+TXN_JANAKIRAM_0638,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-20 23:14:00,Electronics,Croma Electronics Cyberabad,4032.49,UPI_GPay,0
+TXN_JANAKIRAM_0639,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-20 23:59:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3076.66,Debit_Card,0
+TXN_JANAKIRAM_0640,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-21 05:14:00,Food & Dining,Chai & Code Cafe Cyberabad,3375.19,NetBanking,0
+TXN_JANAKIRAM_0641,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-21 07:23:00,Electronics,Croma Electronics Cyberabad,5256.48,Credit_Card,0
+TXN_JANAKIRAM_0642,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-21 09:55:00,Electronics,Croma Electronics Cyberabad,3541.73,Credit_Card,0
+TXN_JANAKIRAM_0643,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-21 12:22:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6539.94,Credit_Card,0
+TXN_JANAKIRAM_0644,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-21 13:46:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4957.51,Credit_Card,0
+TXN_JANAKIRAM_0645,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-21 13:55:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4784.94,Credit_Card,0
+TXN_JANAKIRAM_0646,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-21 20:25:00,Developer Tools,GitHub Enterprise & Copilot Annual,3304.93,UPI_GPay,0
+TXN_JANAKIRAM_0647,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-21 21:15:00,Electronics,Croma Electronics Cyberabad,6431.52,NetBanking,0
+TXN_JANAKIRAM_0648,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-21 23:33:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5489.91,NetBanking,0
+TXN_JANAKIRAM_0649,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-22 00:35:00,Hardware,Lenovo Pro Workstation Accessories,7138.52,UPI_GPay,0
+TXN_JANAKIRAM_0650,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-22 10:02:00,Robotics Hardware,Robotics India Component Supplies,5602.43,NetBanking,0
+TXN_JANAKIRAM_0651,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-22 15:22:00,Developer Tools,GitHub Enterprise & Copilot Annual,5163.39,UPI_GPay,0
+TXN_JANAKIRAM_0652,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-22 16:15:00,Robotics Hardware,Robotics India Component Supplies,2980.97,NetBanking,0
+TXN_JANAKIRAM_0653,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-23 00:46:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,10459.11,UPI_GPay,0
+TXN_JANAKIRAM_0654,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-23 01:43:00,Hardware,Lenovo Pro Workstation Accessories,4230.84,Credit_Card,0
+TXN_JANAKIRAM_0655,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-23 02:22:00,Suspicious Wire,UNKNOWN_FOREIGN_WIRE_TRANSFER,72001.3,NetBanking,1
+TXN_JANAKIRAM_0656,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-23 04:47:00,Food & Dining,Chai & Code Cafe Cyberabad,3832.59,Credit_Card,0
+TXN_JANAKIRAM_0657,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-23 06:50:00,Developer Tools,GitHub Enterprise & Copilot Annual,4531.85,UPI_GPay,0
+TXN_JANAKIRAM_0658,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-23 11:17:00,Hardware,Lenovo Pro Workstation Accessories,8501.15,Credit_Card,0
+TXN_JANAKIRAM_0659,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-23 17:02:00,Hardware,Lenovo Pro Workstation Accessories,7996.09,UPI_GPay,0
+TXN_JANAKIRAM_0660,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-23 17:21:00,Travel,MakeMyTrip Outstation Hackathon Travel,3997.54,Debit_Card,0
+TXN_JANAKIRAM_0661,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-24 16:51:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4842.11,Credit_Card,0
+TXN_JANAKIRAM_0662,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-24 20:17:00,Food & Dining,Chai & Code Cafe Cyberabad,6008.27,NetBanking,0
+TXN_JANAKIRAM_0663,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-24 21:52:00,Robotics Hardware,Robotics India Component Supplies,9586.18,Credit_Card,0
+TXN_JANAKIRAM_0664,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-24 23:06:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,7771.01,Credit_Card,0
+TXN_JANAKIRAM_0665,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 00:59:00,Travel,MakeMyTrip Outstation Hackathon Travel,3584.49,Credit_Card,0
+TXN_JANAKIRAM_0666,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 01:23:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2701.28,UPI_GPay,0
+TXN_JANAKIRAM_0667,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 04:57:00,Travel,MakeMyTrip Outstation Hackathon Travel,3567.33,Credit_Card,0
+TXN_JANAKIRAM_0668,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 05:02:00,Electronics,Croma Electronics Cyberabad,7455.3,UPI_GPay,0
+TXN_JANAKIRAM_0669,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 07:58:00,Electronics,Croma Electronics Cyberabad,5594.41,Credit_Card,0
+TXN_JANAKIRAM_0670,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 09:26:00,Developer Tools,GitHub Enterprise & Copilot Annual,2189.1,Credit_Card,0
+TXN_JANAKIRAM_0671,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 10:22:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3750.48,UPI_GPay,0
+TXN_JANAKIRAM_0672,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 15:59:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6436.25,Credit_Card,0
+TXN_JANAKIRAM_0673,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 18:43:00,Suspicious Wire,UNKNOWN_FOREIGN_WIRE_TRANSFER,78804.88,Credit_Card,1
+TXN_JANAKIRAM_0674,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 20:01:00,Suspicious Wire,UNKNOWN_FOREIGN_WIRE_TRANSFER,131983.85,Credit_Card,1
+TXN_JANAKIRAM_0675,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-25 22:33:00,Robotics Hardware,Robotics India Component Supplies,7355.36,UPI_GPay,0
+TXN_JANAKIRAM_0676,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-26 05:42:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3379.43,UPI_GPay,0
+TXN_JANAKIRAM_0677,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-26 12:38:00,Travel,MakeMyTrip Outstation Hackathon Travel,2117.38,Credit_Card,0
+TXN_JANAKIRAM_0678,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-26 14:03:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3997.9,Credit_Card,0
+TXN_JANAKIRAM_0679,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-26 16:52:00,Food & Dining,Chai & Code Cafe Cyberabad,3730.31,Credit_Card,0
+TXN_JANAKIRAM_0680,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-26 17:12:00,Electronics,Croma Electronics Cyberabad,3754.2,Credit_Card,0
+TXN_JANAKIRAM_0681,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-26 22:04:00,Travel,MakeMyTrip Outstation Hackathon Travel,4131.8,NetBanking,0
+TXN_JANAKIRAM_0682,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-27 04:17:00,Electronics,Croma Electronics Cyberabad,2960.48,UPI_GPay,0
+TXN_JANAKIRAM_0683,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-27 09:31:00,Electronics,Croma Electronics Cyberabad,5350.87,UPI_GPay,0
+TXN_JANAKIRAM_0684,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-27 12:54:00,Food & Dining,Chai & Code Cafe Cyberabad,8424.64,Credit_Card,0
+TXN_JANAKIRAM_0685,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-27 14:25:00,Travel,MakeMyTrip Outstation Hackathon Travel,4784.74,UPI_GPay,0
+TXN_JANAKIRAM_0686,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-27 15:56:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3163.59,NetBanking,0
+TXN_JANAKIRAM_0687,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-27 20:29:00,Hardware,Lenovo Pro Workstation Accessories,5803.68,UPI_GPay,0
+TXN_JANAKIRAM_0688,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-28 00:15:00,Hardware,Lenovo Pro Workstation Accessories,6227.36,UPI_GPay,0
+TXN_JANAKIRAM_0689,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-28 02:37:00,Developer Tools,GitHub Enterprise & Copilot Annual,3175.93,UPI_GPay,0
+TXN_JANAKIRAM_0690,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-28 06:30:00,Travel,MakeMyTrip Outstation Hackathon Travel,8838.22,UPI_GPay,0
+TXN_JANAKIRAM_0691,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-28 06:54:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4202.14,Credit_Card,0
+TXN_JANAKIRAM_0692,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-28 07:23:00,Travel,MakeMyTrip Outstation Hackathon Travel,4523.24,UPI_GPay,0
+TXN_JANAKIRAM_0693,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-28 10:03:00,Hardware,Lenovo Pro Workstation Accessories,8300.19,Credit_Card,0
+TXN_JANAKIRAM_0694,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-28 10:37:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5332.2,UPI_GPay,0
+TXN_JANAKIRAM_0695,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-28 11:32:00,Hardware,Lenovo Pro Workstation Accessories,8691.86,NetBanking,0
+TXN_JANAKIRAM_0696,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-28 18:19:00,Robotics Hardware,Robotics India Component Supplies,6329.5,NetBanking,0
+TXN_JANAKIRAM_0697,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-29 03:29:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3859.2,UPI_GPay,0
+TXN_JANAKIRAM_0698,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-29 08:31:00,Developer Tools,GitHub Enterprise & Copilot Annual,2646.16,Credit_Card,0
+TXN_JANAKIRAM_0699,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-29 08:58:00,Travel,MakeMyTrip Outstation Hackathon Travel,2079.71,Credit_Card,0
+TXN_JANAKIRAM_0700,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-29 09:37:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5450.92,UPI_GPay,0
+TXN_JANAKIRAM_0701,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-29 14:47:00,Travel,MakeMyTrip Outstation Hackathon Travel,5442.54,NetBanking,0
+TXN_JANAKIRAM_0702,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-29 18:55:00,Travel,MakeMyTrip Outstation Hackathon Travel,2797.85,UPI_GPay,0
+TXN_JANAKIRAM_0703,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-29 20:26:00,Electronics,Croma Electronics Cyberabad,6594.05,Credit_Card,0
+TXN_JANAKIRAM_0704,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-29 22:52:00,Developer Tools,GitHub Enterprise & Copilot Annual,6514.12,NetBanking,0
+TXN_JANAKIRAM_0705,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-30 06:57:00,Electronics,Croma Electronics Cyberabad,5629.45,Debit_Card,0
+TXN_JANAKIRAM_0706,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-30 10:18:00,Robotics Hardware,Robotics India Component Supplies,2205.26,Credit_Card,0
+TXN_JANAKIRAM_0707,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-30 10:45:00,Developer Tools,GitHub Enterprise & Copilot Annual,4825.4,UPI_GPay,0
+TXN_JANAKIRAM_0708,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-30 10:51:00,Hardware,Lenovo Pro Workstation Accessories,7602.98,UPI_GPay,0
+TXN_JANAKIRAM_0709,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-30 12:45:00,Food & Dining,Chai & Code Cafe Cyberabad,9459.22,UPI_GPay,0
+TXN_JANAKIRAM_0710,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-30 13:51:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4890.55,Debit_Card,0
+TXN_JANAKIRAM_0711,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-30 14:36:00,Hardware,Lenovo Pro Workstation Accessories,2765.46,Credit_Card,0
+TXN_JANAKIRAM_0712,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-30 21:52:00,Electronics,Croma Electronics Cyberabad,2375.38,UPI_GPay,0
+TXN_JANAKIRAM_0713,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-31 03:34:00,Robotics Hardware,Robotics India Component Supplies,2687.59,UPI_GPay,0
+TXN_JANAKIRAM_0714,cust_janakiram,M. Janaki Ram,24R95A0519,2026-08-31 10:06:00,Robotics Hardware,Robotics India Component Supplies,6039.77,NetBanking,0
+TXN_JANAKIRAM_0715,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-01 03:45:00,Robotics Hardware,Robotics India Component Supplies,3641.16,NetBanking,0
+TXN_JANAKIRAM_0716,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-01 05:43:00,Electronics,Croma Electronics Cyberabad,6322.42,Debit_Card,0
+TXN_JANAKIRAM_0717,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-01 09:47:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5020.41,UPI_GPay,0
+TXN_JANAKIRAM_0718,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-01 15:14:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5085.59,NetBanking,0
+TXN_JANAKIRAM_0719,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-01 15:56:00,Electronics,Croma Electronics Cyberabad,3472.74,Credit_Card,0
+TXN_JANAKIRAM_0720,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-01 21:33:00,Food & Dining,Chai & Code Cafe Cyberabad,4827.88,Credit_Card,0
+TXN_JANAKIRAM_0721,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-02 04:17:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5674.38,Credit_Card,0
+TXN_JANAKIRAM_0722,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-02 04:46:00,Travel,MakeMyTrip Outstation Hackathon Travel,3765.05,NetBanking,0
+TXN_JANAKIRAM_0723,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-02 05:03:00,Hardware,Lenovo Pro Workstation Accessories,8353.0,Debit_Card,0
+TXN_JANAKIRAM_0724,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-02 07:37:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5709.45,Credit_Card,0
+TXN_JANAKIRAM_0725,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-02 08:24:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,13203.17,Credit_Card,0
+TXN_JANAKIRAM_0726,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-02 09:47:00,Food & Dining,Chai & Code Cafe Cyberabad,4613.94,NetBanking,0
+TXN_JANAKIRAM_0727,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-02 12:06:00,Robotics Hardware,Robotics India Component Supplies,4683.66,UPI_GPay,0
+TXN_JANAKIRAM_0728,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-02 14:56:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3796.93,Debit_Card,0
+TXN_JANAKIRAM_0729,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-02 20:02:00,Developer Tools,GitHub Enterprise & Copilot Annual,3489.65,Credit_Card,0
+TXN_JANAKIRAM_0730,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-02 21:06:00,Hardware,Lenovo Pro Workstation Accessories,6723.83,Credit_Card,0
+TXN_JANAKIRAM_0731,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-03 02:37:00,Hardware,Lenovo Pro Workstation Accessories,3320.63,UPI_GPay,0
+TXN_JANAKIRAM_0732,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-03 02:57:00,Food & Dining,Chai & Code Cafe Cyberabad,3570.37,Credit_Card,0
+TXN_JANAKIRAM_0733,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-03 04:20:00,Electronics,Croma Electronics Cyberabad,3529.74,Credit_Card,0
+TXN_JANAKIRAM_0734,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-03 09:33:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6552.97,Credit_Card,0
+TXN_JANAKIRAM_0735,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-03 11:37:00,Hardware,Lenovo Pro Workstation Accessories,7015.99,Credit_Card,0
+TXN_JANAKIRAM_0736,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-03 11:40:00,Hardware,Lenovo Pro Workstation Accessories,8500.74,Credit_Card,0
+TXN_JANAKIRAM_0737,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-03 20:22:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3121.47,Debit_Card,0
+TXN_JANAKIRAM_0738,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 10:21:00,Travel,MakeMyTrip Outstation Hackathon Travel,5611.13,Credit_Card,0
+TXN_JANAKIRAM_0739,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 10:45:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6191.58,Credit_Card,0
+TXN_JANAKIRAM_0740,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 12:18:00,Developer Tools,GitHub Enterprise & Copilot Annual,3639.39,NetBanking,0
+TXN_JANAKIRAM_0741,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 12:34:00,Electronics,Croma Electronics Cyberabad,2852.03,UPI_GPay,0
+TXN_JANAKIRAM_0742,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 13:38:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6088.86,UPI_GPay,0
+TXN_JANAKIRAM_0743,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 19:06:00,Suspicious Wire,UNKNOWN_FOREIGN_WIRE_TRANSFER,128169.85,UPI_GPay,1
+TXN_JANAKIRAM_0744,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 19:57:00,Robotics Hardware,Robotics India Component Supplies,3794.99,NetBanking,0
+TXN_JANAKIRAM_0745,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 20:49:00,Developer Tools,GitHub Enterprise & Copilot Annual,7456.06,NetBanking,0
+TXN_JANAKIRAM_0746,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 20:50:00,Travel,MakeMyTrip Outstation Hackathon Travel,6957.33,UPI_GPay,0
+TXN_JANAKIRAM_0747,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 20:54:00,Developer Tools,GitHub Enterprise & Copilot Annual,6599.71,NetBanking,0
+TXN_JANAKIRAM_0748,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 22:10:00,Developer Tools,GitHub Enterprise & Copilot Annual,5990.98,UPI_GPay,0
+TXN_JANAKIRAM_0749,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-04 23:21:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,8107.71,Credit_Card,0
+TXN_JANAKIRAM_0750,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 04:53:00,Food & Dining,Chai & Code Cafe Cyberabad,5919.92,NetBanking,0
+TXN_JANAKIRAM_0751,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 09:02:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5507.53,UPI_GPay,0
+TXN_JANAKIRAM_0752,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 10:09:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4597.37,NetBanking,0
+TXN_JANAKIRAM_0753,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 12:01:00,Electronics,Croma Electronics Cyberabad,4999.36,Credit_Card,0
+TXN_JANAKIRAM_0754,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 17:22:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,7179.7,Credit_Card,0
+TXN_JANAKIRAM_0755,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 18:44:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6603.69,NetBanking,0
+TXN_JANAKIRAM_0756,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 19:40:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2810.81,Credit_Card,0
+TXN_JANAKIRAM_0757,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 20:30:00,Electronics,Croma Electronics Cyberabad,7115.11,NetBanking,0
+TXN_JANAKIRAM_0758,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 21:31:00,Developer Tools,GitHub Enterprise & Copilot Annual,3437.91,Debit_Card,0
+TXN_JANAKIRAM_0759,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 22:09:00,Hardware,Lenovo Pro Workstation Accessories,2774.38,NetBanking,0
+TXN_JANAKIRAM_0760,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-05 23:24:00,Hardware,Lenovo Pro Workstation Accessories,4794.2,UPI_GPay,0
+TXN_JANAKIRAM_0761,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 01:24:00,Robotics Hardware,Robotics India Component Supplies,6617.25,UPI_GPay,0
+TXN_JANAKIRAM_0762,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 03:05:00,Travel,MakeMyTrip Outstation Hackathon Travel,4293.13,NetBanking,0
+TXN_JANAKIRAM_0763,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 04:45:00,Food & Dining,Chai & Code Cafe Cyberabad,4568.8,UPI_GPay,0
+TXN_JANAKIRAM_0764,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 08:21:00,Developer Tools,GitHub Enterprise & Copilot Annual,5479.18,UPI_GPay,0
+TXN_JANAKIRAM_0765,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 08:58:00,Developer Tools,GitHub Enterprise & Copilot Annual,4303.3,Debit_Card,0
+TXN_JANAKIRAM_0766,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 09:05:00,Robotics Hardware,Robotics India Component Supplies,4602.97,UPI_GPay,0
+TXN_JANAKIRAM_0767,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 09:09:00,Robotics Hardware,Robotics India Component Supplies,3283.81,Debit_Card,0
+TXN_JANAKIRAM_0768,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 11:00:00,Robotics Hardware,Robotics India Component Supplies,4793.0,Credit_Card,0
+TXN_JANAKIRAM_0769,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 11:27:00,Electronics,Croma Electronics Cyberabad,6382.21,Credit_Card,0
+TXN_JANAKIRAM_0770,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 12:55:00,Robotics Hardware,Robotics India Component Supplies,4019.21,UPI_GPay,0
+TXN_JANAKIRAM_0771,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 13:17:00,Hardware,Lenovo Pro Workstation Accessories,4213.14,Credit_Card,0
+TXN_JANAKIRAM_0772,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 16:11:00,Food & Dining,Chai & Code Cafe Cyberabad,5303.7,UPI_GPay,0
+TXN_JANAKIRAM_0773,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 16:55:00,Hardware,Lenovo Pro Workstation Accessories,4582.09,Credit_Card,0
+TXN_JANAKIRAM_0774,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-06 21:19:00,Food & Dining,Chai & Code Cafe Cyberabad,5303.24,Debit_Card,0
+TXN_JANAKIRAM_0775,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 00:55:00,Food & Dining,Chai & Code Cafe Cyberabad,2035.88,Credit_Card,0
+TXN_JANAKIRAM_0776,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 01:49:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3021.17,Credit_Card,0
+TXN_JANAKIRAM_0777,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 02:12:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4073.13,Credit_Card,0
+TXN_JANAKIRAM_0778,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 03:03:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,12323.08,UPI_GPay,0
+TXN_JANAKIRAM_0779,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 06:20:00,Hardware,Lenovo Pro Workstation Accessories,3420.86,Credit_Card,0
+TXN_JANAKIRAM_0780,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 11:59:00,Developer Tools,GitHub Enterprise & Copilot Annual,7915.55,Credit_Card,0
+TXN_JANAKIRAM_0781,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 12:43:00,Robotics Hardware,Robotics India Component Supplies,3636.63,UPI_GPay,0
+TXN_JANAKIRAM_0782,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 15:23:00,Electronics,Croma Electronics Cyberabad,6592.53,Credit_Card,0
+TXN_JANAKIRAM_0783,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 20:14:00,Travel,MakeMyTrip Outstation Hackathon Travel,4131.85,Credit_Card,0
+TXN_JANAKIRAM_0784,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 20:19:00,Developer Tools,GitHub Enterprise & Copilot Annual,5356.63,UPI_GPay,0
+TXN_JANAKIRAM_0785,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 21:43:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6104.9,Credit_Card,0
+TXN_JANAKIRAM_0786,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-07 23:09:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,8716.46,Credit_Card,0
+TXN_JANAKIRAM_0787,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-08 00:14:00,Travel,MakeMyTrip Outstation Hackathon Travel,1565.03,Credit_Card,0
+TXN_JANAKIRAM_0788,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-08 06:03:00,Developer Tools,GitHub Enterprise & Copilot Annual,1458.86,Credit_Card,0
+TXN_JANAKIRAM_0789,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-08 06:27:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,11153.47,UPI_GPay,0
+TXN_JANAKIRAM_0790,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-08 07:07:00,Developer Tools,GitHub Enterprise & Copilot Annual,3336.59,Credit_Card,0
+TXN_JANAKIRAM_0791,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-08 09:13:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3173.97,NetBanking,0
+TXN_JANAKIRAM_0792,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-08 11:04:00,Electronics,Croma Electronics Cyberabad,4797.02,NetBanking,0
+TXN_JANAKIRAM_0793,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-08 13:54:00,Robotics Hardware,Robotics India Component Supplies,10877.6,Credit_Card,0
+TXN_JANAKIRAM_0794,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-08 18:32:00,Robotics Hardware,Robotics India Component Supplies,4144.04,Debit_Card,0
+TXN_JANAKIRAM_0795,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-09 00:56:00,Electronics,Croma Electronics Cyberabad,3018.17,Credit_Card,0
+TXN_JANAKIRAM_0796,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-09 08:26:00,Developer Tools,GitHub Enterprise & Copilot Annual,6394.43,Credit_Card,0
+TXN_JANAKIRAM_0797,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-09 11:29:00,Travel,MakeMyTrip Outstation Hackathon Travel,4816.27,Credit_Card,0
+TXN_JANAKIRAM_0798,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-09 13:13:00,Hardware,Lenovo Pro Workstation Accessories,7588.06,Credit_Card,0
+TXN_JANAKIRAM_0799,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-09 14:10:00,Hardware,Lenovo Pro Workstation Accessories,4110.05,UPI_GPay,0
+TXN_JANAKIRAM_0800,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-10 00:31:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,11931.58,Credit_Card,0
+TXN_JANAKIRAM_0801,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-10 06:43:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4950.29,NetBanking,0
+TXN_JANAKIRAM_0802,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-10 07:19:00,Robotics Hardware,Robotics India Component Supplies,4391.97,UPI_GPay,0
+TXN_JANAKIRAM_0803,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-10 10:23:00,Robotics Hardware,Robotics India Component Supplies,5720.76,Credit_Card,0
+TXN_JANAKIRAM_0804,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-10 10:46:00,Developer Tools,GitHub Enterprise & Copilot Annual,4641.69,UPI_GPay,0
+TXN_JANAKIRAM_0805,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-10 11:18:00,Food & Dining,Chai & Code Cafe Cyberabad,5063.66,NetBanking,0
+TXN_JANAKIRAM_0806,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-10 12:47:00,Hardware,Lenovo Pro Workstation Accessories,4972.83,Credit_Card,0
+TXN_JANAKIRAM_0807,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-10 15:25:00,Hardware,Lenovo Pro Workstation Accessories,7536.89,Credit_Card,0
+TXN_JANAKIRAM_0808,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-10 16:26:00,Electronics,Croma Electronics Cyberabad,5383.49,UPI_GPay,0
+TXN_JANAKIRAM_0809,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-10 19:40:00,Food & Dining,Chai & Code Cafe Cyberabad,5056.08,UPI_GPay,0
+TXN_JANAKIRAM_0810,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-11 07:29:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4901.55,UPI_GPay,0
+TXN_JANAKIRAM_0811,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-11 17:52:00,Developer Tools,GitHub Enterprise & Copilot Annual,4767.64,Credit_Card,0
+TXN_JANAKIRAM_0812,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-11 19:57:00,Robotics Hardware,Robotics India Component Supplies,5164.83,UPI_GPay,0
+TXN_JANAKIRAM_0813,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-11 20:50:00,Electronics,Croma Electronics Cyberabad,3910.22,UPI_GPay,0
+TXN_JANAKIRAM_0814,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-11 21:21:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,6185.41,UPI_GPay,0
+TXN_JANAKIRAM_0815,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-12 06:07:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6204.21,Credit_Card,0
+TXN_JANAKIRAM_0816,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-12 13:49:00,Electronics,Croma Electronics Cyberabad,4479.28,UPI_GPay,0
+TXN_JANAKIRAM_0817,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-12 17:37:00,Developer Tools,GitHub Enterprise & Copilot Annual,3104.39,Credit_Card,0
+TXN_JANAKIRAM_0818,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-12 20:00:00,Robotics Hardware,Robotics India Component Supplies,4936.28,UPI_GPay,0
+TXN_JANAKIRAM_0819,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-12 21:24:00,Developer Tools,GitHub Enterprise & Copilot Annual,4222.33,NetBanking,0
+TXN_JANAKIRAM_0820,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-12 22:30:00,Food & Dining,Chai & Code Cafe Cyberabad,3214.39,UPI_GPay,0
+TXN_JANAKIRAM_0821,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 02:23:00,Hardware,Lenovo Pro Workstation Accessories,7601.34,Credit_Card,0
+TXN_JANAKIRAM_0822,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 02:44:00,Food & Dining,Chai & Code Cafe Cyberabad,8355.05,Credit_Card,0
+TXN_JANAKIRAM_0823,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 03:52:00,Electronics,Croma Electronics Cyberabad,2658.12,NetBanking,0
+TXN_JANAKIRAM_0824,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 07:23:00,Electronics,Croma Electronics Cyberabad,5633.74,UPI_GPay,0
+TXN_JANAKIRAM_0825,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 10:03:00,Electronics,Croma Electronics Cyberabad,3731.96,UPI_GPay,0
+TXN_JANAKIRAM_0826,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 10:38:00,Hardware,Lenovo Pro Workstation Accessories,5681.61,Credit_Card,0
+TXN_JANAKIRAM_0827,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 12:45:00,Robotics Hardware,Robotics India Component Supplies,5934.62,UPI_GPay,0
+TXN_JANAKIRAM_0828,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 14:30:00,Electronics,Croma Electronics Cyberabad,3968.38,UPI_GPay,0
+TXN_JANAKIRAM_0829,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 18:36:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4686.31,Debit_Card,0
+TXN_JANAKIRAM_0830,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 19:08:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2503.23,UPI_GPay,0
+TXN_JANAKIRAM_0831,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 20:04:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,1939.79,UPI_GPay,0
+TXN_JANAKIRAM_0832,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 20:47:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,8466.51,UPI_GPay,0
+TXN_JANAKIRAM_0833,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 20:50:00,Travel,MakeMyTrip Outstation Hackathon Travel,3255.84,Credit_Card,0
+TXN_JANAKIRAM_0834,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 21:43:00,Developer Tools,GitHub Enterprise & Copilot Annual,4860.03,NetBanking,0
+TXN_JANAKIRAM_0835,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-13 22:53:00,Travel,MakeMyTrip Outstation Hackathon Travel,3952.59,UPI_GPay,0
+TXN_JANAKIRAM_0836,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-14 00:06:00,Travel,MakeMyTrip Outstation Hackathon Travel,11545.42,Debit_Card,0
+TXN_JANAKIRAM_0837,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-14 03:39:00,Developer Tools,GitHub Enterprise & Copilot Annual,3831.25,UPI_GPay,0
+TXN_JANAKIRAM_0838,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-14 05:41:00,Robotics Hardware,Robotics India Component Supplies,4633.37,Credit_Card,0
+TXN_JANAKIRAM_0839,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-14 12:41:00,Food & Dining,Chai & Code Cafe Cyberabad,9477.9,UPI_GPay,0
+TXN_JANAKIRAM_0840,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-14 13:44:00,Developer Tools,GitHub Enterprise & Copilot Annual,4050.57,Credit_Card,0
+TXN_JANAKIRAM_0841,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-14 15:42:00,Travel,MakeMyTrip Outstation Hackathon Travel,4616.92,Credit_Card,0
+TXN_JANAKIRAM_0842,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-14 18:07:00,Robotics Hardware,Robotics India Component Supplies,5049.08,Credit_Card,0
+TXN_JANAKIRAM_0843,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-14 20:06:00,Food & Dining,Chai & Code Cafe Cyberabad,2203.77,UPI_GPay,0
+TXN_JANAKIRAM_0844,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-15 08:02:00,Hardware,Lenovo Pro Workstation Accessories,3201.51,UPI_GPay,0
+TXN_JANAKIRAM_0845,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-15 10:07:00,Hardware,Lenovo Pro Workstation Accessories,8070.46,Credit_Card,0
+TXN_JANAKIRAM_0846,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-15 14:45:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,7765.89,UPI_GPay,0
+TXN_JANAKIRAM_0847,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-15 15:57:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5181.29,Credit_Card,0
+TXN_JANAKIRAM_0848,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-15 16:02:00,Robotics Hardware,Robotics India Component Supplies,4637.45,NetBanking,0
+TXN_JANAKIRAM_0849,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-15 20:30:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6728.21,UPI_GPay,0
+TXN_JANAKIRAM_0850,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-15 20:56:00,Electronics,Croma Electronics Cyberabad,3248.8,UPI_GPay,0
+TXN_JANAKIRAM_0851,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-15 22:08:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5413.14,Credit_Card,0
+TXN_JANAKIRAM_0852,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-16 03:28:00,Food & Dining,Chai & Code Cafe Cyberabad,4069.41,UPI_GPay,0
+TXN_JANAKIRAM_0853,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-16 08:40:00,Food & Dining,Chai & Code Cafe Cyberabad,4769.68,UPI_GPay,0
+TXN_JANAKIRAM_0854,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-16 12:11:00,Travel,MakeMyTrip Outstation Hackathon Travel,9876.05,NetBanking,0
+TXN_JANAKIRAM_0855,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-16 12:47:00,Developer Tools,GitHub Enterprise & Copilot Annual,10081.09,Credit_Card,0
+TXN_JANAKIRAM_0856,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-16 14:37:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4790.27,Credit_Card,0
+TXN_JANAKIRAM_0857,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-16 15:23:00,Developer Tools,GitHub Enterprise & Copilot Annual,2181.86,UPI_GPay,0
+TXN_JANAKIRAM_0858,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-16 16:51:00,Robotics Hardware,Robotics India Component Supplies,5571.02,Credit_Card,0
+TXN_JANAKIRAM_0859,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-16 20:32:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4837.15,Credit_Card,0
+TXN_JANAKIRAM_0860,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-16 23:46:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3421.52,NetBanking,0
+TXN_JANAKIRAM_0861,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-17 01:00:00,Travel,MakeMyTrip Outstation Hackathon Travel,6920.73,Credit_Card,0
+TXN_JANAKIRAM_0862,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-17 11:20:00,Hardware,Lenovo Pro Workstation Accessories,4975.02,Debit_Card,0
+TXN_JANAKIRAM_0863,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-17 12:20:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3568.42,Credit_Card,0
+TXN_JANAKIRAM_0864,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-17 15:40:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5297.17,UPI_GPay,0
+TXN_JANAKIRAM_0865,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-17 15:50:00,Travel,MakeMyTrip Outstation Hackathon Travel,5510.18,UPI_GPay,0
+TXN_JANAKIRAM_0866,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-17 18:53:00,Robotics Hardware,Robotics India Component Supplies,5536.49,UPI_GPay,0
+TXN_JANAKIRAM_0867,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-17 20:00:00,Food & Dining,Chai & Code Cafe Cyberabad,4538.75,Debit_Card,0
+TXN_JANAKIRAM_0868,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-17 20:03:00,Travel,MakeMyTrip Outstation Hackathon Travel,6101.65,Credit_Card,0
+TXN_JANAKIRAM_0869,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-17 23:27:00,Electronics,Croma Electronics Cyberabad,5547.52,NetBanking,0
+TXN_JANAKIRAM_0870,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-18 00:15:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,2717.83,UPI_GPay,0
+TXN_JANAKIRAM_0871,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-18 06:34:00,Developer Tools,GitHub Enterprise & Copilot Annual,2859.27,Credit_Card,0
+TXN_JANAKIRAM_0872,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-18 13:22:00,Hardware,Lenovo Pro Workstation Accessories,3145.97,NetBanking,0
+TXN_JANAKIRAM_0873,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-18 15:35:00,Food & Dining,Chai & Code Cafe Cyberabad,3663.19,Credit_Card,0
+TXN_JANAKIRAM_0874,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-18 17:49:00,Food & Dining,Chai & Code Cafe Cyberabad,4254.87,NetBanking,0
+TXN_JANAKIRAM_0875,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-18 19:26:00,Electronics,Croma Electronics Cyberabad,4278.89,Credit_Card,0
+TXN_JANAKIRAM_0876,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-18 21:02:00,Hardware,Lenovo Pro Workstation Accessories,2811.39,NetBanking,0
+TXN_JANAKIRAM_0877,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-19 02:01:00,Food & Dining,Chai & Code Cafe Cyberabad,5472.4,UPI_GPay,0
+TXN_JANAKIRAM_0878,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-19 02:51:00,Electronics,Croma Electronics Cyberabad,3754.63,Credit_Card,0
+TXN_JANAKIRAM_0879,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-19 07:32:00,Electronics,Croma Electronics Cyberabad,10468.21,UPI_GPay,0
+TXN_JANAKIRAM_0880,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-19 07:42:00,Electronics,Croma Electronics Cyberabad,3923.23,Credit_Card,0
+TXN_JANAKIRAM_0881,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-19 12:11:00,Travel,MakeMyTrip Outstation Hackathon Travel,7088.42,Credit_Card,0
+TXN_JANAKIRAM_0882,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-19 16:11:00,Electronics,Croma Electronics Cyberabad,4088.75,Credit_Card,0
+TXN_JANAKIRAM_0883,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-19 19:10:00,Food & Dining,Chai & Code Cafe Cyberabad,3183.85,Credit_Card,0
+TXN_JANAKIRAM_0884,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-19 19:19:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3115.73,Credit_Card,0
+TXN_JANAKIRAM_0885,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-19 23:29:00,Hardware,Lenovo Pro Workstation Accessories,4274.23,UPI_GPay,0
+TXN_JANAKIRAM_0886,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 03:23:00,Electronics,Croma Electronics Cyberabad,7475.64,UPI_GPay,0
+TXN_JANAKIRAM_0887,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 05:16:00,Robotics Hardware,Robotics India Component Supplies,5772.02,UPI_GPay,0
+TXN_JANAKIRAM_0888,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 06:09:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3761.74,Credit_Card,0
+TXN_JANAKIRAM_0889,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 06:18:00,Food & Dining,Chai & Code Cafe Cyberabad,8426.06,UPI_GPay,0
+TXN_JANAKIRAM_0890,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 06:39:00,Food & Dining,Chai & Code Cafe Cyberabad,3254.62,UPI_GPay,0
+TXN_JANAKIRAM_0891,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 06:51:00,Robotics Hardware,Robotics India Component Supplies,3653.63,Credit_Card,0
+TXN_JANAKIRAM_0892,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 08:05:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4151.83,NetBanking,0
+TXN_JANAKIRAM_0893,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 09:48:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5005.51,UPI_GPay,0
+TXN_JANAKIRAM_0894,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 10:52:00,Robotics Hardware,Robotics India Component Supplies,3365.04,UPI_GPay,0
+TXN_JANAKIRAM_0895,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 11:56:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3123.2,Credit_Card,0
+TXN_JANAKIRAM_0896,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 16:08:00,Hardware,Lenovo Pro Workstation Accessories,5838.73,Credit_Card,0
+TXN_JANAKIRAM_0897,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 16:33:00,Electronics,Croma Electronics Cyberabad,4129.38,NetBanking,0
+TXN_JANAKIRAM_0898,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 20:35:00,Developer Tools,GitHub Enterprise & Copilot Annual,11534.88,NetBanking,0
+TXN_JANAKIRAM_0899,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 21:33:00,Developer Tools,GitHub Enterprise & Copilot Annual,3065.68,Credit_Card,0
+TXN_JANAKIRAM_0900,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-20 21:56:00,Developer Tools,GitHub Enterprise & Copilot Annual,2553.32,Credit_Card,0
+TXN_JANAKIRAM_0901,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-21 01:43:00,Developer Tools,GitHub Enterprise & Copilot Annual,4290.74,UPI_GPay,0
+TXN_JANAKIRAM_0902,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-21 05:55:00,Food & Dining,Chai & Code Cafe Cyberabad,4461.46,UPI_GPay,0
+TXN_JANAKIRAM_0903,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-21 14:47:00,Food & Dining,Chai & Code Cafe Cyberabad,4280.11,NetBanking,0
+TXN_JANAKIRAM_0904,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-21 20:06:00,Travel,MakeMyTrip Outstation Hackathon Travel,7190.58,Credit_Card,0
+TXN_JANAKIRAM_0905,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-21 23:20:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,5470.92,Credit_Card,0
+TXN_JANAKIRAM_0906,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-22 06:52:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3457.19,Credit_Card,0
+TXN_JANAKIRAM_0907,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-22 10:42:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,10091.92,Credit_Card,0
+TXN_JANAKIRAM_0908,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-22 13:12:00,Food & Dining,Chai & Code Cafe Cyberabad,3832.02,Credit_Card,0
+TXN_JANAKIRAM_0909,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-22 21:47:00,Hardware,Lenovo Pro Workstation Accessories,2969.42,NetBanking,0
+TXN_JANAKIRAM_0910,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-23 02:44:00,Robotics Hardware,Robotics India Component Supplies,4644.37,UPI_GPay,0
+TXN_JANAKIRAM_0911,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-23 06:38:00,Robotics Hardware,Robotics India Component Supplies,4171.93,NetBanking,0
+TXN_JANAKIRAM_0912,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-23 08:23:00,Food & Dining,Chai & Code Cafe Cyberabad,8427.2,Credit_Card,0
+TXN_JANAKIRAM_0913,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-23 10:24:00,Food & Dining,Chai & Code Cafe Cyberabad,4045.53,Credit_Card,0
+TXN_JANAKIRAM_0914,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-23 15:43:00,Suspicious Wire,UNKNOWN_FOREIGN_WIRE_TRANSFER,156641.93,Credit_Card,1
+TXN_JANAKIRAM_0915,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-23 20:00:00,Robotics Hardware,Robotics India Component Supplies,1886.27,Credit_Card,0
+TXN_JANAKIRAM_0916,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-23 21:40:00,Robotics Hardware,Robotics India Component Supplies,3917.22,NetBanking,0
+TXN_JANAKIRAM_0917,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-24 00:10:00,Robotics Hardware,Robotics India Component Supplies,3232.13,Credit_Card,0
+TXN_JANAKIRAM_0918,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-24 00:51:00,Travel,MakeMyTrip Outstation Hackathon Travel,4522.93,Credit_Card,0
+TXN_JANAKIRAM_0919,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-24 02:16:00,Hardware,Lenovo Pro Workstation Accessories,7542.75,Credit_Card,0
+TXN_JANAKIRAM_0920,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-24 09:41:00,Developer Tools,GitHub Enterprise & Copilot Annual,1835.56,Credit_Card,0
+TXN_JANAKIRAM_0921,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-24 11:31:00,Electronics,Croma Electronics Cyberabad,5525.43,UPI_GPay,0
+TXN_JANAKIRAM_0922,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-24 16:49:00,Food & Dining,Chai & Code Cafe Cyberabad,3831.52,Credit_Card,0
+TXN_JANAKIRAM_0923,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-24 17:15:00,Food & Dining,Chai & Code Cafe Cyberabad,1601.97,UPI_GPay,0
+TXN_JANAKIRAM_0924,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-24 18:38:00,Developer Tools,GitHub Enterprise & Copilot Annual,5497.95,UPI_GPay,0
+TXN_JANAKIRAM_0925,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 06:12:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,7019.74,Credit_Card,0
+TXN_JANAKIRAM_0926,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 07:03:00,Food & Dining,Chai & Code Cafe Cyberabad,3173.61,Credit_Card,0
+TXN_JANAKIRAM_0927,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 07:38:00,Robotics Hardware,Robotics India Component Supplies,1516.87,UPI_GPay,0
+TXN_JANAKIRAM_0928,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 09:16:00,Travel,MakeMyTrip Outstation Hackathon Travel,4132.76,UPI_GPay,0
+TXN_JANAKIRAM_0929,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 11:06:00,Robotics Hardware,Robotics India Component Supplies,2968.82,Credit_Card,0
+TXN_JANAKIRAM_0930,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 11:10:00,Robotics Hardware,Robotics India Component Supplies,5862.24,Credit_Card,0
+TXN_JANAKIRAM_0931,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 11:41:00,Electronics,Croma Electronics Cyberabad,6256.36,Credit_Card,0
+TXN_JANAKIRAM_0932,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 13:01:00,Electronics,Croma Electronics Cyberabad,6337.63,Credit_Card,0
+TXN_JANAKIRAM_0933,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 16:05:00,Developer Tools,GitHub Enterprise & Copilot Annual,3048.95,Credit_Card,0
+TXN_JANAKIRAM_0934,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 20:24:00,Food & Dining,Chai & Code Cafe Cyberabad,5446.8,Credit_Card,0
+TXN_JANAKIRAM_0935,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 20:49:00,Travel,MakeMyTrip Outstation Hackathon Travel,1711.91,Credit_Card,0
+TXN_JANAKIRAM_0936,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 21:19:00,Food & Dining,Chai & Code Cafe Cyberabad,5408.48,Credit_Card,0
+TXN_JANAKIRAM_0937,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-25 21:49:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4633.0,Credit_Card,0
+TXN_JANAKIRAM_0938,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-26 04:12:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3940.93,NetBanking,0
+TXN_JANAKIRAM_0939,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-26 05:42:00,Food & Dining,Chai & Code Cafe Cyberabad,2909.79,UPI_GPay,0
+TXN_JANAKIRAM_0940,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-26 06:39:00,Food & Dining,Chai & Code Cafe Cyberabad,12772.7,NetBanking,0
+TXN_JANAKIRAM_0941,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-26 09:55:00,Electronics,Croma Electronics Cyberabad,3705.68,Credit_Card,0
+TXN_JANAKIRAM_0942,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-26 12:58:00,Robotics Hardware,Robotics India Component Supplies,2786.13,UPI_GPay,0
+TXN_JANAKIRAM_0943,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-26 14:25:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,10560.39,Credit_Card,0
+TXN_JANAKIRAM_0944,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-26 19:00:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6385.35,UPI_GPay,0
+TXN_JANAKIRAM_0945,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-26 23:32:00,Food & Dining,Chai & Code Cafe Cyberabad,4435.81,Credit_Card,0
+TXN_JANAKIRAM_0946,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-26 23:46:00,Robotics Hardware,Robotics India Component Supplies,3726.39,Credit_Card,0
+TXN_JANAKIRAM_0947,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-27 04:02:00,Robotics Hardware,Robotics India Component Supplies,3017.05,NetBanking,0
+TXN_JANAKIRAM_0948,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-27 06:34:00,Robotics Hardware,Robotics India Component Supplies,5091.68,UPI_GPay,0
+TXN_JANAKIRAM_0949,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-27 16:51:00,Food & Dining,Chai & Code Cafe Cyberabad,5845.22,NetBanking,0
+TXN_JANAKIRAM_0950,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-27 18:02:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4599.67,Credit_Card,0
+TXN_JANAKIRAM_0951,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-27 19:38:00,Hardware,Lenovo Pro Workstation Accessories,7787.91,Credit_Card,0
+TXN_JANAKIRAM_0952,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-28 01:54:00,Travel,MakeMyTrip Outstation Hackathon Travel,10387.65,Credit_Card,0
+TXN_JANAKIRAM_0953,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-28 02:19:00,Developer Tools,GitHub Enterprise & Copilot Annual,2239.87,UPI_GPay,0
+TXN_JANAKIRAM_0954,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-28 03:00:00,Food & Dining,Chai & Code Cafe Cyberabad,9964.42,UPI_GPay,0
+TXN_JANAKIRAM_0955,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-28 07:38:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4325.09,NetBanking,0
+TXN_JANAKIRAM_0956,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-28 07:44:00,Food & Dining,Chai & Code Cafe Cyberabad,3621.12,Credit_Card,0
+TXN_JANAKIRAM_0957,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-28 08:25:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,4624.61,UPI_GPay,0
+TXN_JANAKIRAM_0958,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-28 16:11:00,Electronics,Croma Electronics Cyberabad,4313.55,Credit_Card,0
+TXN_JANAKIRAM_0959,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-28 23:03:00,Hardware,Lenovo Pro Workstation Accessories,4082.81,Credit_Card,0
+TXN_JANAKIRAM_0960,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-29 00:29:00,Developer Tools,GitHub Enterprise & Copilot Annual,7477.33,UPI_GPay,0
+TXN_JANAKIRAM_0961,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-29 05:22:00,Hardware,Lenovo Pro Workstation Accessories,3688.47,UPI_GPay,0
+TXN_JANAKIRAM_0962,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-29 10:14:00,Robotics Hardware,Robotics India Component Supplies,5048.51,Credit_Card,0
+TXN_JANAKIRAM_0963,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-29 20:28:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,2676.04,Credit_Card,0
+TXN_JANAKIRAM_0964,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-29 21:08:00,Robotics Hardware,Robotics India Component Supplies,5011.84,Credit_Card,0
+TXN_JANAKIRAM_0965,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-29 21:23:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,5669.65,Credit_Card,0
+TXN_JANAKIRAM_0966,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-30 01:24:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3453.94,Credit_Card,0
+TXN_JANAKIRAM_0967,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-30 03:02:00,Electronics,Croma Electronics Cyberabad,7619.42,Credit_Card,0
+TXN_JANAKIRAM_0968,cust_janakiram,M. Janaki Ram,24R95A0519,2026-09-30 09:02:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4383.95,Credit_Card,0
+TXN_JANAKIRAM_0969,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 01:40:00,Hardware,Lenovo Pro Workstation Accessories,9618.2,Debit_Card,0
+TXN_JANAKIRAM_0970,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 08:33:00,Food & Dining,Chai & Code Cafe Cyberabad,5395.36,NetBanking,0
+TXN_JANAKIRAM_0971,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 08:45:00,Robotics Hardware,Robotics India Component Supplies,6888.95,UPI_GPay,0
+TXN_JANAKIRAM_0972,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 11:09:00,Hardware,Lenovo Pro Workstation Accessories,5893.04,Debit_Card,0
+TXN_JANAKIRAM_0973,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 11:27:00,Robotics Hardware,Robotics India Component Supplies,6144.49,UPI_GPay,0
+TXN_JANAKIRAM_0974,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 13:29:00,Food & Dining,Chai & Code Cafe Cyberabad,5472.04,Credit_Card,0
+TXN_JANAKIRAM_0975,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 16:21:00,Travel,MakeMyTrip Outstation Hackathon Travel,2765.53,Credit_Card,0
+TXN_JANAKIRAM_0976,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 16:44:00,Travel,MakeMyTrip Outstation Hackathon Travel,5315.56,NetBanking,0
+TXN_JANAKIRAM_0977,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 18:07:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,3347.4,UPI_GPay,0
+TXN_JANAKIRAM_0978,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 18:36:00,Hardware,Lenovo Pro Workstation Accessories,6193.06,NetBanking,0
+TXN_JANAKIRAM_0979,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 19:46:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,3845.78,NetBanking,0
+TXN_JANAKIRAM_0980,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 20:04:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4333.48,Credit_Card,0
+TXN_JANAKIRAM_0981,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-01 23:43:00,Project Hardware,Robu.in Arduino & IoT Hardware Hub,4822.96,Credit_Card,0
+TXN_JANAKIRAM_0982,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 01:59:00,Food & Dining,Chai & Code Cafe Cyberabad,5036.89,Credit_Card,0
+TXN_JANAKIRAM_0983,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 05:20:00,Electronics,Croma Electronics Cyberabad,5736.88,Credit_Card,0
+TXN_JANAKIRAM_0984,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 06:37:00,Robotics Hardware,Robotics India Component Supplies,6522.09,Credit_Card,0
+TXN_JANAKIRAM_0985,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 06:46:00,Travel,MakeMyTrip Outstation Hackathon Travel,6419.81,Credit_Card,0
+TXN_JANAKIRAM_0986,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 07:36:00,Hardware,Lenovo Pro Workstation Accessories,3630.23,Credit_Card,0
+TXN_JANAKIRAM_0987,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 10:16:00,Cloud Infrastructure,AWS / DigitalOcean Cloud Infrastructure,6655.87,Credit_Card,0
+TXN_JANAKIRAM_0988,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 11:33:00,Travel,MakeMyTrip Outstation Hackathon Travel,7832.73,Credit_Card,0
+TXN_JANAKIRAM_0989,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 12:57:00,Hardware,Lenovo Pro Workstation Accessories,6798.14,Credit_Card,0
+TXN_JANAKIRAM_0990,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 16:45:00,Electronics,Croma Electronics Cyberabad,5633.62,UPI_GPay,0
+TXN_JANAKIRAM_0991,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 18:35:00,Robotics Hardware,Robotics India Component Supplies,5379.0,Credit_Card,0
+TXN_JANAKIRAM_0992,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 18:40:00,Robotics Hardware,Robotics India Component Supplies,3985.58,UPI_GPay,0
+TXN_JANAKIRAM_0993,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 20:25:00,Food & Dining,Chai & Code Cafe Cyberabad,6401.44,NetBanking,0
+TXN_JANAKIRAM_0994,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 21:53:00,Hardware,Lenovo Pro Workstation Accessories,5351.93,Credit_Card,0
+TXN_JANAKIRAM_0995,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-02 22:36:00,Travel,MakeMyTrip Outstation Hackathon Travel,8807.82,Credit_Card,0
+TXN_JANAKIRAM_0996,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-03 01:46:00,Hardware,Lenovo Pro Workstation Accessories,5795.25,NetBanking,0
+TXN_JANAKIRAM_0997,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-03 07:37:00,Food & Dining,Chai & Code Cafe Cyberabad,5385.47,UPI_GPay,0
+TXN_JANAKIRAM_0998,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-03 08:43:00,Food & Dining,Chai & Code Cafe Cyberabad,7371.29,UPI_GPay,0
+TXN_JANAKIRAM_0999,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-03 12:09:00,Hardware,Lenovo Pro Workstation Accessories,3988.79,Credit_Card,0
+TXN_JANAKIRAM_1000,cust_janakiram,M. Janaki Ram,24R95A0519,2026-10-03 13:09:00,Electronics,Croma Electronics Cyberabad,2005.42,NetBanking,0

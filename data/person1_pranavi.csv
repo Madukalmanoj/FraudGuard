@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Customer_Name,Roll_No,Timestamp,Category,Merchant,Amount_INR,Channel,Class
+TXN_PRANAVI_0001,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-06 03:03:00,Electronics,Samsung SmartCafé Hyderabad,17450.42,Credit_Card,0
+TXN_PRANAVI_0002,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-06 04:17:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11733.86,Credit_Card,0
+TXN_PRANAVI_0003,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-06 05:37:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,15839.27,Credit_Card,0
+TXN_PRANAVI_0004,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-06 09:44:00,Academic Research,IEEE / ACM Research Conference Fee,13532.58,NetBanking,0
+TXN_PRANAVI_0005,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-06 16:12:00,University Fees,TKREC Semester Lab & Cloud Resources,15736.9,UPI_HDFC_Pay,0
+TXN_PRANAVI_0006,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-06 20:55:00,Higher Education,Coursera / edX MasterTrack Certifications,11804.26,UPI_HDFC_Pay,0
+TXN_PRANAVI_0007,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-06 21:23:00,University Fees,TKREC Semester Lab & Cloud Resources,10975.13,Debit_Card,0
+TXN_PRANAVI_0008,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-06 22:24:00,Workstation Gear,Croma Electronics Campus Store,14857.06,UPI_HDFC_Pay,0
+TXN_PRANAVI_0009,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 00:43:00,Academic Research,IEEE / ACM Research Conference Fee,6184.69,UPI_HDFC_Pay,0
+TXN_PRANAVI_0010,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 03:09:00,Workstation Gear,Croma Electronics Campus Store,13772.57,UPI_HDFC_Pay,0
+TXN_PRANAVI_0011,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 03:25:00,Academic Research,IEEE / ACM Research Conference Fee,18909.46,UPI_HDFC_Pay,0
+TXN_PRANAVI_0012,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 07:10:00,Electronics,Samsung SmartCafé Hyderabad,7663.81,Credit_Card,0
+TXN_PRANAVI_0013,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 07:36:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,8490.93,UPI_HDFC_Pay,0
+TXN_PRANAVI_0014,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 10:13:00,Project Supplies,Amazon Project Lab Equipment & Kits,17297.02,Debit_Card,0
+TXN_PRANAVI_0015,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 13:29:00,Electronics,Samsung SmartCafé Hyderabad,11551.37,Debit_Card,0
+TXN_PRANAVI_0016,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 17:52:00,Workstation Gear,Croma Electronics Campus Store,17457.1,Credit_Card,0
+TXN_PRANAVI_0017,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 18:11:00,Project Supplies,Amazon Project Lab Equipment & Kits,18652.43,Credit_Card,0
+TXN_PRANAVI_0018,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 18:40:00,Academic Research,IEEE / ACM Research Conference Fee,8374.6,Debit_Card,0
+TXN_PRANAVI_0019,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 22:28:00,Higher Education,Coursera / edX MasterTrack Certifications,9254.72,UPI_HDFC_Pay,0
+TXN_PRANAVI_0020,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-07 23:31:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,20546.0,Debit_Card,0
+TXN_PRANAVI_0021,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 01:00:00,University Fees,TKREC Semester Lab & Cloud Resources,9836.43,Debit_Card,0
+TXN_PRANAVI_0022,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 06:25:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,7958.45,Credit_Card,0
+TXN_PRANAVI_0023,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 08:44:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10997.6,Credit_Card,0
+TXN_PRANAVI_0024,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 11:44:00,Academic Research,IEEE / ACM Research Conference Fee,12312.5,UPI_HDFC_Pay,0
+TXN_PRANAVI_0025,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 14:43:00,Electronics,Samsung SmartCafé Hyderabad,10408.69,Credit_Card,0
+TXN_PRANAVI_0026,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 14:49:00,Electronics,Samsung SmartCafé Hyderabad,7889.23,Debit_Card,0
+TXN_PRANAVI_0027,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 14:55:00,Academic Research,IEEE / ACM Research Conference Fee,6963.63,UPI_HDFC_Pay,0
+TXN_PRANAVI_0028,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 17:39:00,Electronics,Samsung SmartCafé Hyderabad,13103.2,Debit_Card,0
+TXN_PRANAVI_0029,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 18:04:00,Project Supplies,Amazon Project Lab Equipment & Kits,18218.32,UPI_HDFC_Pay,0
+TXN_PRANAVI_0030,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 18:07:00,Workstation Gear,Croma Electronics Campus Store,22045.54,UPI_HDFC_Pay,0
+TXN_PRANAVI_0031,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-08 19:45:00,Workstation Gear,Croma Electronics Campus Store,8589.37,UPI_HDFC_Pay,0
+TXN_PRANAVI_0032,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-09 00:36:00,Project Supplies,Amazon Project Lab Equipment & Kits,8836.97,UPI_HDFC_Pay,0
+TXN_PRANAVI_0033,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-09 05:33:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9539.27,Credit_Card,0
+TXN_PRANAVI_0034,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-09 07:31:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,6816.49,UPI_HDFC_Pay,0
+TXN_PRANAVI_0035,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-09 08:13:00,Electronics,Samsung SmartCafé Hyderabad,8849.06,NetBanking,0
+TXN_PRANAVI_0036,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-09 14:17:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,14557.06,Credit_Card,0
+TXN_PRANAVI_0037,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-09 16:45:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7841.25,UPI_HDFC_Pay,0
+TXN_PRANAVI_0038,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-09 21:13:00,Workstation Gear,Croma Electronics Campus Store,11958.21,Credit_Card,0
+TXN_PRANAVI_0039,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-09 22:58:00,Electronics,Samsung SmartCafé Hyderabad,12582.52,Debit_Card,0
+TXN_PRANAVI_0040,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-09 23:21:00,Workstation Gear,Croma Electronics Campus Store,12841.94,Credit_Card,0
+TXN_PRANAVI_0041,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-09 23:57:00,Electronics,Samsung SmartCafé Hyderabad,5354.06,UPI_HDFC_Pay,0
+TXN_PRANAVI_0042,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-10 01:16:00,Electronics,Samsung SmartCafé Hyderabad,6580.84,Debit_Card,0
+TXN_PRANAVI_0043,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-10 06:56:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,8978.64,Debit_Card,0
+TXN_PRANAVI_0044,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-10 11:00:00,Project Supplies,Amazon Project Lab Equipment & Kits,12258.7,UPI_HDFC_Pay,0
+TXN_PRANAVI_0045,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-10 11:08:00,Electronics,Samsung SmartCafé Hyderabad,18515.51,UPI_HDFC_Pay,0
+TXN_PRANAVI_0046,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-10 11:25:00,Electronics,Samsung SmartCafé Hyderabad,12888.84,Credit_Card,0
+TXN_PRANAVI_0047,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-10 18:01:00,Workstation Gear,Croma Electronics Campus Store,14260.52,UPI_HDFC_Pay,0
+TXN_PRANAVI_0048,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-10 23:56:00,Academic Research,IEEE / ACM Research Conference Fee,9595.96,Debit_Card,0
+TXN_PRANAVI_0049,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-10 23:58:00,Workstation Gear,Croma Electronics Campus Store,13231.55,UPI_HDFC_Pay,0
+TXN_PRANAVI_0050,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-11 00:11:00,Project Supplies,Amazon Project Lab Equipment & Kits,15067.61,NetBanking,0
+TXN_PRANAVI_0051,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-11 00:36:00,Higher Education,Coursera / edX MasterTrack Certifications,19940.47,Credit_Card,0
+TXN_PRANAVI_0052,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-11 02:12:00,Project Supplies,Amazon Project Lab Equipment & Kits,14653.85,UPI_HDFC_Pay,0
+TXN_PRANAVI_0053,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-11 03:29:00,University Fees,TKREC Semester Lab & Cloud Resources,9551.6,UPI_HDFC_Pay,0
+TXN_PRANAVI_0054,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-11 04:58:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,7862.86,Credit_Card,0
+TXN_PRANAVI_0055,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-11 17:49:00,Higher Education,Coursera / edX MasterTrack Certifications,11294.52,Debit_Card,0
+TXN_PRANAVI_0056,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-11 17:58:00,Project Supplies,Amazon Project Lab Equipment & Kits,19090.57,Debit_Card,0
+TXN_PRANAVI_0057,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-11 18:33:00,Higher Education,Coursera / edX MasterTrack Certifications,11275.07,UPI_HDFC_Pay,0
+TXN_PRANAVI_0058,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-11 18:58:00,Electronics,Samsung SmartCafé Hyderabad,11588.65,UPI_HDFC_Pay,0
+TXN_PRANAVI_0059,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-12 03:25:00,University Fees,TKREC Semester Lab & Cloud Resources,9805.84,UPI_HDFC_Pay,0
+TXN_PRANAVI_0060,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-12 07:52:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12234.84,Credit_Card,0
+TXN_PRANAVI_0061,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-12 08:04:00,University Fees,TKREC Semester Lab & Cloud Resources,18541.61,UPI_HDFC_Pay,0
+TXN_PRANAVI_0062,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-12 11:29:00,University Fees,TKREC Semester Lab & Cloud Resources,6091.03,Credit_Card,0
+TXN_PRANAVI_0063,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-12 12:59:00,Workstation Gear,Croma Electronics Campus Store,9251.1,Credit_Card,0
+TXN_PRANAVI_0064,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-12 21:37:00,Academic Research,IEEE / ACM Research Conference Fee,12106.74,NetBanking,0
+TXN_PRANAVI_0065,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-13 04:14:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,5217.73,UPI_HDFC_Pay,0
+TXN_PRANAVI_0066,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-13 04:45:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,16735.81,UPI_HDFC_Pay,0
+TXN_PRANAVI_0067,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-13 09:03:00,Project Supplies,Amazon Project Lab Equipment & Kits,8824.2,Credit_Card,0
+TXN_PRANAVI_0068,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-13 10:57:00,Project Supplies,Amazon Project Lab Equipment & Kits,13074.63,Credit_Card,0
+TXN_PRANAVI_0069,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-13 13:13:00,Workstation Gear,Croma Electronics Campus Store,10561.43,UPI_HDFC_Pay,0
+TXN_PRANAVI_0070,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-13 14:53:00,Higher Education,Coursera / edX MasterTrack Certifications,4746.67,NetBanking,0
+TXN_PRANAVI_0071,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-13 21:28:00,Higher Education,Coursera / edX MasterTrack Certifications,6074.37,Debit_Card,0
+TXN_PRANAVI_0072,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 00:57:00,Project Supplies,Amazon Project Lab Equipment & Kits,4431.54,UPI_HDFC_Pay,0
+TXN_PRANAVI_0073,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 02:44:00,Workstation Gear,Croma Electronics Campus Store,17875.36,UPI_HDFC_Pay,0
+TXN_PRANAVI_0074,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 07:16:00,University Fees,TKREC Semester Lab & Cloud Resources,19349.63,Credit_Card,0
+TXN_PRANAVI_0075,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 10:15:00,Electronics,Samsung SmartCafé Hyderabad,14663.03,Debit_Card,0
+TXN_PRANAVI_0076,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 10:57:00,Academic Research,IEEE / ACM Research Conference Fee,10703.71,UPI_HDFC_Pay,0
+TXN_PRANAVI_0077,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 12:25:00,Higher Education,Coursera / edX MasterTrack Certifications,16270.57,Credit_Card,0
+TXN_PRANAVI_0078,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 14:06:00,Workstation Gear,Croma Electronics Campus Store,10231.66,Credit_Card,0
+TXN_PRANAVI_0079,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 16:12:00,Higher Education,Coursera / edX MasterTrack Certifications,6596.89,UPI_HDFC_Pay,0
+TXN_PRANAVI_0080,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 19:25:00,Workstation Gear,Croma Electronics Campus Store,20463.15,Credit_Card,0
+TXN_PRANAVI_0081,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 21:35:00,Project Supplies,Amazon Project Lab Equipment & Kits,12497.22,NetBanking,0
+TXN_PRANAVI_0082,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-14 23:40:00,Workstation Gear,Croma Electronics Campus Store,10131.21,UPI_HDFC_Pay,0
+TXN_PRANAVI_0083,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 04:47:00,Electronics,Samsung SmartCafé Hyderabad,14617.04,UPI_HDFC_Pay,0
+TXN_PRANAVI_0084,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 08:00:00,Electronics,Samsung SmartCafé Hyderabad,19501.45,Credit_Card,0
+TXN_PRANAVI_0085,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 09:10:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,18857.48,Debit_Card,0
+TXN_PRANAVI_0086,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 12:10:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,183724.0,NetBanking,1
+TXN_PRANAVI_0087,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 14:11:00,Academic Research,IEEE / ACM Research Conference Fee,13716.98,Credit_Card,0
+TXN_PRANAVI_0088,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 15:56:00,Higher Education,Coursera / edX MasterTrack Certifications,10972.35,Debit_Card,0
+TXN_PRANAVI_0089,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 16:02:00,Project Supplies,Amazon Project Lab Equipment & Kits,6118.51,Credit_Card,0
+TXN_PRANAVI_0090,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 18:02:00,Project Supplies,Amazon Project Lab Equipment & Kits,8548.11,Credit_Card,0
+TXN_PRANAVI_0091,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 19:31:00,Project Supplies,Amazon Project Lab Equipment & Kits,16953.27,UPI_HDFC_Pay,0
+TXN_PRANAVI_0092,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 19:31:00,Higher Education,Coursera / edX MasterTrack Certifications,9228.31,UPI_HDFC_Pay,0
+TXN_PRANAVI_0093,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-15 19:58:00,Workstation Gear,Croma Electronics Campus Store,4031.81,UPI_HDFC_Pay,0
+TXN_PRANAVI_0094,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 00:02:00,Electronics,Samsung SmartCafé Hyderabad,13046.76,Credit_Card,0
+TXN_PRANAVI_0095,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 04:34:00,Workstation Gear,Croma Electronics Campus Store,13644.97,UPI_HDFC_Pay,0
+TXN_PRANAVI_0096,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 05:10:00,University Fees,TKREC Semester Lab & Cloud Resources,11142.11,NetBanking,0
+TXN_PRANAVI_0097,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 09:45:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,6860.17,UPI_HDFC_Pay,0
+TXN_PRANAVI_0098,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 12:23:00,Project Supplies,Amazon Project Lab Equipment & Kits,7722.91,UPI_HDFC_Pay,0
+TXN_PRANAVI_0099,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 12:37:00,Project Supplies,Amazon Project Lab Equipment & Kits,11336.89,Credit_Card,0
+TXN_PRANAVI_0100,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 13:28:00,Higher Education,Coursera / edX MasterTrack Certifications,7326.99,Credit_Card,0
+TXN_PRANAVI_0101,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 17:51:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9916.33,UPI_HDFC_Pay,0
+TXN_PRANAVI_0102,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 19:29:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9070.16,UPI_HDFC_Pay,0
+TXN_PRANAVI_0103,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 20:23:00,Project Supplies,Amazon Project Lab Equipment & Kits,9256.74,NetBanking,0
+TXN_PRANAVI_0104,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-16 21:42:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,11441.98,UPI_HDFC_Pay,0
+TXN_PRANAVI_0105,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-17 05:35:00,Electronics,Samsung SmartCafé Hyderabad,8503.95,UPI_HDFC_Pay,0
+TXN_PRANAVI_0106,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-17 07:00:00,Workstation Gear,Croma Electronics Campus Store,8748.39,Debit_Card,0
+TXN_PRANAVI_0107,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-17 07:28:00,Workstation Gear,Croma Electronics Campus Store,17630.47,UPI_HDFC_Pay,0
+TXN_PRANAVI_0108,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-17 12:06:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,19405.38,Credit_Card,0
+TXN_PRANAVI_0109,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-17 15:57:00,Higher Education,Coursera / edX MasterTrack Certifications,12124.6,UPI_HDFC_Pay,0
+TXN_PRANAVI_0110,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-17 16:56:00,University Fees,TKREC Semester Lab & Cloud Resources,9554.82,UPI_HDFC_Pay,0
+TXN_PRANAVI_0111,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-17 17:57:00,Academic Research,IEEE / ACM Research Conference Fee,12160.04,UPI_HDFC_Pay,0
+TXN_PRANAVI_0112,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-17 18:51:00,Higher Education,Coursera / edX MasterTrack Certifications,9754.21,UPI_HDFC_Pay,0
+TXN_PRANAVI_0113,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-17 22:42:00,Project Supplies,Amazon Project Lab Equipment & Kits,13335.03,UPI_HDFC_Pay,0
+TXN_PRANAVI_0114,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-18 01:32:00,Workstation Gear,Croma Electronics Campus Store,14470.22,UPI_HDFC_Pay,0
+TXN_PRANAVI_0115,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-18 08:43:00,University Fees,TKREC Semester Lab & Cloud Resources,17931.54,Debit_Card,0
+TXN_PRANAVI_0116,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-18 10:22:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,11338.52,UPI_HDFC_Pay,0
+TXN_PRANAVI_0117,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-18 12:26:00,Project Supplies,Amazon Project Lab Equipment & Kits,11735.96,Credit_Card,0
+TXN_PRANAVI_0118,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-18 18:39:00,Higher Education,Coursera / edX MasterTrack Certifications,17645.56,Debit_Card,0
+TXN_PRANAVI_0119,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-18 20:20:00,Electronics,Samsung SmartCafé Hyderabad,10651.88,Credit_Card,0
+TXN_PRANAVI_0120,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-18 21:57:00,Academic Research,IEEE / ACM Research Conference Fee,6668.69,UPI_HDFC_Pay,0
+TXN_PRANAVI_0121,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 00:23:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,6032.78,NetBanking,0
+TXN_PRANAVI_0122,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 03:50:00,Project Supplies,Amazon Project Lab Equipment & Kits,5790.89,UPI_HDFC_Pay,0
+TXN_PRANAVI_0123,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 04:31:00,Academic Research,IEEE / ACM Research Conference Fee,25867.16,UPI_HDFC_Pay,0
+TXN_PRANAVI_0124,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 04:45:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,10378.55,Debit_Card,0
+TXN_PRANAVI_0125,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 08:26:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,16173.63,Credit_Card,0
+TXN_PRANAVI_0126,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 11:25:00,Electronics,Samsung SmartCafé Hyderabad,13957.9,Credit_Card,0
+TXN_PRANAVI_0127,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 12:00:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,6590.61,UPI_HDFC_Pay,0
+TXN_PRANAVI_0128,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 14:22:00,Higher Education,Coursera / edX MasterTrack Certifications,13732.12,Credit_Card,0
+TXN_PRANAVI_0129,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 14:52:00,University Fees,TKREC Semester Lab & Cloud Resources,12450.09,UPI_HDFC_Pay,0
+TXN_PRANAVI_0130,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 16:11:00,Project Supplies,Amazon Project Lab Equipment & Kits,12784.59,NetBanking,0
+TXN_PRANAVI_0131,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 16:50:00,University Fees,TKREC Semester Lab & Cloud Resources,9873.15,UPI_HDFC_Pay,0
+TXN_PRANAVI_0132,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 18:01:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,15430.69,Debit_Card,0
+TXN_PRANAVI_0133,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 19:54:00,Higher Education,Coursera / edX MasterTrack Certifications,3373.18,Credit_Card,0
+TXN_PRANAVI_0134,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 22:08:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,13058.54,Debit_Card,0
+TXN_PRANAVI_0135,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 22:37:00,Project Supplies,Amazon Project Lab Equipment & Kits,10759.29,Credit_Card,0
+TXN_PRANAVI_0136,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-19 22:55:00,Project Supplies,Amazon Project Lab Equipment & Kits,9168.83,Credit_Card,0
+TXN_PRANAVI_0137,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-20 01:08:00,Higher Education,Coursera / edX MasterTrack Certifications,12907.08,UPI_HDFC_Pay,0
+TXN_PRANAVI_0138,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-20 05:11:00,University Fees,TKREC Semester Lab & Cloud Resources,4628.71,UPI_HDFC_Pay,0
+TXN_PRANAVI_0139,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-20 11:41:00,Project Supplies,Amazon Project Lab Equipment & Kits,12416.15,UPI_HDFC_Pay,0
+TXN_PRANAVI_0140,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-20 12:44:00,Electronics,Samsung SmartCafé Hyderabad,20958.91,Debit_Card,0
+TXN_PRANAVI_0141,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-20 19:39:00,Academic Research,IEEE / ACM Research Conference Fee,15948.07,Debit_Card,0
+TXN_PRANAVI_0142,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-20 20:53:00,Project Supplies,Amazon Project Lab Equipment & Kits,15927.03,Credit_Card,0
+TXN_PRANAVI_0143,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-20 21:08:00,Electronics,Samsung SmartCafé Hyderabad,18647.18,UPI_HDFC_Pay,0
+TXN_PRANAVI_0144,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-20 22:29:00,Academic Research,IEEE / ACM Research Conference Fee,17200.94,UPI_HDFC_Pay,0
+TXN_PRANAVI_0145,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-21 00:53:00,Academic Research,IEEE / ACM Research Conference Fee,12336.18,Credit_Card,0
+TXN_PRANAVI_0146,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-21 01:41:00,Academic Research,IEEE / ACM Research Conference Fee,11388.07,Credit_Card,0
+TXN_PRANAVI_0147,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-21 15:40:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,8360.15,Debit_Card,0
+TXN_PRANAVI_0148,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-21 16:49:00,Project Supplies,Amazon Project Lab Equipment & Kits,15179.62,NetBanking,0
+TXN_PRANAVI_0149,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-21 22:27:00,Workstation Gear,Croma Electronics Campus Store,10787.02,UPI_HDFC_Pay,0
+TXN_PRANAVI_0150,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-21 23:45:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11831.54,Credit_Card,0
+TXN_PRANAVI_0151,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-21 23:56:00,Electronics,Samsung SmartCafé Hyderabad,13494.87,Credit_Card,0
+TXN_PRANAVI_0152,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 01:46:00,Academic Research,IEEE / ACM Research Conference Fee,26825.75,UPI_HDFC_Pay,0
+TXN_PRANAVI_0153,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 05:32:00,University Fees,TKREC Semester Lab & Cloud Resources,10523.57,UPI_HDFC_Pay,0
+TXN_PRANAVI_0154,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 06:49:00,Higher Education,Coursera / edX MasterTrack Certifications,7523.93,UPI_HDFC_Pay,0
+TXN_PRANAVI_0155,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 07:03:00,Project Supplies,Amazon Project Lab Equipment & Kits,14626.54,Debit_Card,0
+TXN_PRANAVI_0156,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 07:27:00,Project Supplies,Amazon Project Lab Equipment & Kits,8587.11,Credit_Card,0
+TXN_PRANAVI_0157,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 08:15:00,Higher Education,Coursera / edX MasterTrack Certifications,24931.65,Credit_Card,0
+TXN_PRANAVI_0158,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 09:09:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11015.15,NetBanking,0
+TXN_PRANAVI_0159,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 09:14:00,Higher Education,Coursera / edX MasterTrack Certifications,25885.31,Debit_Card,0
+TXN_PRANAVI_0160,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 11:23:00,Workstation Gear,Croma Electronics Campus Store,17753.2,UPI_HDFC_Pay,0
+TXN_PRANAVI_0161,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 11:34:00,University Fees,TKREC Semester Lab & Cloud Resources,18371.44,Credit_Card,0
+TXN_PRANAVI_0162,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 17:31:00,Academic Research,IEEE / ACM Research Conference Fee,8070.06,Credit_Card,0
+TXN_PRANAVI_0163,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-22 23:00:00,Electronics,Samsung SmartCafé Hyderabad,12639.52,Debit_Card,0
+TXN_PRANAVI_0164,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-23 05:17:00,Electronics,Samsung SmartCafé Hyderabad,10862.39,Credit_Card,0
+TXN_PRANAVI_0165,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-23 09:51:00,Project Supplies,Amazon Project Lab Equipment & Kits,12811.27,Credit_Card,0
+TXN_PRANAVI_0166,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-23 13:28:00,Project Supplies,Amazon Project Lab Equipment & Kits,14144.05,UPI_HDFC_Pay,0
+TXN_PRANAVI_0167,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-23 14:55:00,Academic Research,IEEE / ACM Research Conference Fee,12956.22,Debit_Card,0
+TXN_PRANAVI_0168,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-23 18:32:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,14341.43,UPI_HDFC_Pay,0
+TXN_PRANAVI_0169,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-23 19:11:00,Project Supplies,Amazon Project Lab Equipment & Kits,14980.32,UPI_HDFC_Pay,0
+TXN_PRANAVI_0170,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-23 21:01:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11738.27,UPI_HDFC_Pay,0
+TXN_PRANAVI_0171,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-23 21:57:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7244.2,UPI_HDFC_Pay,0
+TXN_PRANAVI_0172,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-23 23:22:00,Academic Research,IEEE / ACM Research Conference Fee,21800.59,UPI_HDFC_Pay,0
+TXN_PRANAVI_0173,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-24 02:16:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7818.72,Debit_Card,0
+TXN_PRANAVI_0174,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-24 04:48:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,6482.61,NetBanking,0
+TXN_PRANAVI_0175,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-24 06:58:00,Electronics,Samsung SmartCafé Hyderabad,8669.71,UPI_HDFC_Pay,0
+TXN_PRANAVI_0176,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-24 07:03:00,Workstation Gear,Croma Electronics Campus Store,8358.02,UPI_HDFC_Pay,0
+TXN_PRANAVI_0177,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-24 07:26:00,Electronics,Samsung SmartCafé Hyderabad,28739.36,UPI_HDFC_Pay,0
+TXN_PRANAVI_0178,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-24 08:15:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9220.8,UPI_HDFC_Pay,0
+TXN_PRANAVI_0179,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-24 20:28:00,Project Supplies,Amazon Project Lab Equipment & Kits,11065.94,UPI_HDFC_Pay,0
+TXN_PRANAVI_0180,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-24 20:50:00,Higher Education,Coursera / edX MasterTrack Certifications,17145.3,NetBanking,0
+TXN_PRANAVI_0181,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-24 22:02:00,Higher Education,Coursera / edX MasterTrack Certifications,31091.69,UPI_HDFC_Pay,0
+TXN_PRANAVI_0182,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-24 23:12:00,Workstation Gear,Croma Electronics Campus Store,10035.38,Credit_Card,0
+TXN_PRANAVI_0183,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-25 02:03:00,Academic Research,IEEE / ACM Research Conference Fee,13156.56,UPI_HDFC_Pay,0
+TXN_PRANAVI_0184,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-25 02:58:00,Project Supplies,Amazon Project Lab Equipment & Kits,8130.15,Debit_Card,0
+TXN_PRANAVI_0185,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-25 05:02:00,Project Supplies,Amazon Project Lab Equipment & Kits,9918.1,Credit_Card,0
+TXN_PRANAVI_0186,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-25 06:48:00,Workstation Gear,Croma Electronics Campus Store,16777.24,NetBanking,0
+TXN_PRANAVI_0187,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-25 12:36:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,8609.94,Debit_Card,0
+TXN_PRANAVI_0188,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-25 20:14:00,Academic Research,IEEE / ACM Research Conference Fee,7363.98,UPI_HDFC_Pay,0
+TXN_PRANAVI_0189,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-25 21:51:00,University Fees,TKREC Semester Lab & Cloud Resources,16566.27,UPI_HDFC_Pay,0
+TXN_PRANAVI_0190,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 00:49:00,Project Supplies,Amazon Project Lab Equipment & Kits,7427.44,Credit_Card,0
+TXN_PRANAVI_0191,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 01:52:00,Higher Education,Coursera / edX MasterTrack Certifications,14064.87,UPI_HDFC_Pay,0
+TXN_PRANAVI_0192,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 04:09:00,Academic Research,IEEE / ACM Research Conference Fee,5715.53,Credit_Card,0
+TXN_PRANAVI_0193,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 05:59:00,University Fees,TKREC Semester Lab & Cloud Resources,13426.68,UPI_HDFC_Pay,0
+TXN_PRANAVI_0194,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 08:32:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,8750.23,UPI_HDFC_Pay,0
+TXN_PRANAVI_0195,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 08:48:00,Project Supplies,Amazon Project Lab Equipment & Kits,11461.5,Credit_Card,0
+TXN_PRANAVI_0196,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 09:01:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11390.34,Credit_Card,0
+TXN_PRANAVI_0197,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 11:53:00,Higher Education,Coursera / edX MasterTrack Certifications,11350.86,Debit_Card,0
+TXN_PRANAVI_0198,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 14:47:00,Electronics,Samsung SmartCafé Hyderabad,18083.52,UPI_HDFC_Pay,0
+TXN_PRANAVI_0199,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 17:42:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9834.19,Credit_Card,0
+TXN_PRANAVI_0200,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 19:30:00,Workstation Gear,Croma Electronics Campus Store,8252.48,UPI_HDFC_Pay,0
+TXN_PRANAVI_0201,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 19:47:00,Higher Education,Coursera / edX MasterTrack Certifications,16250.33,UPI_HDFC_Pay,0
+TXN_PRANAVI_0202,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 20:44:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12339.74,Credit_Card,0
+TXN_PRANAVI_0203,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 22:27:00,Project Supplies,Amazon Project Lab Equipment & Kits,8034.92,UPI_HDFC_Pay,0
+TXN_PRANAVI_0204,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-26 23:55:00,Higher Education,Coursera / edX MasterTrack Certifications,14562.23,UPI_HDFC_Pay,0
+TXN_PRANAVI_0205,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 07:40:00,University Fees,TKREC Semester Lab & Cloud Resources,13277.09,UPI_HDFC_Pay,0
+TXN_PRANAVI_0206,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 08:15:00,Electronics,Samsung SmartCafé Hyderabad,18663.51,UPI_HDFC_Pay,0
+TXN_PRANAVI_0207,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 08:43:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,22066.74,UPI_HDFC_Pay,0
+TXN_PRANAVI_0208,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 09:22:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,10752.8,UPI_HDFC_Pay,0
+TXN_PRANAVI_0209,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 09:31:00,Higher Education,Coursera / edX MasterTrack Certifications,32974.11,UPI_HDFC_Pay,0
+TXN_PRANAVI_0210,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 09:40:00,Higher Education,Coursera / edX MasterTrack Certifications,6106.08,UPI_HDFC_Pay,0
+TXN_PRANAVI_0211,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 13:55:00,Workstation Gear,Croma Electronics Campus Store,4996.51,Credit_Card,0
+TXN_PRANAVI_0212,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 17:08:00,Higher Education,Coursera / edX MasterTrack Certifications,14171.28,UPI_HDFC_Pay,0
+TXN_PRANAVI_0213,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 18:05:00,Academic Research,IEEE / ACM Research Conference Fee,22113.12,UPI_HDFC_Pay,0
+TXN_PRANAVI_0214,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 22:53:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7028.11,UPI_HDFC_Pay,0
+TXN_PRANAVI_0215,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 23:01:00,Project Supplies,Amazon Project Lab Equipment & Kits,8277.15,Credit_Card,0
+TXN_PRANAVI_0216,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-27 23:02:00,University Fees,TKREC Semester Lab & Cloud Resources,12310.28,Debit_Card,0
+TXN_PRANAVI_0217,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-28 00:24:00,Workstation Gear,Croma Electronics Campus Store,5805.28,Debit_Card,0
+TXN_PRANAVI_0218,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-28 03:30:00,University Fees,TKREC Semester Lab & Cloud Resources,6819.26,Credit_Card,0
+TXN_PRANAVI_0219,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-28 10:53:00,Academic Research,IEEE / ACM Research Conference Fee,6647.15,Credit_Card,0
+TXN_PRANAVI_0220,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-28 15:30:00,University Fees,TKREC Semester Lab & Cloud Resources,22527.24,Credit_Card,0
+TXN_PRANAVI_0221,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-29 00:00:00,University Fees,TKREC Semester Lab & Cloud Resources,13306.23,Credit_Card,0
+TXN_PRANAVI_0222,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-29 01:35:00,Electronics,Samsung SmartCafé Hyderabad,7360.69,UPI_HDFC_Pay,0
+TXN_PRANAVI_0223,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-29 02:08:00,University Fees,TKREC Semester Lab & Cloud Resources,14535.57,UPI_HDFC_Pay,0
+TXN_PRANAVI_0224,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-29 10:01:00,Academic Research,IEEE / ACM Research Conference Fee,8193.34,UPI_HDFC_Pay,0
+TXN_PRANAVI_0225,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-29 12:46:00,Workstation Gear,Croma Electronics Campus Store,18753.94,NetBanking,0
+TXN_PRANAVI_0226,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-29 18:24:00,Electronics,Samsung SmartCafé Hyderabad,8917.39,Credit_Card,0
+TXN_PRANAVI_0227,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-30 04:04:00,Academic Research,IEEE / ACM Research Conference Fee,6179.54,Credit_Card,0
+TXN_PRANAVI_0228,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-30 04:31:00,Project Supplies,Amazon Project Lab Equipment & Kits,18573.68,UPI_HDFC_Pay,0
+TXN_PRANAVI_0229,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-30 07:57:00,University Fees,TKREC Semester Lab & Cloud Resources,11843.34,Credit_Card,0
+TXN_PRANAVI_0230,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-30 08:12:00,Electronics,Samsung SmartCafé Hyderabad,8941.54,UPI_HDFC_Pay,0
+TXN_PRANAVI_0231,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-30 12:25:00,Academic Research,IEEE / ACM Research Conference Fee,12989.6,UPI_HDFC_Pay,0
+TXN_PRANAVI_0232,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-30 16:38:00,Project Supplies,Amazon Project Lab Equipment & Kits,8021.53,Debit_Card,0
+TXN_PRANAVI_0233,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-30 18:14:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,6379.74,Credit_Card,0
+TXN_PRANAVI_0234,cust_pranavi,M. Pranavi,23R91A05H6,2026-06-30 22:41:00,Higher Education,Coursera / edX MasterTrack Certifications,7814.99,UPI_HDFC_Pay,0
+TXN_PRANAVI_0235,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-01 01:15:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,5696.3,Debit_Card,0
+TXN_PRANAVI_0236,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-01 03:03:00,University Fees,TKREC Semester Lab & Cloud Resources,11130.57,UPI_HDFC_Pay,0
+TXN_PRANAVI_0237,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-01 08:44:00,Academic Research,IEEE / ACM Research Conference Fee,15869.69,NetBanking,0
+TXN_PRANAVI_0238,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-01 11:16:00,Electronics,Samsung SmartCafé Hyderabad,9281.64,UPI_HDFC_Pay,0
+TXN_PRANAVI_0239,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-02 04:59:00,University Fees,TKREC Semester Lab & Cloud Resources,18212.2,UPI_HDFC_Pay,0
+TXN_PRANAVI_0240,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-02 05:23:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,8428.74,UPI_HDFC_Pay,0
+TXN_PRANAVI_0241,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-02 09:40:00,Workstation Gear,Croma Electronics Campus Store,16926.87,UPI_HDFC_Pay,0
+TXN_PRANAVI_0242,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-02 11:36:00,Academic Research,IEEE / ACM Research Conference Fee,7220.2,UPI_HDFC_Pay,0
+TXN_PRANAVI_0243,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-02 12:34:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,19370.16,Credit_Card,0
+TXN_PRANAVI_0244,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-02 18:01:00,University Fees,TKREC Semester Lab & Cloud Resources,11042.3,Debit_Card,0
+TXN_PRANAVI_0245,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-02 22:10:00,University Fees,TKREC Semester Lab & Cloud Resources,15732.15,Debit_Card,0
+TXN_PRANAVI_0246,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-03 00:12:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,3863.0,UPI_HDFC_Pay,0
+TXN_PRANAVI_0247,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-03 00:39:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,11462.79,Credit_Card,0
+TXN_PRANAVI_0248,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-03 01:57:00,Electronics,Samsung SmartCafé Hyderabad,11427.67,UPI_HDFC_Pay,0
+TXN_PRANAVI_0249,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-03 07:12:00,Academic Research,IEEE / ACM Research Conference Fee,13939.35,UPI_HDFC_Pay,0
+TXN_PRANAVI_0250,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-03 10:29:00,Academic Research,IEEE / ACM Research Conference Fee,3317.37,Credit_Card,0
+TXN_PRANAVI_0251,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 00:55:00,Electronics,Samsung SmartCafé Hyderabad,12621.7,Credit_Card,0
+TXN_PRANAVI_0252,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 00:59:00,Workstation Gear,Croma Electronics Campus Store,21224.58,UPI_HDFC_Pay,0
+TXN_PRANAVI_0253,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 02:06:00,Project Supplies,Amazon Project Lab Equipment & Kits,18617.92,UPI_HDFC_Pay,0
+TXN_PRANAVI_0254,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 03:40:00,Workstation Gear,Croma Electronics Campus Store,8356.21,NetBanking,0
+TXN_PRANAVI_0255,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 07:39:00,Higher Education,Coursera / edX MasterTrack Certifications,10869.15,UPI_HDFC_Pay,0
+TXN_PRANAVI_0256,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 09:20:00,Electronics,Samsung SmartCafé Hyderabad,8624.57,Credit_Card,0
+TXN_PRANAVI_0257,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 14:15:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9827.72,Credit_Card,0
+TXN_PRANAVI_0258,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 14:50:00,Academic Research,IEEE / ACM Research Conference Fee,5858.18,UPI_HDFC_Pay,0
+TXN_PRANAVI_0259,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 15:51:00,University Fees,TKREC Semester Lab & Cloud Resources,16370.28,UPI_HDFC_Pay,0
+TXN_PRANAVI_0260,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 16:01:00,Higher Education,Coursera / edX MasterTrack Certifications,6284.94,UPI_HDFC_Pay,0
+TXN_PRANAVI_0261,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 18:03:00,University Fees,TKREC Semester Lab & Cloud Resources,10153.75,Debit_Card,0
+TXN_PRANAVI_0262,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-04 20:24:00,University Fees,TKREC Semester Lab & Cloud Resources,16139.59,Credit_Card,0
+TXN_PRANAVI_0263,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 00:19:00,University Fees,TKREC Semester Lab & Cloud Resources,15369.24,Credit_Card,0
+TXN_PRANAVI_0264,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 02:04:00,Higher Education,Coursera / edX MasterTrack Certifications,8871.31,NetBanking,0
+TXN_PRANAVI_0265,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 03:21:00,Project Supplies,Amazon Project Lab Equipment & Kits,13155.01,Debit_Card,0
+TXN_PRANAVI_0266,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 06:04:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,124798.24,Credit_Card,1
+TXN_PRANAVI_0267,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 07:10:00,Academic Research,IEEE / ACM Research Conference Fee,7350.15,Credit_Card,0
+TXN_PRANAVI_0268,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 09:21:00,Project Supplies,Amazon Project Lab Equipment & Kits,11014.92,Credit_Card,0
+TXN_PRANAVI_0269,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 11:40:00,Academic Research,IEEE / ACM Research Conference Fee,11031.74,Credit_Card,0
+TXN_PRANAVI_0270,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 14:24:00,Electronics,Samsung SmartCafé Hyderabad,7540.38,Credit_Card,0
+TXN_PRANAVI_0271,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 18:50:00,Academic Research,IEEE / ACM Research Conference Fee,4242.33,Credit_Card,0
+TXN_PRANAVI_0272,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 18:53:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9256.88,UPI_HDFC_Pay,0
+TXN_PRANAVI_0273,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-05 20:44:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,8425.26,Credit_Card,0
+TXN_PRANAVI_0274,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-06 03:04:00,Electronics,Samsung SmartCafé Hyderabad,17270.58,UPI_HDFC_Pay,0
+TXN_PRANAVI_0275,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-06 12:25:00,Workstation Gear,Croma Electronics Campus Store,10752.53,UPI_HDFC_Pay,0
+TXN_PRANAVI_0276,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-06 12:28:00,Electronics,Samsung SmartCafé Hyderabad,16431.69,UPI_HDFC_Pay,0
+TXN_PRANAVI_0277,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-06 12:35:00,Academic Research,IEEE / ACM Research Conference Fee,19278.22,Credit_Card,0
+TXN_PRANAVI_0278,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-06 13:27:00,Project Supplies,Amazon Project Lab Equipment & Kits,21500.57,Credit_Card,0
+TXN_PRANAVI_0279,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-06 15:00:00,Project Supplies,Amazon Project Lab Equipment & Kits,11582.28,UPI_HDFC_Pay,0
+TXN_PRANAVI_0280,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-06 16:51:00,Electronics,Samsung SmartCafé Hyderabad,23001.02,Credit_Card,0
+TXN_PRANAVI_0281,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-07 01:02:00,Electronics,Samsung SmartCafé Hyderabad,9571.69,Credit_Card,0
+TXN_PRANAVI_0282,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-07 09:29:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12058.99,UPI_HDFC_Pay,0
+TXN_PRANAVI_0283,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-07 17:44:00,University Fees,TKREC Semester Lab & Cloud Resources,7966.12,Credit_Card,0
+TXN_PRANAVI_0284,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-07 19:30:00,Academic Research,IEEE / ACM Research Conference Fee,19254.51,Debit_Card,0
+TXN_PRANAVI_0285,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-07 21:08:00,Workstation Gear,Croma Electronics Campus Store,7188.93,Debit_Card,0
+TXN_PRANAVI_0286,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-08 01:27:00,Project Supplies,Amazon Project Lab Equipment & Kits,13980.16,Credit_Card,0
+TXN_PRANAVI_0287,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-08 01:42:00,University Fees,TKREC Semester Lab & Cloud Resources,8035.95,Credit_Card,0
+TXN_PRANAVI_0288,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-08 03:12:00,Electronics,Samsung SmartCafé Hyderabad,16146.02,UPI_HDFC_Pay,0
+TXN_PRANAVI_0289,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-08 05:29:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,16955.37,UPI_HDFC_Pay,0
+TXN_PRANAVI_0290,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-08 05:57:00,Higher Education,Coursera / edX MasterTrack Certifications,8120.49,UPI_HDFC_Pay,0
+TXN_PRANAVI_0291,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-08 09:07:00,University Fees,TKREC Semester Lab & Cloud Resources,12557.78,NetBanking,0
+TXN_PRANAVI_0292,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-08 10:59:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7564.63,UPI_HDFC_Pay,0
+TXN_PRANAVI_0293,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-08 19:07:00,Electronics,Samsung SmartCafé Hyderabad,8516.17,UPI_HDFC_Pay,0
+TXN_PRANAVI_0294,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-08 20:34:00,Project Supplies,Amazon Project Lab Equipment & Kits,16476.54,Debit_Card,0
+TXN_PRANAVI_0295,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 00:03:00,Academic Research,IEEE / ACM Research Conference Fee,15263.76,NetBanking,0
+TXN_PRANAVI_0296,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 00:13:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,14317.53,Debit_Card,0
+TXN_PRANAVI_0297,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 03:55:00,Academic Research,IEEE / ACM Research Conference Fee,7195.28,UPI_HDFC_Pay,0
+TXN_PRANAVI_0298,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 04:03:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,4886.0,UPI_HDFC_Pay,0
+TXN_PRANAVI_0299,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 06:20:00,Electronics,Samsung SmartCafé Hyderabad,9107.01,UPI_HDFC_Pay,0
+TXN_PRANAVI_0300,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 06:48:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9708.8,UPI_HDFC_Pay,0
+TXN_PRANAVI_0301,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 06:53:00,Higher Education,Coursera / edX MasterTrack Certifications,16016.89,UPI_HDFC_Pay,0
+TXN_PRANAVI_0302,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 09:27:00,Academic Research,IEEE / ACM Research Conference Fee,8735.12,Credit_Card,0
+TXN_PRANAVI_0303,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 09:58:00,Project Supplies,Amazon Project Lab Equipment & Kits,15863.5,NetBanking,0
+TXN_PRANAVI_0304,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 14:59:00,University Fees,TKREC Semester Lab & Cloud Resources,7928.89,UPI_HDFC_Pay,0
+TXN_PRANAVI_0305,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 18:03:00,Workstation Gear,Croma Electronics Campus Store,14741.33,Credit_Card,0
+TXN_PRANAVI_0306,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 18:47:00,University Fees,TKREC Semester Lab & Cloud Resources,18267.14,Credit_Card,0
+TXN_PRANAVI_0307,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 20:34:00,Higher Education,Coursera / edX MasterTrack Certifications,10725.33,UPI_HDFC_Pay,0
+TXN_PRANAVI_0308,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-09 22:57:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,10763.59,Credit_Card,0
+TXN_PRANAVI_0309,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-10 04:58:00,Project Supplies,Amazon Project Lab Equipment & Kits,18771.2,UPI_HDFC_Pay,0
+TXN_PRANAVI_0310,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-10 05:09:00,Project Supplies,Amazon Project Lab Equipment & Kits,11259.12,UPI_HDFC_Pay,0
+TXN_PRANAVI_0311,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-10 08:12:00,Workstation Gear,Croma Electronics Campus Store,5025.83,Credit_Card,0
+TXN_PRANAVI_0312,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-10 12:27:00,University Fees,TKREC Semester Lab & Cloud Resources,11532.68,UPI_HDFC_Pay,0
+TXN_PRANAVI_0313,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-10 15:05:00,Higher Education,Coursera / edX MasterTrack Certifications,19181.4,NetBanking,0
+TXN_PRANAVI_0314,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-10 17:58:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,14805.24,UPI_HDFC_Pay,0
+TXN_PRANAVI_0315,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-10 18:09:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,125702.01,Credit_Card,1
+TXN_PRANAVI_0316,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-10 19:15:00,Workstation Gear,Croma Electronics Campus Store,19167.14,Credit_Card,0
+TXN_PRANAVI_0317,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-10 21:43:00,Project Supplies,Amazon Project Lab Equipment & Kits,9343.34,UPI_HDFC_Pay,0
+TXN_PRANAVI_0318,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-10 21:46:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,6752.91,UPI_HDFC_Pay,0
+TXN_PRANAVI_0319,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-11 05:25:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,13449.98,Credit_Card,0
+TXN_PRANAVI_0320,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-11 16:14:00,Workstation Gear,Croma Electronics Campus Store,6069.67,Debit_Card,0
+TXN_PRANAVI_0321,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-11 17:41:00,University Fees,TKREC Semester Lab & Cloud Resources,7011.81,Debit_Card,0
+TXN_PRANAVI_0322,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-12 01:56:00,Electronics,Samsung SmartCafé Hyderabad,23047.78,Credit_Card,0
+TXN_PRANAVI_0323,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-12 03:00:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9434.73,Debit_Card,0
+TXN_PRANAVI_0324,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-12 17:09:00,Project Supplies,Amazon Project Lab Equipment & Kits,22607.99,Credit_Card,0
+TXN_PRANAVI_0325,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-12 21:20:00,University Fees,TKREC Semester Lab & Cloud Resources,8140.6,Credit_Card,0
+TXN_PRANAVI_0326,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-12 23:26:00,University Fees,TKREC Semester Lab & Cloud Resources,8850.41,Credit_Card,0
+TXN_PRANAVI_0327,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-12 23:28:00,Project Supplies,Amazon Project Lab Equipment & Kits,32677.55,Credit_Card,0
+TXN_PRANAVI_0328,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-13 07:03:00,University Fees,TKREC Semester Lab & Cloud Resources,24385.71,Debit_Card,0
+TXN_PRANAVI_0329,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-13 14:27:00,University Fees,TKREC Semester Lab & Cloud Resources,24646.2,UPI_HDFC_Pay,0
+TXN_PRANAVI_0330,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-13 17:34:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,15473.93,Debit_Card,0
+TXN_PRANAVI_0331,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-13 20:21:00,Workstation Gear,Croma Electronics Campus Store,8852.91,Credit_Card,0
+TXN_PRANAVI_0332,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-13 21:20:00,University Fees,TKREC Semester Lab & Cloud Resources,17830.73,UPI_HDFC_Pay,0
+TXN_PRANAVI_0333,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-13 23:27:00,Academic Research,IEEE / ACM Research Conference Fee,8495.64,UPI_HDFC_Pay,0
+TXN_PRANAVI_0334,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-14 01:33:00,Higher Education,Coursera / edX MasterTrack Certifications,6908.38,UPI_HDFC_Pay,0
+TXN_PRANAVI_0335,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-14 05:18:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10287.28,Credit_Card,0
+TXN_PRANAVI_0336,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-14 06:05:00,Workstation Gear,Croma Electronics Campus Store,13651.78,Debit_Card,0
+TXN_PRANAVI_0337,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-14 07:49:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,6288.68,UPI_HDFC_Pay,0
+TXN_PRANAVI_0338,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-14 08:32:00,Academic Research,IEEE / ACM Research Conference Fee,7257.87,Debit_Card,0
+TXN_PRANAVI_0339,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-14 09:54:00,Higher Education,Coursera / edX MasterTrack Certifications,24311.84,Debit_Card,0
+TXN_PRANAVI_0340,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-14 14:14:00,Workstation Gear,Croma Electronics Campus Store,18068.26,UPI_HDFC_Pay,0
+TXN_PRANAVI_0341,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-14 14:40:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9820.49,Debit_Card,0
+TXN_PRANAVI_0342,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-14 14:52:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9087.76,NetBanking,0
+TXN_PRANAVI_0343,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-14 20:54:00,Workstation Gear,Croma Electronics Campus Store,6972.72,Credit_Card,0
+TXN_PRANAVI_0344,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-15 00:16:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,8940.38,Debit_Card,0
+TXN_PRANAVI_0345,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-15 00:31:00,Workstation Gear,Croma Electronics Campus Store,15429.0,NetBanking,0
+TXN_PRANAVI_0346,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-15 06:42:00,Workstation Gear,Croma Electronics Campus Store,9175.25,Credit_Card,0
+TXN_PRANAVI_0347,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-15 14:11:00,Electronics,Samsung SmartCafé Hyderabad,5711.43,UPI_HDFC_Pay,0
+TXN_PRANAVI_0348,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-15 16:20:00,Project Supplies,Amazon Project Lab Equipment & Kits,10293.97,Debit_Card,0
+TXN_PRANAVI_0349,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-15 18:14:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,20010.45,Credit_Card,0
+TXN_PRANAVI_0350,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-15 19:05:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11030.77,Credit_Card,0
+TXN_PRANAVI_0351,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-15 23:08:00,Academic Research,IEEE / ACM Research Conference Fee,23490.37,UPI_HDFC_Pay,0
+TXN_PRANAVI_0352,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-16 02:02:00,Academic Research,IEEE / ACM Research Conference Fee,12952.02,Debit_Card,0
+TXN_PRANAVI_0353,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-16 03:08:00,Academic Research,IEEE / ACM Research Conference Fee,7036.72,UPI_HDFC_Pay,0
+TXN_PRANAVI_0354,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-16 06:07:00,Academic Research,IEEE / ACM Research Conference Fee,10699.32,NetBanking,0
+TXN_PRANAVI_0355,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-16 11:13:00,Higher Education,Coursera / edX MasterTrack Certifications,10244.1,UPI_HDFC_Pay,0
+TXN_PRANAVI_0356,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-16 11:59:00,University Fees,TKREC Semester Lab & Cloud Resources,7840.69,UPI_HDFC_Pay,0
+TXN_PRANAVI_0357,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-16 14:09:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7573.51,Credit_Card,0
+TXN_PRANAVI_0358,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-16 14:54:00,Electronics,Samsung SmartCafé Hyderabad,11059.29,UPI_HDFC_Pay,0
+TXN_PRANAVI_0359,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-17 01:14:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,8153.24,Credit_Card,0
+TXN_PRANAVI_0360,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-17 01:19:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11645.68,NetBanking,0
+TXN_PRANAVI_0361,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-17 03:11:00,University Fees,TKREC Semester Lab & Cloud Resources,6939.39,Debit_Card,0
+TXN_PRANAVI_0362,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-17 04:56:00,Higher Education,Coursera / edX MasterTrack Certifications,11477.41,UPI_HDFC_Pay,0
+TXN_PRANAVI_0363,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-17 08:41:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,13859.06,UPI_HDFC_Pay,0
+TXN_PRANAVI_0364,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-17 10:27:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,16180.06,Debit_Card,0
+TXN_PRANAVI_0365,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-17 11:26:00,Project Supplies,Amazon Project Lab Equipment & Kits,7585.12,NetBanking,0
+TXN_PRANAVI_0366,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-17 15:24:00,Workstation Gear,Croma Electronics Campus Store,12623.23,Credit_Card,0
+TXN_PRANAVI_0367,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-17 16:21:00,Project Supplies,Amazon Project Lab Equipment & Kits,6312.18,Credit_Card,0
+TXN_PRANAVI_0368,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-17 23:22:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,7946.32,UPI_HDFC_Pay,0
+TXN_PRANAVI_0369,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-18 06:03:00,Higher Education,Coursera / edX MasterTrack Certifications,9775.05,Debit_Card,0
+TXN_PRANAVI_0370,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-18 06:55:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12139.73,Credit_Card,0
+TXN_PRANAVI_0371,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-18 07:16:00,Project Supplies,Amazon Project Lab Equipment & Kits,18077.58,UPI_HDFC_Pay,0
+TXN_PRANAVI_0372,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-18 09:09:00,University Fees,TKREC Semester Lab & Cloud Resources,9856.36,UPI_HDFC_Pay,0
+TXN_PRANAVI_0373,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-18 13:13:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,11896.18,Debit_Card,0
+TXN_PRANAVI_0374,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-18 14:05:00,Project Supplies,Amazon Project Lab Equipment & Kits,7113.16,UPI_HDFC_Pay,0
+TXN_PRANAVI_0375,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-18 15:08:00,University Fees,TKREC Semester Lab & Cloud Resources,3271.59,UPI_HDFC_Pay,0
+TXN_PRANAVI_0376,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-18 17:03:00,Electronics,Samsung SmartCafé Hyderabad,9243.54,Credit_Card,0
+TXN_PRANAVI_0377,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-18 19:03:00,Higher Education,Coursera / edX MasterTrack Certifications,25957.19,UPI_HDFC_Pay,0
+TXN_PRANAVI_0378,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-18 21:19:00,Academic Research,IEEE / ACM Research Conference Fee,11256.86,UPI_HDFC_Pay,0
+TXN_PRANAVI_0379,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-19 01:24:00,Workstation Gear,Croma Electronics Campus Store,8219.29,Debit_Card,0
+TXN_PRANAVI_0380,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-19 03:23:00,Higher Education,Coursera / edX MasterTrack Certifications,8570.11,Debit_Card,0
+TXN_PRANAVI_0381,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-19 04:58:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,14372.05,Debit_Card,0
+TXN_PRANAVI_0382,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-19 06:48:00,Electronics,Samsung SmartCafé Hyderabad,11748.98,Debit_Card,0
+TXN_PRANAVI_0383,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-19 12:50:00,Higher Education,Coursera / edX MasterTrack Certifications,22078.62,Credit_Card,0
+TXN_PRANAVI_0384,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-19 16:44:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9591.2,Debit_Card,0
+TXN_PRANAVI_0385,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-19 16:55:00,Academic Research,IEEE / ACM Research Conference Fee,13832.75,UPI_HDFC_Pay,0
+TXN_PRANAVI_0386,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-19 20:11:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,16169.89,Credit_Card,0
+TXN_PRANAVI_0387,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-19 23:46:00,Workstation Gear,Croma Electronics Campus Store,10800.08,NetBanking,0
+TXN_PRANAVI_0388,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 00:40:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,17259.59,UPI_HDFC_Pay,0
+TXN_PRANAVI_0389,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 01:09:00,Project Supplies,Amazon Project Lab Equipment & Kits,13797.99,UPI_HDFC_Pay,0
+TXN_PRANAVI_0390,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 05:07:00,Electronics,Samsung SmartCafé Hyderabad,11702.68,Credit_Card,0
+TXN_PRANAVI_0391,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 08:50:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,6099.26,UPI_HDFC_Pay,0
+TXN_PRANAVI_0392,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 11:36:00,Higher Education,Coursera / edX MasterTrack Certifications,18380.05,UPI_HDFC_Pay,0
+TXN_PRANAVI_0393,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 12:23:00,University Fees,TKREC Semester Lab & Cloud Resources,13980.69,Debit_Card,0
+TXN_PRANAVI_0394,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 12:36:00,Academic Research,IEEE / ACM Research Conference Fee,13678.6,NetBanking,0
+TXN_PRANAVI_0395,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 13:20:00,Electronics,Samsung SmartCafé Hyderabad,7820.71,Credit_Card,0
+TXN_PRANAVI_0396,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 15:23:00,Electronics,Samsung SmartCafé Hyderabad,9981.32,UPI_HDFC_Pay,0
+TXN_PRANAVI_0397,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 17:20:00,Academic Research,IEEE / ACM Research Conference Fee,13671.09,UPI_HDFC_Pay,0
+TXN_PRANAVI_0398,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 17:55:00,Academic Research,IEEE / ACM Research Conference Fee,7471.48,Debit_Card,0
+TXN_PRANAVI_0399,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 19:18:00,University Fees,TKREC Semester Lab & Cloud Resources,13331.86,Credit_Card,0
+TXN_PRANAVI_0400,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-20 20:17:00,University Fees,TKREC Semester Lab & Cloud Resources,12093.69,UPI_HDFC_Pay,0
+TXN_PRANAVI_0401,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-21 03:13:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12348.87,Credit_Card,0
+TXN_PRANAVI_0402,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-21 06:40:00,University Fees,TKREC Semester Lab & Cloud Resources,7142.33,UPI_HDFC_Pay,0
+TXN_PRANAVI_0403,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-21 13:09:00,Workstation Gear,Croma Electronics Campus Store,13358.24,Credit_Card,0
+TXN_PRANAVI_0404,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-21 15:19:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11313.41,Debit_Card,0
+TXN_PRANAVI_0405,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-21 18:47:00,Academic Research,IEEE / ACM Research Conference Fee,9975.58,Credit_Card,0
+TXN_PRANAVI_0406,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-21 21:41:00,Project Supplies,Amazon Project Lab Equipment & Kits,12108.24,Credit_Card,0
+TXN_PRANAVI_0407,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-21 23:30:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9620.68,UPI_HDFC_Pay,0
+TXN_PRANAVI_0408,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-22 03:38:00,Academic Research,IEEE / ACM Research Conference Fee,23844.48,Credit_Card,0
+TXN_PRANAVI_0409,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-22 05:06:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,12930.31,Credit_Card,0
+TXN_PRANAVI_0410,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-22 06:37:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,4577.1,UPI_HDFC_Pay,0
+TXN_PRANAVI_0411,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-22 06:53:00,Academic Research,IEEE / ACM Research Conference Fee,8644.81,Credit_Card,0
+TXN_PRANAVI_0412,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-22 15:22:00,Electronics,Samsung SmartCafé Hyderabad,14034.07,UPI_HDFC_Pay,0
+TXN_PRANAVI_0413,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-22 15:57:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7842.01,Debit_Card,0
+TXN_PRANAVI_0414,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-22 17:50:00,Higher Education,Coursera / edX MasterTrack Certifications,9466.0,Credit_Card,0
+TXN_PRANAVI_0415,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-23 03:45:00,Workstation Gear,Croma Electronics Campus Store,7574.84,NetBanking,0
+TXN_PRANAVI_0416,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-23 05:36:00,Project Supplies,Amazon Project Lab Equipment & Kits,5897.31,UPI_HDFC_Pay,0
+TXN_PRANAVI_0417,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-23 05:54:00,University Fees,TKREC Semester Lab & Cloud Resources,18815.16,Debit_Card,0
+TXN_PRANAVI_0418,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-23 07:32:00,Electronics,Samsung SmartCafé Hyderabad,7634.6,Credit_Card,0
+TXN_PRANAVI_0419,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-23 08:26:00,Workstation Gear,Croma Electronics Campus Store,12787.6,Debit_Card,0
+TXN_PRANAVI_0420,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-23 09:24:00,Electronics,Samsung SmartCafé Hyderabad,9425.1,UPI_HDFC_Pay,0
+TXN_PRANAVI_0421,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-23 10:50:00,Electronics,Samsung SmartCafé Hyderabad,13907.61,Credit_Card,0
+TXN_PRANAVI_0422,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-23 15:54:00,University Fees,TKREC Semester Lab & Cloud Resources,11767.3,Debit_Card,0
+TXN_PRANAVI_0423,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-23 16:10:00,Project Supplies,Amazon Project Lab Equipment & Kits,25193.72,UPI_HDFC_Pay,0
+TXN_PRANAVI_0424,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-23 23:44:00,University Fees,TKREC Semester Lab & Cloud Resources,17189.37,UPI_HDFC_Pay,0
+TXN_PRANAVI_0425,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-24 14:52:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,6418.67,Credit_Card,0
+TXN_PRANAVI_0426,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-24 15:30:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,14568.01,Credit_Card,0
+TXN_PRANAVI_0427,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-24 16:49:00,University Fees,TKREC Semester Lab & Cloud Resources,17784.35,UPI_HDFC_Pay,0
+TXN_PRANAVI_0428,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-24 19:37:00,Electronics,Samsung SmartCafé Hyderabad,7436.45,UPI_HDFC_Pay,0
+TXN_PRANAVI_0429,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-24 19:39:00,University Fees,TKREC Semester Lab & Cloud Resources,11885.29,UPI_HDFC_Pay,0
+TXN_PRANAVI_0430,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-24 23:49:00,University Fees,TKREC Semester Lab & Cloud Resources,4480.45,Debit_Card,0
+TXN_PRANAVI_0431,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-25 02:03:00,Workstation Gear,Croma Electronics Campus Store,15929.33,Credit_Card,0
+TXN_PRANAVI_0432,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-25 07:50:00,Electronics,Samsung SmartCafé Hyderabad,10166.15,Debit_Card,0
+TXN_PRANAVI_0433,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-25 08:23:00,University Fees,TKREC Semester Lab & Cloud Resources,13321.14,NetBanking,0
+TXN_PRANAVI_0434,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-25 15:51:00,Academic Research,IEEE / ACM Research Conference Fee,15219.01,Credit_Card,0
+TXN_PRANAVI_0435,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-25 18:15:00,University Fees,TKREC Semester Lab & Cloud Resources,14450.07,UPI_HDFC_Pay,0
+TXN_PRANAVI_0436,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-25 19:46:00,Academic Research,IEEE / ACM Research Conference Fee,16207.65,UPI_HDFC_Pay,0
+TXN_PRANAVI_0437,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-25 20:13:00,Academic Research,IEEE / ACM Research Conference Fee,8944.22,UPI_HDFC_Pay,0
+TXN_PRANAVI_0438,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-25 22:09:00,Electronics,Samsung SmartCafé Hyderabad,13020.24,NetBanking,0
+TXN_PRANAVI_0439,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-26 03:25:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,24149.94,Credit_Card,0
+TXN_PRANAVI_0440,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-26 11:12:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,162346.71,UPI_HDFC_Pay,1
+TXN_PRANAVI_0441,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-26 11:28:00,Workstation Gear,Croma Electronics Campus Store,5683.5,UPI_HDFC_Pay,0
+TXN_PRANAVI_0442,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-26 14:19:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,15479.6,Credit_Card,0
+TXN_PRANAVI_0443,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-26 14:58:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,16632.75,Credit_Card,0
+TXN_PRANAVI_0444,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-26 19:47:00,Higher Education,Coursera / edX MasterTrack Certifications,22890.05,UPI_HDFC_Pay,0
+TXN_PRANAVI_0445,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-26 21:02:00,University Fees,TKREC Semester Lab & Cloud Resources,15190.23,NetBanking,0
+TXN_PRANAVI_0446,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-26 22:53:00,Workstation Gear,Croma Electronics Campus Store,8495.41,Credit_Card,0
+TXN_PRANAVI_0447,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-27 01:13:00,Project Supplies,Amazon Project Lab Equipment & Kits,11492.18,UPI_HDFC_Pay,0
+TXN_PRANAVI_0448,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-27 08:53:00,Project Supplies,Amazon Project Lab Equipment & Kits,18178.39,Debit_Card,0
+TXN_PRANAVI_0449,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-27 09:43:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12473.55,UPI_HDFC_Pay,0
+TXN_PRANAVI_0450,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-27 15:12:00,Electronics,Samsung SmartCafé Hyderabad,14612.18,NetBanking,0
+TXN_PRANAVI_0451,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-27 18:01:00,Academic Research,IEEE / ACM Research Conference Fee,3585.46,NetBanking,0
+TXN_PRANAVI_0452,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-27 21:45:00,University Fees,TKREC Semester Lab & Cloud Resources,14834.45,Credit_Card,0
+TXN_PRANAVI_0453,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-28 01:38:00,Project Supplies,Amazon Project Lab Equipment & Kits,16188.19,Debit_Card,0
+TXN_PRANAVI_0454,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-28 05:57:00,Project Supplies,Amazon Project Lab Equipment & Kits,12290.77,UPI_HDFC_Pay,0
+TXN_PRANAVI_0455,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-28 06:25:00,Academic Research,IEEE / ACM Research Conference Fee,22220.82,NetBanking,0
+TXN_PRANAVI_0456,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-28 09:21:00,Academic Research,IEEE / ACM Research Conference Fee,15240.22,Credit_Card,0
+TXN_PRANAVI_0457,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-28 11:06:00,University Fees,TKREC Semester Lab & Cloud Resources,10018.94,Credit_Card,0
+TXN_PRANAVI_0458,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-28 13:19:00,Electronics,Samsung SmartCafé Hyderabad,4067.74,NetBanking,0
+TXN_PRANAVI_0459,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-29 02:12:00,Higher Education,Coursera / edX MasterTrack Certifications,11365.22,NetBanking,0
+TXN_PRANAVI_0460,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-29 06:15:00,University Fees,TKREC Semester Lab & Cloud Resources,22740.92,Debit_Card,0
+TXN_PRANAVI_0461,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-29 09:14:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9277.74,UPI_HDFC_Pay,0
+TXN_PRANAVI_0462,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-29 15:17:00,Workstation Gear,Croma Electronics Campus Store,4414.92,NetBanking,0
+TXN_PRANAVI_0463,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-29 16:08:00,Workstation Gear,Croma Electronics Campus Store,6181.69,Credit_Card,0
+TXN_PRANAVI_0464,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-29 20:06:00,Academic Research,IEEE / ACM Research Conference Fee,10776.2,NetBanking,0
+TXN_PRANAVI_0465,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-29 20:44:00,University Fees,TKREC Semester Lab & Cloud Resources,10238.67,Credit_Card,0
+TXN_PRANAVI_0466,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-29 23:11:00,Electronics,Samsung SmartCafé Hyderabad,11191.22,UPI_HDFC_Pay,0
+TXN_PRANAVI_0467,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-30 02:47:00,Project Supplies,Amazon Project Lab Equipment & Kits,9799.95,UPI_HDFC_Pay,0
+TXN_PRANAVI_0468,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-30 06:00:00,Electronics,Samsung SmartCafé Hyderabad,8136.33,Credit_Card,0
+TXN_PRANAVI_0469,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-30 07:11:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,13075.39,Debit_Card,0
+TXN_PRANAVI_0470,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-30 13:29:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10344.33,UPI_HDFC_Pay,0
+TXN_PRANAVI_0471,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-30 16:01:00,Higher Education,Coursera / edX MasterTrack Certifications,9759.51,Credit_Card,0
+TXN_PRANAVI_0472,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-30 20:45:00,Higher Education,Coursera / edX MasterTrack Certifications,7987.79,UPI_HDFC_Pay,0
+TXN_PRANAVI_0473,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-31 00:17:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9436.81,Debit_Card,0
+TXN_PRANAVI_0474,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-31 01:48:00,Workstation Gear,Croma Electronics Campus Store,8482.69,Credit_Card,0
+TXN_PRANAVI_0475,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-31 02:14:00,Academic Research,IEEE / ACM Research Conference Fee,12483.88,UPI_HDFC_Pay,0
+TXN_PRANAVI_0476,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-31 05:10:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,13817.13,UPI_HDFC_Pay,0
+TXN_PRANAVI_0477,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-31 10:38:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,11859.02,UPI_HDFC_Pay,0
+TXN_PRANAVI_0478,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-31 19:27:00,Academic Research,IEEE / ACM Research Conference Fee,8619.61,Credit_Card,0
+TXN_PRANAVI_0479,cust_pranavi,M. Pranavi,23R91A05H6,2026-07-31 19:33:00,Workstation Gear,Croma Electronics Campus Store,4519.87,UPI_HDFC_Pay,0
+TXN_PRANAVI_0480,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-01 03:51:00,Electronics,Samsung SmartCafé Hyderabad,8249.89,UPI_HDFC_Pay,0
+TXN_PRANAVI_0481,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-01 05:16:00,Higher Education,Coursera / edX MasterTrack Certifications,13835.71,NetBanking,0
+TXN_PRANAVI_0482,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-01 05:41:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,10397.39,Debit_Card,0
+TXN_PRANAVI_0483,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-01 09:18:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,10706.36,Credit_Card,0
+TXN_PRANAVI_0484,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-01 10:43:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11247.68,NetBanking,0
+TXN_PRANAVI_0485,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-01 11:20:00,Workstation Gear,Croma Electronics Campus Store,13098.41,UPI_HDFC_Pay,0
+TXN_PRANAVI_0486,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-01 16:44:00,Project Supplies,Amazon Project Lab Equipment & Kits,14579.48,Credit_Card,0
+TXN_PRANAVI_0487,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-02 07:24:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,6902.47,Credit_Card,0
+TXN_PRANAVI_0488,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-02 17:08:00,Academic Research,IEEE / ACM Research Conference Fee,11679.55,Credit_Card,0
+TXN_PRANAVI_0489,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-03 01:31:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,34365.42,UPI_HDFC_Pay,0
+TXN_PRANAVI_0490,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-03 07:20:00,University Fees,TKREC Semester Lab & Cloud Resources,9099.97,Credit_Card,0
+TXN_PRANAVI_0491,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-03 13:34:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,18988.66,Credit_Card,0
+TXN_PRANAVI_0492,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-03 15:00:00,Project Supplies,Amazon Project Lab Equipment & Kits,7755.88,Credit_Card,0
+TXN_PRANAVI_0493,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-03 16:10:00,Higher Education,Coursera / edX MasterTrack Certifications,24170.57,UPI_HDFC_Pay,0
+TXN_PRANAVI_0494,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-03 16:27:00,University Fees,TKREC Semester Lab & Cloud Resources,8159.2,UPI_HDFC_Pay,0
+TXN_PRANAVI_0495,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-03 16:28:00,Workstation Gear,Croma Electronics Campus Store,20026.98,UPI_HDFC_Pay,0
+TXN_PRANAVI_0496,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-03 19:50:00,Academic Research,IEEE / ACM Research Conference Fee,10046.51,UPI_HDFC_Pay,0
+TXN_PRANAVI_0497,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-03 21:38:00,Electronics,Samsung SmartCafé Hyderabad,5197.28,Credit_Card,0
+TXN_PRANAVI_0498,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-03 23:49:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,146058.64,UPI_HDFC_Pay,1
+TXN_PRANAVI_0499,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 00:43:00,Academic Research,IEEE / ACM Research Conference Fee,8340.36,Debit_Card,0
+TXN_PRANAVI_0500,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 03:15:00,Project Supplies,Amazon Project Lab Equipment & Kits,7057.13,UPI_HDFC_Pay,0
+TXN_PRANAVI_0501,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 05:47:00,Project Supplies,Amazon Project Lab Equipment & Kits,9390.54,UPI_HDFC_Pay,0
+TXN_PRANAVI_0502,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 09:00:00,Project Supplies,Amazon Project Lab Equipment & Kits,7442.41,Credit_Card,0
+TXN_PRANAVI_0503,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 09:13:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9314.56,UPI_HDFC_Pay,0
+TXN_PRANAVI_0504,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 18:05:00,University Fees,TKREC Semester Lab & Cloud Resources,8812.17,Credit_Card,0
+TXN_PRANAVI_0505,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 20:02:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10220.25,Credit_Card,0
+TXN_PRANAVI_0506,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 21:18:00,Academic Research,IEEE / ACM Research Conference Fee,5630.01,UPI_HDFC_Pay,0
+TXN_PRANAVI_0507,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 21:25:00,University Fees,TKREC Semester Lab & Cloud Resources,19042.81,UPI_HDFC_Pay,0
+TXN_PRANAVI_0508,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 21:33:00,Project Supplies,Amazon Project Lab Equipment & Kits,7942.37,UPI_HDFC_Pay,0
+TXN_PRANAVI_0509,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 22:44:00,Electronics,Samsung SmartCafé Hyderabad,13334.44,UPI_HDFC_Pay,0
+TXN_PRANAVI_0510,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-04 23:33:00,Workstation Gear,Croma Electronics Campus Store,10690.45,UPI_HDFC_Pay,0
+TXN_PRANAVI_0511,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-05 04:50:00,Workstation Gear,Croma Electronics Campus Store,13251.8,UPI_HDFC_Pay,0
+TXN_PRANAVI_0512,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-05 06:40:00,University Fees,TKREC Semester Lab & Cloud Resources,10009.66,UPI_HDFC_Pay,0
+TXN_PRANAVI_0513,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-05 11:38:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,21838.55,Credit_Card,0
+TXN_PRANAVI_0514,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-05 14:24:00,Higher Education,Coursera / edX MasterTrack Certifications,10729.56,Credit_Card,0
+TXN_PRANAVI_0515,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-05 20:40:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,12285.47,Credit_Card,0
+TXN_PRANAVI_0516,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-05 22:22:00,Project Supplies,Amazon Project Lab Equipment & Kits,10667.24,UPI_HDFC_Pay,0
+TXN_PRANAVI_0517,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-05 23:20:00,University Fees,TKREC Semester Lab & Cloud Resources,13467.59,UPI_HDFC_Pay,0
+TXN_PRANAVI_0518,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-06 00:32:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,12052.0,Debit_Card,0
+TXN_PRANAVI_0519,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-06 06:00:00,Project Supplies,Amazon Project Lab Equipment & Kits,6797.27,Credit_Card,0
+TXN_PRANAVI_0520,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-06 06:42:00,Electronics,Samsung SmartCafé Hyderabad,5237.27,Debit_Card,0
+TXN_PRANAVI_0521,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-06 12:39:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,8884.62,UPI_HDFC_Pay,0
+TXN_PRANAVI_0522,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-06 18:30:00,Academic Research,IEEE / ACM Research Conference Fee,6569.47,Credit_Card,0
+TXN_PRANAVI_0523,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-06 19:50:00,Academic Research,IEEE / ACM Research Conference Fee,7759.58,Credit_Card,0
+TXN_PRANAVI_0524,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-06 19:58:00,Workstation Gear,Croma Electronics Campus Store,7111.35,UPI_HDFC_Pay,0
+TXN_PRANAVI_0525,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-06 20:11:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,12338.55,Credit_Card,0
+TXN_PRANAVI_0526,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-06 23:30:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12614.24,Credit_Card,0
+TXN_PRANAVI_0527,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-06 23:47:00,Workstation Gear,Croma Electronics Campus Store,16281.35,UPI_HDFC_Pay,0
+TXN_PRANAVI_0528,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-07 00:12:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9178.05,UPI_HDFC_Pay,0
+TXN_PRANAVI_0529,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-07 05:46:00,University Fees,TKREC Semester Lab & Cloud Resources,10673.31,Debit_Card,0
+TXN_PRANAVI_0530,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-07 07:11:00,Academic Research,IEEE / ACM Research Conference Fee,12477.37,NetBanking,0
+TXN_PRANAVI_0531,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-07 08:08:00,University Fees,TKREC Semester Lab & Cloud Resources,23459.46,UPI_HDFC_Pay,0
+TXN_PRANAVI_0532,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-07 08:14:00,Academic Research,IEEE / ACM Research Conference Fee,12494.37,UPI_HDFC_Pay,0
+TXN_PRANAVI_0533,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-07 11:57:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9661.07,UPI_HDFC_Pay,0
+TXN_PRANAVI_0534,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-07 12:18:00,Electronics,Samsung SmartCafé Hyderabad,10589.95,Credit_Card,0
+TXN_PRANAVI_0535,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-07 13:00:00,Academic Research,IEEE / ACM Research Conference Fee,6819.3,UPI_HDFC_Pay,0
+TXN_PRANAVI_0536,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-07 15:42:00,University Fees,TKREC Semester Lab & Cloud Resources,5299.28,NetBanking,0
+TXN_PRANAVI_0537,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-07 21:29:00,University Fees,TKREC Semester Lab & Cloud Resources,18958.49,UPI_HDFC_Pay,0
+TXN_PRANAVI_0538,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-08 03:06:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12344.9,UPI_HDFC_Pay,0
+TXN_PRANAVI_0539,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-08 08:01:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,4038.82,Credit_Card,0
+TXN_PRANAVI_0540,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-08 10:12:00,Workstation Gear,Croma Electronics Campus Store,10904.65,Debit_Card,0
+TXN_PRANAVI_0541,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-08 11:34:00,Higher Education,Coursera / edX MasterTrack Certifications,12580.87,Credit_Card,0
+TXN_PRANAVI_0542,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-08 11:39:00,Electronics,Samsung SmartCafé Hyderabad,18208.4,Credit_Card,0
+TXN_PRANAVI_0543,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-08 14:05:00,Higher Education,Coursera / edX MasterTrack Certifications,10240.74,NetBanking,0
+TXN_PRANAVI_0544,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-08 20:44:00,University Fees,TKREC Semester Lab & Cloud Resources,14318.3,UPI_HDFC_Pay,0
+TXN_PRANAVI_0545,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-08 21:40:00,Higher Education,Coursera / edX MasterTrack Certifications,3245.54,Debit_Card,0
+TXN_PRANAVI_0546,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-09 00:35:00,Workstation Gear,Croma Electronics Campus Store,25386.35,UPI_HDFC_Pay,0
+TXN_PRANAVI_0547,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-09 01:24:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,10083.0,Debit_Card,0
+TXN_PRANAVI_0548,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-09 07:01:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,7419.78,Credit_Card,0
+TXN_PRANAVI_0549,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-09 10:44:00,Workstation Gear,Croma Electronics Campus Store,6251.4,UPI_HDFC_Pay,0
+TXN_PRANAVI_0550,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-09 13:37:00,Higher Education,Coursera / edX MasterTrack Certifications,8911.01,Debit_Card,0
+TXN_PRANAVI_0551,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-09 16:31:00,Academic Research,IEEE / ACM Research Conference Fee,15990.97,UPI_HDFC_Pay,0
+TXN_PRANAVI_0552,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-09 16:40:00,Electronics,Samsung SmartCafé Hyderabad,8523.46,UPI_HDFC_Pay,0
+TXN_PRANAVI_0553,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-09 16:45:00,Academic Research,IEEE / ACM Research Conference Fee,13378.54,Credit_Card,0
+TXN_PRANAVI_0554,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-09 19:08:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,14263.96,UPI_HDFC_Pay,0
+TXN_PRANAVI_0555,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-10 01:05:00,Higher Education,Coursera / edX MasterTrack Certifications,13478.56,Credit_Card,0
+TXN_PRANAVI_0556,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-10 04:14:00,University Fees,TKREC Semester Lab & Cloud Resources,10420.31,UPI_HDFC_Pay,0
+TXN_PRANAVI_0557,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-10 10:04:00,Workstation Gear,Croma Electronics Campus Store,8161.15,UPI_HDFC_Pay,0
+TXN_PRANAVI_0558,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-10 11:29:00,Project Supplies,Amazon Project Lab Equipment & Kits,11670.86,UPI_HDFC_Pay,0
+TXN_PRANAVI_0559,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-10 12:21:00,Project Supplies,Amazon Project Lab Equipment & Kits,10544.9,UPI_HDFC_Pay,0
+TXN_PRANAVI_0560,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-10 19:12:00,Electronics,Samsung SmartCafé Hyderabad,5037.58,Credit_Card,0
+TXN_PRANAVI_0561,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-10 19:36:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,12204.78,Debit_Card,0
+TXN_PRANAVI_0562,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 00:49:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,10349.89,NetBanking,0
+TXN_PRANAVI_0563,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 01:44:00,Electronics,Samsung SmartCafé Hyderabad,11552.48,Debit_Card,0
+TXN_PRANAVI_0564,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 02:15:00,Electronics,Samsung SmartCafé Hyderabad,8078.49,UPI_HDFC_Pay,0
+TXN_PRANAVI_0565,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 04:41:00,Electronics,Samsung SmartCafé Hyderabad,7519.39,Credit_Card,0
+TXN_PRANAVI_0566,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 05:21:00,Project Supplies,Amazon Project Lab Equipment & Kits,9927.62,UPI_HDFC_Pay,0
+TXN_PRANAVI_0567,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 09:11:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,14559.69,UPI_HDFC_Pay,0
+TXN_PRANAVI_0568,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 09:18:00,Project Supplies,Amazon Project Lab Equipment & Kits,11443.44,Credit_Card,0
+TXN_PRANAVI_0569,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 13:55:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12537.74,UPI_HDFC_Pay,0
+TXN_PRANAVI_0570,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 17:28:00,University Fees,TKREC Semester Lab & Cloud Resources,11196.37,UPI_HDFC_Pay,0
+TXN_PRANAVI_0571,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 21:13:00,Academic Research,IEEE / ACM Research Conference Fee,17010.02,NetBanking,0
+TXN_PRANAVI_0572,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-11 22:11:00,University Fees,TKREC Semester Lab & Cloud Resources,12186.17,Credit_Card,0
+TXN_PRANAVI_0573,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-12 08:27:00,University Fees,TKREC Semester Lab & Cloud Resources,9077.13,Credit_Card,0
+TXN_PRANAVI_0574,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-12 09:18:00,Higher Education,Coursera / edX MasterTrack Certifications,12324.75,UPI_HDFC_Pay,0
+TXN_PRANAVI_0575,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-12 12:57:00,Workstation Gear,Croma Electronics Campus Store,19836.47,UPI_HDFC_Pay,0
+TXN_PRANAVI_0576,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-12 18:26:00,University Fees,TKREC Semester Lab & Cloud Resources,11039.76,Debit_Card,0
+TXN_PRANAVI_0577,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-12 22:59:00,Electronics,Samsung SmartCafé Hyderabad,5308.09,UPI_HDFC_Pay,0
+TXN_PRANAVI_0578,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-12 23:29:00,Electronics,Samsung SmartCafé Hyderabad,8578.38,Credit_Card,0
+TXN_PRANAVI_0579,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-13 01:33:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11231.29,UPI_HDFC_Pay,0
+TXN_PRANAVI_0580,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-13 03:57:00,Project Supplies,Amazon Project Lab Equipment & Kits,15780.67,Credit_Card,0
+TXN_PRANAVI_0581,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-13 09:13:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7752.77,UPI_HDFC_Pay,0
+TXN_PRANAVI_0582,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-13 12:11:00,Academic Research,IEEE / ACM Research Conference Fee,15154.42,Debit_Card,0
+TXN_PRANAVI_0583,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-13 15:04:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9090.25,Debit_Card,0
+TXN_PRANAVI_0584,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-13 17:25:00,Electronics,Samsung SmartCafé Hyderabad,15952.6,Debit_Card,0
+TXN_PRANAVI_0585,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-13 18:05:00,Workstation Gear,Croma Electronics Campus Store,10533.37,UPI_HDFC_Pay,0
+TXN_PRANAVI_0586,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-13 19:11:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10855.97,Debit_Card,0
+TXN_PRANAVI_0587,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-13 23:09:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,25650.3,Credit_Card,0
+TXN_PRANAVI_0588,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-14 05:48:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,16738.5,UPI_HDFC_Pay,0
+TXN_PRANAVI_0589,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-14 07:40:00,Workstation Gear,Croma Electronics Campus Store,18754.24,Credit_Card,0
+TXN_PRANAVI_0590,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-14 12:52:00,Project Supplies,Amazon Project Lab Equipment & Kits,7163.38,UPI_HDFC_Pay,0
+TXN_PRANAVI_0591,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-14 13:49:00,Workstation Gear,Croma Electronics Campus Store,17405.88,UPI_HDFC_Pay,0
+TXN_PRANAVI_0592,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-14 13:53:00,Electronics,Samsung SmartCafé Hyderabad,10524.2,Credit_Card,0
+TXN_PRANAVI_0593,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-14 14:38:00,Electronics,Samsung SmartCafé Hyderabad,9236.52,UPI_HDFC_Pay,0
+TXN_PRANAVI_0594,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-14 16:32:00,University Fees,TKREC Semester Lab & Cloud Resources,6091.06,Credit_Card,0
+TXN_PRANAVI_0595,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-14 20:45:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10219.26,UPI_HDFC_Pay,0
+TXN_PRANAVI_0596,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-14 22:03:00,Project Supplies,Amazon Project Lab Equipment & Kits,9224.66,Debit_Card,0
+TXN_PRANAVI_0597,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-14 23:49:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,20538.09,NetBanking,0
+TXN_PRANAVI_0598,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-15 08:40:00,Electronics,Samsung SmartCafé Hyderabad,9550.53,Debit_Card,0
+TXN_PRANAVI_0599,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-15 09:34:00,Academic Research,IEEE / ACM Research Conference Fee,27000.17,UPI_HDFC_Pay,0
+TXN_PRANAVI_0600,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-15 09:45:00,Electronics,Samsung SmartCafé Hyderabad,5810.5,UPI_HDFC_Pay,0
+TXN_PRANAVI_0601,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-15 11:18:00,Academic Research,IEEE / ACM Research Conference Fee,15732.97,Credit_Card,0
+TXN_PRANAVI_0602,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-15 11:29:00,Project Supplies,Amazon Project Lab Equipment & Kits,17528.33,UPI_HDFC_Pay,0
+TXN_PRANAVI_0603,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-15 12:35:00,University Fees,TKREC Semester Lab & Cloud Resources,6280.12,UPI_HDFC_Pay,0
+TXN_PRANAVI_0604,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-15 15:52:00,Workstation Gear,Croma Electronics Campus Store,9720.38,Credit_Card,0
+TXN_PRANAVI_0605,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-15 19:15:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,14376.33,Credit_Card,0
+TXN_PRANAVI_0606,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-15 20:48:00,Project Supplies,Amazon Project Lab Equipment & Kits,5364.64,NetBanking,0
+TXN_PRANAVI_0607,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-15 23:32:00,Project Supplies,Amazon Project Lab Equipment & Kits,11730.97,UPI_HDFC_Pay,0
+TXN_PRANAVI_0608,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-16 00:25:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10137.41,UPI_HDFC_Pay,0
+TXN_PRANAVI_0609,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-16 01:09:00,University Fees,TKREC Semester Lab & Cloud Resources,7349.39,UPI_HDFC_Pay,0
+TXN_PRANAVI_0610,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-16 04:37:00,Workstation Gear,Croma Electronics Campus Store,10802.18,NetBanking,0
+TXN_PRANAVI_0611,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-16 06:15:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,11229.6,Debit_Card,0
+TXN_PRANAVI_0612,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-16 07:40:00,Academic Research,IEEE / ACM Research Conference Fee,6795.79,Debit_Card,0
+TXN_PRANAVI_0613,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-16 09:51:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,17818.9,NetBanking,0
+TXN_PRANAVI_0614,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-16 15:12:00,University Fees,TKREC Semester Lab & Cloud Resources,10098.76,Credit_Card,0
+TXN_PRANAVI_0615,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-16 16:55:00,Electronics,Samsung SmartCafé Hyderabad,12097.31,Credit_Card,0
+TXN_PRANAVI_0616,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-16 22:47:00,Academic Research,IEEE / ACM Research Conference Fee,11646.72,UPI_HDFC_Pay,0
+TXN_PRANAVI_0617,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-17 06:20:00,Academic Research,IEEE / ACM Research Conference Fee,21388.07,Credit_Card,0
+TXN_PRANAVI_0618,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-17 07:29:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,134467.09,Credit_Card,1
+TXN_PRANAVI_0619,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-17 08:13:00,Electronics,Samsung SmartCafé Hyderabad,14786.83,Credit_Card,0
+TXN_PRANAVI_0620,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-17 09:03:00,Workstation Gear,Croma Electronics Campus Store,14828.79,NetBanking,0
+TXN_PRANAVI_0621,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-17 11:26:00,Higher Education,Coursera / edX MasterTrack Certifications,10685.39,NetBanking,0
+TXN_PRANAVI_0622,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-17 17:15:00,Academic Research,IEEE / ACM Research Conference Fee,5596.3,Debit_Card,0
+TXN_PRANAVI_0623,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-17 20:18:00,Academic Research,IEEE / ACM Research Conference Fee,13982.73,Debit_Card,0
+TXN_PRANAVI_0624,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-17 22:42:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11403.59,Credit_Card,0
+TXN_PRANAVI_0625,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-17 23:28:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,9532.07,UPI_HDFC_Pay,0
+TXN_PRANAVI_0626,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-17 23:51:00,Workstation Gear,Croma Electronics Campus Store,9765.0,UPI_HDFC_Pay,0
+TXN_PRANAVI_0627,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-18 04:21:00,Electronics,Samsung SmartCafé Hyderabad,12794.84,Credit_Card,0
+TXN_PRANAVI_0628,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-18 08:56:00,Higher Education,Coursera / edX MasterTrack Certifications,9554.56,Credit_Card,0
+TXN_PRANAVI_0629,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-18 11:21:00,Academic Research,IEEE / ACM Research Conference Fee,7938.18,UPI_HDFC_Pay,0
+TXN_PRANAVI_0630,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-18 17:55:00,University Fees,TKREC Semester Lab & Cloud Resources,6580.18,NetBanking,0
+TXN_PRANAVI_0631,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-18 18:11:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,12818.28,UPI_HDFC_Pay,0
+TXN_PRANAVI_0632,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-18 18:17:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,14477.76,UPI_HDFC_Pay,0
+TXN_PRANAVI_0633,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-18 23:31:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,189102.1,Credit_Card,1
+TXN_PRANAVI_0634,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-18 23:41:00,Project Supplies,Amazon Project Lab Equipment & Kits,5680.43,UPI_HDFC_Pay,0
+TXN_PRANAVI_0635,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-19 00:12:00,University Fees,TKREC Semester Lab & Cloud Resources,12059.3,UPI_HDFC_Pay,0
+TXN_PRANAVI_0636,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-19 05:19:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,15889.95,UPI_HDFC_Pay,0
+TXN_PRANAVI_0637,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-19 07:38:00,University Fees,TKREC Semester Lab & Cloud Resources,8609.25,Debit_Card,0
+TXN_PRANAVI_0638,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-19 08:48:00,Workstation Gear,Croma Electronics Campus Store,6136.06,Credit_Card,0
+TXN_PRANAVI_0639,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-19 11:15:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9976.68,Credit_Card,0
+TXN_PRANAVI_0640,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-19 11:31:00,Academic Research,IEEE / ACM Research Conference Fee,13468.41,Credit_Card,0
+TXN_PRANAVI_0641,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-19 16:11:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,13041.08,UPI_HDFC_Pay,0
+TXN_PRANAVI_0642,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-19 21:05:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,5703.23,NetBanking,0
+TXN_PRANAVI_0643,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-19 21:30:00,Higher Education,Coursera / edX MasterTrack Certifications,13549.6,UPI_HDFC_Pay,0
+TXN_PRANAVI_0644,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-19 22:04:00,Academic Research,IEEE / ACM Research Conference Fee,11948.4,NetBanking,0
+TXN_PRANAVI_0645,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 01:04:00,Project Supplies,Amazon Project Lab Equipment & Kits,11354.61,Credit_Card,0
+TXN_PRANAVI_0646,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 02:23:00,Higher Education,Coursera / edX MasterTrack Certifications,13344.67,NetBanking,0
+TXN_PRANAVI_0647,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 07:23:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,11249.08,UPI_HDFC_Pay,0
+TXN_PRANAVI_0648,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 09:24:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7451.53,Credit_Card,0
+TXN_PRANAVI_0649,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 10:38:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,15818.86,UPI_HDFC_Pay,0
+TXN_PRANAVI_0650,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 10:45:00,University Fees,TKREC Semester Lab & Cloud Resources,20812.91,UPI_HDFC_Pay,0
+TXN_PRANAVI_0651,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 13:02:00,Project Supplies,Amazon Project Lab Equipment & Kits,12956.56,Credit_Card,0
+TXN_PRANAVI_0652,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 13:54:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,143909.84,UPI_HDFC_Pay,1
+TXN_PRANAVI_0653,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 13:55:00,Electronics,Samsung SmartCafé Hyderabad,14530.75,Credit_Card,0
+TXN_PRANAVI_0654,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 14:08:00,Electronics,Samsung SmartCafé Hyderabad,6547.6,UPI_HDFC_Pay,0
+TXN_PRANAVI_0655,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 14:16:00,Project Supplies,Amazon Project Lab Equipment & Kits,9159.82,UPI_HDFC_Pay,0
+TXN_PRANAVI_0656,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 18:47:00,Project Supplies,Amazon Project Lab Equipment & Kits,12477.33,Debit_Card,0
+TXN_PRANAVI_0657,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-20 22:34:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7987.3,Credit_Card,0
+TXN_PRANAVI_0658,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-21 01:30:00,Higher Education,Coursera / edX MasterTrack Certifications,12866.44,Credit_Card,0
+TXN_PRANAVI_0659,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-21 01:52:00,Academic Research,IEEE / ACM Research Conference Fee,8495.26,Credit_Card,0
+TXN_PRANAVI_0660,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-21 11:26:00,University Fees,TKREC Semester Lab & Cloud Resources,19437.27,Debit_Card,0
+TXN_PRANAVI_0661,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-21 12:13:00,University Fees,TKREC Semester Lab & Cloud Resources,11640.18,UPI_HDFC_Pay,0
+TXN_PRANAVI_0662,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-21 14:46:00,Project Supplies,Amazon Project Lab Equipment & Kits,14283.31,Credit_Card,0
+TXN_PRANAVI_0663,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-21 15:53:00,Academic Research,IEEE / ACM Research Conference Fee,4878.32,NetBanking,0
+TXN_PRANAVI_0664,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-21 18:23:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,16234.45,Credit_Card,0
+TXN_PRANAVI_0665,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-21 20:26:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,5877.97,Credit_Card,0
+TXN_PRANAVI_0666,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-21 23:48:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11312.71,Credit_Card,0
+TXN_PRANAVI_0667,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-22 00:40:00,Project Supplies,Amazon Project Lab Equipment & Kits,9405.45,Credit_Card,0
+TXN_PRANAVI_0668,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-22 01:57:00,Electronics,Samsung SmartCafé Hyderabad,14887.15,Credit_Card,0
+TXN_PRANAVI_0669,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-22 11:26:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,14054.21,UPI_HDFC_Pay,0
+TXN_PRANAVI_0670,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-22 12:39:00,Project Supplies,Amazon Project Lab Equipment & Kits,33737.77,UPI_HDFC_Pay,0
+TXN_PRANAVI_0671,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-22 13:36:00,Academic Research,IEEE / ACM Research Conference Fee,10306.91,Debit_Card,0
+TXN_PRANAVI_0672,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-22 17:48:00,Academic Research,IEEE / ACM Research Conference Fee,16433.76,UPI_HDFC_Pay,0
+TXN_PRANAVI_0673,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-22 19:21:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,13250.52,Credit_Card,0
+TXN_PRANAVI_0674,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-22 21:37:00,Electronics,Samsung SmartCafé Hyderabad,6395.09,UPI_HDFC_Pay,0
+TXN_PRANAVI_0675,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-23 11:38:00,Electronics,Samsung SmartCafé Hyderabad,3737.72,Credit_Card,0
+TXN_PRANAVI_0676,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-23 14:45:00,Higher Education,Coursera / edX MasterTrack Certifications,12131.47,UPI_HDFC_Pay,0
+TXN_PRANAVI_0677,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-23 15:25:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,17249.87,UPI_HDFC_Pay,0
+TXN_PRANAVI_0678,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-23 18:28:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,15230.39,NetBanking,0
+TXN_PRANAVI_0679,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-23 19:05:00,Higher Education,Coursera / edX MasterTrack Certifications,5286.93,Debit_Card,0
+TXN_PRANAVI_0680,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-24 01:46:00,Higher Education,Coursera / edX MasterTrack Certifications,12762.34,Credit_Card,0
+TXN_PRANAVI_0681,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-24 04:36:00,Project Supplies,Amazon Project Lab Equipment & Kits,14911.67,Credit_Card,0
+TXN_PRANAVI_0682,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-24 04:42:00,Electronics,Samsung SmartCafé Hyderabad,3810.38,Credit_Card,0
+TXN_PRANAVI_0683,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-24 05:05:00,Workstation Gear,Croma Electronics Campus Store,7068.17,Credit_Card,0
+TXN_PRANAVI_0684,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-24 09:01:00,University Fees,TKREC Semester Lab & Cloud Resources,7072.39,Credit_Card,0
+TXN_PRANAVI_0685,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-24 09:29:00,Project Supplies,Amazon Project Lab Equipment & Kits,18607.07,UPI_HDFC_Pay,0
+TXN_PRANAVI_0686,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-24 16:16:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,15750.59,Credit_Card,0
+TXN_PRANAVI_0687,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-24 17:48:00,Workstation Gear,Croma Electronics Campus Store,18426.15,Debit_Card,0
+TXN_PRANAVI_0688,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-24 19:24:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7390.2,NetBanking,0
+TXN_PRANAVI_0689,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-25 03:50:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,20600.85,UPI_HDFC_Pay,0
+TXN_PRANAVI_0690,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-25 04:12:00,Higher Education,Coursera / edX MasterTrack Certifications,5418.41,Credit_Card,0
+TXN_PRANAVI_0691,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-25 04:46:00,Higher Education,Coursera / edX MasterTrack Certifications,7873.15,Credit_Card,0
+TXN_PRANAVI_0692,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-25 05:28:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,13897.38,Credit_Card,0
+TXN_PRANAVI_0693,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-25 06:34:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,5726.41,UPI_HDFC_Pay,0
+TXN_PRANAVI_0694,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-25 21:06:00,Project Supplies,Amazon Project Lab Equipment & Kits,15568.93,Credit_Card,0
+TXN_PRANAVI_0695,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-26 01:31:00,Academic Research,IEEE / ACM Research Conference Fee,25801.3,UPI_HDFC_Pay,0
+TXN_PRANAVI_0696,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-26 08:26:00,Higher Education,Coursera / edX MasterTrack Certifications,38000.0,UPI_HDFC_Pay,0
+TXN_PRANAVI_0697,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-26 12:46:00,Workstation Gear,Croma Electronics Campus Store,17578.22,Credit_Card,0
+TXN_PRANAVI_0698,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-26 16:18:00,Higher Education,Coursera / edX MasterTrack Certifications,16951.7,Credit_Card,0
+TXN_PRANAVI_0699,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-26 17:44:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,14760.18,Credit_Card,0
+TXN_PRANAVI_0700,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-27 04:18:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,13320.59,NetBanking,0
+TXN_PRANAVI_0701,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-27 10:03:00,Academic Research,IEEE / ACM Research Conference Fee,6466.38,UPI_HDFC_Pay,0
+TXN_PRANAVI_0702,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-27 11:37:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,6678.65,UPI_HDFC_Pay,0
+TXN_PRANAVI_0703,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-27 14:22:00,Higher Education,Coursera / edX MasterTrack Certifications,13524.59,Credit_Card,0
+TXN_PRANAVI_0704,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-27 20:17:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,22545.41,UPI_HDFC_Pay,0
+TXN_PRANAVI_0705,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-27 22:26:00,Electronics,Samsung SmartCafé Hyderabad,13504.21,UPI_HDFC_Pay,0
+TXN_PRANAVI_0706,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 01:28:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,8914.3,UPI_HDFC_Pay,0
+TXN_PRANAVI_0707,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 02:07:00,Workstation Gear,Croma Electronics Campus Store,5898.73,UPI_HDFC_Pay,0
+TXN_PRANAVI_0708,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 02:16:00,University Fees,TKREC Semester Lab & Cloud Resources,9605.08,Debit_Card,0
+TXN_PRANAVI_0709,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 04:04:00,University Fees,TKREC Semester Lab & Cloud Resources,23958.39,UPI_HDFC_Pay,0
+TXN_PRANAVI_0710,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 04:19:00,Electronics,Samsung SmartCafé Hyderabad,11347.73,Credit_Card,0
+TXN_PRANAVI_0711,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 05:07:00,Workstation Gear,Croma Electronics Campus Store,4516.97,UPI_HDFC_Pay,0
+TXN_PRANAVI_0712,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 08:25:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,17690.87,Credit_Card,0
+TXN_PRANAVI_0713,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 16:30:00,Electronics,Samsung SmartCafé Hyderabad,6979.98,UPI_HDFC_Pay,0
+TXN_PRANAVI_0714,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 19:22:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7294.82,Credit_Card,0
+TXN_PRANAVI_0715,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 20:52:00,Workstation Gear,Croma Electronics Campus Store,14869.97,Credit_Card,0
+TXN_PRANAVI_0716,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-28 22:24:00,Higher Education,Coursera / edX MasterTrack Certifications,6287.37,UPI_HDFC_Pay,0
+TXN_PRANAVI_0717,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-29 00:15:00,University Fees,TKREC Semester Lab & Cloud Resources,11490.7,Credit_Card,0
+TXN_PRANAVI_0718,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-29 01:27:00,Project Supplies,Amazon Project Lab Equipment & Kits,8529.61,UPI_HDFC_Pay,0
+TXN_PRANAVI_0719,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-29 07:41:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,5887.63,Credit_Card,0
+TXN_PRANAVI_0720,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-29 09:27:00,Project Supplies,Amazon Project Lab Equipment & Kits,17806.68,UPI_HDFC_Pay,0
+TXN_PRANAVI_0721,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-29 10:33:00,Electronics,Samsung SmartCafé Hyderabad,8303.77,NetBanking,0
+TXN_PRANAVI_0722,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-29 12:57:00,University Fees,TKREC Semester Lab & Cloud Resources,16505.21,UPI_HDFC_Pay,0
+TXN_PRANAVI_0723,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-30 00:47:00,Academic Research,IEEE / ACM Research Conference Fee,10451.73,Credit_Card,0
+TXN_PRANAVI_0724,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-30 03:51:00,Academic Research,IEEE / ACM Research Conference Fee,8863.7,UPI_HDFC_Pay,0
+TXN_PRANAVI_0725,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-30 04:09:00,Workstation Gear,Croma Electronics Campus Store,6782.53,UPI_HDFC_Pay,0
+TXN_PRANAVI_0726,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-30 07:45:00,Project Supplies,Amazon Project Lab Equipment & Kits,13888.36,Credit_Card,0
+TXN_PRANAVI_0727,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-30 11:43:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,7444.43,NetBanking,0
+TXN_PRANAVI_0728,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-30 20:34:00,Electronics,Samsung SmartCafé Hyderabad,7465.12,UPI_HDFC_Pay,0
+TXN_PRANAVI_0729,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-30 23:25:00,University Fees,TKREC Semester Lab & Cloud Resources,6387.56,UPI_HDFC_Pay,0
+TXN_PRANAVI_0730,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-31 05:48:00,Academic Research,IEEE / ACM Research Conference Fee,11528.06,UPI_HDFC_Pay,0
+TXN_PRANAVI_0731,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-31 05:50:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,16218.1,UPI_HDFC_Pay,0
+TXN_PRANAVI_0732,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-31 06:22:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,17236.85,UPI_HDFC_Pay,0
+TXN_PRANAVI_0733,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-31 15:47:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7879.53,Credit_Card,0
+TXN_PRANAVI_0734,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-31 16:28:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,8447.54,UPI_HDFC_Pay,0
+TXN_PRANAVI_0735,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-31 16:51:00,Workstation Gear,Croma Electronics Campus Store,12173.93,UPI_HDFC_Pay,0
+TXN_PRANAVI_0736,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-31 22:54:00,Workstation Gear,Croma Electronics Campus Store,11488.76,Credit_Card,0
+TXN_PRANAVI_0737,cust_pranavi,M. Pranavi,23R91A05H6,2026-08-31 22:58:00,University Fees,TKREC Semester Lab & Cloud Resources,10774.94,UPI_HDFC_Pay,0
+TXN_PRANAVI_0738,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-01 01:15:00,Workstation Gear,Croma Electronics Campus Store,12064.12,UPI_HDFC_Pay,0
+TXN_PRANAVI_0739,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-01 02:58:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,6465.11,UPI_HDFC_Pay,0
+TXN_PRANAVI_0740,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-01 06:36:00,University Fees,TKREC Semester Lab & Cloud Resources,15811.42,Credit_Card,0
+TXN_PRANAVI_0741,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-01 09:51:00,Electronics,Samsung SmartCafé Hyderabad,18393.69,UPI_HDFC_Pay,0
+TXN_PRANAVI_0742,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-01 11:31:00,Workstation Gear,Croma Electronics Campus Store,17081.37,Credit_Card,0
+TXN_PRANAVI_0743,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-01 18:43:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,17109.99,UPI_HDFC_Pay,0
+TXN_PRANAVI_0744,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-01 22:40:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12506.8,Credit_Card,0
+TXN_PRANAVI_0745,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-02 01:43:00,University Fees,TKREC Semester Lab & Cloud Resources,10195.87,UPI_HDFC_Pay,0
+TXN_PRANAVI_0746,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-02 02:51:00,University Fees,TKREC Semester Lab & Cloud Resources,12534.66,Credit_Card,0
+TXN_PRANAVI_0747,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-02 03:15:00,Academic Research,IEEE / ACM Research Conference Fee,10134.05,Debit_Card,0
+TXN_PRANAVI_0748,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-02 11:07:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10957.06,Credit_Card,0
+TXN_PRANAVI_0749,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-02 12:08:00,Project Supplies,Amazon Project Lab Equipment & Kits,10656.2,UPI_HDFC_Pay,0
+TXN_PRANAVI_0750,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-02 20:16:00,Electronics,Samsung SmartCafé Hyderabad,13752.06,UPI_HDFC_Pay,0
+TXN_PRANAVI_0751,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 00:34:00,Workstation Gear,Croma Electronics Campus Store,11049.14,UPI_HDFC_Pay,0
+TXN_PRANAVI_0752,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 02:19:00,Project Supplies,Amazon Project Lab Equipment & Kits,10371.03,UPI_HDFC_Pay,0
+TXN_PRANAVI_0753,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 03:36:00,Project Supplies,Amazon Project Lab Equipment & Kits,5685.67,UPI_HDFC_Pay,0
+TXN_PRANAVI_0754,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 06:25:00,Workstation Gear,Croma Electronics Campus Store,9280.01,Debit_Card,0
+TXN_PRANAVI_0755,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 06:49:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,182259.91,UPI_HDFC_Pay,1
+TXN_PRANAVI_0756,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 08:42:00,Academic Research,IEEE / ACM Research Conference Fee,6485.02,Credit_Card,0
+TXN_PRANAVI_0757,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 13:36:00,Higher Education,Coursera / edX MasterTrack Certifications,14908.36,Credit_Card,0
+TXN_PRANAVI_0758,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 15:29:00,Higher Education,Coursera / edX MasterTrack Certifications,12976.0,Credit_Card,0
+TXN_PRANAVI_0759,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 16:13:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,14165.09,UPI_HDFC_Pay,0
+TXN_PRANAVI_0760,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 20:33:00,Electronics,Samsung SmartCafé Hyderabad,7594.65,Debit_Card,0
+TXN_PRANAVI_0761,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-03 23:26:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,7868.59,UPI_HDFC_Pay,0
+TXN_PRANAVI_0762,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-04 02:48:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,21988.84,Credit_Card,0
+TXN_PRANAVI_0763,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-04 04:30:00,Higher Education,Coursera / edX MasterTrack Certifications,16962.82,Debit_Card,0
+TXN_PRANAVI_0764,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-04 05:42:00,Workstation Gear,Croma Electronics Campus Store,13764.77,Credit_Card,0
+TXN_PRANAVI_0765,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-04 12:18:00,Electronics,Samsung SmartCafé Hyderabad,13605.66,Credit_Card,0
+TXN_PRANAVI_0766,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-04 19:10:00,Electronics,Samsung SmartCafé Hyderabad,20234.59,UPI_HDFC_Pay,0
+TXN_PRANAVI_0767,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-04 20:46:00,Electronics,Samsung SmartCafé Hyderabad,14856.05,UPI_HDFC_Pay,0
+TXN_PRANAVI_0768,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-04 22:52:00,University Fees,TKREC Semester Lab & Cloud Resources,14868.47,Credit_Card,0
+TXN_PRANAVI_0769,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-04 23:10:00,Higher Education,Coursera / edX MasterTrack Certifications,10219.86,UPI_HDFC_Pay,0
+TXN_PRANAVI_0770,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-05 01:35:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,15683.19,Debit_Card,0
+TXN_PRANAVI_0771,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-05 04:54:00,Workstation Gear,Croma Electronics Campus Store,9964.17,UPI_HDFC_Pay,0
+TXN_PRANAVI_0772,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-05 20:24:00,Academic Research,IEEE / ACM Research Conference Fee,6360.01,UPI_HDFC_Pay,0
+TXN_PRANAVI_0773,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-05 21:51:00,Electronics,Samsung SmartCafé Hyderabad,14928.48,UPI_HDFC_Pay,0
+TXN_PRANAVI_0774,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-05 23:17:00,Academic Research,IEEE / ACM Research Conference Fee,13989.97,UPI_HDFC_Pay,0
+TXN_PRANAVI_0775,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-06 01:56:00,Higher Education,Coursera / edX MasterTrack Certifications,12056.8,Credit_Card,0
+TXN_PRANAVI_0776,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-06 02:06:00,Academic Research,IEEE / ACM Research Conference Fee,9484.41,Credit_Card,0
+TXN_PRANAVI_0777,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-06 02:58:00,Higher Education,Coursera / edX MasterTrack Certifications,10948.17,Credit_Card,0
+TXN_PRANAVI_0778,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-06 05:46:00,Higher Education,Coursera / edX MasterTrack Certifications,15570.47,Debit_Card,0
+TXN_PRANAVI_0779,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-06 05:59:00,Workstation Gear,Croma Electronics Campus Store,11081.75,Debit_Card,0
+TXN_PRANAVI_0780,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-06 14:05:00,University Fees,TKREC Semester Lab & Cloud Resources,6583.14,Debit_Card,0
+TXN_PRANAVI_0781,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-06 15:14:00,Project Supplies,Amazon Project Lab Equipment & Kits,15702.04,UPI_HDFC_Pay,0
+TXN_PRANAVI_0782,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-06 17:47:00,Higher Education,Coursera / edX MasterTrack Certifications,14015.73,Credit_Card,0
+TXN_PRANAVI_0783,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-06 19:53:00,Higher Education,Coursera / edX MasterTrack Certifications,7213.28,UPI_HDFC_Pay,0
+TXN_PRANAVI_0784,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-07 03:45:00,Academic Research,IEEE / ACM Research Conference Fee,9709.41,UPI_HDFC_Pay,0
+TXN_PRANAVI_0785,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-07 14:38:00,Workstation Gear,Croma Electronics Campus Store,8628.8,Credit_Card,0
+TXN_PRANAVI_0786,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-07 19:01:00,Higher Education,Coursera / edX MasterTrack Certifications,4533.2,UPI_HDFC_Pay,0
+TXN_PRANAVI_0787,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-08 04:52:00,Electronics,Samsung SmartCafé Hyderabad,13957.75,UPI_HDFC_Pay,0
+TXN_PRANAVI_0788,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-08 06:31:00,Electronics,Samsung SmartCafé Hyderabad,14052.16,UPI_HDFC_Pay,0
+TXN_PRANAVI_0789,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-08 07:49:00,University Fees,TKREC Semester Lab & Cloud Resources,10025.82,UPI_HDFC_Pay,0
+TXN_PRANAVI_0790,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-08 13:27:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,15021.04,NetBanking,0
+TXN_PRANAVI_0791,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-08 20:30:00,Project Supplies,Amazon Project Lab Equipment & Kits,11201.42,UPI_HDFC_Pay,0
+TXN_PRANAVI_0792,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-08 22:46:00,University Fees,TKREC Semester Lab & Cloud Resources,12011.13,UPI_HDFC_Pay,0
+TXN_PRANAVI_0793,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-08 23:51:00,Project Supplies,Amazon Project Lab Equipment & Kits,38000.0,Credit_Card,0
+TXN_PRANAVI_0794,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 00:05:00,Workstation Gear,Croma Electronics Campus Store,12009.14,UPI_HDFC_Pay,0
+TXN_PRANAVI_0795,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 01:35:00,Higher Education,Coursera / edX MasterTrack Certifications,11957.99,NetBanking,0
+TXN_PRANAVI_0796,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 05:55:00,Project Supplies,Amazon Project Lab Equipment & Kits,13614.97,UPI_HDFC_Pay,0
+TXN_PRANAVI_0797,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 08:48:00,Academic Research,IEEE / ACM Research Conference Fee,7562.22,Credit_Card,0
+TXN_PRANAVI_0798,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 12:01:00,University Fees,TKREC Semester Lab & Cloud Resources,11696.96,Credit_Card,0
+TXN_PRANAVI_0799,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 12:02:00,University Fees,TKREC Semester Lab & Cloud Resources,23219.52,NetBanking,0
+TXN_PRANAVI_0800,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 13:17:00,Academic Research,IEEE / ACM Research Conference Fee,8283.13,Credit_Card,0
+TXN_PRANAVI_0801,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 13:28:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,6577.62,Debit_Card,0
+TXN_PRANAVI_0802,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 20:02:00,Higher Education,Coursera / edX MasterTrack Certifications,6152.4,UPI_HDFC_Pay,0
+TXN_PRANAVI_0803,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 21:56:00,Higher Education,Coursera / edX MasterTrack Certifications,14356.25,UPI_HDFC_Pay,0
+TXN_PRANAVI_0804,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-09 23:44:00,Higher Education,Coursera / edX MasterTrack Certifications,17136.76,UPI_HDFC_Pay,0
+TXN_PRANAVI_0805,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-10 00:17:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,26826.51,Debit_Card,0
+TXN_PRANAVI_0806,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-10 07:34:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,17607.66,UPI_HDFC_Pay,0
+TXN_PRANAVI_0807,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-10 09:24:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,17382.03,UPI_HDFC_Pay,0
+TXN_PRANAVI_0808,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-10 11:08:00,Electronics,Samsung SmartCafé Hyderabad,12806.2,UPI_HDFC_Pay,0
+TXN_PRANAVI_0809,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-10 13:06:00,Electronics,Samsung SmartCafé Hyderabad,16451.85,UPI_HDFC_Pay,0
+TXN_PRANAVI_0810,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-10 13:54:00,Electronics,Samsung SmartCafé Hyderabad,9691.39,UPI_HDFC_Pay,0
+TXN_PRANAVI_0811,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-10 16:40:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,8009.9,NetBanking,0
+TXN_PRANAVI_0812,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-10 18:09:00,Higher Education,Coursera / edX MasterTrack Certifications,16003.29,Credit_Card,0
+TXN_PRANAVI_0813,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-10 18:50:00,Higher Education,Coursera / edX MasterTrack Certifications,10111.81,Credit_Card,0
+TXN_PRANAVI_0814,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-10 20:06:00,Higher Education,Coursera / edX MasterTrack Certifications,10946.84,Credit_Card,0
+TXN_PRANAVI_0815,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 02:34:00,Workstation Gear,Croma Electronics Campus Store,8092.58,UPI_HDFC_Pay,0
+TXN_PRANAVI_0816,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 02:52:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,12554.91,UPI_HDFC_Pay,0
+TXN_PRANAVI_0817,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 05:26:00,University Fees,TKREC Semester Lab & Cloud Resources,23356.27,UPI_HDFC_Pay,0
+TXN_PRANAVI_0818,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 07:23:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,4646.91,UPI_HDFC_Pay,0
+TXN_PRANAVI_0819,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 07:41:00,Project Supplies,Amazon Project Lab Equipment & Kits,10316.65,Credit_Card,0
+TXN_PRANAVI_0820,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 10:14:00,University Fees,TKREC Semester Lab & Cloud Resources,7974.34,UPI_HDFC_Pay,0
+TXN_PRANAVI_0821,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 13:31:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,10865.19,UPI_HDFC_Pay,0
+TXN_PRANAVI_0822,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 14:53:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9938.83,Credit_Card,0
+TXN_PRANAVI_0823,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 15:18:00,Higher Education,Coursera / edX MasterTrack Certifications,16565.75,NetBanking,0
+TXN_PRANAVI_0824,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 15:57:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,8648.89,Debit_Card,0
+TXN_PRANAVI_0825,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 17:35:00,University Fees,TKREC Semester Lab & Cloud Resources,12194.49,Debit_Card,0
+TXN_PRANAVI_0826,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-11 20:43:00,University Fees,TKREC Semester Lab & Cloud Resources,7096.05,Debit_Card,0
+TXN_PRANAVI_0827,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-12 02:56:00,Electronics,Samsung SmartCafé Hyderabad,8356.03,UPI_HDFC_Pay,0
+TXN_PRANAVI_0828,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-12 04:40:00,Academic Research,IEEE / ACM Research Conference Fee,8655.99,Debit_Card,0
+TXN_PRANAVI_0829,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-12 06:37:00,Higher Education,Coursera / edX MasterTrack Certifications,4418.97,UPI_HDFC_Pay,0
+TXN_PRANAVI_0830,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-12 06:48:00,Academic Research,IEEE / ACM Research Conference Fee,10221.4,Credit_Card,0
+TXN_PRANAVI_0831,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-12 17:54:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,27072.05,Credit_Card,0
+TXN_PRANAVI_0832,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-13 00:28:00,Electronics,Samsung SmartCafé Hyderabad,8198.01,UPI_HDFC_Pay,0
+TXN_PRANAVI_0833,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-13 03:22:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,11549.97,Debit_Card,0
+TXN_PRANAVI_0834,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-13 04:44:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,15297.96,NetBanking,0
+TXN_PRANAVI_0835,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-13 05:54:00,Workstation Gear,Croma Electronics Campus Store,14502.99,UPI_HDFC_Pay,0
+TXN_PRANAVI_0836,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-13 11:09:00,Higher Education,Coursera / edX MasterTrack Certifications,20118.91,Debit_Card,0
+TXN_PRANAVI_0837,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-13 18:18:00,Higher Education,Coursera / edX MasterTrack Certifications,14959.76,UPI_HDFC_Pay,0
+TXN_PRANAVI_0838,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-13 19:23:00,Higher Education,Coursera / edX MasterTrack Certifications,12958.68,Credit_Card,0
+TXN_PRANAVI_0839,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-13 21:20:00,Project Supplies,Amazon Project Lab Equipment & Kits,12228.92,Credit_Card,0
+TXN_PRANAVI_0840,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-14 04:06:00,University Fees,TKREC Semester Lab & Cloud Resources,12089.19,Credit_Card,0
+TXN_PRANAVI_0841,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-14 05:44:00,Academic Research,IEEE / ACM Research Conference Fee,16570.02,NetBanking,0
+TXN_PRANAVI_0842,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-14 14:11:00,Electronics,Samsung SmartCafé Hyderabad,7369.54,Debit_Card,0
+TXN_PRANAVI_0843,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-14 15:01:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,16513.9,Debit_Card,0
+TXN_PRANAVI_0844,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-14 22:57:00,Academic Research,IEEE / ACM Research Conference Fee,9550.86,UPI_HDFC_Pay,0
+TXN_PRANAVI_0845,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-15 03:29:00,Workstation Gear,Croma Electronics Campus Store,6183.64,NetBanking,0
+TXN_PRANAVI_0846,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-15 11:28:00,Academic Research,IEEE / ACM Research Conference Fee,12250.86,UPI_HDFC_Pay,0
+TXN_PRANAVI_0847,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-15 12:42:00,Higher Education,Coursera / edX MasterTrack Certifications,9124.14,Debit_Card,0
+TXN_PRANAVI_0848,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-15 16:59:00,University Fees,TKREC Semester Lab & Cloud Resources,8465.12,UPI_HDFC_Pay,0
+TXN_PRANAVI_0849,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-15 19:59:00,Workstation Gear,Croma Electronics Campus Store,15976.92,UPI_HDFC_Pay,0
+TXN_PRANAVI_0850,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-15 22:23:00,Project Supplies,Amazon Project Lab Equipment & Kits,6141.09,Credit_Card,0
+TXN_PRANAVI_0851,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-16 05:26:00,Project Supplies,Amazon Project Lab Equipment & Kits,17749.73,UPI_HDFC_Pay,0
+TXN_PRANAVI_0852,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-16 06:07:00,University Fees,TKREC Semester Lab & Cloud Resources,13555.49,UPI_HDFC_Pay,0
+TXN_PRANAVI_0853,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-16 08:24:00,Project Supplies,Amazon Project Lab Equipment & Kits,6284.25,UPI_HDFC_Pay,0
+TXN_PRANAVI_0854,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-16 13:56:00,University Fees,TKREC Semester Lab & Cloud Resources,15052.57,UPI_HDFC_Pay,0
+TXN_PRANAVI_0855,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-16 20:37:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,15352.13,UPI_HDFC_Pay,0
+TXN_PRANAVI_0856,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-16 23:39:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7305.68,UPI_HDFC_Pay,0
+TXN_PRANAVI_0857,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-17 01:19:00,University Fees,TKREC Semester Lab & Cloud Resources,4893.67,Credit_Card,0
+TXN_PRANAVI_0858,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-17 03:27:00,Project Supplies,Amazon Project Lab Equipment & Kits,9703.99,UPI_HDFC_Pay,0
+TXN_PRANAVI_0859,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-17 08:07:00,University Fees,TKREC Semester Lab & Cloud Resources,13717.77,Credit_Card,0
+TXN_PRANAVI_0860,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-17 10:22:00,Workstation Gear,Croma Electronics Campus Store,14842.35,UPI_HDFC_Pay,0
+TXN_PRANAVI_0861,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-17 11:58:00,Higher Education,Coursera / edX MasterTrack Certifications,9829.48,NetBanking,0
+TXN_PRANAVI_0862,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-17 12:18:00,University Fees,TKREC Semester Lab & Cloud Resources,9163.26,Debit_Card,0
+TXN_PRANAVI_0863,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-17 14:53:00,University Fees,TKREC Semester Lab & Cloud Resources,14628.75,UPI_HDFC_Pay,0
+TXN_PRANAVI_0864,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-17 18:54:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,15334.36,Debit_Card,0
+TXN_PRANAVI_0865,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-17 19:16:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,161861.25,Debit_Card,1
+TXN_PRANAVI_0866,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-17 23:01:00,Electronics,Samsung SmartCafé Hyderabad,14432.49,NetBanking,0
+TXN_PRANAVI_0867,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-18 03:31:00,Workstation Gear,Croma Electronics Campus Store,18586.95,Credit_Card,0
+TXN_PRANAVI_0868,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-18 05:26:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,98236.67,UPI_HDFC_Pay,1
+TXN_PRANAVI_0869,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-18 09:37:00,University Fees,TKREC Semester Lab & Cloud Resources,8682.12,Credit_Card,0
+TXN_PRANAVI_0870,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-18 10:31:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,211118.31,Credit_Card,1
+TXN_PRANAVI_0871,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-18 18:28:00,Workstation Gear,Croma Electronics Campus Store,13127.43,Credit_Card,0
+TXN_PRANAVI_0872,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-18 18:48:00,Project Supplies,Amazon Project Lab Equipment & Kits,17645.07,UPI_HDFC_Pay,0
+TXN_PRANAVI_0873,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-18 20:03:00,Project Supplies,Amazon Project Lab Equipment & Kits,22164.74,Debit_Card,0
+TXN_PRANAVI_0874,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-18 20:27:00,Workstation Gear,Croma Electronics Campus Store,23318.58,NetBanking,0
+TXN_PRANAVI_0875,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-18 20:33:00,Academic Research,IEEE / ACM Research Conference Fee,7912.98,UPI_HDFC_Pay,0
+TXN_PRANAVI_0876,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-18 20:50:00,Higher Education,Coursera / edX MasterTrack Certifications,21239.0,UPI_HDFC_Pay,0
+TXN_PRANAVI_0877,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 00:31:00,Project Supplies,Amazon Project Lab Equipment & Kits,10232.03,UPI_HDFC_Pay,0
+TXN_PRANAVI_0878,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 00:53:00,Project Supplies,Amazon Project Lab Equipment & Kits,14120.77,Debit_Card,0
+TXN_PRANAVI_0879,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 02:18:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,14511.74,Credit_Card,0
+TXN_PRANAVI_0880,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 08:55:00,Electronics,Samsung SmartCafé Hyderabad,16184.3,Credit_Card,0
+TXN_PRANAVI_0881,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 09:40:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,18390.63,Credit_Card,0
+TXN_PRANAVI_0882,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 10:26:00,Workstation Gear,Croma Electronics Campus Store,18249.09,Credit_Card,0
+TXN_PRANAVI_0883,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 12:12:00,Higher Education,Coursera / edX MasterTrack Certifications,25445.31,UPI_HDFC_Pay,0
+TXN_PRANAVI_0884,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 14:48:00,University Fees,TKREC Semester Lab & Cloud Resources,11176.32,Credit_Card,0
+TXN_PRANAVI_0885,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 16:17:00,Academic Research,IEEE / ACM Research Conference Fee,13223.13,Debit_Card,0
+TXN_PRANAVI_0886,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 16:36:00,Electronics,Samsung SmartCafé Hyderabad,7264.62,NetBanking,0
+TXN_PRANAVI_0887,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 20:07:00,Project Supplies,Amazon Project Lab Equipment & Kits,25708.21,NetBanking,0
+TXN_PRANAVI_0888,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 22:01:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,8928.4,NetBanking,0
+TXN_PRANAVI_0889,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 22:49:00,Workstation Gear,Croma Electronics Campus Store,13900.68,Credit_Card,0
+TXN_PRANAVI_0890,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-20 23:54:00,Electronics,Samsung SmartCafé Hyderabad,19515.5,Credit_Card,0
+TXN_PRANAVI_0891,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 00:49:00,Electronics,Samsung SmartCafé Hyderabad,11364.8,Credit_Card,0
+TXN_PRANAVI_0892,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 02:27:00,Project Supplies,Amazon Project Lab Equipment & Kits,14106.89,NetBanking,0
+TXN_PRANAVI_0893,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 03:09:00,Academic Research,IEEE / ACM Research Conference Fee,5569.24,UPI_HDFC_Pay,0
+TXN_PRANAVI_0894,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 04:24:00,Workstation Gear,Croma Electronics Campus Store,13992.76,UPI_HDFC_Pay,0
+TXN_PRANAVI_0895,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 04:28:00,Electronics,Samsung SmartCafé Hyderabad,9176.14,UPI_HDFC_Pay,0
+TXN_PRANAVI_0896,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 05:23:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,10473.97,Credit_Card,0
+TXN_PRANAVI_0897,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 05:41:00,Electronics,Samsung SmartCafé Hyderabad,16502.38,UPI_HDFC_Pay,0
+TXN_PRANAVI_0898,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 08:06:00,Workstation Gear,Croma Electronics Campus Store,12453.19,UPI_HDFC_Pay,0
+TXN_PRANAVI_0899,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 09:33:00,Electronics,Samsung SmartCafé Hyderabad,14536.27,UPI_HDFC_Pay,0
+TXN_PRANAVI_0900,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 12:29:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,7960.02,UPI_HDFC_Pay,0
+TXN_PRANAVI_0901,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 13:46:00,Electronics,Samsung SmartCafé Hyderabad,12597.26,Debit_Card,0
+TXN_PRANAVI_0902,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 14:55:00,Project Supplies,Amazon Project Lab Equipment & Kits,11515.0,UPI_HDFC_Pay,0
+TXN_PRANAVI_0903,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 17:03:00,Higher Education,Coursera / edX MasterTrack Certifications,8983.09,Credit_Card,0
+TXN_PRANAVI_0904,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-21 21:04:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10275.15,Credit_Card,0
+TXN_PRANAVI_0905,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-22 01:41:00,Academic Research,IEEE / ACM Research Conference Fee,8435.13,Debit_Card,0
+TXN_PRANAVI_0906,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-22 05:07:00,Workstation Gear,Croma Electronics Campus Store,10356.49,UPI_HDFC_Pay,0
+TXN_PRANAVI_0907,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-22 05:13:00,Academic Research,IEEE / ACM Research Conference Fee,9078.96,NetBanking,0
+TXN_PRANAVI_0908,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-22 08:01:00,Academic Research,IEEE / ACM Research Conference Fee,9900.62,Credit_Card,0
+TXN_PRANAVI_0909,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-22 08:21:00,Electronics,Samsung SmartCafé Hyderabad,5459.27,NetBanking,0
+TXN_PRANAVI_0910,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-22 11:30:00,Electronics,Samsung SmartCafé Hyderabad,9187.67,NetBanking,0
+TXN_PRANAVI_0911,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-22 13:31:00,Higher Education,Coursera / edX MasterTrack Certifications,9094.04,UPI_HDFC_Pay,0
+TXN_PRANAVI_0912,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-22 14:03:00,Academic Research,IEEE / ACM Research Conference Fee,9625.71,UPI_HDFC_Pay,0
+TXN_PRANAVI_0913,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-22 16:33:00,Electronics,Samsung SmartCafé Hyderabad,9515.24,UPI_HDFC_Pay,0
+TXN_PRANAVI_0914,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-22 21:11:00,Electronics,Samsung SmartCafé Hyderabad,12829.05,Credit_Card,0
+TXN_PRANAVI_0915,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-23 03:50:00,Higher Education,Coursera / edX MasterTrack Certifications,11012.6,UPI_HDFC_Pay,0
+TXN_PRANAVI_0916,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-23 06:53:00,University Fees,TKREC Semester Lab & Cloud Resources,7813.9,UPI_HDFC_Pay,0
+TXN_PRANAVI_0917,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-23 07:13:00,Electronics,Samsung SmartCafé Hyderabad,12323.9,Credit_Card,0
+TXN_PRANAVI_0918,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-23 08:28:00,Electronics,Samsung SmartCafé Hyderabad,7140.46,UPI_HDFC_Pay,0
+TXN_PRANAVI_0919,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-23 08:31:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10720.41,UPI_HDFC_Pay,0
+TXN_PRANAVI_0920,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-23 15:34:00,Higher Education,Coursera / edX MasterTrack Certifications,5292.13,Credit_Card,0
+TXN_PRANAVI_0921,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-23 22:54:00,Project Supplies,Amazon Project Lab Equipment & Kits,6781.4,UPI_HDFC_Pay,0
+TXN_PRANAVI_0922,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-24 01:44:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,4208.15,UPI_HDFC_Pay,0
+TXN_PRANAVI_0923,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-24 01:49:00,Higher Education,Coursera / edX MasterTrack Certifications,13663.29,Credit_Card,0
+TXN_PRANAVI_0924,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-24 04:42:00,Higher Education,Coursera / edX MasterTrack Certifications,13028.15,Credit_Card,0
+TXN_PRANAVI_0925,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-24 06:30:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,6785.67,Debit_Card,0
+TXN_PRANAVI_0926,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-24 12:50:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,9047.63,Credit_Card,0
+TXN_PRANAVI_0927,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-24 15:21:00,Higher Education,Coursera / edX MasterTrack Certifications,18839.19,Credit_Card,0
+TXN_PRANAVI_0928,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-24 18:17:00,Electronics,Samsung SmartCafé Hyderabad,10872.13,Credit_Card,0
+TXN_PRANAVI_0929,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-24 23:16:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,8946.45,Debit_Card,0
+TXN_PRANAVI_0930,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-25 02:19:00,Electronics,Samsung SmartCafé Hyderabad,4890.24,Debit_Card,0
+TXN_PRANAVI_0931,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-25 02:45:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,24828.25,Debit_Card,0
+TXN_PRANAVI_0932,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-25 03:14:00,University Fees,TKREC Semester Lab & Cloud Resources,22090.5,Credit_Card,0
+TXN_PRANAVI_0933,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-25 06:17:00,Electronics,Samsung SmartCafé Hyderabad,4625.76,UPI_HDFC_Pay,0
+TXN_PRANAVI_0934,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-25 10:13:00,Higher Education,Coursera / edX MasterTrack Certifications,16039.23,UPI_HDFC_Pay,0
+TXN_PRANAVI_0935,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-25 11:58:00,Academic Research,IEEE / ACM Research Conference Fee,8713.91,UPI_HDFC_Pay,0
+TXN_PRANAVI_0936,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-25 16:41:00,University Fees,TKREC Semester Lab & Cloud Resources,7850.64,NetBanking,0
+TXN_PRANAVI_0937,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-25 21:50:00,Electronics,Samsung SmartCafé Hyderabad,13092.05,Credit_Card,0
+TXN_PRANAVI_0938,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-25 23:29:00,University Fees,TKREC Semester Lab & Cloud Resources,10299.46,Credit_Card,0
+TXN_PRANAVI_0939,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-25 23:47:00,Workstation Gear,Croma Electronics Campus Store,18611.65,UPI_HDFC_Pay,0
+TXN_PRANAVI_0940,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-26 04:08:00,Academic Research,IEEE / ACM Research Conference Fee,8995.3,Debit_Card,0
+TXN_PRANAVI_0941,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-26 07:28:00,University Fees,TKREC Semester Lab & Cloud Resources,13209.02,UPI_HDFC_Pay,0
+TXN_PRANAVI_0942,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-26 08:25:00,Higher Education,Coursera / edX MasterTrack Certifications,13584.61,UPI_HDFC_Pay,0
+TXN_PRANAVI_0943,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-26 09:34:00,Higher Education,Coursera / edX MasterTrack Certifications,13248.17,UPI_HDFC_Pay,0
+TXN_PRANAVI_0944,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-26 10:14:00,Academic Research,IEEE / ACM Research Conference Fee,9805.71,Credit_Card,0
+TXN_PRANAVI_0945,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-26 13:08:00,Suspicious International Wire,UNKNOWN_OVERSEAS_LUXURY_PAY,228660.39,Credit_Card,1
+TXN_PRANAVI_0946,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-26 17:17:00,University Fees,TKREC Semester Lab & Cloud Resources,19706.19,Debit_Card,0
+TXN_PRANAVI_0947,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-26 22:38:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,14903.24,UPI_HDFC_Pay,0
+TXN_PRANAVI_0948,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 02:31:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,11014.36,Credit_Card,0
+TXN_PRANAVI_0949,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 05:47:00,Higher Education,Coursera / edX MasterTrack Certifications,7615.44,Credit_Card,0
+TXN_PRANAVI_0950,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 05:53:00,Workstation Gear,Croma Electronics Campus Store,8470.95,UPI_HDFC_Pay,0
+TXN_PRANAVI_0951,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 09:15:00,Project Supplies,Amazon Project Lab Equipment & Kits,8202.42,Debit_Card,0
+TXN_PRANAVI_0952,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 10:30:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,8648.29,Debit_Card,0
+TXN_PRANAVI_0953,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 12:20:00,Higher Education,Coursera / edX MasterTrack Certifications,13524.1,Credit_Card,0
+TXN_PRANAVI_0954,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 13:08:00,Project Supplies,Amazon Project Lab Equipment & Kits,18253.25,Debit_Card,0
+TXN_PRANAVI_0955,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 13:53:00,University Fees,TKREC Semester Lab & Cloud Resources,9571.63,Credit_Card,0
+TXN_PRANAVI_0956,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 14:24:00,Academic Research,IEEE / ACM Research Conference Fee,11841.05,UPI_HDFC_Pay,0
+TXN_PRANAVI_0957,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 14:54:00,Academic Research,IEEE / ACM Research Conference Fee,4560.38,Credit_Card,0
+TXN_PRANAVI_0958,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 15:27:00,Academic Research,IEEE / ACM Research Conference Fee,8490.05,UPI_HDFC_Pay,0
+TXN_PRANAVI_0959,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-27 15:46:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11167.64,UPI_HDFC_Pay,0
+TXN_PRANAVI_0960,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-28 01:01:00,Workstation Gear,Croma Electronics Campus Store,9889.93,UPI_HDFC_Pay,0
+TXN_PRANAVI_0961,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-28 01:23:00,Electronics,Samsung SmartCafé Hyderabad,12590.25,Credit_Card,0
+TXN_PRANAVI_0962,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-28 03:43:00,Electronics,Samsung SmartCafé Hyderabad,12390.12,Credit_Card,0
+TXN_PRANAVI_0963,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-28 21:35:00,Academic Research,IEEE / ACM Research Conference Fee,7667.4,UPI_HDFC_Pay,0
+TXN_PRANAVI_0964,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-28 21:56:00,Workstation Gear,Croma Electronics Campus Store,9237.2,Credit_Card,0
+TXN_PRANAVI_0965,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 00:46:00,Higher Education,Coursera / edX MasterTrack Certifications,18920.53,NetBanking,0
+TXN_PRANAVI_0966,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 01:33:00,Project Supplies,Amazon Project Lab Equipment & Kits,15316.94,UPI_HDFC_Pay,0
+TXN_PRANAVI_0967,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 02:08:00,Electronics,Samsung SmartCafé Hyderabad,6976.66,UPI_HDFC_Pay,0
+TXN_PRANAVI_0968,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 03:47:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,11628.2,Debit_Card,0
+TXN_PRANAVI_0969,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 04:56:00,Workstation Gear,Croma Electronics Campus Store,19230.76,UPI_HDFC_Pay,0
+TXN_PRANAVI_0970,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 08:59:00,Academic Research,IEEE / ACM Research Conference Fee,13797.87,Credit_Card,0
+TXN_PRANAVI_0971,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 10:44:00,University Fees,TKREC Semester Lab & Cloud Resources,12115.67,UPI_HDFC_Pay,0
+TXN_PRANAVI_0972,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 13:40:00,Higher Education,Coursera / edX MasterTrack Certifications,16075.39,Credit_Card,0
+TXN_PRANAVI_0973,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 21:18:00,Academic Research,IEEE / ACM Research Conference Fee,9215.79,Credit_Card,0
+TXN_PRANAVI_0974,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 21:47:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,7447.78,Credit_Card,0
+TXN_PRANAVI_0975,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 22:07:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,7390.76,Debit_Card,0
+TXN_PRANAVI_0976,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 22:58:00,University Fees,TKREC Semester Lab & Cloud Resources,16121.99,Debit_Card,0
+TXN_PRANAVI_0977,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 23:03:00,Academic Research,IEEE / ACM Research Conference Fee,20713.1,Debit_Card,0
+TXN_PRANAVI_0978,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-29 23:04:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,10661.46,Credit_Card,0
+TXN_PRANAVI_0979,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-30 04:26:00,Electronics,Samsung SmartCafé Hyderabad,7976.65,UPI_HDFC_Pay,0
+TXN_PRANAVI_0980,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-30 07:59:00,Academic Research,IEEE / ACM Research Conference Fee,14603.28,Credit_Card,0
+TXN_PRANAVI_0981,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-30 11:58:00,Higher Education,Coursera / edX MasterTrack Certifications,10300.92,UPI_HDFC_Pay,0
+TXN_PRANAVI_0982,cust_pranavi,M. Pranavi,23R91A05H6,2026-09-30 16:10:00,University Fees,TKREC Semester Lab & Cloud Resources,7044.0,Debit_Card,0
+TXN_PRANAVI_0983,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-01 04:12:00,Higher Education,Coursera / edX MasterTrack Certifications,12648.89,UPI_HDFC_Pay,0
+TXN_PRANAVI_0984,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-01 10:58:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,10316.54,Credit_Card,0
+TXN_PRANAVI_0985,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-01 16:47:00,Academic Research,IEEE / ACM Research Conference Fee,5626.27,UPI_HDFC_Pay,0
+TXN_PRANAVI_0986,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-01 18:03:00,Project Supplies,Amazon Project Lab Equipment & Kits,16048.7,Debit_Card,0
+TXN_PRANAVI_0987,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-01 20:23:00,Workstation Gear,Croma Electronics Campus Store,11968.07,Debit_Card,0
+TXN_PRANAVI_0988,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-01 21:23:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,7490.98,UPI_HDFC_Pay,0
+TXN_PRANAVI_0989,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-01 22:00:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,23246.1,Debit_Card,0
+TXN_PRANAVI_0990,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-01 22:52:00,Higher Education,Coursera / edX MasterTrack Certifications,9962.0,UPI_HDFC_Pay,0
+TXN_PRANAVI_0991,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-01 23:14:00,University Fees,TKREC Semester Lab & Cloud Resources,14320.53,Credit_Card,0
+TXN_PRANAVI_0992,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-01 23:57:00,Tech Hardware & Laptops,Apple Store / Imagine Store Hyderabad,8935.88,Debit_Card,0
+TXN_PRANAVI_0993,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-02 01:04:00,Academic Research,IEEE / ACM Research Conference Fee,7159.86,UPI_HDFC_Pay,0
+TXN_PRANAVI_0994,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-02 08:48:00,University Fees,TKREC Semester Lab & Cloud Resources,12287.18,NetBanking,0
+TXN_PRANAVI_0995,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-02 09:04:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,22909.81,UPI_HDFC_Pay,0
+TXN_PRANAVI_0996,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-02 10:22:00,Project Supplies,Amazon Project Lab Equipment & Kits,6281.15,UPI_HDFC_Pay,0
+TXN_PRANAVI_0997,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-02 17:27:00,Electronics & Devices,Reliance Digital MegaStore Hitec City,25710.53,NetBanking,0
+TXN_PRANAVI_0998,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-03 04:01:00,Higher Education,Coursera / edX MasterTrack Certifications,9932.1,UPI_HDFC_Pay,0
+TXN_PRANAVI_0999,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-03 04:42:00,Workstation Gear,Croma Electronics Campus Store,15068.6,NetBanking,0
+TXN_PRANAVI_1000,cust_pranavi,M. Pranavi,23R91A05H6,2026-10-03 12:54:00,Higher Education,Coursera / edX MasterTrack Certifications,12467.6,NetBanking,0

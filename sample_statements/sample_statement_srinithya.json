@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-10-01",
+    "merchant": "Coursera Deep Learning & AI Specialization",
+    "amount": 2850.00,
+    "type": "online_purchase",
+    "location": "Hyderabad, IN",
+    "customer_id": "cust_srinithya"
+  },
+  {
+    "date": "2026-10-02",
+    "merchant": "Amazon Kindle Academic Device Accessories",
+    "amount": 2100.00,
+    "type": "pos_payment",
+    "location": "Hyderabad, IN",
+    "customer_id": "cust_srinithya"
+  },
+  {
+    "date": "2026-10-03",
+    "merchant": "Adobe Creative Cloud Annual Student Plan",
+    "amount": 3400.00,
+    "type": "online_purchase",
+    "location": "Hyderabad, IN",
+    "customer_id": "cust_srinithya"
+  },
+  {
+    "date": "2026-10-04",
+    "merchant": "Swiggy Gourmet Dinner & Coffee Day Hitec",
+    "amount": 1950.00,
+    "type": "online_purchase",
+    "location": "Hyderabad, IN",
+    "customer_id": "cust_srinithya"
+  }
+]
